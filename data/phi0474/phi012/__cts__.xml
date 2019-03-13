@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:latinLit:phi0474" urn="urn:cts:latinLit:phi0474.phi012" projid="latinLit:phi012">
+<ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:latinLit:phi0474" urn="urn:cts:latinLit:phi0474.phi012" projid="latinLit:phi012"
+  xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dct="http://purl.org/dc/terms/">
     <ti:title xml:lang="eng">For Rabirius on a Charge of Treason</ti:title>
     <ti:title xml:lang="eng">In Defense of Caius Rabirius</ti:title>
     <ti:title xml:lang="lat">Pro C. Rabiro perduellionis reo</ti:title>
@@ -13,6 +14,9 @@
         <ti:label xml:lang="eng">Pro Rabirio Perduellionis Reo</ti:label>
         <ti:description xml:lang="eng">The orations of Marcus Tullius Cicero Vol 2 Three orations on the Agrarian law, the four against Catiline, the orations for Rabirius, Murena, Sulla, Archias, Flaccus, Scaurus, etc, Cicero, Marcus Tullius, creator; Yonge, Charles Duke, 1812-1891, translator</ti:description>
     </ti:translation>
+    <cpt:structured-metadata>
+        <dct:type xml:lang="lat">Oratoria</dct:type>
+    </cpt:structured-metadata>
     
     
     

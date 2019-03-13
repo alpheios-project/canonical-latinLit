@@ -1,4 +1,5 @@
-<ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:latinLit:phi0474" projid="latinLit:phi002" urn="urn:cts:latinLit:phi0474.phi002">
+<ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:latinLit:phi0474" projid="latinLit:phi002" urn="urn:cts:latinLit:phi0474.phi002"
+  xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dct="http://purl.org/dc/terms/">
             <ti:title xml:lang="eng">For Sextus Roscius of Ameria</ti:title>
             <ti:title xml:lang="lat">Pro S. Roscio Amerino</ti:title>
     
@@ -19,6 +20,9 @@
             Cicero, Marcus Tullius, creator; Yonge, Charles Duke, 1812-1891, translator
         </ti:description>
          </ti:translation>
+    <cpt:structured-metadata>
+        <dct:type xml:lang="lat">Oratoria</dct:type>
+    </cpt:structured-metadata>
         
         </ti:work>
         

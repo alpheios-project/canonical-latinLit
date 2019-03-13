@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:latinLit:phi0474" urn="urn:cts:latinLit:phi0474.phi005" projid="latinLit:phi005">
+<ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:latinLit:phi0474" urn="urn:cts:latinLit:phi0474.phi005" projid="latinLit:phi005"
+  xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dct="http://purl.org/dc/terms/">
     <ti:title xml:lang="eng">Against Verres</ti:title>
     <ti:title xml:lang="eng">Orations against Verres</ti:title>
     <ti:title xml:lang="lat">In C. Verrem</ti:title>
@@ -15,6 +16,9 @@
         <ti:label xml:lang="eng">Against Verres, The orations of Marcus Tullius Cicero Vol 1 Orations for Quintius, Sextus Roscius, Quintus Roscius, against Quintus Cæcilius, and against Verres</ti:label>
         <ti:description xml:lang="eng">Cicero, Marcus Tullius, creator; Yonge, Charles Duke, 1812-1891, translator</ti:description>
     </ti:translation>
+    <cpt:structured-metadata>
+        <dct:type xml:lang="lat">Oratoria</dct:type>
+    </cpt:structured-metadata>
     
 </ti:work>
 

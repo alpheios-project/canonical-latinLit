@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:latinLit:phi0474" urn="urn:cts:latinLit:phi0474.phi003" projid="latinLit:phi003">        
+<ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:latinLit:phi0474" urn="urn:cts:latinLit:phi0474.phi003" projid="latinLit:phi003" 
+  xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dct="http://purl.org/dc/terms/">
         
  <ti:title xml:lang="eng">For Quintus Roscius the Actor</ti:title>
     <ti:title xml:lang="lat">Pro Q. Roscio comoedo</ti:title>
     <ti:title xml:lang="lat">Pro Roscio comoedo</ti:title>
+   
     
     <ti:edition urn="urn:cts:latinLit:phi0474.phi003.perseus-lat2" workUrn="urn:cts:latinLit:phi0474.phi003" xml:lang="lat">
         <ti:label xml:lang="eng">For Quintus Roscius the Actor, Orationes Volume IV</ti:label>
@@ -20,5 +22,8 @@
                 Cicero, Marcus Tullius, creator; Yonge, Charles Duke, 1812-1891, translator
             </ti:description>
         </ti:translation>
+    <cpt:structured-metadata>
+        <dct:type xml:lang="lat">Oratoria</dct:type>
+    </cpt:structured-metadata>
              
 </ti:work>
