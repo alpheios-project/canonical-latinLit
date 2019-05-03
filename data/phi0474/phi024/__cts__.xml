@@ -1,9 +1,10 @@
 <ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:latinLit:phi0474" projid="latinLit:phi024" urn="urn:cts:latinLit:phi0474.phi024"
   xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dct="http://purl.org/dc/terms/">
-            <ti:title xml:lang="eng">For Marcus Caelius</ti:title>
+        <ti:title xml:lang="lat">Pro Caelio</ti:title>
+        <ti:title xml:lang="eng">For Marcus Caelius</ti:title>
             <ti:edition projid="latinLit:perseus-lat1" urn="urn:cts:latinLit:phi0474.phi024.perseus-lat2" workUrn="urn:cts:latinLit:phi0474.phi024">
-                <ti:label xml:lang="eng">For Marcus Caelius</ti:label>
-                <ti:description xml:lang="eng">Perseus:bib:oclc,26994431, M. Tullius Cicero. M. Tulli
+                <ti:label xml:lang="lat">Pro Caelio</ti:label>
+                <ti:description xml:lang="lat">M. Tulli
                     Ciceronis Orationes: Recognovit brevique adnotatione critica instruxit Albertus
                     Curtis Clark Collegii Reginae Socius. Albert Curtis Clark. Oxonii. e Typographeo
                     Clarendoniano. 1908. Scriptorum Classicorum Bibliotheca
