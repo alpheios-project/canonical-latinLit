@@ -1,9 +1,9 @@
 <ti:work xml:lang="lat" xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:latinLit:phi0474.phi057" groupUrn="urn:cts:latinLit:phi0474"
   xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dct="http://purl.org/dc/terms/">
             <ti:title xml:lang="eng">Letters to Atticus</ti:title>
-            <ti:title xml:lang="lat">Epistulae Ad Atticum</ti:title>
+            <ti:title xml:lang="lat">Epistulae ad Atticum</ti:title>
             <ti:edition urn="urn:cts:latinLit:phi0474.phi057.perseus-lat1" workUrn="urn:cts:latinLit:phi0474.phi057">
-              <ti:label xml:lang="lat">Epistulae Ad Atticum</ti:label>
+              <ti:label xml:lang="lat">Epistulae ad Atticum</ti:label>
               <ti:description xml:lang="eng">Epistulae Volume II, Pars Prior Pars Posterior Epistulae Ad Atticum. Cicero, Marcus Tullius, creator; Purser, Louis Claude, 1854-1932, editor</ti:description>
             </ti:edition>
           <ti:translation xml:lang="eng" urn="urn:cts:latinLit:phi0474.phi057.perseus-eng1" workUrn="urn:cts:latinLit:phi0474.phi057">
