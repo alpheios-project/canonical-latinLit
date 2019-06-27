@@ -1,14 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader xml:lang="eng">
+   <teiHeader xml:lang="eng">
       <fileDesc>
          <titleStmt>
-	           <title>In Defense of Marcus Caelius </title>
-	           <title>Pro Sex. Roscio, De imperio Cn. Pompei, Pro Cluentio, In Catilinam, Pro Murena, Pro Caelio</title>
-	           <title type="sub">Machine readable text</title>
-	           <author n="Cic.">M. Tullius Cicero</author>
-	           <editor role="editor" n="OCT">Albert Clark</editor>
+            <title>In Defense of Marcus Caelius </title>
+            <title>Pro Sex. Roscio, De imperio Cn. Pompei, Pro Cluentio, In Catilinam, Pro Murena, Pro Caelio</title>
+            <title type="sub">Machine readable text</title>
+            <author n="Cic.">M. Tullius Cicero</author>
+            <editor role="editor" n="OCT">Albert Clark</editor>
             <sponsor>Perseus Project, Tufts University</sponsor>
             <principal>Gregory Crane</principal>
             <respStmt>
@@ -20,57 +20,55 @@
                <name>Rashmi Singhal</name>
                <name>David Smith</name>
             </respStmt>
-            <funder n="org:NEH">National Endowment For The Humanities (NEH)</funder> 
+            <funder n="org:NEH">National Endowment For The Humanities (NEH)</funder>
          </titleStmt>
          <publicationStmt>
             <publisher>Trustees of Tufts University</publisher>
             <pubPlace>Medford, MA</pubPlace>
             <authority>Perseus Project</authority>
             <date type="release">1997-10-28</date>
-         </publicationStmt> 
+         </publicationStmt>
          <sourceDesc>
-	           <biblStruct>
-	              <monogr>
-	                 <author>M. Tullius Cicero</author>
-	                 <title>M. Tulli Ciceronis Orationes:
+            <biblStruct>
+               <monogr>
+                  <author>M. Tullius Cicero</author>
+                  <title>M. Tulli Ciceronis Orationes:
 Recognovit brevique adnotatione critica instruxit
 Albertus Curtis Clark
 Collegii Reginae Socius</title>
-	                 <editor role="editor">Albert Curtis Clark</editor>
-	                 <imprint>
-	                    <pubPlace>Oxonii</pubPlace>
-	                    <publisher>e Typographeo Clarendoniano</publisher>
-	                    <date>1908</date>
-	                 </imprint>
-	                 <biblScope unit="page">319-357</biblScope>
-	              </monogr>
-	              <series>	    
+                  <editor role="editor">Albert Curtis Clark</editor>
+                  <imprint>
+                     <pubPlace>Oxonii</pubPlace>
+                     <publisher>e Typographeo Clarendoniano</publisher>
+                     <date>1908</date>
+                  </imprint>
+                  <biblScope unit="page">319-357</biblScope>
+               </monogr>
+               <series>
                   <title>Scriptorum Classicorum Bibliotheca Oxoniensis</title>
-	              </series>
-	              <ref target="https://archive.org/details/orationesrecogno01ciceuoft">Internet Archive</ref>
-	           </biblStruct>
+               </series>
+               <ref target="https://archive.org/details/orationesrecogno01ciceuoft">Internet Archive</ref>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
-    
       <encodingDesc>
          <refsDecl n="CTS">
             <cRefPattern matchPattern="(\w+)"
                          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
-                <p>This pointer pattern extracts section</p>
+               <p>This pointer pattern extracts section</p>
             </cRefPattern>
-        </refsDecl>
-         <refsDecl>
-	           <refState unit="section"/>
          </refsDecl>
-      </encodingDesc>    
+         <refsDecl>
+            <refState unit="section"/>
+         </refsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
-	         <language ident="lat">Latin</language>
+            <language ident="lat">Latin</language>
             <language ident="grc">Greek</language>
          </langUsage>
       </profileDesc>
-    
-     <revisionDesc>
+      <revisionDesc>
          <change when="2014-11-06" who="Thibault Clerice">Moving to Epidoc with new URN</change>
          <change when="2015-10-29" who="Thibault Clerice">CTS according to Capitains Guidelines + Epidoc</change>
          <change when="2014-08-01" who="Bridget Almas">split section milestones to divs as canonical citation scheme (as decided per GRC). also converted greek in foreign tags  unicode.</change>
@@ -103,12 +101,14 @@ Collegii Reginae Socius</title>
          <change when="1997-05-12" who="cjsu">Finalized tagging. Passes validation.</change>
          <change when="1997-05-12" who="textgod">Added the rest of volume 1</change>
          <change when="1997-03-26" who="textgod">Added to repository. Passes TEI parse.</change>
-     </revisionDesc>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="edition" xml:lang="lat" n="urn:cts:latinLit:phi0474.phi024.perseus-lat2">
-         <head>PRO M. CAELIO ORATIO</head> 
+         <div type="edition"
+              xml:lang="lat"
+              n="urn:cts:latinLit:phi0474.phi024.perseus-lat2">
+            <head>PRO M. CAELIO ORATIO</head>
             <milestone n="1" unit="chapter"/>
             <div type="textpart" subtype="section" n="1">
                <p>
@@ -117,13 +117,17 @@ consuetudinisque<note>consuetudinisque <hi rend="italics">
                         <foreign xml:lang="grc">ς</foreign>B</hi>: consuetudinis <hi rend="italics">cett.</hi>
                   </note> nostrae, miretur profecto quae sit 
 tanta atrocitas huiusce causae, quod<note>
-                     <app><lem>quod</lem></app> quia <hi rend="italics">
+                     <app>
+                        <lem>quod</lem>
+                     </app> quia <hi rend="italics">
                         <foreign xml:lang="grc">ς</foreign>B</hi>
                   </note> diebus festis ludisque 
 publicis, omnibus forensibus negotiis intermissis, unum hoc 
 iudicium exerceatur, nec dubitet quin tanti facinoris reus 
 arguatur<note>
-                     <app><lem>arguatur</lem></app> accusatus <hi rend="italics">
+                     <app>
+                        <lem>arguatur</lem>
+                     </app> accusatus <hi rend="italics">
                         <foreign xml:lang="grc">ς</foreign>B</hi>
                   </note> ut eo neglecto civitas stare non possit. <reg>idem</reg> cum 
 audiat esse legem quae de seditiosis consceleratisque civibus 
@@ -174,14 +178,22 @@ resistendum.
             <div type="textpart" subtype="section" n="3">
                <p>
                   <reg>ac</reg> mihi quidem videtur, iudices, hic introitus defensionis 
-adulescentiae <choice><abbr>M.</abbr><expan>M<ex>arci</ex></expan></choice> Caeli maxime convenire, ut ad ea quae 
+adulescentiae <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arci</ex>
+                     </expan>
+                  </choice> Caeli maxime convenire, ut ad ea quae 
 accusatores deformandi huius causa et<note>causa et <hi rend="italics">Bake</hi>: causae <foreign xml:lang="grc">ς</foreign>: causa <hi rend="italics">P<foreign xml:lang="grc">πδ</foreign>
                      </hi>
                   </note> detrahendae spoliandaeque 
 dignitatis gratia dixerunt primum respondeam. 
 <reg>obiectus</reg> est pater varie, quod aut parum splendidus ipse 
 aut parum pie tractatus a filio diceretur. <reg>de</reg> dignitate 
-<choice><abbr>M.</abbr><expan>M<ex>arcus</ex></expan></choice> Caelius<note>M. <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">Lambinus</hi>: <hi rend="italics">om. P<foreign xml:lang="grc">πδ</foreign>
+<choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arcus</ex>
+                     </expan>
+                  </choice> Caelius<note>M. <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">Lambinus</hi>: <hi rend="italics">om. P<foreign xml:lang="grc">πδ</foreign>
                      </hi>
                   </note> notis ac maioribus natu etiam sine mea oratione 
 tacitus<note>etiam sine...tacitus <hi rend="italics">ed. R</hi>: et sine...tacitus <foreign xml:lang="grc">ς</foreign>: et sine...et tacitus <hi rend="italics">P<foreign xml:lang="grc">πδ</foreign>
@@ -193,7 +205,11 @@ tacitus<note>etiam sine...tacitus <hi rend="italics">ed. R</hi>: et sine...tacit
 quod iam diu minus in foro nobiscumque versatur, 
 non aeque est cognitus, hi sic habeant, quaecumque in 
 equite Romano dignitas esse possit, quae certe potest esse 
-maxima, eam semper in <choice><abbr>M.</abbr><expan>M<ex>arco</ex></expan></choice> Caelio habitam esse summam 
+maxima, eam semper in <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arco</ex>
+                     </expan>
+                  </choice> Caelio habitam esse summam 
 hodieque<note>summam hodieque <hi rend="italics">
                         <foreign xml:lang="grc">ς</foreign>P1<foreign xml:lang="grc">ψ2</foreign>
                      </hi>: summamque hodie <hi rend="italics">P2<foreign xml:lang="grc">πδ</foreign>
@@ -230,8 +246,14 @@ suis, nemini umquam praesenti †Praestutiani†<note>Praestutiani <foreign xml:
 honores habuerunt, iudices<note>iudices <foreign xml:lang="grc">ς</foreign>: <hi rend="italics">om. P<foreign xml:lang="grc">πδ</foreign>
                      </hi>
                   </note>, quam<note>
-                     <app><lem>quam</lem></app> per <foreign xml:lang="grc">ς</foreign>
-                  </note> absenti <choice><abbr>M.</abbr><expan>M<ex>arco</ex></expan></choice> Caelio; quem 
+                     <app>
+                        <lem>quam</lem>
+                     </app> per <foreign xml:lang="grc">ς</foreign>
+                  </note> absenti <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arco</ex>
+                     </expan>
+                  </choice> Caelio; quem 
 et absentem in amplissimum ordinem cooptarunt et ea non 
 petenti detulerunt quae multis petentibus denegarunt. 
 <reg>idemque</reg> nunc lectissimos viros et nostri ordinis et equites 
@@ -257,10 +279,16 @@ ac iudicio meorum. </p>
                <p>
                   <reg>nam</reg> quod obiectum est de pudicitia quodque omnium 
 accusatorum non criminibus sed vocibus maledictisque 
-celebratum est, id numquam tam acerbe feret <choice><abbr>M.</abbr><expan>M<ex>arcus</ex></expan></choice> Caelius 
+celebratum est, id numquam tam acerbe feret <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arcus</ex>
+                     </expan>
+                  </choice> Caelius 
 ut eum paeniteat non deformem esse natum. <reg>sunt</reg> enim 
 ista maledicta pervolgata in<note>
-                     <app><lem>in</lem></app> per <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>in</lem>
+                     </app> per <foreign xml:lang="grc">ς</foreign>
                   </note> omnis quorum in adulescentia 
 forma et species<note>fuit forma et species <foreign xml:lang="grc">ς</foreign>
                   </note> fuit liberalis. <reg>sed</reg> aliud est male dicere, 
@@ -329,7 +357,11 @@ politeque dixisti.
                   <reg>verum</reg> ad istam omnem<note>omnem <hi rend="italics">om. <foreign xml:lang="grc">ς</foreign>
                      </hi>
                   </note> orationem 
-brevis est defensio. <reg>nam</reg> quoad aetas <choice><abbr>M.</abbr><expan>M<ex>arci</ex></expan></choice> Caeli dare potuit 
+brevis est defensio. <reg>nam</reg> quoad aetas <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arci</ex>
+                     </expan>
+                  </choice> Caeli dare potuit 
 isti<note>potuit isti <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">Naugerius</hi>: potuisti <hi rend="italics">Pe</hi>: potuit <hi rend="italics">cett.</hi>
                   </note> suspicioni locum, fuit primum ipsius pudore, deinde 
 etiam patris diligentia disciplinaque munita. <reg>qui</reg> ut huic 
@@ -338,9 +370,17 @@ togam virilem<note>togam virilem <foreign xml:lang="grc">ς</foreign>: virilem t
                   </note> dedit — nihil dicam hoc loco de me; tantum 
 sit quantum vos existimatis<note>existimetis <hi rend="italics">Ernesti</hi>
                   </note>; hoc dicam, hunc a patre continuo 
-ad me esse deductum — nemo hunc <choice><abbr>M.</abbr><expan>M<ex>arcum</ex></expan></choice> Caelium in 
+ad me esse deductum — nemo hunc <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arcum</ex>
+                     </expan>
+                  </choice> Caelium in 
 illo aetatis flore vidit nisi aut cum patre aut mecum aut in 
-<choice><abbr>M.</abbr><expan>M<ex>arci</ex></expan></choice> Crassi castissima domo cum artibus honestissimis 
+<choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arci</ex>
+                     </expan>
+                  </choice> Crassi castissima domo cum artibus honestissimis 
 erudiretur.  
 
 </p>
@@ -351,7 +391,9 @@ erudiretur.
 ab ista suspicione abhorrere debet. <reg>hoc</reg> enim adulescente 
 scitis consulatum mecum petisse Catilinam. <reg>ad</reg> quem si 
 accessit aut si a<note>
-                     <app><lem>si a</lem></app> si <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>si a</lem>
+                     </app> si <foreign xml:lang="grc">ς</foreign>
                   </note> me discessit umquam — quamquam multi 
 boni adulescentes illi homini nequam atque improbo studuerunt — tum<note>tum <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">Angelius</hi>: tamen <hi rend="italics">P<foreign xml:lang="grc">πδ</foreign>
                      </hi>
@@ -400,7 +442,9 @@ esset, tamen infamiam veram effugere non poterat. <reg>sed</reg> qui
 prima illa<note>illa prima <foreign xml:lang="grc">ς</foreign>
                   </note> initia aetatis integra atque inviolata praestitisset, de 
 eius fama ac<note>
-                     <app><lem>ac</lem></app> et <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>ac</lem>
+                     </app> et <foreign xml:lang="grc">ς</foreign>
                   </note> pudicitia, cum iam sese<note>iam sese <foreign xml:lang="grc">ς</foreign>: is iam se <hi rend="italics">P<foreign xml:lang="grc">πδ</foreign>
                      </hi>: iam se <hi rend="italics">Vollgraf</hi>
                   </note> conroboravisset ac vir 
@@ -424,7 +468,9 @@ viris deditum esse simulabat<note>simulaverat <foreign xml:lang="grc">ς</foreig
                   </note>. <reg>erant</reg> apud illum inlecebrae 
 libidinum multae; erant etiam industriae quidam stimuli 
 ac laboris. <reg>flagrabant</reg> vitia libidinis apud illum<note>
-                     <app><lem>illum</lem></app> eum <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>illum</lem>
+                     </app> eum <foreign xml:lang="grc">ς</foreign>
                   </note>; vigebant 
 etiam studia rei militaris. <reg>neque</reg> ego umquam fuisse tale 
 monstrum in terris ullum puto, tam ex contrariis diversisque 
@@ -440,7 +486,9 @@ conflatum.
             <div type="textpart" subtype="section" n="13">
                <p>
                   <reg>quis</reg> clarioribus viris quodam tempore<note>
-                     <app><lem>quodam tempore</lem></app> quondam <foreign xml:lang="grc">ς</foreign> (<hi rend="italics">contra Frontonem, ad Anton.</hi> ii. 6)</note> iucundior, 
+                     <app>
+                        <lem>quodam tempore</lem>
+                     </app> quondam <foreign xml:lang="grc">ς</foreign> (<hi rend="italics">contra Frontonem, ad Anton.</hi> ii. 6)</note> iucundior, 
 quis turpioribus<note>turpioribus viris <foreign xml:lang="grc">ς</foreign>
                   </note> coniunctior? quis civis meliorum 
 partium aliquando, quis taetrior hostis huic civitati? quis 
@@ -457,7 +505,9 @@ pecunia, gratia, labore corporis<note>corporibus <foreign xml:lang="grc">ς</for
                   </note>, scelere etiam, si opus esset, 
 et audacia, versare suam naturam et regere ad tempus atque 
 huc et illuc torquere ac<note>
-                     <app><lem>ac</lem></app> et <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>ac</lem>
+                     </app> et <foreign xml:lang="grc">ς</foreign>
                   </note> flectere, cum tristibus severe, cum 
 remissis iucunde, cum senibus graviter, cum iuventute 
 comiter, cum facinerosis audaciter<note>audaciter <hi rend="italics">
@@ -476,7 +526,9 @@ conlegerat, tum etiam multos fortis viros et bonos specie
 quadam virtutis adsimulatae<note>quadam rei p. adsimulatam <foreign xml:lang="grc">ς</foreign>
                   </note> tenebat. <reg>neque</reg>
                   <note>
-                     <app><lem>neque</lem></app> ne <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>neque</lem>
+                     </app> ne <foreign xml:lang="grc">ς</foreign>
                   </note> umquam ex  
 illo delendi huius imperi tam consceleratus impetus exstitisset, 
 nisi tot vitiorum tanta immanitas quibusdam facilitatis<note>facultatis <hi rend="italics">Madvig</hi>
@@ -547,19 +599,31 @@ alterius innocentiam quam de se timide cogitare videatur.
                   <reg>nam</reg> quod aes alienum obiectum est, sumptus reprehensi, 
 tabulae flagitatae, videte quam pauca respondeam. <reg>tabulas</reg> 
 qui in patris potestate est<note>
-                     <app><lem>est</lem></app> sit <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>est</lem>
+                     </app> sit <foreign xml:lang="grc">ς</foreign>
                   </note> nullas conficit<note>confecit <hi rend="italics">ed. R</hi>
                   </note>. <reg>versuram</reg> numquam 
 omnino fecit ullam. <reg>sumptus</reg> unius generis obiectus 
 est, habitationis; triginta milibus dixistis<note>
-                     <app><lem>dixistis</lem></app> eum <hi rend="italics">add. P<foreign xml:lang="grc">πδ</foreign>, ego delevi</hi> (<hi rend="italics">clausulae gratia</hi>)</note> habitare. <reg>nunc</reg> 
+                     <app>
+                        <lem>dixistis</lem>
+                     </app> eum <hi rend="italics">add. P<foreign xml:lang="grc">πδ</foreign>, ego delevi</hi> (<hi rend="italics">clausulae gratia</hi>)</note> habitare. <reg>nunc</reg> 
 demum<note>demum || || || <hi rend="italics">P</hi>: demum, iudices <hi rend="italics">Halm</hi>
-                  </note> intellego <choice><abbr>P.</abbr><expan>P<ex>ublii</ex></expan></choice> Clodi insulam esse venalem, cuius 
+                  </note> intellego <choice>
+                     <abbr>P.</abbr>
+                     <expan>P<ex>ublii</ex>
+                     </expan>
+                  </choice> Clodi insulam esse venalem, cuius 
 hic in aediculis habitat decem, ut opinor, milibus. <reg>vos</reg> 
 autem dum illi placere voltis, ad tempus eius<note>
-                     <app><lem>eius</lem></app> eris <foreign xml:lang="grc">ς</foreign>: <hi rend="italics">num</hi> eri?</note> mendacium 
+                     <app>
+                        <lem>eius</lem>
+                     </app> eris <foreign xml:lang="grc">ς</foreign>: <hi rend="italics">num</hi> eri?</note> mendacium 
 vestrum<note>
-                     <app><lem>vestrum</lem></app> 
+                     <app>
+                        <lem>vestrum</lem>
+                     </app>
                      <hi rend="italics">sequuntur in Peg verba</hi> renuerit qui unguenta § 27 <hi rend="italics">usque ad</hi> inanes metus § 36</note> accommodavistis. 
 
 </p>
@@ -578,14 +642,20 @@ gloriosam victoriam consecutus et per aetatem magistratus
 petere posset, non modo permittente patre sed etiam 
 suadente ab eo semigravit et, cum domus patris a foro 
 longe abesset<note>
-                     <app><lem>et cum...abesset</lem></app> cum...abesset, et <hi rend="italics">Schwartz</hi>
+                     <app>
+                        <lem>et cum...abesset</lem>
+                     </app> cum...abesset, et <hi rend="italics">Schwartz</hi>
                   </note>, quo facilius et nostras domus obire et ipse 
 a suis coli posset<note>posset <hi rend="italics">
                         <foreign xml:lang="grc">ς</foreign>P2bg2<foreign xml:lang="grc">ψ</foreign>
                      </hi>: possit <hi rend="italics">cett.</hi>
                   </note>, conduxit in Palatio non magno domum. 
 <milestone n="8" unit="chapter"/>
-                  <reg>quo</reg> loco possum dicere id quod vir clarissimus, <choice><abbr>M.</abbr><expan>M<ex>arcus</ex></expan></choice> Crassus, 
+                  <reg>quo</reg> loco possum dicere id quod vir clarissimus, <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arcus</ex>
+                     </expan>
+                  </choice> Crassus, 
 cum de adventu regis Ptolemaei quereretur, paulo ante 
 dixit: </p>
                <p>Vtinam ne in nemore Pelio —   
@@ -611,7 +681,9 @@ sermonum fuisse.
 iam et fingi intellegebam, fretus vestra prudentia, 
 iudices, non pertimesco. <reg>aiebant</reg>
                   <note>
-                     <app><lem>aiebant</lem></app> || aiebant (-i- <hi rend="italics">m. 2 in ras.</hi>) <hi rend="italics">P</hi>: iaciebant <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>aiebant</lem>
+                     </app> || aiebant (-i- <hi rend="italics">m. 2 in ras.</hi>) <hi rend="italics">P</hi>: iaciebant <foreign xml:lang="grc">ς</foreign>
                   </note> enim fore testem senatorem 
 qui se pontificiis comitiis pulsatum a Caelio diceret. 
 A quo quaeram, si prodierit, primum cur statim nihil egerit, 
@@ -632,14 +704,15 @@ senatorem esse solum<note>esse solum <foreign xml:lang="grc">ς</foreign>: solum
                <p>
                   <quote>
                      <reg>de</reg> teste Fufio<note>DE TESTE FVFIO <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">om. P<foreign xml:lang="grc">πδ</foreign>
-                        </hi> (<hi rend="italics">cf. Mur.</hi> 57)</note>.</quote> 
-
+                        </hi> (<hi rend="italics">cf. Mur.</hi> 57)</note>.</quote>
                </p>
             </div>
             <div type="textpart" subtype="section" n="20">
                <p>
                   <reg>nec</reg> tamen<note>
-                     <app><lem>tamen</lem></app> tantum <foreign xml:lang="grc">ψ1</foreign>
+                     <app>
+                        <lem>tamen</lem>
+                     </app> tantum <foreign xml:lang="grc">ψ1</foreign>
                   </note> illud genus alterum nocturnorum testium perhorresco<note>perhorresco <foreign xml:lang="grc">ς</foreign>: pertimesco <hi rend="italics">P<foreign xml:lang="grc">πδ</foreign>
                      </hi>
                   </note>. 
@@ -659,7 +732,11 @@ coepisse<note>coepisse <hi rend="italics">
 oppugnationis huius, iudices, et iam prospicitis animis et, 
 cum inferetur, propulsare debebitis<note>debebitis propulsare <foreign xml:lang="grc">ς</foreign>
                   </note>. <reg>non</reg> enim ab isdem 
-accusatur <choice><abbr>M.</abbr><expan>M<ex>arcus</ex></expan></choice> Caelius a quibus oppugnatur; palam in eum 
+accusatur <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arcus</ex>
+                     </expan>
+                  </choice> Caelius a quibus oppugnatur; palam in eum 
 tela iaciuntur, clam subministrantur<note>administrantur <foreign xml:lang="grc">ς</foreign>
                   </note>.
 
@@ -675,7 +752,11 @@ ut invidiosum sit in eos quibus gloriosum etiam hoc esse<note>esse hoc <foreign 
 debet. <reg>funguntur</reg> officio, defendunt suos, faciunt quod 
 viri fortissimi solent; laesi dolent, irati efferuntur, pugnant 
 lacessiti. <reg>sed</reg> vestrae sapientiae tamen est, iudices, non, si 
-causa iusta est viris fortibus oppugnandi <choice><abbr>M.</abbr><expan>M<ex>arcum</ex></expan></choice> Caelium, ideo 
+causa iusta est viris fortibus oppugnandi <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arcum</ex>
+                     </expan>
+                  </choice> Caelium, ideo 
 vobis quoque<note>vobis quoque <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">Garatoni</hi>: vobis quoque vos <hi rend="italics">P<foreign xml:lang="grc">πδ</foreign>
                      </hi>: vos quoque <hi rend="italics">ed. R</hi>
                   </note> causam putare esse iustam alieno dolori 
@@ -714,7 +795,11 @@ ratione pugnabit.
             <div type="textpart" subtype="section" n="23">
                <p>
                   <reg>itaque</reg> illam partem causae facile patior graviter et ornate  
-a <choice><abbr>M.</abbr><expan>M<ex>arco</ex></expan></choice> Crasso peroratam de seditionibus Neapolitanis, de 
+a <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arco</ex>
+                     </expan>
+                  </choice> Crasso peroratam de seditionibus Neapolitanis, de 
 Alexandrinorum pulsatione Puteolana, de bonis <reg>pallae</reg>
                   <note>Paliae <foreign xml:lang="grc">ς</foreign>
                   </note>. 
@@ -723,7 +808,11 @@ Alexandrinorum pulsatione Puteolana, de bonis <reg>pallae</reg>
                   </note> dictum esset ab eodem etiam de Dione. <reg>de</reg> quo 
 ipso tamen quid est quod exspectetis? quod is qui fecit 
 aut non timet aut etiam fatetur; est enim rex; qui autem 
-dictus est adiutor fuisse et conscius, <choice><abbr>P.</abbr><expan>P<ex>ublius</ex></expan></choice> Asicius, iudicio est 
+dictus est adiutor fuisse et conscius, <choice>
+                     <abbr>P.</abbr>
+                     <expan>P<ex>ublius</ex>
+                     </expan>
+                  </choice> Asicius, iudicio est 
 liberatus. <reg>quod</reg> igitur est eius modi crimen ut qui commisit 
 non neget, qui negavit absolutus sit, id hic pertimescat qui 
 non modo a facti<note>facti <hi rend="italics">Naugerius</hi>: facto <hi rend="italics">P</hi>
@@ -742,7 +831,9 @@ suspicione sed ne infamia quidem est aspersus?
                <p>
                   <reg>at</reg> praevaricatione 
 est<note>
-                     <app><lem>est</lem></app> sit <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>est</lem>
+                     </app> sit <foreign xml:lang="grc">ς</foreign>
                   </note> Asicius liberatus. <reg>perfacile</reg> est isti loco 
 respondere, mihi praesertim a quo illa causa defensa est. 
 <reg>sed</reg> Caelius optimam causam Asici esse arbitratur; cuicuimodi<note>cuicuimodi <hi rend="italics">Ant. Augustinus</hi>: cuiusmodi <hi rend="italics">P</hi>
@@ -755,7 +846,7 @@ Caelius sed etiam adulescentes humanissimi et doctissimi,
 rectissimis studiis atque optimis artibus praediti, Titus 
 Gaiusque Coponii qui ex omnibus maxime Dionis mortem 
 doluerunt<note>Coponii <gap reason="omitted"/> doluerunt <foreign xml:lang="grc">ς</foreign>
-                     <hi rend="italics">b</hi>2<foreign xml:lang="grc">ψ2</foreign> (<hi rend="italics">de Coponiis cf. Balb.</hi> § 53): <hi rend="italics">om. P in lac., sine lac.</hi> 
+                     <hi rend="italics">b</hi>2<foreign xml:lang="grc">ψ2</foreign> (<hi rend="italics">de Coponiis cf. Balb.</hi> § 53): <hi rend="italics">om. P in lac., sine lac.</hi>
                      <foreign xml:lang="grc">πδ</foreign>
                   </note>, qui cum doctrinae studio<note>qui cum doctrinae studio <foreign xml:lang="grc">ς</foreign>
                      <hi rend="italics">b</hi>2<foreign xml:lang="grc">ψ2</foreign>: omni cum (<hi rend="italics">om.</hi> cum <hi rend="italics">eg</hi>) doctrina <hi rend="italics">P</hi>2<foreign xml:lang="grc">πδ</foreign>
@@ -765,7 +856,11 @@ etiam hospitio Dionis tenebantur. <reg>habitabat</reg> apud Titum<note>apud Titu
 ut audistis, Dio<note>Dio erat <foreign xml:lang="grc">ς</foreign>: fuerat ei <hi rend="italics">P</hi>2<foreign xml:lang="grc">πδ</foreign>
                   </note>, erat<note>qui cum <gap reason="omitted"/> erat <hi rend="italics">om. P</hi>1 <hi rend="italics">in lac.</hi>
                   </note> ei cognitus Alexandriae. <reg>quid</reg> aut 
-hic aut summo splendore praeditus frater eius de <choice><abbr>M.</abbr><expan>M<ex>arco</ex></expan></choice> Caelio 
+hic aut summo splendore praeditus frater eius de <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arco</ex>
+                     </expan>
+                  </choice> Caelio 
 existimet ex ipsis, si producti erunt, audietis.
 
 </p>
@@ -781,7 +876,11 @@ veniamus.
                </p>
                <p>
                   <reg>animadverti</reg> enim, iudices, audiri a vobis meum familiarem, 
-<choice><abbr>L.</abbr><expan>L<ex>ucium</ex></expan></choice> Herennium, perattente. <reg>in</reg> quo etsi magna ex parte 
+<choice>
+                     <abbr>L.</abbr>
+                     <expan>L<ex>ucium</ex>
+                     </expan>
+                  </choice> Herennium, perattente. <reg>in</reg> quo etsi magna ex parte 
 ingenio eius et dicendi genere quodam tenebamini, tamen 
 non numquam verebar ne illa subtiliter ad<note>subtilis et ad <hi rend="italics">B</hi>
                   </note> criminandum 
@@ -793,10 +892,14 @@ vitiis iuventutis, multa de moribus et, qui<note>et qui <foreign xml:lang="grc">
                   </note> in reliqua vita 
 mitis esset et in hac suavitate humanitatis qua prope iam 
 delectantur omnes versari periucunde soleret, fuit in hac 
-causa pertristis quidam<note>quidam <hi rend="italics">om.</hi> 
+causa pertristis quidam<note>quidam <hi rend="italics">om.</hi>
                      <foreign xml:lang="grc">ς</foreign>
                   </note> patruus, censor, magister; obiurgavit 
-<choice><abbr>M.</abbr><expan>M<ex>arcum</ex></expan></choice> Caelium, sicut neminem umquam parens; multa de 
+<choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arcum</ex>
+                     </expan>
+                  </choice> Caelium, sicut neminem umquam parens; multa de 
 incontinentia intemperantiaque disseruit. <reg>quid</reg> quaeritis, 
 iudices? ignoscebam vobis attente audientibus, propterea 
 quod egomet tam triste illud, tam<note>illud tam <foreign xml:lang="grc">ς</foreign>: illud et tam <hi rend="italics">P</hi>
@@ -813,11 +916,11 @@ fuisse meo necessario Bestiae Caelium familiarem, cenasse
 apud eum, ventitasse domum, studuisse praeturae. <reg>non</reg> 
 me haec movent quae perspicue falsa sunt; etenim eos 
 una cenasse dixit qui aut absunt aut quibus necesse est 
-idem dicere<note>idem dicere <hi rend="italics">P</hi>2<foreign xml:lang="grc">πδ</foreign>: idem d <gap reason="omitted"/> 
+idem dicere<note>idem dicere <hi rend="italics">P</hi>2<foreign xml:lang="grc">πδ</foreign>: idem d <gap reason="omitted"/>
                      <hi rend="italics">P</hi>1</note>. <reg>neque</reg> vero illud me commovet quod sibi in 
 Lupercis sodalem esse<note>esse sodalem <foreign xml:lang="grc">ς</foreign>
                   </note> Caelium dixit. <reg>fera</reg> quaedam 
-sodalitas et plane pastoricia<note>pastoricia <hi rend="italics">BP</hi>2<foreign xml:lang="grc">πδ</foreign>: pa <gap reason="omitted"/> 
+sodalitas et plane pastoricia<note>pastoricia <hi rend="italics">BP</hi>2<foreign xml:lang="grc">πδ</foreign>: pa <gap reason="omitted"/>
                      <hi rend="italics">P</hi>1: pastoralis <hi rend="italics">coni. Halm</hi>
                   </note> atque agrestis germanorum 
 Lupercorum, quorum coitio illa silvestris ante est instituta 
@@ -843,10 +946,16 @@ moverunt respondeo<note>respondebo <hi rend="italics">b</hi>2<foreign xml:lang="
                      <foreign xml:lang="grc">πδ</foreign>: et eo <hi rend="italics">Kayser</hi>
                   </note> lenior<note>alienior <foreign xml:lang="grc">ς</foreign> (<hi rend="italics">fort.</hi> et a causa alienior)</note>, plusque 
 disputationis habuit quam atrocitatis, quo etiam audita est 
-attentius. <reg>nam</reg> 
-                  <choice><abbr>P.</abbr><expan>P<ex>ublius</ex></expan></choice> Clodius, amicus meus, cum se gravissime 
+attentius. <reg>nam</reg>
+                  <choice>
+                     <abbr>P.</abbr>
+                     <expan>P<ex>ublius</ex>
+                     </expan>
+                  </choice> Clodius, amicus meus, cum se gravissime 
 vehementissimeque iactaret et omnia inflammatus<note>
-                     <app><lem>inflammatus</lem></app> 
+                     <app>
+                        <lem>inflammatus</lem>
+                     </app>
                      <hi rend="italics">fort.</hi> inflatius</note> ageret 
 tristissimis verbis, voce maxima, tametsi probabam<note>probem <foreign xml:lang="grc">ς</foreign>
                   </note> eius 
@@ -892,7 +1001,9 @@ accusare luxuriem. <reg>dies</reg> iam me deficiat<note>deficiat <hi rend="itali
                   </note>, si quae dici in 
 eam sententiam possunt<note>possint <hi rend="italics">Ernesti</hi>
                   </note> coner<note>
-                     <app><lem>coner</lem></app> -er <hi rend="italics">add. P</hi>2 <hi rend="italics">in ras.</hi>
+                     <app>
+                        <lem>coner</lem>
+                     </app> -er <hi rend="italics">add. P</hi>2 <hi rend="italics">in ras.</hi>
                   </note> expromere; de corruptelis, 
 de adulteriis, de protervitate, de sumptibus immensa oratio 
 est. Vt tibi reum neminem sed vitia ista<note>ista <hi rend="italics">scripsi</hi>: ipsa <foreign xml:lang="grc">ς</foreign>: <hi rend="italics">om. P</hi>
@@ -902,7 +1013,9 @@ tamen ipsa et copiose<note>et copiose <foreign xml:lang="grc">ς</foreign>, <hi 
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> et graviter accusari potest. <reg>sed</reg>  
 vestrae sapientiae, iudices, est<note>
-                     <app><lem>iudices est</lem></app> est <hi rend="italics">in ras. hab. P</hi>: est, iudices, <hi rend="italics">Halm</hi>
+                     <app>
+                        <lem>iudices est</lem>
+                     </app> est <hi rend="italics">in ras. hab. P</hi>: est, iudices, <hi rend="italics">Halm</hi>
                   </note> non abduci ab reo nec, quos 
 aculeos habeat<note>habet <foreign xml:lang="grc">ς</foreign>
                   </note> severitas gravitasque vestra, cum eos accusator 
@@ -945,7 +1058,9 @@ venenum quaesitum quod Clodiae daretur, ut<note>ut <foreign xml:lang="grc">ς</f
                   <note>somnia <foreign xml:lang="grc">ς</foreign>
                   </note> 
 sunt alia<note>
-                     <app><lem>alia</lem></app> talia <foreign xml:lang="grc">ς</foreign>: illa <hi rend="italics">Ernesti</hi>
+                     <app>
+                        <lem>alia</lem>
+                     </app> talia <foreign xml:lang="grc">ς</foreign>: illa <hi rend="italics">Ernesti</hi>
                   </note> non crimina sed maledicta, iurgi petulantis magis 
 quam publicae quaestionis. '<reg>adulter</reg>, impudicus, sequester' 
 convicium est, non accusatio. <reg>nullum</reg> est enim fundamentum 
@@ -953,7 +1068,9 @@ horum criminum, nullae<note>nullae <foreign xml:lang="grc">ς</foreign>: nulla <
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> sedes; voces sunt contumeliosae 
 temere ab irato accusatore<note>
-                     <app><lem>ab irato accusatore</lem></app> arbitratu accusatoris <hi rend="italics">b</hi>2<foreign xml:lang="grc">ψ</foreign>
+                     <app>
+                        <lem>ab irato accusatore</lem>
+                     </app> arbitratu accusatoris <hi rend="italics">b</hi>2<foreign xml:lang="grc">ψ</foreign>
                   </note> nullo auctore emissae. 
 Horum duorum criminum video auctorem,
 
@@ -972,13 +1089,13 @@ video signum cuiusdam egregiae familiaritatis. <reg>necare</reg>
 eandem voluit; quaesivit venenum, sollicitavit servos, 
 potionem<note>servos, potionem <hi rend="italics">Bährens</hi>: quos potuit <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
-                  </note> paravit, locum constituit, clam attulit<note>clam attulit <hi rend="italics">scripsi</hi>: quam <hi rend="italics">ante</hi> locum <hi rend="italics">hab.</hi> 
+                  </note> paravit, locum constituit, clam attulit<note>clam attulit <hi rend="italics">scripsi</hi>: quam <hi rend="italics">ante</hi> locum <hi rend="italics">hab.</hi>
                      <foreign xml:lang="grc">ς</foreign>: <hi rend="italics">om. P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
                   </note>. Magnum 
 rursus odium video cum crudelissimo discidio exstitisse. 
 <reg>res</reg> est omnis in hac causa nobis, iudices, cum Clodia, 
-muliere non solum nobili verum<note>nobili verum <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">Quintil.</hi> ix. 4. 97: nobili sed (nobi <gap reason="omitted"/> 
+muliere non solum nobili verum<note>nobili verum <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">Quintil.</hi> ix. 4. 97: nobili sed (nobi <gap reason="omitted"/>
                      <hi rend="italics">P</hi>1) <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> etiam nota; de qua ego 
@@ -989,7 +1106,11 @@ nihil dicam nisi depellendi criminis causa.
             <div type="textpart" subtype="section" n="32">
                <p>
                   <reg>sed</reg> intellegis 
-pro tua praestanti prudentia, <choice><abbr>Cn.</abbr><expan>G<ex>naei</ex></expan></choice> Domiti, cum hac sola rem 
+pro tua praestanti prudentia, <choice>
+                     <abbr>Cn.</abbr>
+                     <expan>G<ex>naei</ex>
+                     </expan>
+                  </choice> Domiti, cum hac sola rem 
 esse nobis. <reg>quae</reg> si se aurum Caelio commodasse non 
 dicit, si venenum ab hoc sibi paratum esse non arguit, 
 petulanter facimus, si matrem familias secus quam matronarum 
@@ -1026,7 +1147,9 @@ et urbane. <reg>si</reg>
                      <foreign xml:lang="grc">πδ</foreign>: si enim <hi rend="italics">Bährens</hi>
                   </note> illo austero more ac modo, aliquis mihi ab 
 inferis excitandus est ex barbatis illis, non hac barbula<note>
-                     <app><lem>hac barbula</lem></app> ex barbula illa <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>hac barbula</lem>
+                     </app> ex barbula illa <foreign xml:lang="grc">ς</foreign>
                      <hi rend="italics">B</hi>
                   </note> qua 
 ista delectatur sed illa<note>sed illa <foreign xml:lang="grc">ς</foreign>
@@ -1058,13 +1181,19 @@ non <add>abavum, non</add> atavum<note>non abavum, non atavum <hi rend="italics"
             </div>
             <div type="textpart" subtype="section" n="34">
                <p>non 
-denique modo te <choice><abbr>Q.</abbr><expan>Q<ex>uinti</ex></expan></choice> Metelli matrimonium tenuisse sciebas, 
+denique modo te <choice>
+                     <abbr>Q.</abbr>
+                     <expan>Q<ex>uinti</ex>
+                     </expan>
+                  </choice> Metelli matrimonium tenuisse sciebas, 
 clarissimi ac fortissimi viri patriaeque amantissimi, qui simul 
 ac pedem limine extulerat, omnis prope civis virtute, gloria, 
 dignitate superabat? <reg>cum</reg> ex amplissimo genere in familiam 
 clarissimam nupsisses, cur tibi Caelius tam coniunctus fuit? 
 cognatus, adfinis, viri tui familiaris? <reg>nihil</reg> eorum<note>
-                     <app><lem>eorum</lem></app> horum <hi rend="italics">b</hi>1, <hi rend="italics">Ernesti</hi>
+                     <app>
+                        <lem>eorum</lem>
+                     </app> horum <hi rend="italics">b</hi>1, <hi rend="italics">Ernesti</hi>
                   </note>. <reg>quid</reg> 
 igitur fuit nisi quaedam temeritas ac libido? <reg>nonne</reg> te, si 
 nostrae imagines viriles non commovebant, ne<note>ne <hi rend="italics">et</hi> quidem <hi rend="italics">om. B</hi>
@@ -1093,11 +1222,15 @@ incipiat accusare illa sua gravitate censoria? <reg>sed</reg> videro
 hoc posterius atque ita, iudices, ut vel<note>ut vel <foreign xml:lang="grc">ς</foreign>: vel (<hi rend="italics">om. g</hi>) <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> severissimis disceptatoribus 
-<choice><abbr>M.</abbr><expan>M<ex>arci</ex></expan></choice> Caeli vitam me probaturum esse confidam. <reg>tu</reg> 
+<choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arci</ex>
+                     </expan>
+                  </choice> Caeli vitam me probaturum esse confidam. <reg>tu</reg> 
 vero, mulier — iam enim ipse tecum nulla persona introducta 
 loquor<note>loquar <foreign xml:lang="grc">ς</foreign>
                   </note> — si ea quae facis, quae dicis, quae insimulas, quae 
-moliris, quae arguis<note>facis <gap reason="omitted"/> arguis (quae <hi rend="italics">ante</hi> moliris <hi rend="italics">om. b</hi>2: quae insimulas <hi rend="italics">om.</hi> 
+moliris, quae arguis<note>facis <gap reason="omitted"/> arguis (quae <hi rend="italics">ante</hi> moliris <hi rend="italics">om. b</hi>2: quae insimulas <hi rend="italics">om.</hi>
                      <foreign xml:lang="grc">ψ2</foreign>) <foreign xml:lang="grc">ς</foreign>
                      <hi rend="italics">b</hi>2<foreign xml:lang="grc">ψ2</foreign>: <hi rend="italics">om. P</hi>1: facis, quae dicis, quae in sororem tuam moliris, quae argumenta <hi rend="italics">P</hi>2<foreign xml:lang="grc">πδ</foreign>
                   </note>, probare cogitas, rationem tantae familiaritatis, 
@@ -1166,7 +1299,9 @@ atque durum: </p>
                      <foreign xml:lang="grc">πδ</foreign>: mihi demum <hi rend="italics">B</hi>
                   </note> animus ardet, nunc meum cor </p>
                <p>cumulatur ira<note>
-                     <app><lem>ira</lem></app> cura <hi rend="italics">B</hi>
+                     <app>
+                        <lem>ira</lem>
+                     </app> cura <hi rend="italics">B</hi>
                   </note> 
 aut illum: </p>
                <p>O infelix, o sceleste! 
@@ -1182,7 +1317,7 @@ meretriciam contulisti? cur inlecebris cognitis non
 refugisti?' 
 <quote>
                      <l>
-                        <reg>cur</reg> alienam<note>alienam <hi rend="italics">om.</hi> 
+                        <reg>cur</reg> alienam<note>alienam <hi rend="italics">om.</hi>
                            <foreign xml:lang="grc">ς</foreign> dissice <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">Puteanus</hi>: disce <hi rend="italics">P</hi>
                            <foreign xml:lang="grc">πδ</foreign>
                         </note> ullam mulierem nosti? Dide ac dissice; </l>
@@ -1228,7 +1363,9 @@ Caeli<note>Caelii <hi rend="italics">Angelius</hi>: filii <hi rend="italics">PT<
 non facile defenderet? <reg>nihil</reg> iam in istam mulierem dico; 
 sed, si esset aliqua dissimilis istius quae se omnibus pervolgaret, 
 quae haberet palam decretum<note>
-                     <app><lem>decretum</lem></app> 
+                     <app>
+                        <lem>decretum</lem>
+                     </app>
                      <hi rend="italics">fort.</hi> devinctum (<hi rend="italics">cf.</hi> § 36)</note> semper aliquem, 
 cuius in hortos, domum, Baias iure suo libidines omnium 
 commearent, quae etiam aleret adulescentis et parsimoniam 
@@ -1236,7 +1373,9 @@ patrum suis sumptibus sustineret<note>sustineret <foreign xml:lang="grc">ς</for
                   </note>; si vidua libere, proterva 
 petulanter, dives effuse, libidinosa meretricio more viveret, 
 adulterum ego putarem si quis<note>
-                     <app><lem>quis</lem></app> qui <hi rend="italics">Quintil.</hi> viii. 4. 1</note> hanc paulo liberius salutasset? 
+                     <app>
+                        <lem>quis</lem>
+                     </app> qui <hi rend="italics">Quintil.</hi> viii. 4. 1</note> hanc paulo liberius salutasset? 
 
 <milestone n="17" unit="chapter"/>
                </p>
@@ -1261,7 +1400,9 @@ ut respueret omnis voluptates omnemque vitae suae<note>suae vitae <foreign xml:l
                      <hi rend="italics">B</hi>
                   </note> cursum 
 in labore corporis atque in<note>
-                     <app><lem>atque in</lem></app> atque <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>atque in</lem>
+                     </app> atque <foreign xml:lang="grc">ς</foreign>
                      <hi rend="italics">B</hi>
                   </note> animi contentione conficeret,  
 quem non quies, non remissio, non aequalium studia, non 
@@ -1306,7 +1447,9 @@ causa omnia sapientes facere dixerunt, neque ab<note>nec ab <foreign xml:lang="g
 orationis turpitudine eruditi homines refugerunt; alii cum 
 voluptate dignitatem coniungendam putaverunt, ut res 
 maxime inter se repugnantis dicendi<note>
-                     <app><lem>dicendi</lem></app> verborum <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>dicendi</lem>
+                     </app> verborum <foreign xml:lang="grc">ς</foreign>
                   </note> facultate coniungerent; 
 illud unum derectum iter ad laudem cum labore qui probaverunt, 
 prope soli iam in scholis sunt relicti. <reg>multa</reg> enim 
@@ -1334,16 +1477,22 @@ propitios, plerique autem iratos putabunt<note>putaverunt <hi rend="italics">T</
                   <reg>ergo</reg> haec 
 deserta via et inculta atque interclusa iam frondibus et 
 virgultis<note>
-                     <app><lem>et virg.</lem></app> ac virg. <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>et virg.</lem>
+                     </app> ac virg. <foreign xml:lang="grc">ς</foreign>
                   </note> relinquatur. <reg>detur</reg> aliqui ludus<note>aliqui ludus <hi rend="italics">T</hi>: aliquid <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> aetati; sit adulescentia 
 liberior; non omnia voluptatibus<note>
-                     <app><lem>voluptatibus</lem></app> cupiditatibus <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>voluptatibus</lem>
+                     </app> cupiditatibus <foreign xml:lang="grc">ς</foreign>
                   </note> denegentur; non 
 semper superet<note>superent <foreign xml:lang="grc">ς</foreign>
                   </note> vera illa et<note>
-                     <app><lem>et</lem></app> ac <foreign xml:lang="grc">ς</foreign> derecta <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>et</lem>
+                     </app> ac <foreign xml:lang="grc">ς</foreign> derecta <foreign xml:lang="grc">ς</foreign>
                      <hi rend="italics">P</hi>: directa <foreign xml:lang="grc">πδ</foreign>
                   </note> derecta ratio<note>via et ratio <foreign xml:lang="grc">ς</foreign>
                   </note>; vincat aliquando 
@@ -1372,7 +1521,9 @@ videatur.
                   </note> et nostra et patrum maiorumque memoria, 
 iudices, summi homines et clarissimi cives fuerunt 
 quorum, cum adulescentiae cupiditates defervissent<note>
-                     <app><lem>deferv.</lem></app> deferuu- <hi rend="italics">P</hi>1: deseru- <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>deferv.</lem>
+                     </app> deferuu- <hi rend="italics">P</hi>1: deseru- <foreign xml:lang="grc">ς</foreign>
                   </note>, eximiae 
 virtutes firmata iam aetate exstiterunt. <reg>ex</reg> quibus neminem 
 mihi libet<note>libet <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">Madvig</hi>: liquet <hi rend="italics">P</hi>: necesse est <foreign xml:lang="grc">πδ</foreign>
@@ -1393,15 +1544,23 @@ adulescentiae qui vellet excusatione defenderet.
             <div type="textpart" subtype="section" n="44">
                <p>
                   <reg>at</reg> vero 
-in <choice><abbr>M.</abbr><expan>M<ex>arco</ex></expan></choice> Caelio — dicam enim iam<note>
-                     <app><lem>iam</lem></app> hoc <foreign xml:lang="grc">ς</foreign>
+in <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arco</ex>
+                     </expan>
+                  </choice> Caelio — dicam enim iam<note>
+                     <app>
+                        <lem>iam</lem>
+                     </app> hoc <foreign xml:lang="grc">ς</foreign>
                   </note> confidentius de studiis eius 
 honestis, quoniam<note>quoniam <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">Muretus</hi>: quondam <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> audeo quaedam fretus vestra sapientia 
 libere confiteri — nulla luxuries reperietur, nulli sumptus, 
 nullum aes alienum, nulla conviviorum ac lustrorum<note>
-                     <app><lem>lustrorum</lem></app> stuprorum <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>lustrorum</lem>
+                     </app> stuprorum <foreign xml:lang="grc">ς</foreign>
                   </note> libido. 
 <reg>quod</reg> quidem vitium ventris et gurgitis<note>gutturis <hi rend="italics">ed. R</hi>
                   </note> non modo non 
@@ -1433,7 +1592,9 @@ et bonis artibus instituta et cura et vigiliis elaborata. <reg>atqui</reg>
                   </note> 
 scitote, iudices, eas cupiditates quae obiciuntur Caelio 
 atque haec studia de quibus disputo<note>
-                     <app><lem>disputo</lem></app> disputavi <foreign xml:lang="grc">ς</foreign>: disputato <hi rend="italics">P</hi>1</note> non facile in eodem 
+                     <app>
+                        <lem>disputo</lem>
+                     </app> disputavi <foreign xml:lang="grc">ς</foreign>: disputato <hi rend="italics">P</hi>1</note> non facile in eodem 
 homine esse posse. <reg>fieri</reg> enim non potest ut animus libidini 
 deditus, amore, desiderio, cupiditate, saepe nimia copia, 
 inopia etiam non numquam impeditus hoc quicquid est 
@@ -1463,7 +1624,7 @@ quo aut ingenia deficiant aut doctrina puerilis.
             </div>
             <div type="textpart" subtype="section" n="47">
                <p>
-                  <reg>an</reg> hic<note>hic <hi rend="italics">om.</hi> 
+                  <reg>an</reg> hic<note>hic <hi rend="italics">om.</hi>
                      <foreign xml:lang="grc">ς</foreign> (<hi rend="italics">contra Arusian. K.</hi> vii. 465)</note>, si 
 sese isti vitae dedidisset<note>dedidisset <hi rend="italics">Arusian.</hi> (<hi rend="italics">s. v.</hi> dedo): dedisset <hi rend="italics">mei</hi>
                   </note>, consularem hominem admodum 
@@ -1487,7 +1648,9 @@ solum verum etiam personant, huc unius mulieris libidinem
 esse prolapsam ut ea non modo solitudinem ac tenebras 
 atque haec flagitiorum integumenta non quaerat sed in 
 turpissimis rebus<note>
-                     <app><lem>rebus</lem></app> viris <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>rebus</lem>
+                     </app> viris <foreign xml:lang="grc">ς</foreign>
                   </note> frequentissima celebritate et clarissima 
 luce laetetur. 
 
@@ -1537,7 +1700,11 @@ solum meretrix sed etiam<note>sed etiam proterva meretrix <foreign xml:lang="grc
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> proterva meretrix procaxque 
 videatur: cum hac si qui adulescens forte fuerit, utrum hic 
-tibi, <choice><abbr>L.</abbr><expan>L<ex>uci</ex></expan></choice> Herenni, adulter an amator, expugnare pudicitiam 
+tibi, <choice>
+                     <abbr>L.</abbr>
+                     <expan>L<ex>uci</ex>
+                     </expan>
+                  </choice> Herenni, adulter an amator, expugnare pudicitiam 
 an explere libidinem voluisse videatur?
 
 </p>
@@ -1561,7 +1728,11 @@ crimen hoc, si tu contemnis, pertimescamus? <reg>qua</reg> re nobis
 da viam rationemque defensionis. <reg>aut</reg> enim<note>aut enim <foreign xml:lang="grc">ς</foreign>: nam aut <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> pudor tuus 
-defendet nihil a <choice><abbr>M.</abbr><expan>M<ex>arco</ex></expan></choice> Caelio petulantius esse factum<note>esse factum <hi rend="italics">P</hi>
+defendet nihil a <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arco</ex>
+                     </expan>
+                  </choice> Caelio petulantius esse factum<note>esse factum <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>: factum esse <foreign xml:lang="grc">ς</foreign>
                   </note>, aut 
 impudentia et huic et ceteris magnam ad se<note>et ceteris magnam ad se <foreign xml:lang="grc">ς</foreign>: <hi rend="italics">om. P</hi>
@@ -1583,7 +1754,7 @@ videtur esse<note>esse <foreign xml:lang="grc">ς</foreign>
 ostenditur. <reg>duo</reg> sunt enim crimina una in muliere summorum 
 facinorum, auri quod sumptum a Clodia dicitur, et 
 veneni quod eiusdem Clodiae necandae causa parasse Caelium 
-criminantur. <reg>aurum</reg> sumpsit, ut dicitis, quod L.<note>L. <hi rend="italics">P</hi>2<foreign xml:lang="grc">πδ</foreign>: <hi rend="italics">om.</hi> 
+criminantur. <reg>aurum</reg> sumpsit, ut dicitis, quod L.<note>L. <hi rend="italics">P</hi>2<foreign xml:lang="grc">πδ</foreign>: <hi rend="italics">om.</hi>
                      <foreign xml:lang="grc">ς</foreign>
                      <hi rend="italics">P</hi>1</note> 
 Luccei servis daret, per quos Alexandrinus Dio qui tum 
@@ -1610,7 +1781,11 @@ scelere devinxit. <reg>tune</reg> aurum ex armario tuo
 promere ausa es, tune <reg>venerem</reg> illam tuam spoliare ornamentis, 
 spoliatricem ceterorum<note>ceterorum <foreign xml:lang="grc">σψ1</foreign>, <hi rend="italics">Gulielmius, Madvig</hi>: ceterum <hi rend="italics">cett.</hi>
                   </note>, cum scires quantum ad 
-facinus aurum hoc quaereretur, ad necem legati, ad <choice><abbr>L.</abbr><expan>L<ex>ucii</ex></expan></choice> Luccei<note>L. Luccei <hi rend="italics">bg</hi>2: L. Lucullum <hi rend="italics">P</hi>
+facinus aurum hoc quaereretur, ad necem legati, ad <choice>
+                     <abbr>L.</abbr>
+                     <expan>L<ex>ucii</ex>
+                     </expan>
+                  </choice> Luccei<note>L. Luccei <hi rend="italics">bg</hi>2: L. Lucullum <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πψ</foreign>
                   </note>, 
 sanctissimi hominis atque integerrimi, labem sceleris 
@@ -1628,7 +1803,9 @@ illa Venus adiutrix esse non debuit.
 celatam esse Clodiam dixit, atque ita Caelium ad illam 
 attulisse, se ad ornatum ludorum aurum quaerere. <reg>si</reg> tam 
 familiaris erat<note>
-                     <app><lem>erat</lem></app> fuit <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>erat</lem>
+                     </app> fuit <foreign xml:lang="grc">ς</foreign>
                   </note> Clodiae quam tu esse vis cum de libidine 
 eius tam multa dicis, dixit profecto quo vellet aurum; si 
 tam familiaris non erat, non dedit. <reg>ita</reg> si verum tibi 
@@ -1641,7 +1818,11 @@ facinus dedisti; si non est ausus<note>ausus <foreign xml:lang="grc">ς</foreign
                </p>
                <p>
                   <reg>quid</reg> ego nunc argumentis huic crimini, quae sunt innumerabilia, 
-resistam? <reg>possum</reg> dicere mores <choice><abbr>M.</abbr><expan>M<ex>arci</ex></expan></choice> Caeli longissime 
+resistam? <reg>possum</reg> dicere mores <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arci</ex>
+                     </expan>
+                  </choice> Caeli longissime 
 a tanti sceleris atrocitate esse disiunctos; minime esse 
 credendum homini tam ingenioso tamque prudenti non 
 venisse in mentem rem tanti sceleris ignotis alienisque 
@@ -1671,16 +1852,24 @@ aliquem ferre potuissent, cum a me ipso elaborata<note>elaborata <foreign xml:la
                   </note> proferri 
 viderentur, brevitatis causa relinquo omnia. <reg>habeo</reg> enim, 
 iudices, quem vos socium vestrae religionis iurisque iurandi 
-facile esse patiamini, <choice><abbr>L.</abbr><expan>L<ex>ucium</ex></expan></choice> Lucceium<note>L. <hi rend="italics">om.</hi> 
+facile esse patiamini, <choice>
+                     <abbr>L.</abbr>
+                     <expan>L<ex>ucium</ex>
+                     </expan>
+                  </choice> Lucceium<note>L. <hi rend="italics">om.</hi>
                      <foreign xml:lang="grc">ς</foreign>
                   </note>, sanctissimum hominem 
 et gravissimum testem, qui tantum facinus in famam atque 
-in<note>in famam atque in (in <hi rend="italics">om.</hi> 
+in<note>in famam atque in (in <hi rend="italics">om.</hi>
                      <foreign xml:lang="grc">δ</foreign>) <foreign xml:lang="grc">σδ</foreign>: infamat atque <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">π</foreign>
-                  </note> fortunas suas neque non<note>non <hi rend="italics">om.</hi> 
+                  </note> fortunas suas neque non<note>non <hi rend="italics">om.</hi>
                      <foreign xml:lang="grc">ς</foreign>
-                  </note> audisset inlatum a <choice><abbr>M.</abbr><expan>M<ex>arco</ex></expan></choice> Caelio<note>M. <foreign xml:lang="grc">ς</foreign>
+                  </note> audisset inlatum a <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arco</ex>
+                     </expan>
+                  </choice> Caelio<note>M. <foreign xml:lang="grc">ς</foreign>
                      <hi rend="italics">P</hi>2<hi rend="italics">g</hi>: <hi rend="italics">om. P</hi>1<hi rend="italics">eh</hi>
                   </note> 
 neque neglexisset neque tulisset. <reg>an</reg> ille vir illa humanitate 
@@ -1731,17 +1920,25 @@ iudices, teneo? <reg>ipsius</reg> iurati religionem auctoritatemque
 percipite atque<note>percipite atque <hi rend="italics">om. T</hi>
                   </note> omnia diligenter testimoni verba cognoscite. 
 <reg>recita</reg>. <quote>
-                     <choice><abbr>L.</abbr><expan>L<ex>ucii</ex></expan></choice> Luccei testimonium<note>L. Luccei test. <hi rend="italics">T</hi>: test. Luccei <hi rend="italics">P</hi>
+                     <choice>
+                        <abbr>L.</abbr>
+                        <expan>L<ex>ucii</ex>
+                        </expan>
+                     </choice> Luccei testimonium<note>L. Luccei test. <hi rend="italics">T</hi>: test. Luccei <hi rend="italics">P</hi>
                         <foreign xml:lang="grc">πδ</foreign>
-                     </note>.</quote> 
+                     </note>.</quote>
                   <reg>quid</reg> exspectatis amplius? 
 an aliquam<note>aliam <hi rend="italics">Ernesti</hi>
                   </note> vocem putatis ipsam pro<note>Pro (-ro <hi rend="italics">m.</hi> 2 <hi rend="italics">in ras.</hi>) se <hi rend="italics">P</hi>: posse pro se <hi rend="italics">h</hi>
                   </note> se causam et veritatem 
 posse<note>
-                     <app><lem>posse</lem></app> possem.</note> mittere? <reg>haec</reg> est innocentiae defensio, haec ipsius 
+                     <app>
+                        <lem>posse</lem>
+                     </app> possem.</note> mittere? <reg>haec</reg> est innocentiae defensio, haec ipsius 
 causae oratio, haec una<note>
-                     <app><lem>una</lem></app> viva <hi rend="italics">Pluygers</hi>
+                     <app>
+                        <lem>una</lem>
+                     </app> viva <hi rend="italics">Pluygers</hi>
                   </note> vox veritatis. <reg>in</reg> crimine ipso nulla 
 suspicio est, in re nihil est argumenti, in negotio quod actum 
 esse dicitur nullum vestigium sermonis, loci, temporis; 
@@ -1779,7 +1976,11 @@ crimen haereret? <reg>num</reg> quis obiecit? num quis denique
 fecisset mentionem, si hic nullius<note>nullius <hi rend="italics">T</hi>: nemini <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> nomen detulisset? <reg>quin</reg>  
-etiam <choice><abbr>L.</abbr><expan>L<ex>ucium</ex></expan></choice> Herennium<note>L. <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">Lambinus</hi>: <hi rend="italics">om. cett.</hi>
+etiam <choice>
+                     <abbr>L.</abbr>
+                     <expan>L<ex>ucium</ex>
+                     </expan>
+                  </choice> Herennium<note>L. <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">Lambinus</hi>: <hi rend="italics">om. cett.</hi>
                   </note> dicere audistis verbo se molestum non 
 futurum fuisse Caelio<note>futurum Caelio <hi rend="italics">T qui in hoc verbo desinit</hi>: fut. Caelio fuisse <hi rend="italics">Halm</hi>
                   </note>, nisi iterum eadem de re suo familiari 
@@ -1788,7 +1989,7 @@ facinus nullam ob<note>nullam ob <foreign xml:lang="grc">ς</foreign>: ob nullam
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> causam esse commissum? et vos non 
 videtis fingi sceleris maximi crimen ut alterius sceleris suscipiendi 
-fuisse causa<note>causa <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">edd. VR, ante</hi> sceleris <hi rend="italics">hab.</hi> 
+fuisse causa<note>causa <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">edd. VR, ante</hi> sceleris <hi rend="italics">hab.</hi>
                      <foreign xml:lang="grc">ψ</foreign>: <hi rend="italics">om. cett.</hi>
                   </note> videatur?
 
@@ -1815,7 +2016,9 @@ sed<note>uti sed <foreign xml:lang="grc">ς</foreign>
                   </note> licentius liberius familiariusque<note>familiarius-que <foreign xml:lang="grc">ς</foreign>: familiarius <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> cum domina vivere<note>
-                     <app><lem>vivere</lem></app> dere <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>vivere</lem>
+                     </app> dere <foreign xml:lang="grc">ς</foreign>
                   </note>? 
 <reg>quis</reg> enim hoc non videt, iudices, aut quis ignorat, in eius 
 modi domo in qua mater familias meretricio more vivat, in 
@@ -1824,7 +2027,7 @@ qua nihil geratur quod foras proferendum sit, in qua inusitatae<note>inusitatae 
                   </note> 
 libidines, luxuries, omnia denique inaudita vitia ac 
 flagitia versentur, hic servos non esse servos, quibus omnia 
-committantur, per quos gerantur, qui versentur isdem in<note>in <hi rend="italics">om.</hi> 
+committantur, per quos gerantur, qui versentur isdem in<note>in <hi rend="italics">om.</hi>
                      <foreign xml:lang="grc">ς</foreign>
                   </note> 
 voluptatibus, quibus occulta credantur, ad quos aliquantum 
@@ -1862,7 +2065,11 @@ venenum.
                   <reg>pro</reg> di immortales! cur interdum in 
 hominum sceleribus maximis aut conivetis aut praesentis 
 fraudis poenas in diem reservatis? <reg>vidi</reg> enim, vidi et 
-illum hausi dolorem vel acerbissimum in vita, cum <choice><abbr>Q.</abbr><expan>Q<ex>uintus</ex></expan></choice> Metellus 
+illum hausi dolorem vel acerbissimum in vita, cum <choice>
+                     <abbr>Q.</abbr>
+                     <expan>Q<ex>uintus</ex>
+                     </expan>
+                  </choice> Metellus 
 abstraheretur e sinu<note>e sinu <hi rend="italics">ed. R</hi>: sinu <foreign xml:lang="grc">ς</foreign>: e sinu e <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> gremioque patriae, cumque ille 
@@ -1878,7 +2085,11 @@ mihi<note>mihi <foreign xml:lang="grc">ς</foreign>
                      <hi rend="italics">B, Orelli</hi>: ibi <hi rend="italics">Peg</hi>: urbi <hi rend="italics">h</hi>
                      <foreign xml:lang="grc">δ</foreign>
                   </note>, quanta tempestas civitati et cum parietem saepe 
-feriens eum qui cum <choice><abbr>Q.</abbr><expan>Q<ex>uinto</ex></expan></choice> Catulo fuerat ei communis crebro 
+feriens eum qui cum <choice>
+                     <abbr>Q.</abbr>
+                     <expan>Q<ex>uinto</ex>
+                     </expan>
+                  </choice> Catulo fuerat ei communis crebro 
 Catulum, saepe me, saepissime rem publicam nominabat, ut 
 non tam se mori<note>mori <hi rend="italics">P</hi>: emori <foreign xml:lang="grc">πδ</foreign>
                   </note> quam spoliari suo praesidio cum patriam 
@@ -1889,11 +2100,13 @@ tum etiam me doleret.
             <div type="textpart" subtype="section" n="60">
                <p>
                   <reg>quem</reg> quidem virum si nulla vis 
-repentini sceleris sustulisset, quonam modo ille<note>ille <hi rend="italics">om.</hi> 
+repentini sceleris sustulisset, quonam modo ille<note>ille <hi rend="italics">om.</hi>
                      <foreign xml:lang="grc">ς</foreign>
                   </note> furenti 
 fratri suo<note>
-                     <app><lem>fratri suo</lem></app> patrueli <hi rend="italics">add. P</hi>
+                     <app>
+                        <lem>fratri suo</lem>
+                     </app> patrueli <hi rend="italics">add. P</hi>
                      <foreign xml:lang="grc">πδ</foreign>: <hi rend="italics">del. Orelli</hi>
                   </note> consularis restitisset qui consul<note>consul <hi rend="italics">Manutius</hi>: consulem <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
@@ -1902,7 +2115,9 @@ atque tonantem<note>tonantem <hi rend="italics">scripsi</hi> (<hi rend="italics"
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> sua se manu interfecturum audiente senatu 
 dixerit? <reg>ex</reg> hac igitur domo progressa ista<note>
-                     <app><lem>ista</lem></app> illa <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>ista</lem>
+                     </app> illa <foreign xml:lang="grc">ς</foreign>
                   </note> mulier de 
 veneni celeritate dicere audebit? <reg>nonne</reg> ipsam domum 
 metuet ne quam vocem eiciat<note>eiciat <hi rend="italics">Muretus</hi>: eieciat <foreign xml:lang="grc">ς</foreign>: eliciat (-eat <hi rend="italics">P</hi>1) <hi rend="italics">P</hi>
@@ -1928,8 +2143,12 @@ mentem dolore impedivit.
 sit<note>sit paratum <foreign xml:lang="grc">ς</foreign>
                   </note> non dicitur. <reg>datum</reg> esse aiunt huic<note>huic <foreign xml:lang="grc">ς</foreign>, <hi rend="italics">Madvig</hi>: hoc <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
-                  </note> 
-                  <choice><abbr>P.</abbr><expan>P<ex>ublio</ex></expan></choice> Licinio, 
+                  </note>
+                  <choice>
+                     <abbr>P.</abbr>
+                     <expan>P<ex>ublio</ex>
+                     </expan>
+                  </choice> Licinio, 
 pudenti adulescenti et bono, Caeli familiari; constitutum<note>constitutum <hi rend="italics">Naugerius</hi>: constitutum pactum <foreign xml:lang="grc">ς</foreign>: constitutum factum <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> 
@@ -1981,14 +2200,18 @@ non invenio quae latebra togatis hominibus esse posset<note>possit <hi rend="ita
                   </note>.  
 <reg>nam</reg> si essent in vestibulo balnearum, non laterent; sin se 
 in intimum conicere vellent, nec satis commode<note>
-                     <app><lem>nec satis commode</lem></app> quomodo <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>nec satis commode</lem>
+                     </app> quomodo <foreign xml:lang="grc">ς</foreign>
                      <hi rend="italics">B</hi>
                   </note> calceati 
 et vestiti id facere possent et fortasse non reciperentur<note>reciperentur <foreign xml:lang="grc">σδ</foreign>: reciperetur <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">π</foreign>
                   </note>, nisi 
 forte mulier potens quadrantaria illa permutatione<note>
-                     <app><lem>permutatione</lem></app> pensitatione <hi rend="italics">Pantagathus</hi>
+                     <app>
+                        <lem>permutatione</lem>
+                     </app> pensitatione <hi rend="italics">Pantagathus</hi>
                   </note> familiaris<note>familiaris coeperat esse <hi rend="italics">Quintil.</hi> ix. 4. 64</note> 
 facta erat balneatori.
 
@@ -2014,7 +2237,7 @@ cum Licinius venisset, pyxidem teneret in manu, conaretur
 tradere, nondum tradidisset, tum repente evolasse istos 
 praeclaros testis sine nomine; Licinium autem, cum iam 
 manum ad tradendam pyxidem porrexisset, retraxisse atque 
-ex<note>ex <foreign xml:lang="grc">ς</foreign>: <hi rend="italics">om.</hi> 
+ex<note>ex <foreign xml:lang="grc">ς</foreign>: <hi rend="italics">om.</hi>
                      <hi rend="italics">P</hi>
                      <foreign xml:lang="grc">πδ</foreign>
                   </note> illo repentino hominum impetu se in fugam coniecisse. 
@@ -2035,7 +2258,9 @@ facile se per se ipsa<note>ipsa <foreign xml:lang="grc">ς</foreign>
                <p>
                   <reg>velut</reg>
                   <note>
-                     <app><lem>velut</lem></app> ut <foreign xml:lang="grc">ς</foreign>: verum <hi rend="italics">b</hi>1<foreign xml:lang="grc">ψ2</foreign>
+                     <app>
+                        <lem>velut</lem>
+                     </app> ut <foreign xml:lang="grc">ς</foreign>: verum <hi rend="italics">b</hi>1<foreign xml:lang="grc">ψ2</foreign>
                   </note> haec tota fabella<note>fabellarum <foreign xml:lang="grc">ς</foreign>
                   </note> 
 veteris et plurimarum fabularum poetriae quam est sine 
@@ -2050,7 +2275,9 @@ ne pyxidem traderet, quam si tradidisset? <reg>erant</reg> enim illi<note>illic 
 positi ut comprehenderent Licinium, ut manifesto Licinius 
 teneretur aut cum retineret venenum aut cum tradidisset. 
 <reg>hoc</reg> fuit totum consilium mulieris, haec istorum<note>
-                     <app><lem>istorum</lem></app> est horum <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>istorum</lem>
+                     </app> est horum <foreign xml:lang="grc">ς</foreign>
                   </note> provincia 
 qui rogati sunt; quos quidem tu quam ob rem temere 
 prosiluisse dicas atque ante tempus non reperio. <reg>fuerant</reg> 
@@ -2108,7 +2335,9 @@ exitus criminis reperietur<note>reperitur <foreign xml:lang="grc">ς</foreign>
                      <hi rend="italics">g</hi>
                   </note>. <reg>itaque</reg> haec causa ab argumentis, 
 a coniectura, ab eis<note>
-                     <app><lem>eis</lem></app> illis <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>eis</lem>
+                     </app> illis <foreign xml:lang="grc">ς</foreign>
                   </note> signis quibus veritas inlustrari solet ad 
 testis tota traducta est. <reg>quos</reg> quidem ego, iudices, testis<note>testis, iudices <hi rend="italics">T<foreign xml:lang="grc">ς</foreign>
                      </hi>
@@ -2125,7 +2354,9 @@ exspecto.
                   </note> 
 lautos iuvenes mulieris beatae ac nobilis familiaris, deinde 
 fortis viros ab imperatrice in insidiis atque in<note>
-                     <app><lem>atque in</lem></app> atque <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>atque in</lem>
+                     </app> atque <foreign xml:lang="grc">ς</foreign>
                   </note> praesidio 
 balnearum conlocatos<note>collocatos <hi rend="italics">T</hi>: locatos <hi rend="italics">P<foreign xml:lang="grc">πδ</foreign>
                      </hi>
@@ -2163,7 +2394,9 @@ capiti vero innocentis fortunisque parcant.
                   <reg>at</reg> sunt servi illi de cognatorum sententia, nobilissimorum  
 et clarissimorum hominum, manu missi. <reg>tandem</reg> aliquid 
 invenimus quod ista mulier de<note>
-                     <app><lem>de</lem></app> e <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>de</lem>
+                     </app> e <foreign xml:lang="grc">ς</foreign>
                   </note> suorum propinquorum, fortissimorum 
 virorum, sententia atque auctoritate fecisse 
 dicatur. <reg>sed</reg> scire cupio quid habeat argumenti ista manumissio; 
@@ -2183,12 +2416,16 @@ sed a te ipsa compertam deferre diceres?
                <p>
                   <reg>hic</reg> etiam 
 miramur, si illam commenticiam pyxidem obscenissima sit<note>
-                     <app><lem>sit</lem></app> est <hi rend="italics">Halm</hi>
+                     <app>
+                        <lem>sit</lem>
+                     </app> est <hi rend="italics">Halm</hi>
                   </note> 
 fabula consecuta? <reg>nihil</reg> est quod in eius modi mulierem 
 non cadere videatur. <reg>audita</reg>
                   <note>
-                     <app><lem>audita</lem></app> et pervulgata <hi rend="italics">add. bh<foreign xml:lang="grc">ψ</foreign>2</hi>
+                     <app>
+                        <lem>audita</lem>
+                     </app> et pervulgata <hi rend="italics">add. bh<foreign xml:lang="grc">ψ</foreign>2</hi>
                   </note> et percelebrata sermonibus 
 res est. <reg>percipitis</reg> animis, iudices, iam dudum quid velim 
 vel potius quid nolim dicere. <reg>quod</reg> etiam si est factum, 
@@ -2215,7 +2452,11 @@ dicerentur in istam quadrare apte viderentur.
 quantum iudicium sustineatis, quanta res sit commissa 
 vobis. <reg>de</reg> vi quaeritis. <reg>quae</reg> lex ad imperium, ad maiestatem, 
 ad statum patriae, ad salutem omnium pertinet, quam 
-legem <choice><abbr>Q.</abbr><expan>Q<ex>uintus</ex></expan></choice> Catulus armata dissensione civium rei publicae 
+legem <choice>
+                     <abbr>Q.</abbr>
+                     <expan>Q<ex>uintus</ex>
+                     </expan>
+                  </choice> Catulus armata dissensione civium rei publicae 
 paene extremis temporibus tulit, quaeque lex sedata illa 
 flamma consulatus mei fumantis reliquias coniurationis 
 exstinxit, hac nunc<note>hac nunc <hi rend="italics">Halm</hi>: hac enim <hi rend="italics">P</hi>
@@ -2230,7 +2471,11 @@ publicae poenas sed ad mulieris libidines<note>libidinosae <foreign xml:lang="gr
             </div>
             <div type="textpart" subtype="section" n="71">
                <p>
-                  <reg>atque</reg> hoc etiam loco <choice><abbr>M.</abbr><expan>M<ex>arci</ex></expan></choice>
+                  <reg>atque</reg> hoc etiam loco <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arci</ex>
+                     </expan>
+                  </choice>
                   <note>M. <hi rend="italics">om. <foreign xml:lang="grc">ς</foreign>
                      </hi>
                   </note> Camurti<note>Camurii <hi rend="italics">Garatoni</hi>
@@ -2299,7 +2544,11 @@ petere cursum laudis videretur.
             <div type="textpart" subtype="section" n="73">
                <p>
                   <reg>cum</reg> autem paulum iam roboris 
-accessisset aetati, in Africam profectus est <choice><abbr>Q.</abbr><expan>Q<ex>uinto</ex></expan></choice> Pompeio 
+accessisset aetati, in Africam profectus est <choice>
+                     <abbr>Q.</abbr>
+                     <expan>Q<ex>uinto</ex>
+                     </expan>
+                  </choice> Pompeio 
 pro consule contubernalis, castissimo homini<note>homini <hi rend="italics">A<foreign xml:lang="grc">ς</foreign>B</hi>: viro <hi rend="italics">cett.</hi>
                   </note> atque omnis  
 offici diligentissimo; in qua provincia cum res erant<note>erat <hi rend="italics">A<foreign xml:lang="grc">ς</foreign>
@@ -2315,7 +2564,9 @@ illinc Pompei iudicio probatissimus, ut ipsius testimonio
 cognoscetis. <reg>voluit</reg> vetere instituto et<note>et <foreign xml:lang="grc">ς</foreign>: <hi rend="italics">om. cott.</hi>
                   </note> eorum adulescentium 
 exemplo qui post in civitate summi viri et<note>
-                     <app><lem>viri et</lem></app> viri et clarissimi viri et <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>viri et</lem>
+                     </app> viri et clarissimi viri et <foreign xml:lang="grc">ς</foreign>
                   </note> clarissimi cives 
 exstiterunt industriam suam a populo Romano ex aliqua 
 inlustri accusatione cognosci.
@@ -2328,8 +2579,12 @@ inlustri accusatione cognosci.
                   <reg>vellem</reg> alio potius eum 
 cupiditas gloriae detulisset; sed abiit huius tempus querelae<note>sedaret huius temporis querellam <foreign xml:lang="grc">ς</foreign>
                   </note>. 
-<reg>accusavit</reg> 
-                  <choice><abbr>C.</abbr><expan>G<ex>aium</ex></expan></choice>
+<reg>accusavit</reg>
+                  <choice>
+                     <abbr>C.</abbr>
+                     <expan>G<ex>aium</ex>
+                     </expan>
+                  </choice>
                   <note>C. <hi rend="italics">om. <foreign xml:lang="grc">ς</foreign>B</hi>
                   </note> Antonium, conlegam meum, cui misero 
 praeclari in rem publicam benefici memoria nihil profuit, 
@@ -2390,7 +2645,9 @@ adulescentes refrenandi potius a gloria<note>ad gloriam <foreign xml:lang="grc">
                      <hi rend="italics">B</hi>
                   </note> quam incitandi fuerunt; 
 amputanda plura sunt illi aetati, si quidem efflorescit<note>
-                     <app><lem>efflorescit</lem></app> etflorescit <foreign xml:lang="grc">ς</foreign>
+                     <app>
+                        <lem>efflorescit</lem>
+                     </app> etflorescit <foreign xml:lang="grc">ς</foreign>
                      <hi rend="italics">P1</hi>: florescit <hi rend="italics">P2<foreign xml:lang="grc">πδ</foreign>
                      </hi>
                   </note> 
@@ -2409,7 +2666,9 @@ inimicitiis vis<note>vis <hi rend="italics">del Madvig</hi>
 horum aliquid<note>aliquod <foreign xml:lang="grc">ς</foreign>
                   </note> offendit, si purpurae genus, si amicorum 
 catervae, si splendor, si nitor, iam ista deferverint<note>
-                     <app><lem>deferv.</lem></app> deferuu. <hi rend="italics">P</hi>: deseru. <foreign xml:lang="grc">ς</foreign> (<hi rend="italics">cf.</hi> § 43)</note>, 
+                     <app>
+                        <lem>deferv.</lem>
+                     </app> deferuu. <hi rend="italics">P</hi>: deseru. <foreign xml:lang="grc">ς</foreign> (<hi rend="italics">cf.</hi> § 43)</note>, 
 iam aetas omnia, iam res, iam<note>iam res iam <foreign xml:lang="grc">σδ</foreign>: iam ista <hi rend="italics">P2 in ras.</hi>: iam usus iam <hi rend="italics">Rau</hi> (<hi rend="italics">cf. Mur.</hi> 65)</note> dies mitigarit. 
 
 <milestone n="32" unit="chapter"/>
@@ -2417,12 +2676,14 @@ iam aetas omnia, iam res, iam<note>iam res iam <foreign xml:lang="grc">σδ</for
                <p>
                   <reg>conservate</reg> igitur rei publicae, iudices, civem bonarum 
 artium, bonarum partium, bonorum virorum<note>
-                     <app><lem>virorum</lem></app> morum <hi rend="italics">Weiske</hi>: studiosum <hi rend="italics">add. Müller</hi> (<hi rend="italics">cf. Zielinski p.</hi> 208)</note>. <reg>promitto</reg> hoc 
+                     <app>
+                        <lem>virorum</lem>
+                     </app> morum <hi rend="italics">Weiske</hi>: studiosum <hi rend="italics">add. Müller</hi> (<hi rend="italics">cf. Zielinski p.</hi> 208)</note>. <reg>promitto</reg> hoc 
 vobis et rei publicae spondeo, si modo nos ipsi rei publicae 
 satis fecimus, numquam hunc a nostris rationibus seiunctum 
 fore. <reg>quod</reg> cum fretus nostra familiaritate promitto, tum 
 quod durissimis se<note>se durissimis <foreign xml:lang="grc">ς</foreign>
-                  </note> ipse legibus iam<note>iam <hi rend="italics">om.</hi> 
+                  </note> ipse legibus iam<note>iam <hi rend="italics">om.</hi>
                      <foreign xml:lang="grc">ς</foreign>
                   </note> obligavit.
 
@@ -2447,10 +2708,14 @@ quidem patiatur<note>patiatur <foreign xml:lang="grc">ς</foreign>, <hi rend="it
                      </hi>) <hi rend="italics">cett.</hi>
                   </note> esse absolutum<note>absolutum esse <foreign xml:lang="grc">ς</foreign>
                   </note> ipse impune umquam esse  
-largitor. <reg>habet</reg> a <choice><abbr>M.</abbr><expan>M<ex>arco</ex></expan></choice> Caelio res publica, iudices, duas 
+largitor. <reg>habet</reg> a <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arco</ex>
+                     </expan>
+                  </choice> Caelio res publica, iudices, duas 
 accusationes vel obsides periculi vel pignora voluntatis. 
 <reg>qua</reg> re oro obtestorque vos, iudices, ut qua in civitate paucis 
-his diebus Sex. Clodius absolutus est<note>est <foreign xml:lang="grc">ς</foreign> 
+his diebus Sex. Clodius absolutus est<note>est <foreign xml:lang="grc">ς</foreign>
                      <hi rend="italics">Baiter</hi>: sit <hi rend="italics">P<foreign xml:lang="grc">πδ</foreign>
                      </hi>
                   </note>, quem vos per biennium 
@@ -2470,7 +2735,11 @@ in ea<note>ea <foreign xml:lang="grc">ς</foreign>
                      </hi>: hac <hi rend="italics">P<foreign xml:lang="grc">π</foreign>
                      </hi>
                   </note> civitate ne patiamini illum absolutum muliebri 
-gratia, <choice><abbr>M.</abbr><expan>M<ex>arcum</ex></expan></choice> Caelium libidini muliebri<note>muliebri  <gap reason="omitted"/> muliebri] mulieris  <gap reason="omitted"/> mulieris <foreign xml:lang="grc">ς</foreign>
+gratia, <choice>
+                     <abbr>M.</abbr>
+                     <expan>M<ex>arcum</ex>
+                     </expan>
+                  </choice> Caelium libidini muliebri<note>muliebri  <gap reason="omitted"/> muliebri] mulieris  <gap reason="omitted"/> mulieris <foreign xml:lang="grc">ς</foreign>
                   </note> condonatum, ne eadem 
 mulier cum suo coniuge et fratre et turpissimum<note>et turp. <hi rend="italics">Bake</hi>: si turp. <foreign xml:lang="grc">ς</foreign>: turp. <hi rend="italics">P<foreign xml:lang="grc">πδ</foreign>
                      </hi>
@@ -2506,7 +2775,7 @@ turbine aliquo aut subita tempestate pervertere.
                   <reg>conservate</reg> 
 parenti filium, parentem filio, ne aut senectutem iam prope 
 desperatam contempsisse aut adulescentiam plenam spei  
-maximae non modo non aluisse vos<note>aluisse vos (al  <gap reason="omitted"/> 
+maximae non modo non aluisse vos<note>aluisse vos (al  <gap reason="omitted"/>
                      <hi rend="italics">P1</hi>) <hi rend="italics">P2<foreign xml:lang="grc">πδ</foreign>
                      </hi>: adlevasse <hi rend="italics">Müller</hi>
                   </note> verum<note>verum <foreign xml:lang="grc">ς</foreign>
@@ -2516,12 +2785,13 @@ maximae non modo non aluisse vos<note>aluisse vos (al  <gap reason="omitted"/>
 atque adflixisse videamini. <reg>quem</reg> si nobis, si suis, si rei 
 publicae conservatis, addictum, deditum, obstrictum vobis 
 ac liberis vestris<note>
-                     <app><lem>vestris</lem></app> servis <hi rend="italics">B</hi>: <hi rend="italics">fort.</hi> servum vestris (<hi rend="italics">cf. Mart. Cap., Rhet. M. p.</hi> 471 Caeli in omni vita servitium obstrictum vobis ac liberis vestris habebitis)</note> habebitis omniumque huius nervorum ac 
+                     <app>
+                        <lem>vestris</lem>
+                     </app> servis <hi rend="italics">B</hi>: <hi rend="italics">fort.</hi> servum vestris (<hi rend="italics">cf. Mart. Cap., Rhet. M. p.</hi> 471 Caeli in omni vita servitium obstrictum vobis ac liberis vestris habebitis)</note> habebitis omniumque huius nervorum ac 
 laborum vos potissimum, iudices, fructus uberes diuturnosque 
 capietis.  </p>
             </div>
          </div>
       </body>
    </text>
-
 </TEI>
