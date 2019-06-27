@@ -1,9 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="eng">
-      <fileDesc >
+      <fileDesc>
          <titleStmt>
             <title>De Optimo Genere Oratorum</title>
             <title type="sub">Machine readable text</title>
@@ -25,8 +24,8 @@
             <authority>Perseus Project</authority>
             <date type="release">2011-04-14</date>
          </publicationStmt>
-         <sourceDesc xmlns="http://www.tei-c.org/ns/1.0">
-            <biblStruct >
+         <sourceDesc>
+            <biblStruct>
                <monogr>
                   <author>M. Tullius Cicero</author>
                   <title>M. Tulli Ciceronis Rhetorica, Tomus II</title>
@@ -56,7 +55,7 @@
             <refState unit="section"/>
          </refsDecl>
       </encodingDesc>
-      <profileDesc >
+      <profileDesc>
          <langUsage>
             <language ident="">Latin
 	</language>
@@ -74,13 +73,13 @@
          <div xml:lang="lat"
               type="edition"
               n="urn:cts:latinLit:phi0474.phi041.perseus-lat1">
-            <head >
-               <abbr>M.<expan xmlns="http://www.tei-c.org/ns/1.0">
+            <head>
+               <abbr>M.<expan>
                      <ex>Marci</ex>
                   </expan>
                </abbr>Tvlli Ciceronis De Optimo Genere Oratorvm</head>
             <div type="textpart" n="1" subtype="section">
-               <p >
+               <p>
                   <milestone n="1" unit="chapter"/>
                   <reg>oratorvm</reg> genera esse dicuntur tamquam poetarum;
 id secus est, nam alterum est multiplex. Poematis enim
@@ -90,7 +89,7 @@ est tractatum <del>a Latinis<note>a Latinis <hi rend="italics">secl. Friedrich</
                      </note>
                   </del>, suum<note>quo ... suum <hi rend="italics">secl. Jahn</hi>
                   </note> cuiusque<note>suum cuiusque <hi rend="italics">Manutius</hi>: suum quo ius
-<hi rend="italics">GP</hi>: suumque ius <foreign xml:lang="greek">s</foreign>: suum cuivis <hi rend="italics">Jahn. Totum locum Mommsenio
+<hi rend="italics">GP</hi>: suumque ius <foreign xml:lang="greek">ς</foreign>: suum cuivis <hi rend="italics">Jahn. Totum locum Mommsenio
 duce sic refinxit Jahn</hi>: id secus est; nam alterum est multiplex poematis tragici comici epici, melici etiam ac dithyrambici, suum cuivis
 et diversum a reliquis</note> est, diversum
 a reliquis. Itaque et in tragoedia comicum vitiosum est et
@@ -101,7 +100,7 @@ certus<note>atque certus
                   </note> sonus et quaedam intellegentibus nota vox. </p>
             </div>
             <div type="textpart" n="2" subtype="section">
-               <p >
+               <p>
                   <reg>oratorum</reg> autem si quis ita numerat plura genera, ut alios grandis
 aut gravis aut copiosos, alios tenuis aut subtilis aut brevis,
 alios eis interiectos et tamquam medios putet, <hi rend="italics">de </hi>homini-
@@ -113,7 +112,7 @@ videtur, et Pacuvium tragicum et Caecilium fortasse comi-
 cum. </p>
             </div>
             <div type="textpart" n="3" subtype="section">
-               <p >
+               <p>
                   <reg>oratorem</reg> genere non divido; perfectum enim quaero. 
 Vnum est autem genus perfecti, a quo qui absunt, non
 genere differunt, ut Terentius ab Accio, sed in eodem
@@ -126,7 +125,7 @@ movet. Docere debitum est, delectare honorarium, per-
 movere necessarium. </p>
             </div>
             <div type="textpart" n="4" subtype="section">
-               <p >
+               <p>
                   <reg>haec</reg> ut alius melius quam alius,
 concedendum est; verum id fit non genere sed gradu.
 Optimum quidem unum est et proximum quod ei similli-
@@ -140,7 +139,7 @@ propriis ut lautissima eligamus, in translatis ut similitudinem
 secuti verecunde utamur alienis. </p>
             </div>
             <div type="textpart" n="5" subtype="section">
-               <p >
+               <p>
                   <reg>sententiarum</reg> autem toti- 
 dem genera sunt quot dixi esse laudum. Sunt enim
 docendi acutae, delectandi quasi argutae, commovendi
@@ -155,7 +154,7 @@ ordinem. Sed earum omnium rerum <del>ut aedificiorum<note>ut aedificiorum <hi re
 memoria est quasi fundamentum, lumen actio. </p>
             </div>
             <div type="textpart" n="6" subtype="section">
-               <p >
+               <p>
                   <reg>ea</reg> igitur
 omnia in quo summa <hi rend="italics">erunt,</hi>
                   <note>in quo summa
@@ -177,12 +176,12 @@ rem velit, etiam si est in genere tolerabili<note>tolerabile <hi rend="italics">
                   </note>, certe non est
 in optimo, si quidem, quod omnis laudes habet, id est
 optimum.</p>
-               <p >
+               <p>
                   <milestone n="3" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="7" subtype="section">
-               <p >
+               <p>
                   <reg>haec</reg> autem dixi brevius quidem quam res petebat, sed
 ad id quod agimus non fuit dicendum pluribus; unum 
 enim cum sit genus, id quale sit quaerimus. Est autem
@@ -198,7 +197,7 @@ in verbis si inquinatum, si abiectum, si non aptum, si
 durum, si longe petitum. </p>
             </div>
             <div type="textpart" n="8" subtype="section">
-               <p >
+               <p>
                   <reg>haec</reg> vitaverunt fere omnes qui 
 aut Attici numerantur aut dicunt Attice. Sed qui eatenus<note>qui eatenus <hi rend="italics">Gulielmius</hi>: quate-
 nus <hi rend="italics">codd.</hi>
@@ -217,7 +216,7 @@ quorum vitiosa abundantia est, qualis Asia multos tulit.
 Quod cum faciemus—</p>
             </div>
             <div type="textpart" n="9" subtype="section">
-               <p >
+               <p>
                   <reg>si</reg> modo id ipsum adsequemur; est 
 enim permagnum— imitemur, si potuerimus, Lysiam et eius
 quidem tenuitatem potissimum; est enim multis locis
@@ -236,7 +235,7 @@ autem oratori etiam illo modo saepe dicendum est in tali
 genere causarum. </p>
             </div>
             <div type="textpart" n="10" subtype="section">
-               <p >
+               <p>
                   <reg>ita</reg> fit ut Demosthenes certe possit sum- 
 misse dicere, elate Lysias fortasse non possit. Sed si eodem
 modo putant exercitu in foro et in omnibus templis, quae
@@ -248,7 +247,7 @@ si de re privata ad unum iudicem diceremus, vim eloquentiae
 sua facultate, non rei natura metiuntur. </p>
             </div>
             <div type="textpart" n="11" subtype="section">
-               <p >
+               <p>
                   <reg>qua</reg> re quoniam
 non nullorum sermo iam increbruit, partim se ipsos Attice
 dicere, partim neminem nostrum<note>nostrum <hi rend="italics">vulg.</hi>: vestrum <hi rend="italics">GP</hi>: nostrorum <hi rend="italics">cod. Vit.</hi>
@@ -257,14 +256,14 @@ satis enim eis res ipsa respondet, cum aut non adhibeantur
 ad causas aut adhibiti derideantur; nam si riderentur, esset 
 id ipsum Atticorum. Sed qui dici a nobis Attico more
 volunt<note>volunt
-<hi rend="italics">GP</hi>: nolunt <foreign xml:lang="greek">s</foreign>
+<hi rend="italics">GP</hi>: nolunt <foreign xml:lang="greek">ς</foreign>
                   </note>, ipsi autem se non oratores esse profitentur, si teretes
 auris habent intellegensque iudicium, tamquam ad picturam
 probandam adhibentur etiam inscii faciendi cum aliqua
 sollertia iudicandi; </p>
             </div>
             <div type="textpart" n="12" subtype="section">
-               <p >
+               <p>
                   <reg>sin</reg> autem intellegentiam ponunt in 
 audiendi fastidio neque eos quicquam excelsum magnificumque delectat, dicant se quiddam subtile et politum
 velle, grande ornatumque contemnere; id vero desinant
@@ -279,7 +278,7 @@ bilem esse cupiamus? Non enim iam quaerimus quid sit
 Attice, sed quid sit optime dicere. </p>
             </div>
             <div type="textpart" n="13" subtype="section">
-               <p >
+               <p>
                   <reg>ex</reg> quo intellegitur,
 quoniam Graecorum oratorum praestantissimi sint ei qui 
 fuerint Athenis, eorum autem princeps facile Demosthenes,
@@ -289,13 +288,13 @@ dicere id sit Attice dicere<note>ut, quoniam ... dicere
 <hi rend="italics">post </hi>Atticorum est legere maluit <hi rend="italics">Lachmann</hi>: utique ... est <hi rend="italics">maluit
 Hedicke</hi>
                   </note>.</p>
-               <p >
+               <p>
                   <milestone n="5" unit="chapter"/>Sed cum in eo magnus error esset, quale esset id dicendi 
 genus, putavi mihi suscipiendum laborem utilem studiosis,
 mihi quidem ipsi non necessarium. </p>
             </div>
             <div type="textpart" n="14" subtype="section">
-               <p >
+               <p>
                   <reg>converti</reg> enim ex
 Atticis duorum eloquentissimorum nobilissimas orationes
 inter seque contrarias, Aeschini <hi rend="italics">et</hi>
@@ -314,7 +313,7 @@ enim ea me adnumerare lectori putavi oportere, sed tam-
 quam appendere. </p>
             </div>
             <div type="textpart" n="15" subtype="section">
-               <p >
+               <p>
                   <reg>hic</reg> labor meus hoc adsequetur<note>adsequetur <hi rend="italics">Ascensius</hi>: adscquitur <hi rend="italics">codd.</hi>
                   </note>, ut nostri 
 homines quid ab illis exigant, qui se Atticos volunt, et ad
@@ -332,7 +331,7 @@ aliud narrantem tenere auditorem, aliud concitare<note>concitare <hi rend="itali
 loquitur pulchre.' </p>
             </div>
             <div type="textpart" n="16" subtype="section">
-               <p >
+               <p>
                   <reg>num</reg> melius quam Plato? Necesse est 
 tamen oratori quem quaerimus controversias explicare<note>explicare <hi rend="italics">Aldus</hi>: explicantem <hi rend="italics">GP</hi>: an explicantem ... genere uti
 apto? <hi rend="italics">Friedrich</hi>
@@ -348,7 +347,7 @@ si <hi rend="italics">GP</hi>: (et) qui <hi rend="italics">codd. dett.</hi>
 sententiam. </p>
             </div>
             <div type="textpart" n="17" subtype="section">
-               <p >
+               <p>
                   <reg>quin</reg> ipsum Isocratem, quem divinus auctor 
 Plato suum fere aequalem admirabiliter in Phaedro laudari
 fecit ab Socrate quemque omnes docti summum<note>docti summurn <hi rend="italics">vulg.</hi>: doctissimum
@@ -373,11 +372,11 @@ sed acer et doctus
                      <l part="I">post homines natos—.</l>
                   </quote>
                </p>
-               <p >Nihil enim illo oratore arbitror cogitari posse divinius.
+               <p>Nihil enim illo oratore arbitror cogitari posse divinius.
 </p>
             </div>
             <div type="textpart" n="18" subtype="section">
-               <p >Huic labori nostro duo genera reprehensionum<note>reprehensorum
+               <p>Huic labori nostro duo genera reprehensionum<note>reprehensorum
 <hi rend="italics">maluit Manutius</hi>
                   </note> oppo-
 nuntur. Vnum hoc: 'Verum<note>verum <hi rend="italics">vulg.</hi>: verbum <hi rend="italics">codd.</hi>
@@ -398,12 +397,12 @@ Sophoclem legunt<note>sed tamen... legunt <hi rend="italics">secl. Jahn </hi>(En
                   </del>. Quod igitur est eorum in orationibus
 e Graeco<note>e Graeco <hi rend="italics">Lambinus</hi>: a greco <hi rend="italics">GP</hi>
                   </note> conversis fastidium, nullum cum sit in versibus ?</p>
-               <p >
+               <p>
                   <milestone n="7" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="19" subtype="section">
-               <p >Sed adgrediamur iam quod suscepimus, si prius exposue- 
+               <p>Sed adgrediamur iam quod suscepimus, si prius exposue- 
 rimus quae causa in iudicium deducta sit. Cum esset lex
 Athenis, NE .QVIS POPVLI SCITVM FACERET, VT QVISQVAM
 CORONA DONARETVR IN MAGISTRATV PRIVS QVAM RATIONES
@@ -424,7 +423,7 @@ VIRTVTIS ERGO BENEVOLENTIAEQVE QVAM IS ERGA POPVLVM
 ATHENIENSEM HABERET. </p>
             </div>
             <div type="textpart" n="20" subtype="section">
-               <p >
+               <p>
                   <reg>hunc</reg> igitur Ctesiphontem in
 iudicium adduxit Aeschines, quod contra leges scripsisset,
 
@@ -439,7 +438,7 @@ partem et meritorum in rem publicam contentionem sane
 gravem. </p>
             </div>
             <div type="textpart" n="21" subtype="section">
-               <p >
+               <p>
                   <reg>itaque</reg> causa fuit Aeschini, cum ipse a Demo- 
 sthene esset capitis accusatus, quod legationem ementitus
 esset, ut ulciscendi inimici causa nomine Ctesiphontis
@@ -450,7 +449,7 @@ tam multa <hi rend="italics">dixit</hi>
 civis improbus ut optimus laudatus esset. </p>
             </div>
             <div type="textpart" n="22" subtype="section">
-               <p >
+               <p>
                   <reg>hanc</reg> multam 
 Aeschines a Ctesiphonte petivit quadriennio ante Philippi
 Macedonis mortem; sed iudicium factum est aliquot annis
@@ -461,7 +460,7 @@ oratorum in gravissima causa accurata et inimicitiis incensa
 contentio? </p>
             </div>
             <div type="textpart" n="23" subtype="section">
-               <p >
+               <p>
                   <reg>quorum</reg> ego<note>ego <hi rend="italics">vulg.</hi>: ergo <hi rend="italics">GP</hi>
                   </note> orationes si, ut<note>si ut <hi rend="italics">vulg.</hi>:
 sicut <hi rend="italics">codd.</hi>

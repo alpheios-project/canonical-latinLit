@@ -1,9 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="eng">
-      <fileDesc >
+      <fileDesc>
          <titleStmt>
             <title>Lucullus</title>
             <author>M. Tullius Cicero</author>
@@ -26,8 +25,8 @@
             <authority>Perseus Project</authority>
             <date type="release">2009-10-07</date>
          </publicationStmt>
-         <sourceDesc xmlns="http://www.tei-c.org/ns/1.0">
-            <biblStruct >
+         <sourceDesc>
+            <biblStruct>
                <monogr>
                   <title>Academicorum reliquiae cum Lucullo</title>
                   <author>M. Tullius Cicero</author>
@@ -53,23 +52,23 @@
             <refState unit="section"/>
          </refsDecl>
       </encodingDesc>
-      <profileDesc >
+      <profileDesc>
          <langUsage>
             <language ident="lat">Latin</language>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
       </profileDesc>
       <revisionDesc>
-<change who="balmas01" when="2013-09-13">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
-<change who="gcrane" when="2013-06-08">TEI XML converted to facilitate CTS compatibility</change>
-<change who="gcrane" when="2011-01-15">base SDL file</change>
-<change who="rsingh04" when="2009-10-09">more reorganizing of texts module by collection</change>
-<change who="rsingh04" when="2009-09-14">added a bunch of cicero texts, removed old cicero files that aren't used</change>
-<change who="ajones06" when="2009-09-10">Fixed some of the metadata for the Cicero philosophical works.</change>
-<change who="gcrane" when="2009-09-09">base files</change>
-<change who="gcrane" when="2006-05-05">fixed the page numbers and the tei header</change>
-<change who="gcrane" when="2006-05-04">entered repository</change>
-<change who="gcrane" when="2006-05-04">added to repository</change>
+         <change who="balmas01" when="2013-09-13">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
+         <change who="gcrane" when="2013-06-08">TEI XML converted to facilitate CTS compatibility</change>
+         <change who="gcrane" when="2011-01-15">base SDL file</change>
+         <change who="rsingh04" when="2009-10-09">more reorganizing of texts module by collection</change>
+         <change who="rsingh04" when="2009-09-14">added a bunch of cicero texts, removed old cicero files that aren't used</change>
+         <change who="ajones06" when="2009-09-10">Fixed some of the metadata for the Cicero philosophical works.</change>
+         <change who="gcrane" when="2009-09-09">base files</change>
+         <change who="gcrane" when="2006-05-05">fixed the page numbers and the tei header</change>
+         <change who="gcrane" when="2006-05-04">entered repository</change>
+         <change who="gcrane" when="2006-05-04">added to repository</change>
 
          <change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change>
       </revisionDesc>
@@ -80,9 +79,9 @@
               type="edition"
               n="urn:cts:latinLit:phi0474.phi046.perseus-lat1">
             <pb n="p.26"/>
-            <milestone  unit="chapter" n="1"/>
+            <milestone unit="chapter" n="1"/>
             <div type="textpart" n="1" subtype="section">
-               <p >Magnum<note>
+               <p>Magnum<note>
                      <hi rend="italics">cf. testim.</hi>
                   </note> ingenium L. Luculli magnumque optimarum artium studium, turn omnis liberalis et digna
 homine nobili ab eo percepta<note>per accepta V cepta B<hi rend="sup">1</hi>
@@ -111,7 +110,7 @@ virtute eius erat sed etiam gloriam superiorum;
 </p>
             </div>
             <div type="textpart" n="2" subtype="section">
-               <p >idque eo fuit mirabilius quod ab eo laus imperatoria non admodum expectabatur,<note>expectabatur <hi rend="italics">dett. Rom.</hi> spect-AVB</note> qui adulescentiam<note>adulescentia A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B</note>
+               <p>idque eo fuit mirabilius quod ab eo laus imperatoria non admodum expectabatur,<note>expectabatur <hi rend="italics">dett. Rom.</hi> spect-AVB</note> qui adulescentiam<note>adulescentia A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B</note>
 in forensi opera, quaesturae diuturnum tempus Murena
 bellum in Ponto gerente in Asiae pace consumpserat.
 sed incredibilis quaedam ingenii magnitude non desideravit indocilem usus disciplinam. itaque cum totum
@@ -141,7 +140,7 @@ quaecumque audierat<note>aut A<hi rend="sup">2</hi>B</note> et viderat. tali ing
 ille in animo res insculptas habebat.</p>
             </div>
             <div type="textpart" n="3" subtype="section">
-               <p > tantus ergo imperator in omni genere belli fuit, proeliis oppugnationibus navalibus pugnis totiusque belli instrunmento
+               <p> tantus ergo imperator in omni genere belli fuit, proeliis oppugnationibus navalibus pugnis totiusque belli instrunmento
 et adparatu, ut ille rex post Alexandrum maxumus
 hunc a se maiorem ducem cognitum quam quemquam
 eorum quos legisset fateretur. in eodem tanta prudentia fuit in constituendis temperandisque civitatibus.
@@ -158,11 +157,11 @@ tum in maximis rebus profuisset dicerem, nisi de me
 ipso dicendum esset, quod hoc tempore non est necesse; ita privabo potius illum debito testimonio quam
 id cum mea<note>cumea A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
                   </note> laude communicenm.</p>
-               <milestone  unit="chapter" n="2"/>
-               <p />
+               <milestone unit="chapter" n="2"/>
+               <p/>
             </div>
             <div type="textpart" n="4" subtype="section">
-               <p >Sed quae populari gloria decorari in Lucullo debuerunt, ea fere sunt et Graecis litteris celebrata et
+               <p>Sed quae populari gloria decorari in Lucullo debuerunt, ea fere sunt et Graecis litteris celebrata et
 Latinis. nos autem illa externa cum multis, haec
 
 <pb n="p.28"/>
@@ -187,10 +186,10 @@ saepe audiendo facile cognovit quae vel semel audita
 meminisse potuisset. delectabatur autem mirifice lectione librorum de quibus audiebat.<note>audierat <hi rend="italics">Ern.</hi>
                   </note>
                </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="5" subtype="section">
-               <p >Ac vereor interdum ne talium personarum cum
+               <p>Ac vereor interdum ne talium personarum cum
 amplificare velim minuam etiam gloriam. sunt enim
 multi qui omnino Graecas non ament litteras, plures
 qui<note>qui <hi rend="italics">om.</hi> A<hi rend="sup">1</hi>
@@ -206,7 +205,7 @@ requiro.
 </p>
             </div>
             <div type="textpart" n="6" subtype="section">
-               <p >Restat ut iis respondeam qui sermonibus
+               <p>Restat ut iis respondeam qui sermonibus
 eius modi nolint personas tam graves inligari. quasi
 vero clarorum virorum aut tacitos congressus<note>congressos AB<hi rend="sup">p</hi>
                   </note> esse
@@ -232,18 +231,18 @@ otium nostrum, qui in eo non modo nosmet ipsos
 hebescere et languere nolumus sed etiam ut plurimis
 prosimus enitimur. Gloriam vero non modo non minui
 sed etiam augeri arbitramur eorum quorum ad populares inlustrisque laudes has etiam minus notas minusque pervolgatas adiungimus.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="7" subtype="section">
-               <p >Sunt etiam, qui negent in is qui <add>in</add>
+               <p>Sunt etiam, qui negent in is qui <add>in</add>
                   <note>
                      <hi rend="italics">add. Asc.</hi>
                   </note> nostris libris
 disputent fuisse earum rerum de quibus disputatur
 15 scientiam. qui mihi videntur non solum vivis sed etiam
 mortuis invidere.</p>
-               <milestone  unit="chapter" n="3"/>
-               <p >Restat unum genus reprehensorum, quibus Academiae ratio non probatur. quod gravius ferremus,
+               <milestone unit="chapter" n="3"/>
+               <p>Restat unum genus reprehensorum, quibus Academiae ratio non probatur. quod gravius ferremus,
 si quisquam ullam disciplinam philosophiae probaret
 praeter eam quam ipse sequeretur; nos autem quoniam contra omnes qui ** dicere quae<note>omnes dicere quae uid. A<hi rend="sup">2</hi>V<hi rend="sup">2</hi> o. d. qui scire sibi uid. V<hi rend="sup">m</hi>; <add>se scire arbitrantur</add> 
                      <hi rend="italics">Ha.</hi> 
@@ -271,7 +270,7 @@ aut verum sit aut ad id quam proxime accedat;
 </p>
             </div>
             <div type="textpart" n="8" subtype="section">
-               <p >nec
+               <p>nec
 inter nos et eos qui se scire arbitrantur quicquam
 interest nisi quod illi non dubitant quin ea vera sint
 quae defendunt, nos probabilia multa habemus, quae 5
@@ -296,7 +295,7 @@ eam tamquam ad saxum adhaerescunt.
 </p>
             </div>
             <div type="textpart" n="9" subtype="section">
-               <p >nam quod
+               <p>nam quod
 dicunt omnia se credere ei quem iudicent fuisse sapientem, probarem, si id ipsum rudes et indocti iudicare
 potuissent (statuere enim qui sit sapiens vel maxime
 videtur esse sapientis). sled ut potuerint,<note>potuerint <hi rend="italics">Lb.</hi> -runt AVB; <add>aut</add> (<hi rend="italics">an</hi> potue<add>rint, aut, ut debue</add>runt) <hi rend="italics">Pl.</hi>
@@ -304,7 +303,7 @@ videtur esse sapientis). sled ut potuerint,<note>potuerint <hi rend="italics">Lb
                   <add>aut</add> omnibus rebus auditis, cognitis etiam reliquorum sententiis
 iudicaverunt, aut re semel audita ad unius se auctoritatem contulerunt; sed nescio quo modo pleriqueerrare
 malunt eamque sententiam quam adamaverunt pugnacissime defendere quam sine pertinacia quid constantissime dicatur exquirere.</p>
-               <p >Quibus de rebus et alias saepe nobis multa quaesita et disputata sunt et quondam in Hortensi villa
+               <p>Quibus de rebus et alias saepe nobis multa quaesita et disputata sunt et quondam in Hortensi villa
 quae est ad Baulos, cum eo Catulus et Lucullus
 nosque ipsi postridie venissemus quam apud Catulum
 fuissemus. quo quidem etiam maturius venimus, quod
@@ -314,22 +313,22 @@ erat constitutum si ventus esset Lucullo in Neapolitanum mihi in Pompeianum navi
 
 pauca in xysto locuti essemus, tum eodem in spatio
 consedimus.</p>
-               <milestone  unit="chapter" n="4"/>
-               <p />
+               <milestone unit="chapter" n="4"/>
+               <p/>
             </div>
             <div type="textpart" n="10" subtype="section">
-               <p >Hic Catulus 'Etsi heri' inquit 'id quod quaerebatur
+               <p>Hic Catulus 'Etsi heri' inquit 'id quod quaerebatur
 paene explicatum est, ut tota fere quaestio tractata
 videatur, tamen expecto ea quae te pollicitus es Luculle
 ab Antiocho audita dicturum.'</p>
-               <p >'Equidem' inquit Hortensius 'feci plus quam vellem;
+               <p>'Equidem' inquit Hortensius 'feci plus quam vellem;
 totam enim rem Catule Lucullo<note>Catule Lucullo <hi rend="italics">Pl.</hi> catulo AVB Lucullo <hi rend="italics">dett. Ven.</hi>
                      <hi rend="sup">2</hi>
                   </note> integram servatam
 oportuit. et tamen fortasse servata est; a me enim
 ea quae in promptu erant dicta sunt, a Lucullo autem
 reconditiora desidero.'</p>
-               <p >Tum ille 'Non sane' inquit 'Hortensi conturbat me
+               <p>Tum ille 'Non sane' inquit 'Hortensi conturbat me
 expectatio tua, etsi nihil est iis qui placere volunt tam
 adversarium; sed quia non laboro quam <del>quam<note>
                         <hi rend="italics">de. Rom.</hi>
@@ -347,11 +346,11 @@ igitur sicut Antiochus agebat. nota enim mihi res
 est; nam et vacuo animo ilium audiebam et magno
 studio, eadem de re etiam saepius: ut etiam maiorer
 expectationem mei faciam quam modo fecit Hortensius.'</p>
-               <p >Cum ita esset exorsus, ad audiendum animos ereximus.</p>
-               <p />
+               <p>Cum ita esset exorsus, ad audiendum animos ereximus.</p>
+               <p/>
             </div>
             <div type="textpart" n="11" subtype="section">
-               <p >
+               <p>
                   <hi rend="italics">LUC.</hi> At ille 'Cum Alexandriae pro quaestore' inquit
 'essem, fuit Antiochus mecum, et erat iam antea
 Alexandriae<note>essem <hi rend="italics">Rom.</hi> issem AVB</note> familiaris Antiochi Heraclitus Tyrius, qui
@@ -378,7 +377,7 @@ dicerent descripsisse.
 </p>
             </div>
             <div type="textpart" n="12" subtype="section">
-               <p >tum et illi<note>ille B<hi rend="sup">1</hi> illa A<hi rend="sup">2</hi>V<hi rend="sup">2</hi>B<hi rend="sup">2</hi>
+               <p>tum et illi<note>ille B<hi rend="sup">1</hi> illa A<hi rend="sup">2</hi>V<hi rend="sup">2</hi>B<hi rend="sup">2</hi>
                   </note> dixit Antiochus
 quae heri Catulus commemoravit a patre suo dicta
 Philoni et alia plura; nec se tenuit quin contra suum
@@ -392,11 +391,11 @@ multum temporis in ista una disputatione consumpsimus. sed ea pars quae contra P
 praetermittenda est; minus enim acer est adversarius
 is qui ista quae sunt heri defensa negat Academicos
 omnino dicere; etsi enim mentitur, tamen est adversarius lenior. ad Arcesilan Carneademque veniamus.'</p>
-               <milestone  unit="chapter" n="5"/>
-               <p />
+               <milestone unit="chapter" n="5"/>
+               <p/>
             </div>
             <div type="textpart" n="13" subtype="section">
-               <p >Quae cum dixisset, sic rursus exorsus est: 'Primum mihi videmini' (me autem nomine appellabat)
+               <p>Quae cum dixisset, sic rursus exorsus est: 'Primum mihi videmini' (me autem nomine appellabat)
 'cum veteres physicos nominatis facere idem quod
 
 <pb n="p.33"/>
@@ -426,7 +425,7 @@ sequi dicunt.
 </p>
             </div>
             <div type="textpart" n="14" subtype="section">
-               <p >similiter<note>similiter <hi rend="italics">A</hi>
+               <p>similiter<note>similiter <hi rend="italics">A</hi>
                      <hi rend="sup">1</hi> 
                      <hi rend="italics">dett. Ven.</hi>
                      <hi rend="sup">2</hi> -de A<hi rend="sup">2</hi>VB</note> vos cum perturbare ut illi
@@ -441,7 +440,7 @@ it posse reperire; maiorem autem partem mihi quidem omnes isti videntur nimis et
 </p>
             </div>
             <div type="textpart" n="15" subtype="section">
-               <p >Quod<note>
+               <p>Quod<note>
                      <hi rend="italics">cf. p. 64, 6–9</hi>
                   </note> si
 
@@ -461,16 +460,16 @@ magis quam sententiis dissenserunt, — Socrates autem
 de se ipse detrahens in disputatione plus tribuebat is
 quos volebat refellere; ita cum aliud diceret atque
 sentiret, libenter uti solitus est<note>est <hi rend="italics">dett. Rom.</hi> esset AVB</note> ea dissimulatione
-quam Graeci <foreign xml:lang="greek">ei)rwnei/an</foreign> vocant; quam ait etiam in
+quam Graeci <foreign xml:lang="greek">εἰρωνείαν</foreign> vocant; quam ait etiam in
 Africano fuisse Fannius,<note>
                      <add>p.</add> fannius B<hi rend="sup">2</hi>. <hi rend="italics">cf. de orat. 2, 270 Brut. 299</hi>
                   </note> idque propterea vitiosum in
 illo non putandum quod idem fuerit in Socrate.</p>
-               <milestone  unit="chapter" n="6"/>
-               <p />
+               <milestone unit="chapter" n="6"/>
+               <p/>
             </div>
             <div type="textpart" n="16" subtype="section">
-               <p >Sed<note>AC. III dissim. <hi rend="italics">cf. quint. inst. 9, 2, 44</hi>
+               <p>Sed<note>AC. III dissim. <hi rend="italics">cf. quint. inst. 9, 2, 44</hi>
                   </note> fuerint illa vetera si voltis incognita: nihilne
 est igitur actum, quod investigata sunt, postea quam
 Arcesilas Zenoni ut putatur obtrectans nihil novi
@@ -492,10 +491,10 @@ Charmada eloquentiae, in Melanthio Rhodio suavitatis; bene autem nosse Carneaden
 </p>
             </div>
             <div type="textpart" n="17" subtype="section">
-               <p >iam Clitomacho Philo vester operam
+               <p>iam Clitomacho Philo vester operam
 multos annos dedit. Philone autem vivo patrocinium
 Academiae non defuit.</p>
-               <p >Sed, quod nos facere nunc ingredinur,<note>inegredimur A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B<hi rend="sup">1</hi> aggr- V<hi rend="sup">2</hi>
+               <p>Sed, quod nos facere nunc ingredinur,<note>inegredimur A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B<hi rend="sup">1</hi> aggr- V<hi rend="sup">2</hi>
                   </note> ut contra
 Academicos disseramus, id quidam e philosophis et
 i quidem non mediocres faciundum omnino non putabant, nec vero esse ullam rationem<note>uerum <hi rend="italics">A</hi>
@@ -504,9 +503,9 @@ qui nihil probarent, Antipatrumque Stoicum qui
 multus in eo fuisset reprehendebant; nec definiri
 aiebant necesse esse quid esset cognitio aut perceptio
 aut, si verbum e verbo volumus, conprehensio, quam
-<foreign xml:lang="greek">kata/lhmyin</foreign> illi vocant; eosque qui persuadere vellent
+<foreign xml:lang="greek">κατάλημψιν</foreign> illi vocant; eosque qui persuadere vellent
 esse aliquid quod<note>aliquid F<hi rend="sup">2</hi> -quod AVB</note> conprehendi et percipi posset inscienter facere dicebant, propterea quod nihil esset
-clarius <foreign xml:lang="greek">e)nargei/a|</foreign>
+clarius <foreign xml:lang="greek">ἐναργείᾳ</foreign>
                   <note>enargia <hi rend="italics">Budaeus in Crat.</hi>
                   </note>
                   <note>senergea A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
@@ -523,22 +522,22 @@ priores fuisse dicturos, sed ad ea quae contra dicerentur dici oportere putabant
 </p>
             </div>
             <div type="textpart" n="18" subtype="section">
-               <p >Plerique
+               <p>Plerique
 tamen et definitiones ipsarum etiam evidentium rerum
 
 <pb n="p.36"/>
 
 non inprobant et rem idoneam de qua quaeratur et
 homines dignos quibuscum disseratur putant.</p>
-               <p >Philo autem dum nova quaedam commovet, quod
+               <p>Philo autem dum nova quaedam commovet, quod
 ea sustinere vix poterat quae contra Academicorum
 pertinaciam dicebantur, et aperte mentitur ut est reprehensus a patre Catulo,<note>Catuli <hi rend="italics">ex</hi> '<hi rend="italics">antiquo libro</hi>' <hi rend="italics">Man.</hi>
                   </note> et ut docuit Antiochus in id
 ipsum se induit quod timebat. cum enim ita negaret
-quicquam esse quod conprehendi posset (id enim volumus esse <foreign xml:lang="greek">a)kata/lhmpton</foreign>),<note>
+quicquam esse quod conprehendi posset (id enim volumus esse <foreign xml:lang="greek">ἀκατάλημπτον</foreign>),<note>
                      <hi rend="italics">cf. p. 17, 8</hi>
                   </note> si illud esset, sicut Zeno
-definiret, tale visum (iam enim hoc pro <foreign xml:lang="greek">famtasi/a|</foreign> verbum satis hesterno sermone trivimus) — visum igitur
+definiret, tale visum (iam enim hoc pro <foreign xml:lang="greek">φαμτασίᾳ</foreign> verbum satis hesterno sermone trivimus) — visum igitur
 inpressum<note>
                      <hi rend="italics">s. cf. p. 64, 21 ss. diog. L. 7, 50</hi>
                   </note> effictumque<note>effictumque <hi rend="italics">dett. Ven.</hi>
@@ -556,11 +555,11 @@ Academiam suscipitur a nobis, ut retineamus<note>reteneamus A<hi rend="sup">1</h
                   </note> eam
 definitionem quam Philo voluit evertere; quam nisi
 optinemus, percipi nihil posse concedimus.</p>
-               <milestone  unit="chapter" n="7"/>
-               <p />
+               <milestone unit="chapter" n="7"/>
+               <p/>
             </div>
             <div type="textpart" n="19" subtype="section">
-               <p >Ordiamur igitur a sensibus. quorum ita clara
+               <p>Ordiamur igitur a sensibus. quorum ita clara
 iudicia et certa sunt, ut, si optio naturae nostrae
 detur et ab ea deus aliqui requirat contentane sit
 suis integris incorruptisque sensibus an postulet
@@ -584,7 +583,7 @@ cuiusque generis iudicium requirat acrius.
 </p>
             </div>
             <div type="textpart" n="20" subtype="section">
-               <p >Adhibita
+               <p>Adhibita
 vero exercitatione et arte, ut<note>ut V<hi rend="sup">2</hi> et AV<hi rend="sup">1</hi>B</note> oculi pictura teneantur
 aures cantibus, quis est quin cernat quanta vis sit
 in sensibus. quam multa<note>multi VB<hi rend="sup">1</hi>
@@ -605,13 +604,13 @@ sentiatur<note>cui adsentiantur <hi rend="italics">Guy.</hi> -atur (<hi rend="it
                   </note> — </p>
             </div>
             <div type="textpart" n="21" subtype="section">
-               <p >potestne igitur quisquam dicere inter
+               <p>potestne igitur quisquam dicere inter
 eum qui doleat et inter eum qui in voluptate sit
 nihil interesse, aut ita qui<note>quis A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
                   </note> sentiet<note>sentient B<hi rend="sup">1</hi> -at <hi rend="italics">dett. Ald.</hi>
                   </note> non apertissime
 insaniat?</p>
-               <p >
+               <p>
                   <milestone n="(21)" unit="section"/>Atqui qualia sunt haec quae sensibus percipi dicimus
 talia secuntur ea quae non sensibus ipsis percipi dicuntur sed quodam modo sensibus, ut haec: 'illud
 est album, hoc dulce, canorum illud, hoc bene olens.
@@ -630,8 +629,8 @@ particeps'. Quo e genere nobis notitiae rerum inprimuntur, sine quibus nec intel
 </p>
             </div>
             <div type="textpart" n="22" subtype="section">
-               <p >quod si essent falsae notitiae
-(<foreign xml:lang="greek">e)nnoi/as</foreign> enim notitias appellare tu videbare) — si
+               <p>quod si essent falsae notitiae
+(<foreign xml:lang="greek">ἐννοίας</foreign> enim notitias appellare tu videbare) — si
 igitur essent eae falsae aut eius modi visis inpressae
 qualia visa a falsis discerni<note>discerne B<hi rend="sup">1</hi>
                      <del>
@@ -664,11 +663,11 @@ in similibus quoque artibus continget, quarum omne
 opus est in faciendo atque agendo. quid enim est
 quod arte effici possit<note>posset AV<hi rend="sup">1</hi>B</note> nisi is qui artem tractabit multa
 perceperit?</p>
-               <milestone  unit="chapter" n="8"/>
-               <p />
+               <milestone unit="chapter" n="8"/>
+               <p/>
             </div>
             <div type="textpart" n="23" subtype="section">
-               <p >Maxime vero virtutum cognitio confirmat percipi 
+               <p>Maxime vero virtutum cognitio confirmat percipi 
 
 <pb n="p.39"/>
 
@@ -693,7 +692,7 @@ quae falsae esse non possint.
 </p>
             </div>
             <div type="textpart" n="24" subtype="section">
-               <p >Ipsa vero sapientia si
+               <p>Ipsa vero sapientia si
 se ignorabit sapientia sit necne, quo modo primum
 obtinebit nomen sapientiae? deinde<note>dein B</note> quo modo suscipere aliquam rem aut agere fidenter audebit, cum
 certi nihil erit quod sequatur? cum vero dubitabit<note>dubitauit A<hi rend="sup">1</hi>VB<hi rend="sup">1</hi> 30 <hi rend="italics">cf. p. 25, 11</hi>
@@ -702,12 +701,12 @@ quid sit extremum et ultimum bonorum, ignorans quo
 omnia referantur, qui poterit esse sapientia? Atque
 etiam illud perspicuum est, constitui necesse esse initium
 quod sapientia cum quid agere incipiat sequatur, idque
-initium esse naturae accommodatum. nam aliter adpetitio (eam enim volumus esse <foreign xml:lang="greek">o(rmh\n</foreign> qua ad agendum impellimur et id adpetimus quod est visum)
+initium esse naturae accommodatum. nam aliter adpetitio (eam enim volumus esse <foreign xml:lang="greek">ὁρμὴν</foreign> qua ad agendum impellimur et id adpetimus quod est visum)
 moveri non potest.
 </p>
             </div>
             <div type="textpart" n="25" subtype="section">
-               <p >illud autem quod movet prius
+               <p>illud autem quod movet prius
 oportet videri eique credi; quod fieri non potest, si
 id quod visum erit discerni non poterit a falso. quo
 modo autem moveri animus ad adpetendum potest,
@@ -719,10 +718,10 @@ sit non occurrit animo, nihil umquam omnino aget,
 
 ad nullam rem umquam inpelletur, numquam movebitur. quod si aliquid aliquando acturus est, necesse est
 id ei verum quod occurrit videri.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="26" subtype="section">
-               <p >Quid quod, si ista vera sunt, ratio omnis tollitur
+               <p>Quid quod, si ista vera sunt, ratio omnis tollitur
 quasi quaedam lux lumenque vitae: tamenne in ista
 pravitate perstabitis?<note>peraestabitis <hi rend="italics">A</hi>
                      <hi rend="sup">1</hi>
@@ -757,13 +756,13 @@ initium quaerendi et exitus<note>exitum <hi rend="italics">Lb.</hi>
                   </note>
 tenet.<note>tenetur <hi rend="italics">Bentl.</hi>
                   </note> itaque<note>itaque <hi rend="italics">om.</hi> A<hi rend="sup">1</hi>V</note> argumenti conclusio, quae est Graece
-<foreign xml:lang="greek">a)po/deicis</foreign>, ita definitur: 'ratio quae ex rebus perceptis
+<foreign xml:lang="greek">ἀπόδειξις</foreign>, ita definitur: 'ratio quae ex rebus perceptis
 ad id quod non percipiebatur adducit'.
 	<milestone unit="chapter" n="9"/>
                </p>
             </div>
             <div type="textpart" n="27" subtype="section">
-               <p >quod si omnia
+               <p>quod si omnia
 visa eius modi essent qualia isti<note>ista A<hi rend="sup">1</hi>VB<hi rend="sup">1</hi>
                   </note> dicunt, ut ea vel falsa
 esse possent neque ea posset ulla notio discernere,
@@ -772,7 +771,7 @@ quo modo quemquam aut conclusisse aliquid aut invenisse dicemus,<note>diceremus 
 fides? ipsa autem philosophia, quae rationibus progredi debet, quem habebit exitum? sapientiae vero
 quid futurum est, quae neque de se ipsa dubitare
 debet neque de suis decretis (quae philosophi vocant
-<foreign xml:lang="greek">do/gmata</foreign>), quorum nullum sine scelere prodi poterit;
+<foreign xml:lang="greek">δόγματα</foreign>), quorum nullum sine scelere prodi poterit;
 cum enim decretum proditur, lex veri rectique proditur, quo e vitio et amicitiarum proditiones et rerum
 publicarum nasci solent; non potest igitur dubitari
 quin decretum nullum falsum possit esse sapientis
@@ -791,10 +790,10 @@ ratum esse debeat, quod movere nulla ratio queat;
 talia autem neque esse neque videri possunt eorum
 ratione qui illa visa e quibus omnia decreta sunt nata
 negant quicquam a falsis interesse.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="28" subtype="section">
-               <p >Ex hoc illud est natum, quod postulabat Hortensius,
+               <p>Ex hoc illud est natum, quod postulabat Hortensius,
 ut id ipsum saltem perceptum a sapiente dioeretis,
 nihil posse percipi. Sed Antipatro hoc idem postulanti,
 cum diceret ei qui adfirmaret nihil posse percipi<note>pos | posse (<hi rend="italics">om.</hi> percipi) B</note> 
@@ -813,8 +812,8 @@ modo posse.
 </p>
             </div>
             <div type="textpart" n="29" subtype="section">
-               <p >Antiochus ad istum locum pressius videbatur accedere. quoniam enim id haberent Academici
-decretum (sentitis enim iam hoc me <foreign xml:lang="greek">do/gma</foreign> dicere),
+               <p>Antiochus ad istum locum pressius videbatur accedere. quoniam enim id haberent Academici
+decretum (sentitis enim iam hoc me <foreign xml:lang="greek">δόγμα</foreign> dicere),
 nihil posse percipi, non debere eos in suo decreto
 sicut in ceteris rebus fluctuari,<note>fluctuare V<hi rend="sup">2</hi>
                   </note> praesertim cum in eo
@@ -838,11 +837,11 @@ potius erat ab his postulandum ut hoc unum saltem,
 percipi nihil posse, perceptum esse dicerent. Sed de
 inconstantia totius illorum sententiae — si ulla sententia cuiusquam esse potest nihil adprobantis — sit ut
 opinor dictum satis.</p>
-               <milestone  unit="chapter" n="10"/>
-               <p />
+               <milestone unit="chapter" n="10"/>
+               <p/>
             </div>
             <div type="textpart" n="30" subtype="section">
-               <p >Sequitur disputatio copiosa illa quidem sed paulo
+               <p>Sequitur disputatio copiosa illa quidem sed paulo
 abstrusior — habet enim aliquantum a physicis, ut
 verear ne maiorem largiar ei<note>
                      <w>largiar ei</w> -are A<hi rend="sup">1</hi> -aret B<hi rend="sup">1</hi>
@@ -860,17 +859,17 @@ ipsa,<note>ipse <hi rend="italics">Ern.</hi>
                   </note> quae sensuum fons est atque etiam ipsa sensus
 est, naturalem vim habet, quam intendit ad ea quibus movetur. itaque alia visa sic arripit ut iis statim
 utatur, alia quasi<note>alia quasi <hi rend="italics">Fab.</hi> aliqua sic AVB</note> recondit, e quibus memoria oritur;
-cetera autem similitudinibus construit, ex quibus efficiuntur notitiae rerum, quas Graeci tum <foreign xml:lang="greek">e)nnoi/as</foreign> tum
-<foreign xml:lang="greek">prolh/myeis</foreign> vocant; eo cum accessit ratio argumentique
+cetera autem similitudinibus construit, ex quibus efficiuntur notitiae rerum, quas Graeci tum <foreign xml:lang="greek">ἐννοίας</foreign> tum
+<foreign xml:lang="greek">προλήμψεις</foreign> vocant; eo cum accessit ratio argumentique
 conclusio rerumque innumerabilium multitudo, tum et
 perceptio eorum omnium apparet et eadem ratio perfecta is gradibus ad sapientiam pervenit.
 </p>
             </div>
             <div type="textpart" n="31" subtype="section">
-               <p >ad rerum
+               <p>ad rerum
 igitur scientiam vitaeque constantiam aptissima cum
 sit mens hominis amplectitur maxime cognitionem et
-istam <foreign xml:lang="greek">kata/lhmyin</foreign>,<note>
+istam <foreign xml:lang="greek">κατάλημψιν</foreign>,<note>
                      <hi rend="italics">cf. p. 35, 18</hi>
                   </note> quam ut dixi verbum e verbo exprimentes conprensionem dicemus, cum ipsam per se
 amat (nihil enim est ei veritatis luce dulcius) tum
@@ -885,10 +884,10 @@ re una vita omnis apta sit.<note>
 vitam evertunt funditus ipsumque animal orbant animo.
 ut difficile sit de temeritate eorum perinde ut causa
 postulat dicere.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="32" subtype="section">
-               <p >Nec vero satis constituere possum quod sit eorum
+               <p>Nec vero satis constituere possum quod sit eorum
 consilium aut quid velint. interdum enim cum adhibemus ad eos orationem eius modi, si ea quae
 disputentur vera sint turn omnia fore incerta, respondent: 'quid ergo istud ad nos? num nostra culpa
 est? naturam accusa, quae in profundo veritatem ut
@@ -911,7 +910,7 @@ et in agenda vita et in quaerendo ac disserendo.
                </p>
             </div>
             <div type="textpart" n="33" subtype="section">
-               <p >Quae
+               <p>Quae
 ista regula est veri et falsi, si notionem veri et falsi<note>veri et falsi<hi rend="sup">1</hi> 
                      <hi rend="italics">del. Lb.</hi>
                   </note>
@@ -947,7 +946,7 @@ tibi erit revertendum.
 </p>
             </div>
             <div type="textpart" n="34" subtype="section">
-               <p >in eo autem si erit communitas
+               <p>in eo autem si erit communitas
 cum falso, nullum erit iudicium, quia proprium in<note>in <hi rend="italics">del. Man.</hi>
                   </note>
 communi signo notari non potest. sin autem commune nihil erit, habeo<note>abeo A<hi rend="sup">1</hi>V aueo B<hi rend="sup">1</hi>
@@ -982,7 +981,7 @@ relinquitur.
 </p>
             </div>
             <div type="textpart" n="35" subtype="section">
-               <p >Ex hoc illud is usu venire solet, ut
+               <p>Ex hoc illud is usu venire solet, ut
 quicquid dixerint<note>dixerit VB<hi rend="sup">1</hi> -runt <hi rend="italics">A</hi>
                      <hi rend="sup">1</hi>
                   </note> a quibusdam interrogentur 'ergo
@@ -1002,7 +1001,7 @@ habebunt,
 </p>
             </div>
             <div type="textpart" n="36" subtype="section">
-               <p >primum quia is visis inter quae nihil interest
+               <p>primum quia is visis inter quae nihil interest
 aequaliter omnibus abrogatur fides; deinde, cum dicant
 posse accidere sapienti ut cum omnia fecerit diligentissimeque circumspexerit existat aliquid quod et veri
 simile videatur et absit longissime <add>a</add> vero, <add>ne</add>
@@ -1019,15 +1018,15 @@ verum sibi videbuntur attingere? quid autem tam absurde dici potest quam cum ita
 quidem illius rei signum aut argumentum, et ea re
 id sequor, sed fieri potest ut id quod significatur aut
 falsum sit aut nihil sit omnino'.</p>
-               <p >Sed de perception hactenus; si quis enim ea quae
+               <p>Sed de perception hactenus; si quis enim ea quae
 dicta sunt labefactare volet, facile etiam absentibus
 nobis veritas se ipsa defendet.</p>
-               <milestone  unit="chapter" n="12"/>
-               <p />
+               <milestone unit="chapter" n="12"/>
+               <p/>
             </div>
             <div type="textpart" n="37" subtype="section">
-               <p >His satis cognitis quae iam explicata sunt nunc de
-adsensione atque adprobatione, quam Graeci <foreign xml:lang="greek">sugkata/qesin</foreign>
+               <p>His satis cognitis quae iam explicata sunt nunc de
+adsensione atque adprobatione, quam Graeci <foreign xml:lang="greek">συγκατάθεσιν</foreign>
 vocant, pauca dicemus, non quo non latus locus
 sit, sed paulo ante iacta sunt fundamenta. nam<note>
                      <hi rend="italics">cf. p. 36, 24 ss.</hi>
@@ -1049,7 +1048,7 @@ est in nostra potestate sita reddenda adsensio.
 </p>
             </div>
             <div type="textpart" n="38" subtype="section">
-               <p >et<note>et <hi rend="italics">A</hi>
+               <p>et<note>et <hi rend="italics">A</hi>
                      <hi rend="sup">2</hi>V<hi rend="sup">2</hi>B<hi rend="sup">2</hi>
                   </note> vero
 animus quodam modo eripitur iis quos neque sentire
@@ -1059,9 +1058,9 @@ in libram<note>libra <hi rend="italics">A</hi>
                   </note> ponderibus inpositis deprimi sic animum
 perspicuis cedere. nam quo modo non potest animal
 ullum non adpetere id quod adcommodatum ad naturam
-adpareat (Graeci id <foreign xml:lang="greek">oi)kei=on</foreign>
+adpareat (Graeci id <foreign xml:lang="greek">οἰκεῖον</foreign>
                   <note>oecion V<hi rend="sup">2</hi> oetion <hi rend="italics">AB</hi> (<hi rend="italics">
-                        <foreign xml:lang="greek">k</foreign> ut vid. superscr.</hi> B<hi rend="sup">c</hi>) <del>
+                        <foreign xml:lang="greek">κ</foreign> ut vid. superscr.</hi> B<hi rend="sup">c</hi>) <del>
                         <hi rend="italics">V</hi>
                         <hi rend="sup">1</hi>
                      </del>
@@ -1082,7 +1081,7 @@ adsentietur non erit.
 </p>
             </div>
             <div type="textpart" n="39" subtype="section">
-               <p >ubi igitur virtus, si nihil situm
+               <p>ubi igitur virtus, si nihil situm
 est in ipsis nobisi? maxime autem absurdum vitia in
 ipsorum esse potestate neque peccare quemquam nisi
 adsensione, hoc idem in virtute non esse, cuius omnis
@@ -1091,11 +1090,11 @@ aliquid quam agamus necesse est eique quod visum
 sit adsentiatur.<note>assentiamur <hi rend="italics">dett. Asc.</hi> -tiri <hi rend="italics">Lb.</hi>
                   </note> quare qui aut visum aut adsenseum
 tollit is omnem actionem tollit e vita.</p>
-               <milestone  unit="chapter" n="13"/>
-               <p />
+               <milestone unit="chapter" n="13"/>
+               <p/>
             </div>
             <div type="textpart" n="40" subtype="section">
-               <p >Nunc ea videamus quae contra ab his disputari
+               <p>Nunc ea videamus quae contra ab his disputari
 solent. sed prius potestis<note>
                      <w>protestis</w> oportebit <hi rend="italics">vel</hi> opus erit <hi rend="italics">Ha.</hi> oportet vos <hi rend="italics">Mue.</hi> opus est <hi rend="italics">vel</hi> oportet <hi rend="italics">St.</hi>
                   </note> totius eorum rationis<note>rationes V<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
@@ -1131,7 +1130,7 @@ igitur est visum quod percipi possit'.
 </p>
             </div>
             <div type="textpart" n="41" subtype="section">
-               <p >Quae autem
+               <p>Quae autem
 sumunt ut concludant id quod volunt, ex his duo sibi
 putant concedi (neque enim quisquam repugnat); ea
 sunt haec: quae visa falsa sint ea percipi non posse;
@@ -1145,7 +1144,7 @@ sit a vero tale esse quale etiam a falso possit esse.
 </p>
             </div>
             <div type="textpart" n="42" subtype="section">
-               <p >haec duo proposita non praetervolant sed ita dilatant
+               <p>haec duo proposita non praetervolant sed ita dilatant
 ut non mediocrem curam adhibeant et diligentiam.
 dividunt enim in partes et eas quidem magnas, primum in sensus, deinde in ea quae ducuntur<note>dicuntur A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
                   </note> a sensibus
@@ -1161,11 +1160,11 @@ sermone vidistis item faciunt de reliquis, in singulisque rebus, quas in minima 
 iis omnibus quae visa sint veris adiuncta esse falsa
 quae a veris nihil differant; ea cum talia sint non
 posse conprendi.</p>
-               <milestone  unit="chapter" n="14"/>
-               <p />
+               <milestone unit="chapter" n="14"/>
+               <p/>
             </div>
             <div type="textpart" n="43" subtype="section">
-               <p >Hanc ego subtilitatem philosophia quidem dignissimam iudico sed ab eorum causa qui ita disserunt
+               <p>Hanc ego subtilitatem philosophia quidem dignissimam iudico sed ab eorum causa qui ita disserunt
 remotissimam. definitiones enim et partitiones et
 horum<note>harum <hi rend="italics">Lb.</hi>
                   </note> luminibus utens oratio, tum similitudines dissimilitudinesque<note>dissimilitudines <hi rend="italics">om.</hi> AB, que <hi rend="italics">del.</hi> A<hi rend="sup">2</hi>
@@ -1190,7 +1189,7 @@ partibus.
 </p>
             </div>
             <div type="textpart" n="44" subtype="section">
-               <p >si enim dicent ea de quibus disserent<note>disserant <hi rend="italics">Ern.</hi>
+               <p>si enim dicent ea de quibus disserent<note>disserant <hi rend="italics">Ern.</hi>
                   </note> se
 dilucide perspicere nec ulla communione visorum inpediri, conprendere ea se fatebuntur; sin autem negabunt vera visa a falsis posse distingui, qui poterunt
 longius progredi: occurretur enim, sicut occursum est.
@@ -1213,10 +1212,10 @@ posteriore<note>posteriori A<hi rend="sup">2</hi>V<hi rend="sup">2</hi>B<hi rend
                   </note> superius convincitur.<note>conuincitur <hi rend="italics">Pl.</hi> coniungitur AV<hi rend="sup">1</hi>B non i- V<hi rend="sup">2</hi>
                   </note>
                </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="45" subtype="section">
-               <p >Sed progrediamur longius et ita agamus ut nihil
+               <p>Sed progrediamur longius et ita agamus ut nihil
 nobis adsentati esse videamur, quaeque ab iis dicuntum sic persequamur ut nihil in praeteritis relinquamus.
 Primum igitur perspicuitas illa quam diximus satis
 magnam habet vim, ut<note>
@@ -1242,7 +1241,7 @@ cognitionem dixitque sapientis esse opinionem a perspicuitate seiungere nihil pr
 	              </p>
             </div>
             <div type="textpart" n="46" subtype="section">
-               <p >Quam ob rem cum
+               <p>Quam ob rem cum
 duae causae perspicuis et evidentibus rebus adversentur, auxilia totidem sunt contra conparanda. adversantur<note>adversatur <hi rend="italics">dett. Ald.</hi>
                   </note> enim primum quod parum defigunt animos
 et intendunt in ea quae perspicua sunt, ut quanta
@@ -1259,7 +1258,7 @@ captionesque discutere, quod deinceps facere constitui.
 </p>
             </div>
             <div type="textpart" n="47" subtype="section">
-               <p >Exponam igitur generatim argumenta eorum,
+               <p>Exponam igitur generatim argumenta eorum,
 quoniam ipsi etiam illi<note>illa B<hi rend="sup">
                         <hi rend="italics">c</hi>
                      </hi>
@@ -1285,7 +1284,7 @@ tamen, et si haec, cur non inter quae nihil sit<note>
 </p>
             </div>
             <div type="textpart" n="48" subtype="section">
-               <p >'Deinde cum mens moveatur ipsa per sese, ut et ea
+               <p>'Deinde cum mens moveatur ipsa per sese, ut et ea
 declarant quae cogitatione depingimus et ea quae vel
 dormientibus vel furiosis videntur non †inquam veri
 simile sit sic etiam mentem moveri ut non modo non
@@ -1309,11 +1308,11 @@ internoscantur, cur non ut plane nihil intersit, praesertim cum ipsi dicatis sap
                   </note> in furore sustinere
 se ab omni adsensu, quia nulla in visis distinctio
 appareat.'</p>
-               <milestone  unit="chapter" n="16"/>
-               <p />
+               <milestone unit="chapter" n="16"/>
+               <p/>
             </div>
             <div type="textpart" n="49" subtype="section">
-               <p >Ad has omnes visiones inanes Antiochus quidem
+               <p>Ad has omnes visiones inanes Antiochus quidem
 
 <pb n="p.51"/>
 
@@ -1332,7 +1331,7 @@ fuerit, sin ipse tua sponte processeris, tuum.
 </p>
             </div>
             <div type="textpart" n="50" subtype="section">
-               <p >quis enim
+               <p>quis enim
 tibi dederit aut omnia deum posse aut ita facturum
 esse si possit? quo modo autem sumis ut si quid
 cui simile esse possit; sequatur ut etiam difficiliter
@@ -1360,7 +1359,7 @@ inter visa differentium generum nihil interesset, reperirentur quae et in suo ge
 </p>
             </div>
             <div type="textpart" n="51" subtype="section">
-               <p >quod fieri qui potest? Omnium deinde inanium visorum una depulsio est, sive illa cogitatione informantur, quod fieri solere concedimus, sive in quiete sive
+               <p>quod fieri qui potest? Omnium deinde inanium visorum una depulsio est, sive illa cogitatione informantur, quod fieri solere concedimus, sive in quiete sive
 per vinum sive per insaniam. nam ab omnibus eius-
 
 <pb n="p.52"/>
@@ -1387,7 +1386,7 @@ habemus ut ea quae in foro gessimus.
                </p>
             </div>
             <div type="textpart" n="52" subtype="section">
-               <p >'At enim dum
+               <p>'At enim dum
 videntur, eadem est in somnis species eorum quae<note>eorum quae AV eorumque B <add>et</add> eorum quae <hi rend="italics">Lb.</hi>
                   </note>
 vigilantes videmus.' Primum interest, sed id omittamus; illud enim dicimus, non eandem esse vim
@@ -1402,7 +1401,7 @@ sentiant atque illa dicant Alcmeonis 'sed mihi neutiquam cor consentit cum oculo
                </p>
             </div>
             <div type="textpart" n="53" subtype="section">
-               <p >'At enim
+               <p>'At enim
 ipse<note>
                      <hi rend="italics">cf. p. 50, 29</hi>
                   </note> sapiens sustinet se in furore ne adprobet falsa
@@ -1423,8 +1422,8 @@ essent aliter adfecti, turn nihil interesse.
 </p>
             </div>
             <div type="textpart" n="54" subtype="section">
-               <p >Ne hoc quidem cernunt, omnia se reddere incerta, quod nolunt?
-(ea dico incerta quae <foreign xml:lang="greek">a)/dhla</foreign> Graeci.) si enim res se
+               <p>Ne hoc quidem cernunt, omnia se reddere incerta, quod nolunt?
+(ea dico incerta quae <foreign xml:lang="greek">ἄδηλα</foreign> Graeci.) si enim res se
 ita habeat<note>habeat <hi rend="italics">Goer. fin. 1, 25</hi> -ant AVB</note> ut nihil intersit utrum ita cui videatur ut
 insano an<note>an <add>ut</add> 
                      <hi rend="italics">Lb.</hi>
@@ -1451,7 +1450,7 @@ geminis? conceditur enim similes esse, quo contentus esse potueras;
 </p>
             </div>
             <div type="textpart" n="55" subtype="section">
-               <p >tu autem vis eosdem plane esse
+               <p>tu autem vis eosdem plane esse
 non similes, quod fieri nullo modo potest.
 <milestone n="(55)" unit="section"/>Dein confugis ad physicos eos qui maxime in Academia inridentur, a quibus ne tu quidem iam te abstinebis, et
 ais Democritum dicere innumerabiles esse mundos, et
@@ -1479,7 +1478,7 @@ Primum quiderm me ad Democritum vocas;
                </p>
             </div>
             <div type="textpart" n="56" subtype="section">
-               <p >cui non
+               <p>cui non
 adsentior potius †quare fallar† potest<note>potius AV<hi rend="italics">B</hi>
                      <hi rend="sup">2</hi>
                      <del>
@@ -1500,7 +1499,7 @@ quidem similes viderentur.
 </p>
             </div>
             <div type="textpart" n="57" subtype="section">
-               <p >Hic pugnes licet, non repugnabo, quin etiam concedam ilium ipsum sapientem,
+               <p>Hic pugnes licet, non repugnabo, quin etiam concedam ilium ipsum sapientem,
 de quo omnis hic sermo est, cum ei res similes<note>similises B<hi rend="sup">1</hi> -lis esse B<hi rend="sup">2</hi> -les esse A<hi rend="sup">2</hi>
                   </note> occurrant quas non habeat<note>habeant A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
                   </note> dinotatas, retenturum adsensun
@@ -1525,7 +1524,7 @@ dicere solebant.<note>qui ... solerent (idem <hi rend="italics">add.</hi> B<hi r
                </p>
             </div>
             <div type="textpart" n="58" subtype="section">
-               <p >Neque id est<note>id est B<hi rend="sup">2</hi> idem AVB<hi rend="sup">1</hi>
+               <p>Neque id est<note>id est B<hi rend="sup">2</hi> idem AVB<hi rend="sup">1</hi>
                   </note> contra vos;<note>nos F</note> nam vobis<note>nobis <hi rend="italics">dett. Rom. Ven.</hi>
                   </note>
 satis esset<note>esset <hi rend="italics">vel</hi> esse posset <hi rend="italics">Pl.</hi> est ex A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B<hi rend="sup">1</hi> est A<hi rend="sup">2</hi>V<hi rend="sup">2</hi>B<hi rend="sup">2</hi> (ouo V<hi rend="sup">1</hi>)</note> ova illa non internoscere; nihilo<note>nihilo <hi rend="italics">Lb.</hi> nihil AVB</note> enim magis
@@ -1547,11 +1546,11 @@ sublata veri et falsi nota.
 </p>
             </div>
             <div type="textpart" n="59" subtype="section">
-               <p >Illud vero perabsurdum
+               <p>Illud vero perabsurdum
 quod dicitis, probabilia vos sequi si nulla re inpediamini. primum qui potestis non inpediri, cum a veris
 falsa non distent? deinde quod iudicium est veri, cum
 sit commune falsi? Ex his illa necessario nata est
-<foreign xml:lang="greek">e)poxh\</foreign>
+<foreign xml:lang="greek">ἐποχὴ</foreign>
                   <note>epochei idem B -cheidem V<hi rend="sup">1</hi> -cheidae V<hi rend="sup">2</hi> 
                      <hi rend="italics">cf. testim.</hi>
                   </note> id est adsensionis retentio, in qua melius sibi
@@ -1578,7 +1577,7 @@ falsae vel incognitae.
 </p>
             </div>
             <div type="textpart" n="60" subtype="section">
-               <p >Restat illud quod dicunt veri
+               <p>Restat illud quod dicunt veri
 inveniundi causa contra omnia dici oportere et pro
 omnibus. volo igitur videre quid invenerint.<note>inuenerint F<hi rend="sup">2</hi> -nerit A<hi rend="sup">2</hi>VB -nirit A<hi rend="sup">1</hi>
                   </note> 'Non
@@ -1592,11 +1591,11 @@ ista tam aperte perspicueque et perversa et falsa
 secutus esset, nisi tanta in Arcesila, multo etiam maior
 in Carneade<note>carneadem A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
                   </note> et copia rerum et dicendi vis fuisset?</p>
-               <milestone  unit="chapter" n="19"/>
-               <p />
+               <milestone unit="chapter" n="19"/>
+               <p/>
             </div>
             <div type="textpart" n="61" subtype="section">
-               <p >Haec Antiochus fere et Alexandreae tum et multis
+               <p>Haec Antiochus fere et Alexandreae tum et multis
 annis post multo etiam adseverantius, in Syria cum
 esset mecum paulo ante quam est mortuus. Sed
 iam confirmata causa te hominem amicissimum' (me
@@ -1622,7 +1621,7 @@ ut nos commovere nequeamus.
 </p>
             </div>
             <div type="textpart" n="62" subtype="section">
-               <p >sublata enim adsensione omnem et motum animorum et actionem<note>adsessione V<hi rend="sup">1</hi> ass- <hi rend="italics">B</hi>
+               <p>sublata enim adsensione omnem et motum animorum et actionem<note>adsessione V<hi rend="sup">1</hi> ass- <hi rend="italics">B</hi>
                      <hi rend="sup">2</hi> -nem V<hi rend="sup">2</hi> adsedsione B<hi rend="sup">1</hi>; ads. ... actionem (rationem A<hi rend="sup">2</hi>) <hi rend="italics">Om.</hi> A<hi rend="sup">1</hi>
                   </note> rerum
 sustulerunt; quod non modo recte fieri sed omnino
@@ -1634,17 +1633,17 @@ ex te illa cognoveram),<note>
 cognosci conprendi percipi possit? vide quaeso etiam
 atque etiam ne illarum quoque rerum pulcherrimarum
 a te ipso minuatur auctoritas.'</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="63" subtype="section">
-               <p >Quae cum dixisset ille, finem fecit. Hortensius autem
+               <p>Quae cum dixisset ille, finem fecit. Hortensius autem
 vehementer admirans (quod quidem perpetuo Lucullo
 loquente fecerat, ut etiam manus saepe tolleret: nec
 mirum; nam numquam arbitror contra Academiam
 dictum esse subtilius) me quoque, iocansne an ita
 sentiens (non enim satis intellegebam), coepit hortari
 ut sententia desisterem.</p>
-               <p >Tum mihi Catulus 'Si te' inquit 'Luculli oratio flexit,
+               <p>Tum mihi Catulus 'Si te' inquit 'Luculli oratio flexit,
 quae est habita memoriter accurate copiose, taceo
 neque te quo minus si tibi ita videatur sententiam
 mutes deterrendum puto. illud vero non censuerim,
@@ -1666,15 +1665,15 @@ cave ne te terreat. de causa autem ipsa malim<note>ipsam A<hi rend="sup">1</hi>V
 mirabor: memini enim Antiochum ipsum, cum annos
 multos alia sensisset, simul ac visum sit sententia
 destitisse.'</p>
-               <milestone  unit="chapter" n="20"/>
-               <p />
+               <milestone unit="chapter" n="20"/>
+               <p/>
             </div>
             <div type="textpart" n="64" subtype="section">
-               <p >Haec cum dixisset Catulus, me omnes intueri. tum
+               <p>Haec cum dixisset Catulus, me omnes intueri. tum
 ego non minus conmotus quam soleo in causis maioribus huius<note>
                      <add>ab</add> huius <hi rend="italics">Reid.</hi>
                   </note> modi quadam oratione sum exorsus.</p>
-               <p >'Me Catule oratio Luculli de ipsa re ita movit ut
+               <p>'Me Catule oratio Luculli de ipsa re ita movit ut
 docti hominis<note>homines V<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
                   </note> et copiosi et parati et nihil praetereuntis
 eorum quae pro illa causa dici possent, non tamen
@@ -1686,7 +1685,7 @@ de fama mea dixero.
 </p>
             </div>
             <div type="textpart" n="65" subtype="section">
-               <p >Ego enim si aut ostentatione
+               <p>Ego enim si aut ostentatione
 aliqua adductus aut studio certandi ad hanc potissimum philosophiam me adplicavi, non modo stultitiam meam sed etiam mores et naturam<note>natura AVB</note> condemnandam puto. nam si in minimis rebus pertinacia reprehenditur, calumnia etiam coercetur, ego<note>ego <hi rend="italics">Ven.</hi>
                      <hi rend="sup">2</hi> ergo AVB</note> de omni statu
 consilioque totius vitae aut certare cu'm aliis pugnaciter aut frustrari cum alios tum etiam me ipsum
@@ -1696,7 +1695,7 @@ quae dicerem.
 </p>
             </div>
             <div type="textpart" n="66" subtype="section">
-               <p >qui enim possum non cupere verum
+               <p>qui enim possum non cupere verum
 invenire, cum gaudeam si simile veri quid invenerim?<note>inuenirim A<hi rend="sup">1</hi>B</note>
 sed ut hoc pulcherrimum esse iudico,<note>iudico <hi rend="italics">Ern.</hi> -cem AVB</note> vera videre,
 
@@ -1743,7 +1742,7 @@ conclusio quam habeat vim considera:
                </p>
             </div>
             <div type="textpart" n="67" subtype="section">
-               <p >'si ulli rei
+               <p>'si ulli rei
 sapiens adsentietur umquam, aliquando etiam opinabitur; numquam autem opinabitur; nulli igitur rei
 adsentietur'.<note>
                      <hi rend="italics">cf. Sext. math. 7, 157</hi>
@@ -1763,7 +1762,7 @@ ab iis quae possint distinguere.
 </p>
             </div>
             <div type="textpart" n="68" subtype="section">
-               <p >Nobis autem primum
+               <p>Nobis autem primum
 etiam si quid percipi possit tamen ipsa consuetudo
 adsentiendi periculosa esse videtur et lubrica. quam
 ob rem cum tam vitiosum esse constet adsentiri quicquam aut falsum aut incognitum, sustinenda est potius
@@ -1783,11 +1782,11 @@ opinaturum esse sapientem. 'Neutrum' inquies 'illorum' <del>nitamur<note>
                      </note>
                   </del>. Nitamur igitur nihil posse percipi;
 etenim de eo omnis est controversia.</p>
-               <milestone  unit="chapter" n="22"/>
-               <p />
+               <milestone unit="chapter" n="22"/>
+               <p/>
             </div>
             <div type="textpart" n="69" subtype="section">
-               <p >Sed prius pauca cum Antiocho, qui haec ipsa quae
+               <p>Sed prius pauca cum Antiocho, qui haec ipsa quae
 a me defenduntur et didicit apud Philonem tam diu
 ut constaret<note>constet <hi rend="italics">Pl.</hi>
                   </note> diutius didicisse neminem, et scripsit de
@@ -1813,7 +1812,7 @@ audirent habere.
 </p>
             </div>
             <div type="textpart" n="70" subtype="section">
-               <p >Unde autem subito vetus Academia
+               <p>Unde autem subito vetus Academia
 revocata est? nominis dignitatem videtur, cum a re
 ipsa descisceret, retinere voluisse. quod erant qui
 illum<note>
@@ -1828,7 +1827,7 @@ non ferunt item ille cum aestuaret veterum ut maenianorum sic Academicorum umbra
                </p>
             </div>
             <div type="textpart" n="71" subtype="section">
-               <p >quoque solebat uti argumento turn cum ei placebat nihil
+               <p>quoque solebat uti argumento turn cum ei placebat nihil
 posse percipi, cum quaereret, Dionysius ille Heracleotes utrum conprehendisset certa illa nota qua adsentiri dicitis oportere, illudne quod multos annos tenuisset Zenonique magistro credidisset, honestum quod
 esset id bonum solum esse, an quod postea defensitavisset, honesti inane nomen esse, voluptatem esse
 summum bonum — qui ex illius commutata sententia
@@ -1843,11 +1842,11 @@ ceteri sumerent. Sed<note>
                      <hi rend="italics">cf. p. 83, 14. 95, 6</hi>
                   </note> cum hoc alio loco plura; nunc
 ad ea quae a te Luculle dicta sunt.</p>
-               <milestone  unit="chapter" n="23"/>
-               <p />
+               <milestone unit="chapter" n="23"/>
+               <p/>
             </div>
             <div type="textpart" n="72" subtype="section">
-               <p >Et<note>
+               <p>Et<note>
                      <hi rend="italics">cf. p. 32,32 ss.</hi>
                   </note> primum quod initio dixisti videamus quale sit,
 similiter a nobis de antiquis philosophis commemorari
@@ -1872,7 +1871,7 @@ gravitatis et ingeni gloria.
 </p>
             </div>
             <div type="textpart" n="73" subtype="section">
-               <p >Quid loquar de Democrito? quem cum eo conferre possumus non modo
+               <p>Quid loquar de Democrito? quem cum eo conferre possumus non modo
 ingenii magnitudine sed etiam animi, qui ita sit ausus
 ordiri 'haec loquor de universis':<note>
                      <hi rend="italics">cf. Sext. math. 7, 265</hi>
@@ -1900,7 +1899,7 @@ sitne aliquid an nihil sit'.<note>
                </p>
             </div>
             <div type="textpart" n="74" subtype="section">
-               <p >Furere tibi Empedocles videtur: at mihi dignissimum rebus is de quibus loquitur
+               <p>Furere tibi Empedocles videtur: at mihi dignissimum rebus is de quibus loquitur
 
 <pb n="p.63"/>
 
@@ -1924,7 +1923,7 @@ praesertim, nulla fuit ratio persequi.
                </p>
             </div>
             <div type="textpart" n="75" subtype="section">
-               <p >Videorne tibi
+               <p>Videorne tibi
 non ut Saturninus nominare modo inlustres homines,
 sed etiam imitari numquam nisi clarum nisi nobilem?
 atqui habebam molestos vobis sed minutos, Stilbonem<note>Stilbonem <hi rend="italics">dett. Rom.</hi> silibonem AVB<hi rend="sup">2</hi> sibib- B<hi rend="sup">1</hi> Stilponem <hi rend="italics">Lbm.</hi>
@@ -1949,7 +1948,7 @@ posse.
 </p>
             </div>
             <div type="textpart" n="76" subtype="section">
-               <p >Quid Cyrenaei<note>Cyrenaici <hi rend="italics">Lbm.</hi>
+               <p>Quid Cyrenaei<note>Cyrenaici <hi rend="italics">Lbm.</hi>
                   </note> videntur, minime contempti
 
 <pb n="p.64"/>
@@ -1966,7 +1965,7 @@ sentire adfici<note>adficis B<hi rend="sup">1</hi>
                         <hi rend="sup">1</hi>
                      </del>
                   </note> se quodam modo.</p>
-               <p >Satis<note>
+               <p>Satis<note>
                      <hi rend="italics">cf. p. 34, 2</hi>
                   </note> multa de auctoribus. quamquam ex me quaesieras, nonne putarem post illos veteres tot saeculis
 inveniri verum potuisse tot ingeniis tantisque studiis
@@ -1981,7 +1980,7 @@ voluisse sic intellegitur.
 </p>
             </div>
             <div type="textpart" n="77" subtype="section">
-               <p >nemo umquam<note>umquam A<hi rend="sup">3</hi> inq- A<hi rend="sup">1</hi>VB</note> superiorum
+               <p>nemo umquam<note>umquam A<hi rend="sup">3</hi> inq- A<hi rend="sup">1</hi>VB</note> superiorum
 non modo expresserat sed ne dixerat quidem posse
 hominem nihil opinari, nec solum posse sed ita necesse esse sapienti. visa est Arcesilae cum vera sententia tum honesta et digna sapienti; quaesivit de
 Zenone fortasse quid futurum esset si nec percipere
@@ -2021,22 +2020,22 @@ a falso possit<note>posset <hi rend="italics">Ern.</hi>
 </p>
             </div>
             <div type="textpart" n="78" subtype="section">
-               <p >Haec est una contentio quae adhuc
+               <p>Haec est una contentio quae adhuc
 permanserit. nam<note>
                      <hi rend="italics">ss. cf. p. 59, 28 ss.</hi>
                   </note> illud, nulli rei adsensurum esse sapientem, nihil ad hanc controversiam pertinebat. licebat enim 'nihil percipere et tamen opinari'; quod a
 Carneade dicitur probatum: equidem Clitomacho plus
 quam Philoni aut Metrodoro credens hoc magis ab
 eo disputatum quam probatum puto.</p>
-               <p >Sed id omittamus. illud certe opinatione et perceptione sublata sequitur, omnium adsensionum retentio, ut<note>
+               <p>Sed id omittamus. illud certe opinatione et perceptione sublata sequitur, omnium adsensionum retentio, ut<note>
                      <hi rend="italics">cf. p. 60, 20</hi>
                   </note> si ostendero nihil posse percipi tu concedas
 numquam adsensurum esse.</p>
-               <milestone  unit="chapter" n="25"/>
-               <p />
+               <milestone unit="chapter" n="25"/>
+               <p/>
             </div>
             <div type="textpart" n="79" subtype="section">
-               <p >Quid ergo est quod percipi possit, si ne sensus
+               <p>Quid ergo est quod percipi possit, si ne sensus
 quidem vera nuntiant? quos tu Luculle communi loco
 defendis.<note>
                      <hi rend="italics">cf. p. 36, 24 ss.</hi>
@@ -2061,7 +2060,7 @@ esse credendum.
 </p>
             </div>
             <div type="textpart" n="80" subtype="section">
-               <p >hoc est verum esse, confidere suis
+               <p>hoc est verum esse, confidere suis
 testibus et †inportata<note>importune F<hi rend="sup">2</hi> in re probata <hi rend="italics">Bai.</hi>
                   </note> insistere; itaque Timagoras
 Epicureus negat sibi umquam cum oculum torsisset
@@ -2103,7 +2102,7 @@ videmus.
 </p>
             </div>
             <div type="textpart" n="81" subtype="section">
-               <p >'At ille nescio qui, qui in scholis nominari
+               <p>'At ille nescio qui, qui in scholis nominari
 solet, mille et octingenta<note>octoginta M (<hi rend="italics">cf. Plin. nat. 7, 85</hi>)</note> stadia quod abesset videbat.' Quaedam volucres longius; responderem igitur
 audacter isti vestro deo me plane his oculis non esse
 contentum. dicit<note>dicet <hi rend="italics">dett. Asc.</hi>
@@ -2129,7 +2128,7 @@ eum non sine causa falsum testimonium dicere ostenderis.
                </p>
             </div>
             <div type="textpart" n="82" subtype="section">
-               <p >Quid ego de nave; vidi enim a te remum contemni: maiora fortasse quaeris. Quid potest<note>potest <add>esse</add> V<hi rend="sup">2</hi>
+               <p>Quid ego de nave; vidi enim a te remum contemni: maiora fortasse quaeris. Quid potest<note>potest <add>esse</add> V<hi rend="sup">2</hi>
                   </note> sole maius,
 quem mathematici amplius duodeviginti partibus confirmant maiorem esse quam terram:<note>
                      <hi rend="italics">cf. Lact. inst. 3, 23, 12</hi>
@@ -2156,7 +2155,7 @@ quidem possit, tamen nobis stare videatur.
 </p>
             </div>
             <div type="textpart" n="83" subtype="section">
-               <p >Sed ut
+               <p>Sed ut
 minuam controversiam, videte quaeso quam in parvo<note>paruulis A<hi rend="sup">2</hi>V<hi rend="sup">1</hi>B</note>
 lis sit.<note>sit <hi rend="italics">Dav.</hi> sitis AVB</note> Quattuor sunt capita quae concludant nihil
 esse quod nosci<note>cognosci <hi rend="italics">Lbm.</hi>
@@ -2176,7 +2175,7 @@ conceditis; omnis<note>omnes A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B<hi re
 </p>
             </div>
             <div type="textpart" n="84" subtype="section">
-               <p >Qui igitur
+               <p>Qui igitur
 P. Servilium Geminum videbat, si Quintum se videre
 putabat, incidebat in eius modi visum quod percipi
 non posset, quia nulla nota verum distinguebatur a
@@ -2204,7 +2203,7 @@ dicis oportere ut non possit esse eiusdem modi falsa.
 </p>
             </div>
             <div type="textpart" n="85" subtype="section">
-               <p >quando igitur potest tibi P. Geminus Quintus videri,
+               <p>quando igitur potest tibi P. Geminus Quintus videri,
 quid habes explorati cur non possit tibi Cotta videri
 qui non sit, quoniam aliquid videtur esse quod non
 est? Omnia<note>
@@ -2226,7 +2225,7 @@ igitur notione discereres?
 </p>
             </div>
             <div type="textpart" n="86" subtype="section">
-               <p >quid si in eius<note>eiusdem <hi rend="italics">Lb.</hi>
+               <p>quid si in eius<note>eiusdem <hi rend="italics">Lb.</hi>
                   </note> modi cera
 centum sigilla hoc anulo inpressero,<note>inpressoro A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
                   </note> ecquae<note>ecque <hi rend="italics">Rom.</hi> haec quae AVB<hi rend="sup">2</hi> -que B<hi rend="sup">1</hi>
@@ -2249,7 +2248,7 @@ quidem generis admodum, nec videre nec audire possimus? Iam<note>
                   </note> illa praeclara, quanto artificio esset sensus nostros mentemque et totam constructionem hominis fabricata natura — </p>
             </div>
             <div type="textpart" n="87" subtype="section">
-               <p >cur non extimescam opinandi temeritatem? etiamne<note>
+               <p>cur non extimescam opinandi temeritatem? etiamne<note>
                      <hi rend="italics">cf. p. 43, 5</hi>
                   </note> hoc adfirmare potes Luculle, esse aliquam vim, cum prudentia et consilio
 scilicet,<note>
@@ -2276,7 +2275,7 @@ eo armatum esse Carneadem);
 </p>
             </div>
             <div type="textpart" n="88" subtype="section">
-               <p >ea sunt eius modi, quae
+               <p>ea sunt eius modi, quae
 a<note>
                      <w>a</w> ad A<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
                   </note> te diligentissime tractata<note>tracta A<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
@@ -2312,7 +2311,7 @@ visa<note>visa <add>falsa</add>
                      <hi rend="italics">Reitz.</hi>
                   </note> putare, ut erant, et somnia;<note>
                      <hi rend="italics">cf. Macr. somn. 1, 3, 2</hi> 
-                     <foreign xml:lang="greek">fa/ntasma</foreign>, quod cicero quotiens opus hoc nomine fuit visum vocavit</note> dormienti vero aeque
+                     <foreign xml:lang="greek">φάντασμα</foreign>, quod cicero quotiens opus hoc nomine fuit visum vocavit</note> dormienti vero aeque
 ac vigilanti probabantur. quid Iliona somno illo 'mater
 te appello'<note>
                      <hi rend="italics">Pacuv. trag. 197</hi>
@@ -2325,7 +2324,7 @@ audi; iteradum eadem istaec<note>istaec <hi rend="italics">Man.</hi> et ista AVB
 	              </p>
             </div>
             <div type="textpart" n="89" subtype="section">
-               <p >Quid loquar
+               <p>Quid loquar
 de insanis: qualis tandem fuit adfinis tuus Catule
 Tuditanus, quisquam sanislsimus tam certa putat quae
 videt quam is putabat quae videbantur? quid ille
@@ -2370,7 +2369,7 @@ cetera<note>
                </p>
             </div>
             <div type="textpart" n="90" subtype="section">
-               <p >qui magis
+               <p>qui magis
 haec crederet si essent quam credebat quia
 videbantur; apparet enim iam cor cum oculis consentire. Omnia autem haec proferuntur ut illud efficiatur, quo certius nihil potest esse, inter visa vera
 et falsa ad animi adsensum nihil interesse. vos autem
@@ -2383,10 +2382,10 @@ quails visio fuerit aut furentium aut somniantium tum
 cum movebantur.<note>cum mouebantur M<hi rend="sup">c</hi> commou- AVB cum commou- F<hi rend="sup">2</hi>
                   </note>
                </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="91" subtype="section">
-               <p >Sed abeo a sensibus; quid est quod ratione percipi
+               <p>Sed abeo a sensibus; quid est quod ratione percipi
 possit? dialecticam inventam esse dicitis veri et falsi
 quasi disceptatricem et iudicem. cuius veri et falsi,
 et in qua re? in geometriane<note>geomeo metria A<hi rend="sup">1</hi>B<hi rend="sup">1</hi> -tri V<hi rend="sup">1</hi>
@@ -2410,7 +2409,7 @@ non est satis.
 </p>
             </div>
             <div type="textpart" n="92" subtype="section">
-               <p >Sed quoniam tantum in ea arte ponitis,
+               <p>Sed quoniam tantum in ea arte ponitis,
 videte ne contra vos tota nata<note>nata <hi rend="italics">del. Ern.</hi>
                   </note> sit; quae primo
 progressa<note>progressu A<hi rend="sup">2</hi>B<hi rend="sup">2</hi>
@@ -2429,7 +2428,7 @@ certum respondeamus non habemus.
 </p>
             </div>
             <div type="textpart" n="93" subtype="section">
-               <p >'At vitiosi sunt
+               <p>'At vitiosi sunt
 soritae.' Frangite<note>frangite <hi rend="italics">A</hi>
                      <hi rend="sup">1</hi>V sa- <hi rend="italics">B</hi>
                      <hi rend="sup">1</hi> a- A<hi rend="sup">2</hi>B<hi rend="sup">2</hi>
@@ -2438,7 +2437,7 @@ sint;erunt enim nisi cavetis. 'Cautum est' inquit; 'placet
 enim Chrysippo, cum gradatim interrogetur verbi causa
 tria pauca sint anne multa, aliquanto prius quam ad
 multa perveniat quiescere' (id est quod ab his dicitur
-<foreign xml:lang="greek">h(suxa/zein</foreign>
+<foreign xml:lang="greek">ἡσυχάζειν</foreign>
                   <note>esicaziin AV esycha- B</note>). 'Per me vel stertas licet'<note>
                      <hi rend="italics">quo usque pertineat Carneadis oratio dubium</hi>
                   </note> inquit Carneades
@@ -2454,7 +2453,7 @@ quo non possit accedere.
 </p>
             </div>
             <div type="textpart" n="94" subtype="section">
-               <p >'Nihil me laedit' inquit;
+               <p>'Nihil me laedit' inquit;
 'ego enim<note>
                      <hi rend="italics">cf. testim.</hi>
                   </note> ut agitator<note>agitatur A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
@@ -2482,7 +2481,7 @@ minuendi quid aut primum sit aut postremum docet.
 </p>
             </div>
             <div type="textpart" n="95" subtype="section">
-               <p >Quid quod eadem illa ars quasi Penelopae<note>Penelopae <hi rend="italics">Lb.</hi> -pe A<hi rend="sup">2</hi>VB<del>
+               <p>Quid quod eadem illa ars quasi Penelopae<note>Penelopae <hi rend="italics">Lb.</hi> -pe A<hi rend="sup">2</hi>VB<del>
                         <hi rend="italics">A</hi>
                         <hi rend="sup">1</hi>
                      </del>
@@ -2493,7 +2492,7 @@ minuendi quid aut primum sit aut postremum docet.
                   </note>
 retexens tollit ad extremum superiora: utrum ea
 vestra an nostra culpa est? nempe fundamentum dialecticae est, quidquid enuntietur (id autem appellant
-<foreign xml:lang="greek">a)ci/wma,</foreign> quod est quasi ecfatum<note>ecfatum <hi rend="italics">Hs.</hi> etf- A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>V<hi rend="sup">1</hi> eff- A<hi rend="sup">2</hi>V<hi rend="sup">2</hi>B<hi rend="sup">2</hi>
+<foreign xml:lang="greek">ἀξίωμα,</foreign> quod est quasi ecfatum<note>ecfatum <hi rend="italics">Hs.</hi> etf- A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>V<hi rend="sup">1</hi> eff- A<hi rend="sup">2</hi>V<hi rend="sup">2</hi>B<hi rend="sup">2</hi>
                   </note>) aut verum esse aut
 falsum. quid igitur haec vera an falsa sunt: 'si te
 mentiri dicis idque verum dicis, mentiris * verum<note>uere A<hi rend="sup">2</hi> (<hi rend="italics">ut Hier. epist. 69, 2</hi>) <add>et</add> A<hi rend="sup">3</hi> 
@@ -2523,7 +2522,7 @@ contrario.
 </p>
             </div>
             <div type="textpart" n="96" subtype="section">
-               <p >Quo modo igitur hoc conclusum esse iudicas: 'si dicis nunc lucere et verum dicis, <add>lucet;
+               <p>Quo modo igitur hoc conclusum esse iudicas: 'si dicis nunc lucere et verum dicis, <add>lucet;
 dicis autem nunc lucere et verum dicis;</add>
                   <note>
                      <hi rend="italics">add. Man.</hi> (nunc <hi rend="italics">add. Dav.</hi>)</note> lucet igitur'?
@@ -2556,7 +2555,7 @@ conclusionis valet, eadem est in utroque.
 </p>
             </div>
             <div type="textpart" n="97" subtype="section">
-               <p >Sed hoc extremum eorum est: postulant ut excipiantur haec inexplicabilia. tribunum aliquem censeo videant; a me
+               <p>Sed hoc extremum eorum est: postulant ut excipiantur haec inexplicabilia. tribunum aliquem censeo videant; a me
 istam exceptionem numquam inpetrabunt. etenim cum
 ab Epicuro, qui totam dialecticam et contemnit et
 inridet, non inpetrent ut verum esse concedat quod
@@ -2588,7 +2587,7 @@ potest esse, nulla vera est.
 </p>
             </div>
             <div type="textpart" n="98" subtype="section">
-               <p >mecum vero quid habent
+               <p>mecum vero quid habent
 litium, qui ipsorum disciplinam<note>discipuli nam B<hi rend="sup">1</hi>
                      <del>
                         <hi rend="italics">A</hi>
@@ -2619,8 +2618,8 @@ modo esse<note>
                      </del>
                   </note> illud, aut nisi
 hoc ne illud quidem iudicabo.</p>
-               <milestone  unit="chapter" n="31"/>
-               <p >Sed<note>
+               <milestone unit="chapter" n="31"/>
+               <p>Sed<note>
                      <hi rend="italics">ss. cf. Cic. nat. deor. 1, 12</hi>
                   </note> ut omnes istos aculeos et toturn tortuosum
 genus disputandi relinquamus ostendamusque qui simus, iam explicata tota Carneadis sententia Antiochea<note>Antiochea (-ia) <hi rend="italics">dett. Dav.</hi> -che AVB -chi F<hi rend="sup">2</hi>
@@ -2639,7 +2638,7 @@ sumpta de primo.
 </p>
             </div>
             <div type="textpart" n="99" subtype="section">
-               <p >Duo placet esseCarneadi genera
+               <p>Duo placet esseCarneadi genera
 visorum; in uno hanc divisionem, alia visa esse quae
 percipi possint <add>alia quae non possint,</add> in altero
 autem, alia visa esse probabilia alia non probabilia.<note>
@@ -2672,7 +2671,7 @@ sed similia veri quae nisi probet omnis vita tollatur.
 </p>
             </div>
             <div type="textpart" n="100" subtype="section">
-               <p >quid enim conscendens
+               <p>quid enim conscendens
 navem sapiens num<note>num A<hi rend="sup">3</hi> non <hi rend="italics">A</hi>
                      <hi rend="sup">1</hi>VB</note> conprehensum animo habet atque perceptum se ex sententia navigaturum? qui potest? sed si iam ex hoc
 loco proficiscatur Puteolos stadia triginta probo navigio bono gubernatore hac<note>ac AVB<hi rend="sup">2</hi>
@@ -2694,7 +2693,7 @@ concreta<note>concreta <hi rend="italics">Man.</hi> congregata AV<hi rend="sup">
 </p>
             </div>
             <div type="textpart" n="101" subtype="section">
-               <p >et quaecumque
+               <p>et quaecumque
 res eum sic attinget ut sit<note>sit V<hi rend="sup">2</hi> sic AV<hi rend="sup">1</hi>B</note> visum illud
 probabile neque ulla re impeditum, movebitur. non
 enim est e saxo sculptus aut e robore<note>e robore <hi rend="italics">Crat. ex Non.</hi> (<hi rend="italics">cf. Odyss. 19, 163</hi>) ebore AVB</note> dolatus,<note>non ... saxo aut cultus erobore dolatus <hi rend="italics">Non. p. 99</hi> (dolatum)</note> habet
@@ -2717,7 +2716,7 @@ est, noli mecum, qui hoc quidem certe, falsi esse aliquid in sensibus,, tibi ads
 </p>
             </div>
             <div type="textpart" n="102" subtype="section">
-               <p >Quamquam nihil mihi
+               <p>Quamquam nihil mihi
 tam mirum videtur quam ista dici, ab Antiocho quidem
 maxime, cui erant<note>erunt A<hi rend="sup">1</hi>V<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
                   </note> ea quae paulo ante dixi notissima.
@@ -2745,7 +2744,7 @@ libro continetur) — sed scriptum est ita:——
 </p>
             </div>
             <div type="textpart" n="103" subtype="section">
-               <p >Academicis
+               <p>Academicis
 placere esse rerum eius modi dissimilitudines<note>similitudines <hi rend="italics">Ven.</hi>
                      <hi rend="sup">2</hi> diss. <add>et sim.</add> 
                      <hi rend="italics">Pl.</hi>
@@ -2762,7 +2761,7 @@ veri et certi notam.
 </p>
             </div>
             <div type="textpart" n="104" subtype="section">
-               <p >quae cum exposuisset, adiungit
+               <p>quae cum exposuisset, adiungit
 dupliciter dici adsensus sustinere sapientem, uno modo
 cum hoc intellegatur, omnino eum rei nulli adsentiri,
 altero cum se a respondendo ut aut adprobet quid aut
@@ -2788,12 +2787,12 @@ quae nulla re inpedirentur.
 </p>
             </div>
             <div type="textpart" n="105" subtype="section">
-               <p >Haec si vobis non probamus, sint falsa sane, invidiosa certe non sunt. non
+               <p>Haec si vobis non probamus, sint falsa sane, invidiosa certe non sunt. non
 enim<note>
                      <hi rend="italics">cf. p. 42, 10</hi>
                   </note> lucem eripimus sed ea quae vos percipi conprehendique eadem nos, si modo probabilia sint, videri dicimus.</p>
-               <milestone  unit="chapter" n="33"/>
-               <p >Sic igitur inducto et constituto probabili,<note>inducto et constituto probabili <hi rend="italics">Ald.</hi> -ta <hi rend="italics">bis et</hi> -lia AN<hi rend="sup">2</hi>B (<hi rend="italics">om.</hi> N<hi rend="sup">1</hi>)</note> et.eo quidem expedito soluto libero nulla re inplicato, vides
+               <milestone unit="chapter" n="33"/>
+               <p>Sic igitur inducto et constituto probabili,<note>inducto et constituto probabili <hi rend="italics">Ald.</hi> -ta <hi rend="italics">bis et</hi> -lia AN<hi rend="sup">2</hi>B (<hi rend="italics">om.</hi> N<hi rend="sup">1</hi>)</note> et.eo quidem expedito soluto libero nulla re inplicato, vides
 profecto Luculle iacere iam illud tuum perspicuitatis
 patrocinium. isdem enim hic sapiens de quo loquor
 oculis quibus iste vester caelum terram mare intuebitur, isdem sensibus reliqua quae sub quemque sensum
@@ -2809,7 +2808,7 @@ id eveniat tamen non possis id verum esse quod videbatur oculis defendere.
 </p>
             </div>
             <div type="textpart" n="106" subtype="section">
-               <p >'Unde memoria, si nihil percipimus?' sic<note>
+               <p>'Unde memoria, si nihil percipimus?' sic<note>
                      <hi rend="italics">cf. p. 38, 12</hi>
                   </note> enim quaerebas. quid<note>quid <hi rend="italics">A</hi>
                      <hi rend="sup">1</hi>NB<hi rend="sup">1</hi> quod B<hi rend="sup">2</hi> quasi A<hi rend="sup">3</hi>
@@ -2835,7 +2834,7 @@ minime vis, aut memoriam mihi remittas oportet et fateare<note>fateare <hi rend=
 </p>
             </div>
             <div type="textpart" n="107" subtype="section">
-               <p >'Quid<note>
+               <p>'Quid<note>
                      <hi rend="italics">cf. p. 38, 16 ss.</hi>
                   </note> fiet artibus?' Quibus?<note>quibus <hi rend="italics">om.</hi> A<hi rend="sup">2</hi>B</note> iisne quae<note>his ne quae N iis neque B iis que A<hi rend="sup">2</hi>
                      <del>
@@ -2847,7 +2846,7 @@ ipsae fatentur coniectura se plus uti quam scientia,
 an iis<note>an his N audis A<hi rend="sup">1</hi> aut iss A<hi rend="sup">2</hi>
                   </note> quae tantum id quod videtur secuntur nec
 habent<note>habet A<hi rend="sup">1</hi>B<hi rend="sup">1</hi> (<hi rend="italics">om.</hi> N)</note> istam artem vestram qua vera et falsa diiudicent?</p>
-               <p >Sed illa sunt lumina duo quae maxime causam
+               <p>Sed illa sunt lumina duo quae maxime causam
 istam continent. Primum enim negatis fieri posse ut
 quisquam nulli rei adsentiatur. at id quidem perspicuum est, cum Panaetius, princeps prope meo quidem
 iudicio Stoicorum, ea de re dubitare se dicat quam<note>quam A<hi rend="sup">2</hi>B<hi rend="sup">2</hi> quem A<hi rend="sup">1</hi>B<hi rend="sup">1</hi> quod N</note>
@@ -2870,7 +2869,7 @@ similitudinem non inpeditam sequi.
 </p>
             </div>
             <div type="textpart" n="108" subtype="section">
-               <p >Alterum est
+               <p>Alterum est
 quod negatis<note>negantis A<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
                   </note> actionem ullius rei posse in eo esse
 qui nullam rem adsensu suo conprobet. Primum enim
@@ -2895,7 +2894,7 @@ relinquatur, quid impediet actionem eius qui probabilia sequitur nulla re inpedi
 </p>
             </div>
             <div type="textpart" n="109" subtype="section">
-               <p >'Hoc' inquit 'ipsum
+               <p>'Hoc' inquit 'ipsum
 inpediet, quod statuet ne id quidem quod probet posse
 percipi'. lam istuc te quoque impediet in navigando
 et<note>et <hi rend="italics">del. Ald.</hi>
@@ -2927,7 +2926,7 @@ possit.
 </p>
             </div>
             <div type="textpart" n="110" subtype="section">
-               <p >sed ut illa<note>ille A</note> habet probabilia non<note>non <hi rend="italics">om.</hi> B</note> percepta, sic
+               <p>sed ut illa<note>ille A</note> habet probabilia non<note>non <hi rend="italics">om.</hi> B</note> percepta, sic
 hoc ipsum nihil posse percipi. nam si in hoc haberet cognitionis notam, eadem uteretur in ceteris; quam
 quoniam non habet, utitur probabilibus. itaque non
 metuit ne confundere omnia videatur et incerta reddere. non enim quem ad modum si quaesitum ex
@@ -2938,10 +2937,10 @@ exercitatus<add>que sit</add>,<note>
 nihil est probabile; in quibus autem est, in iis non
 deerit sapienti nec quid<note>quod <hi rend="italics">utrobique Lb.</hi>
                   </note> faciat nec quid respondeat.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="111" subtype="section">
-               <p >Ne<note>
+               <p>Ne<note>
                      <hi rend="italics">cf. p. 49, 2 ss.</hi>
                   </note> illam quidem praetermisisti Luculle reprehensionem Antiochi (nec mirum,<note>mirum A<hi rend="sup">3</hi> uirum <hi rend="italics">A</hi>
                      <hi rend="sup">1</hi>FNB</note> in primis enim est nobilis),
@@ -2964,11 +2963,11 @@ sed probandi species est, percipiendi signum<note>percipie (<hi rend="italics">a
                         <hi rend="sup">1</hi>
                      </del> percipi. et id signum N</note> nullum
 habemus.</p>
-               <milestone  unit="chapter" n="35"/>
-               <p />
+               <milestone unit="chapter" n="35"/>
+               <p/>
             </div>
             <div type="textpart" n="112" subtype="section">
-               <p >Ac mihi videor nimis etiam nunc agere ieiune. cum
+               <p>Ac mihi videor nimis etiam nunc agere ieiune. cum
 sit enim campus in quo exultare possit oratio, cur
 eam tantas in angustias et Stoicorum dumeta<note>dum ecta <hi rend="italics">B</hi>
                      <hi rend="sup">1</hi> dumetae <hi rend="italics">an</hi> -ta A<hi rend="sup">2</hi>
@@ -2998,7 +2997,7 @@ quaero enim quid sit quod conprendi possit.
 </p>
             </div>
             <div type="textpart" n="113" subtype="section">
-               <p >respondet
+               <p>respondet
 mihi non Aristoteles aut Theophrastus, ne<note>ne <hi rend="italics">Ald.</hi> nec ANB</note> Xenocrates
 quidem aut Polemo, sed hi<note>hi <hi rend="italics">Pl.</hi> mihi A<hi rend="sup">1</hi>NB <hi rend="italics">del.</hi> A<hi rend="sup">3</hi>
                   </note> minores,<note>minores A<hi rend="sup">2</hi> -rem NB minor est A<hi rend="sup">1</hi>
@@ -3018,11 +3017,11 @@ Zenonem magno opere defensum est;<note>est A<hi rend="sup">2</hi>NB <hi rend="it
                   </note> ego tamen
 utrumque verum puto, nec dico temporis causa, sed
 ita plane probo.</p>
-               <milestone  unit="chapter" n="36"/>
-               <p />
+               <milestone unit="chapter" n="36"/>
+               <p/>
             </div>
             <div type="textpart" n="114" subtype="section">
-               <p >Illud ferre non possum: tu cum me incognito adsentiri vetes idque turpissimum esse dicas et plenissimum temeritatis, tantum tibi adroges ut exponas disciplinam sapientiae, naturam rerum omnium evolvas,
+               <p>Illud ferre non possum: tu cum me incognito adsentiri vetes idque turpissimum esse dicas et plenissimum temeritatis, tantum tibi adroges ut exponas disciplinam sapientiae, naturam rerum omnium evolvas,
 mores fingas, fines bonorum malorumque constituas,
 officia describas,<note>discribas <hi rend="italics">Mue.</hi>
                   </note> quam vitam ingrediar definias, idem-
@@ -3038,7 +3037,7 @@ vero tu solus, sed ad suam quisque rapiet.
 </p>
             </div>
             <div type="textpart" n="115" subtype="section">
-               <p >age restitero Peripateticis, qui sibi cum oratoribus cognationem
+               <p>age restitero Peripateticis, qui sibi cum oratoribus cognationem
 esse, qui claros viros a se instructos dicant rem publicam saepe rexisse, sustinuero Epicureos, tot meos
 familiares, tam bonos tam inter se amantes viros:
 Diodoto quid faciam Stoico, quem a puero audivi,
@@ -3059,10 +3058,10 @@ loquamur, de<note>
                      <hi rend="italics">cf. p.</hi> (<hi rend="italics">54, 24.</hi>) <hi rend="italics">59, 4. 79, 12</hi>
                   </note> quo ut saepe iam dixi omnis<note>omnes A<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
                   </note> haec quaestio est.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="116" subtype="section">
-               <p >In tres igitur partes et a plerisque et a vobismet
+               <p>In tres igitur partes et a plerisque et a vobismet
 ipsis distributa sapientia est. Primum ergo si planet
 quae de natura rerum sint quaesita videamus — vel,
 ut illud ante: estne quisquam tanto inflatus errore
@@ -3094,7 +3093,7 @@ esse, contempserit.
 </p>
             </div>
             <div type="textpart" n="117" subtype="section">
-               <p >Quod si geometricis rationibus
+               <p>Quod si geometricis rationibus
 non est crediturus, quae vim adferunt in docendo vos
 ipsi ut dicitis, ne ille longe aberit ut argumentis credat
 philosophorum — aut si est crediturus, quorum potissimum? omnia enim physicorum licet explicare, sed
@@ -3115,7 +3114,7 @@ magnos homines summa dissensio.
                </p>
             </div>
             <div type="textpart" n="118" subtype="section">
-               <p >Princeps<note>p. 86, 17 <hi rend="italics">cf. Aug. c. Iul. 5, 15, 75 (ex Iul.)</hi>
+               <p>Princeps<note>p. 86, 17 <hi rend="italics">cf. Aug. c. Iul. 5, 15, 75 (ex Iul.)</hi>
                   </note> Thales
 unus e septem, cui sex reliquos concessisse<note>concessisse <hi rend="italics">Io. Scala et Man.</hi> consensisse AB</note> primas<note>primas <hi rend="italics">A</hi>
                      <hi rend="sup">1</hi>NB<hi rend="sup">1</hi> -mos A<hi rend="sup">2</hi>B<hi rend="sup">2</hi>
@@ -3158,7 +3157,7 @@ sequatur, ceteri tot viri et tanti repudiati ab eo condemnatique discedent.
 </p>
             </div>
             <div type="textpart" n="119" subtype="section">
-               <p >quamcumque vero sententiam
+               <p>quamcumque vero sententiam
 probaverit eam sic animo conprensam habebit ut ea
 quae sensibus, nec magis adprobabit nunc<note>nunc <hi rend="italics">Asc.</hi> num AB</note> lucere quam,
 quoniam Stoicus est, hunc mundum esse sapientem,
@@ -3197,7 +3196,7 @@ necesse erit: mihi<note>
                </p>
             </div>
             <div type="textpart" n="120" subtype="section">
-               <p >ut omittam levitatem temere adsentientium,
+               <p>ut omittam levitatem temere adsentientium,
 quanti
 libertas ipsa aestimanda est non mihi necesse esse
 quod tibi est. <add>quaero<note>
@@ -3221,7 +3220,7 @@ etiam inter deos Myrmecides aliquis<note>aliquis A<hi rend="sup">3</hi>N -qui A<
 </p>
             </div>
             <div type="textpart" n="121" subtype="section">
-               <p >Negas sine deo
+               <p>Negas sine deo
 posse quicquam: ecce tibi e transverso Lampsacenus
 Strato, qui det isti deo inmunitatem — magni quidem
 muneris; sed cum sacerdotes deorum vacationem habeant, quanto est aequius habere ipsos deos —: negat
@@ -3245,7 +3244,7 @@ illud probabilius videtur.
                </p>
             </div>
             <div type="textpart" n="122" subtype="section">
-               <p >Latent ista omnia Luculle
+               <p>Latent ista omnia Luculle
 crassis occultata et circumfusa tenebris,<note>latent i. o. Varro magnis (magis <hi rend="italics">codd.</hi>) obscurata et c. tenebris <hi rend="italics">Mart. Cap. 5, 517</hi>
                   </note>
                   <note>crassis ... tenebris <hi rend="italics">poetae?</hi>
@@ -3262,7 +3261,7 @@ ut videamus terra penitusne defixa sit<note>sit A<hi rend="sup">2</hi>N sint <hi
 </p>
             </div>
             <div type="textpart" n="123" subtype="section">
-               <p >Habitari ait
+               <p>Habitari ait
 Xenophanes in luna, eamque<note>
                      <hi rend="italics">cf. Lact. inst. 3, 23, 12</hi>
                   </note>
@@ -3283,7 +3282,7 @@ ego non <add>ita. Vos</add>
                   </del> etiam dicitis esse e regione nobis, e<note>
                      <w>e</w> in <hi rend="italics">Ha. cum Non.</hi>
                   </note> contraria parte terrae qui adversis vestigiis stent contra nostra vestigia,<note>nec ego non ita. vos etiam ... nobis in c. ... stent ad contra vestigia <hi rend="italics">Non. p. 102</hi> (e regione). <hi rend="italics">cf. Lact. inst. 3, 24, 1 epit. 34, 2 aug. civ. 16, 9</hi> (a contraria parte terrae) <hi rend="italics">Isid. orig. 9, 2, 133 Serv. georg. 1, 235</hi>
-                  </note> quos <foreign xml:lang="greek">a)nti/podas</foreign> vocatis: cur mihi magis suscensetis qui ista non aspernor
+                  </note> quos <foreign xml:lang="greek">ἀντίποδας</foreign> vocatis: cur mihi magis suscensetis qui ista non aspernor
 quam is qui cum audiunt desipere vos<note>eis <hi rend="italics">dett. Rom. Ven.</hi> eos ANB<hi rend="sup">2</hi> uis <hi rend="italics">B</hi>
                      <hi rend="sup">1</hi>
                   </note> arbitrantur?
@@ -3308,7 +3307,7 @@ istorum sciri putat posse.
 </p>
             </div>
             <div type="textpart" n="124" subtype="section">
-               <p >Sed redeo ad animum et
+               <p>Sed redeo ad animum et
 corpus. satisne tandem ea nota sunt nobis, quae nervorum natura sit quae venarum? tenemusne quid sit
 animus ubi sit, denique sitne an ut<note>an <hi rend="italics">Lb.</hi> aut AB</note> Dicaearcho<note>dicearcho A<hi rend="sup">2</hi>NB<hi rend="sup">2</hi> dicet archo B<hi rend="sup">1</hi> diceet - <hi rend="italics">A</hi>
                      <hi rend="sup">1</hi>
@@ -3334,7 +3333,7 @@ paria momenta.
                </p>
             </div>
             <div type="textpart" n="125" subtype="section">
-               <p >Sin agis verecundius et me accusas
+               <p>Sin agis verecundius et me accusas
 25non quod tuis rationibus non adsentiar sed quod nullis, vincam animum cuique adsentiar deligam - quem
 potissimum, quem?<note>quem<add>nam</add>? <hi rend="italics">Reid</hi>
                   </note> Democritum; semper enim ut scitis studiosus nobilitatis fui. urgebor iam omnium vestrum convicio: 'tune aut inane quicquam putes<note>putas B</note> esse,
@@ -3358,7 +3357,7 @@ tam prava sentire.'
 </p>
             </div>
             <div type="textpart" n="126" subtype="section">
-               <p >Non ergo id agitur ut aliquid
+               <p>Non ergo id agitur ut aliquid
 adsensu meo comprobem, <add>sed
 <note>
                         <hi rend="italics">add. Pl.</hi> 
@@ -3397,7 +3396,7 @@ sit, leviter ut dicam, verecundior?<note>inverecundior <hi rend="italics">CMorge
                </p>
             </div>
             <div type="textpart" n="127" subtype="section">
-               <p >Nec tamen istas
+               <p>Nec tamen istas
 quaestiones physicorum exterminandas puto. est enim
 animorum ingeniorumque naturale quoddam quasi pabulum consideratio contemplatioque naturae: erigimur, altiores<note>altiores <hi rend="italics">dett. Dav.</hi> latiores AB el- N</note> fieri videmur, humana despicimus<note>dispicimus B<hi rend="sup">1</hi> 
                      <del>
@@ -3418,10 +3417,10 @@ quaeret igitur haec et vester sapiens et hic noster.
 </p>
             </div>
             <div type="textpart" n="128" subtype="section">
-               <p >sed
+               <p>sed
 vester ut adsentiatur credat adfirmet, noster ut vereatur temere opinari praeclareque agi secum putet si in
 eius modi rebus veri simile quod sit invenerit.</p>
-               <p >Veniamus nunc ad bonorum malorumque notionem;
+               <p>Veniamus nunc ad bonorum malorumque notionem;
 et<note>sed <hi rend="italics">Ald.</hi>
                   </note> paulum ante dicendum est. Non mihi videntur
 considerare cum<note>
@@ -3453,7 +3452,7 @@ alio magis minusve conprendi, quoniam omnium rerum una est definitio conprehende
 	              </p>
             </div>
             <div type="textpart" n="129" subtype="section">
-               <p >Sed quod coeperam: quid habemus in rebus bonis et malis explorati?<note>explorati A<hi rend="sup">3</hi>N exploti A<hi rend="sup">1</hi>B</note> nempe fines constituendi sunt ad quos et
+               <p>Sed quod coeperam: quid habemus in rebus bonis et malis explorati?<note>explorati A<hi rend="sup">3</hi>N exploti A<hi rend="sup">1</hi>B</note> nempe fines constituendi sunt ad quos et
 bonorum et malorum summa referatur. qua de re
 est igitur inter summos viros maior dissensio? Et
 omitto illa quae relicta iam videntur, Erillum qui in
@@ -3485,17 +3484,17 @@ qua verum cerneretur, Erilli<note>Herilli <hi rend="italics">Mdv.</hi> ulli AB</
 </p>
             </div>
             <div type="textpart" n="130" subtype="section">
-               <p >Hos si contemnimus et iam
+               <p>Hos si contemnimus et iam
 abiectos putamus, illos certe minus despicere debemus:
 Aristonem, qui cum Zenonis fuisset auditor re probavit
 ea quae ille verbis, nihil esse bonum nisi virtutem
 nec malum nisi quod virtuti<note>virtutis B</note> esset contrarium; in
 mediis ea momenta quae Zeno voluit nulla esse censuit. huic summum bonum est in is rebus neutram
-in partem moveri, quae <foreign xml:lang="greek">a)diafori/a</foreign> ab ipso dicitur.
+in partem moveri, quae <foreign xml:lang="greek">ἀδιαφορία</foreign> ab ipso dicitur.
 Pyrrho autem ea ne sentire quidem sapientem, quae
-<foreign xml:lang="greek">a)pa/qeia</foreign>
+<foreign xml:lang="greek">ἀπάθεια</foreign>
                   <note>
-                     <foreign xml:lang="greek">a)pa/qeia</foreign> 
+                     <foreign xml:lang="greek">ἀπάθεια</foreign> 
                      <hi rend="italics">Asc.</hi>
                      <hi rend="sup">2</hi> apati AB</note> nominatur. Has igitur tot sententias ut omittamus, haec videamus, quae<note>haec nunc vid. quae <hi rend="italics">Lb.</hi> nunc <hi rend="italics">del. Ha.</hi> nunc <add>remanent et quae</add> 
                      <hi rend="italics">Pl.</hi>
@@ -3503,7 +3502,7 @@ Pyrrho autem ea ne sentire quidem sapientem, quae
 </p>
             </div>
             <div type="textpart" n="131" subtype="section">
-               <p >Alii voluptatem finem esse voluerunt,
+               <p>Alii voluptatem finem esse voluerunt,
 quorum princeps Aristippus, qui Socratem<note>socraten AN</note> audierat,
 unde Cyrenaici, post Epicurus, cuius est disciplinanunc
 <del>disciplina<note>
@@ -3530,7 +3529,7 @@ bonorum, qui inventor et princeps Stoicorum fuit.
                </p>
             </div>
             <div type="textpart" n="132" subtype="section">
-               <p >iam
+               <p>iam
 illud perspicuum est,<note>est <add>in</add> AN</note> omnibus is finibus bonorum quos
 exposui malorum fines esse contrarios. Ad vos nunc
 refero quem sequar; modo ne quis illud tam ineruditum
@@ -3573,7 +3572,7 @@ Peripateticosque dicenda. hic igitur neutri<note>neuter N</note> adsentiens<note
                </p>
             </div>
             <div type="textpart" n="133" subtype="section">
-               <p >Quid cum ipse
+               <p>Quid cum ipse
 Antiochus dissentit quibusdam in rebus ab his quos
 amat Stoicis, nonne indicat<note>iudicat <hi rend="italics">dett. Ven.</hi>
                   </note> non posse illa probanda
@@ -3591,7 +3590,7 @@ est dogma commune.
 </p>
             </div>
             <div type="textpart" n="134" subtype="section">
-               <p >Ecce multo maior etiam dissensio. Zeno in una virtute positam beatam vitam
+               <p>Ecce multo maior etiam dissensio. Zeno in una virtute positam beatam vitam
 putat. quid Antiochus? 'etiam' inquit 'beatam, sed
 non beatissimam'. deus ille qui nihil censuit deesse
 virtuti, homuncio hic qui multa putat praeter virtutem homini partim cara<note>cara <hi rend="italics">Ald.</hi> clara AB</note> esse partim etiam necessaria. sed <add>et</add>
@@ -3613,7 +3612,7 @@ virtutem iacere plane puto. Verum in his discrepant.
                </p>
             </div>
             <div type="textpart" n="135" subtype="section">
-               <p >quid illa<note>illa M<hi rend="sup">c</hi> illud AB</note> in quibus consentiunt num pro veris probare
+               <p>quid illa<note>illa M<hi rend="sup">c</hi> illud AB</note> in quibus consentiunt num pro veris probare
 possumus, sapientis animum numquam nec cupiditate
 moveri nec laetitia ecferri? age haec probabilia sane 5
 sint; num etiam ilia, numquam timere numquam dolere: sapiensne non timeat ne<note>ne <hi rend="italics">Dav.</hi> nec si AB</note> patria deleatur, non
@@ -3636,7 +3635,7 @@ causa, misericordiam aegritudinemque clementiae; ipsam iracundiam fortitudinis q
                      <hi rend="italics">cf. Tusc. 4, 43</hi>
                   </note> secusne alias viderimus;
 atrocitas quidem ista tua quo modo in veterem Academiam inruperitnescio. Ilia vero ferre non possum — non quo
-mihi displiceant, sunt enim Socratica pleraque mirabilia Stoicorum, quae <foreign xml:lang="greek">para/doca</foreign> nominantur; sed ubi
+mihi displiceant, sunt enim Socratica pleraque mirabilia Stoicorum, quae <foreign xml:lang="greek">παράδοξα</foreign> nominantur; sed ubi
 Xenocrates, ubi Aristoteles ista tetigit<note>tetigit A<hi rend="sup">2</hi>B<hi rend="sup">2</hi> -tur B<hi rend="sup">1</hi> te igitur <hi rend="italics">A</hi>
                      <hi rend="sup">1</hi>N hos M<hi rend="sup">c</hi> hoc AB</note> (hos enim quasi
 eosdem esse vultis): illi umquam dicerent sapientes
@@ -3652,7 +3651,7 @@ aut civitatis nisi quae essent sapientium.
 </p>
             </div>
             <div type="textpart" n="137" subtype="section">
-               <p >haec tibi
+               <p>haec tibi
 Luculle, si es adsensus Antiocho familiari tuo, tam
 sunt defendenda quam moenia, mihi autem bono modo
 tantum quantum videbitur. <milestone unit="chapter" n="45"/>Legi apud Clitomachum,
@@ -3676,7 +3675,7 @@ supra dixi Stoicus perpauca balbutiens.<note>plane ... dixi (dic <hi rend="itali
                </p>
             </div>
             <div type="textpart" n="138" subtype="section">
-               <p >vos<note>
+               <p>vos<note>
                      <hi rend="italics">cf. p. 94, 22</hi>
                   </note> autem
 mihi verenti<note>verenti <hi rend="italics">Chr.</hi> ueremi B<hi rend="sup">1</hi> ueremni <hi rend="italics">an</hi> uerenini <hi rend="italics">A</hi>
@@ -3703,7 +3702,7 @@ putet<note>putat B<hi rend="sup">
 </p>
             </div>
             <div type="textpart" n="139" subtype="section">
-               <p >Sit sane ita — quamquam a Polemonis et Peripateticorum et Antiochi finibus non facile divellor nec quicquam habeo adhuc
+               <p>Sit sane ita — quamquam a Polemonis et Peripateticorum et Antiochi finibus non facile divellor nec quicquam habeo adhuc
 probabilius. verum tamen video quam suaviter voluptas sensibus nostris blandiatur; labor eo<note>labor eo <hi rend="italics">Gr.</hi> labore A<hi rend="sup">1</hi>B<hi rend="sup">1</hi> -ro A<hi rend="sup">2</hi>B<hi rend="sup">2</hi>
                   </note> ut adsentiar Epicuro aut Aristippo: revocat virtus vel potius
 reprendit manu, pecudum illos motus esse dicit, hominem iungit deo. possum esse medius, ut, quoniam
@@ -3728,7 +3727,7 @@ voluptate contemnenda consistat, honestatem cum voluptate tamquam hominem cum be
                </p>
             </div>
             <div type="textpart" n="140" subtype="section">
-               <p >Unum igitur par quod depugnet relicum est, voluptas
+               <p>Unum igitur par quod depugnet relicum est, voluptas
 cum honestate; de quo Chrysippo sunt,<note>chrypsippo sunt A<hi rend="sup">1</hi> chrisippu sunt N<hi rend="sup">1</hi> chrysippusiuiit <hi rend="italics">B</hi>
                      <hi rend="sup">1</hi> chrysippo fuit A<hi rend="sup">2</hi>B<hi rend="sup">2</hi> chrisippi sunt N<hi rend="sup">2</hi>
                   </note> quantum ego
@@ -3753,7 +3752,7 @@ habiturum.
 </p>
             </div>
             <div type="textpart" n="141" subtype="section">
-               <p >Nihil igitur me putatis,<note>putas <hi rend="italics">Goer.</hi>
+               <p>Nihil igitur me putatis,<note>putas <hi rend="italics">Goer.</hi>
                   </note> haec et alia innumerabilia cum audiam, moveri? tam moveor quam
 tu Luculle, nec me minus hominem quam <add>te</add>
                   <note>
@@ -3770,10 +3769,10 @@ visi<note>visi <hi rend="italics">Pl.</hi> insin A<hi rend="sup">1</hi>B<hi rend
                      <hi rend="italics">del.</hi> A<hi rend="sup">2</hi>NB<hi rend="sup">2</hi>
                   </note> discrimine separantur, praesertim cum iudicia ista
 dialecticae nulla sint.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="142" subtype="section">
-               <p >Venio enim iam ad tertiam partem philosophiae.
+               <p>Venio enim iam ad tertiam partem philosophiae.
 Aliud iudicium Protagorae est qui putet<note>putat B<hi rend="sup">2</hi>
                   </note> id cuique
 verum esse quod cuique videatur, aliud Cyrenaicorum,
@@ -3783,7 +3782,7 @@ autem omne iudicium veritatis veritatemque ipsam abaductam ab opinionibus et a s
                </p>
             </div>
             <div type="textpart" n="143" subtype="section">
-               <p >num quid horum probat
+               <p>num quid horum probat
 noster Antiochus? ille vero ne maiorum quidem suorum. ubi enim <del>et<note>
                         <hi rend="italics">om. Ven.</hi> aut N</note>
                   </del> Xenocraten sequitur, cuius libri
@@ -3808,7 +3807,7 @@ homines nonne multis in rebus dissentiunt?
 </p>
             </div>
             <div type="textpart" n="144" subtype="section">
-               <p >Quid me
+               <p>Quid me
 igitur Luculle in invidiam<note>in invidiam A<hi rend="sup">2</hi>NB<hi rend="sup">2</hi> iniuideam A<hi rend="sup">1</hi> inuidiam B<hi rend="sup">p</hi> -deam B<hi rend="sup">c</hi>
                   </note> et tamquam<note>
                      <hi rend="italics">cf. p. 32, 32 ss. 57, 30</hi>
@@ -3826,7 +3825,7 @@ quicquam. 'Quo modo?' inquies; 'nos enim defendimus etiam insipientem multa conp
 </p>
             </div>
             <div type="textpart" n="145" subtype="section">
-               <p >At scire
+               <p>At scire
 negatis quemquam rem ullam nisi sapientem. et hoc
 quidem Zeno gestu<note>gestum A<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
                   </note> conficiebat. nam cum extensis digitis adversam manum ostenderat, 'visum' inquiebat
@@ -3837,7 +3836,7 @@ qua ex similitudine etiam nomen ei rei, quod ante non
 
 <pb n="p.101"/>
 
-fuerat, <foreign xml:lang="greek">kata/lhmyin</foreign> imposuit; cum autem laevam manum admoverat<note>aduerat A<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
+fuerat, <foreign xml:lang="greek">κατάλημψιν</foreign> imposuit; cum autem laevam manum admoverat<note>aduerat A<hi rend="sup">1</hi>B<hi rend="sup">1</hi>
                   </note> et ilium pugnum arte vehementerque
 conpresserat, scientiam talem esse dicebat, cuius compotem<note>cum potest <hi rend="italics"> A</hi>
                      <hi rend="sup">1</hi>B<hi rend="sup">1</hi>
@@ -3850,7 +3849,7 @@ esse.
 </p>
             </div>
             <div type="textpart" n="146" subtype="section">
-               <p >num minus haec invidiose dicuntur? nec tamen
+               <p>num minus haec invidiose dicuntur? nec tamen
 nimis eleganter;<note>eliganter A<hi rend="sup">1</hi>B</note> illa<note>illa <hi rend="italics"> p. 100, 17 ss.</hi>
                   </note> subtilius. Sed quo modo tu si
 conprendi<note>
@@ -3876,10 +3875,10 @@ aut esse <add>aut non esse</add>
                   <note>
                      <hi rend="italics"> add. Pl.</hi>
                   </note> facta sed ut videri pronuntiarentur.</p>
-               <milestone  unit="chapter" n="48"/>
+               <milestone unit="chapter" n="48"/>
             </div>
             <div type="textpart" n="147" subtype="section">
-               <p >
+               <p>
 Verum quoniam non solum nauta significat sed
 etiam favonius ipse insusurrat navigandi nobis Luculle
 tempus esse, et quoniam satis multa dixi, sit<note>sit <hi rend="italics"> A</hi>
@@ -3904,12 +3903,12 @@ non possit, iacere necesse sit tot tam nobiles disciplinas, quam de oculorum sen
 contra se Stoici texuerunt.'</p>
             </div>
             <div type="textpart" n="148" subtype="section">
-               <p >
+               <p>
 Tum Lucullus 'Non moleste' inquit 'fero nos haec
 contulisse. saepius enim congredientes nos, et maxume
 in Tusculanis nostris, si quae videbuntur requiremus.'</p>
-               <p >'Optume' inquam, 'sed quid Catulus sentit, quid Hortensius?'</p>
-               <p >Tum Catulus 'Egone' inquit, 'ad patris revolvor sententiam, quam quidem ille Carneadeam esse dicebat,
+               <p>'Optume' inquam, 'sed quid Catulus sentit, quid Hortensius?'</p>
+               <p>Tum Catulus 'Egone' inquit, 'ad patris revolvor sententiam, quam quidem ille Carneadeam esse dicebat,
 ut percipi nihil putem posse, adsensurum autem non
 percepto id est opinaturum sapientem existumem, sed
 ita ut intellegat se<note>intelligat se N -gentes A<hi rend="sup">1</hi>B<hi rend="sup">1</hi> -gentis A<hi rend="sup">2</hi>B<hi rend="sup">2</hi>
@@ -3918,13 +3917,13 @@ conprehendi et percipi possit. †per epochen illam omnium rerum conprobans†<n
                   <note>probans A<hi rend="sup">1</hi> non pr- <hi rend="italics"> Mdv.</hi> inpr- <hi rend="italics"> Dav.</hi>
                   </note> illi alteri sententiae, nihil
 esse quod percipi possit, vehementer adsentior.'</p>
-               <p >'Habeo' inquam 'sententiam tuam nec eam admodum
+               <p>'Habeo' inquam 'sententiam tuam nec eam admodum
 aspernor. sed tibi quid<note>quid tibi B</note> tandem videtur Hortensi?'</p>
-               <p >Tum ille ridens<note>redens B<hi rend="sup">1</hi>
+               <p>Tum ille ridens<note>redens B<hi rend="sup">1</hi>
                   </note> 'Tollendum'.</p>
-               <p >'Teneo te' inquam; 'nam ista Academia est propria
+               <p>'Teneo te' inquam; 'nam ista Academia est propria
 sententia'.</p>
-               <p >Ita sermone confecto Catulus remansit, nos ad naviculas nostras descendimus.</p>
+               <p>Ita sermone confecto Catulus remansit, nos ad naviculas nostras descendimus.</p>
             </div>
          </div>
       </body>

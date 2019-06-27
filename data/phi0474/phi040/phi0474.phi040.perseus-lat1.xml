@@ -1,9 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="eng">
-      <fileDesc >
+      <fileDesc>
          <titleStmt>
             <title>Orator</title>
             <title type="sub">Machine readable text</title>
@@ -25,8 +24,8 @@
             <authority>Perseus Project</authority>
             <date type="release">2011-04-14</date>
          </publicationStmt>
-         <sourceDesc xmlns="http://www.tei-c.org/ns/1.0">
-            <biblStruct >
+         <sourceDesc>
+            <biblStruct>
                <monogr>
                   <author>M. Tullius Cicero</author>
                   <title>M. Tulli Ciceronis Rhetorica, Tomus II</title>
@@ -56,7 +55,7 @@
             <refState unit="section"/>
          </refsDecl>
       </encodingDesc>
-      <profileDesc >
+      <profileDesc>
          <langUsage>
             <language ident="">Latin
 	</language>
@@ -74,9 +73,9 @@
          <div xml:lang="lat"
               type="edition"
               n="urn:cts:latinLit:phi0474.phi040.perseus-lat1">
-            <head >M. TVLLI CICERONIS ORATOR AD M. BRVTVM</head>
+            <head>M. TVLLI CICERONIS ORATOR AD M. BRVTVM</head>
             <div type="textpart" n="1" subtype="section">
-               <p >
+               <p>
                   <milestone n="1" unit="chapter"/>VTRVM difficilius aut maius esset negare tibi saepius
 idem roganti an efficere id quod rogares diu multumque,
 Brute, dubitavi. Nam et negare ei quem unice diligerem
@@ -89,7 +88,7 @@ atque prudentium.
 </p>
             </div>
             <div type="textpart" n="2" subtype="section">
-               <p >
+               <p>
                   <reg>quid</reg> enim est maius quam, cum
 tanta sit inter oratores bonos dissimilitudo, iudicare quae
 sit optima species et quasi figura dicendi? <reg>quod</reg> quoniam
@@ -97,10 +96,10 @@ me saepius rogas, aggrediar non tam perficiendi spe quam
 experiendi voluntate; malo enim, cum studio tuo sim
 obsecutus, desiderari a te prudentiam meam quam, si id
 non fecerim, benevolentiam.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="3" subtype="section">
-               <p >
+               <p>
                   <reg>quaeris</reg> igitur idque iam saepius quod eloquentiae
 genus probem maxime et quale mihi videatur illud, quo<note>quo <hi rend="italics">L</hi>: cui <hi rend="italics">codd. dell.</hi>
                   </note>
@@ -114,7 +113,7 @@ assequi posse diffidant<note>diffidant <hi rend="italics">FPO</hi>: diffident <h
 </p>
             </div>
             <div type="textpart" n="4" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> par est omnis omnia experiri,
 qui res magnas et magno opere expetendas concupiverunt.
 
@@ -134,7 +133,7 @@ sed horum vel secundis vel etiam infra secundos;
 </p>
             </div>
             <div type="textpart" n="5" subtype="section">
-               <p >nec vero
+               <p>nec vero
 Aristotelem in philosophia deterruit a scribendo amplitudo
 Platonis, nec ipse Aristoteles admirabili quadam scientia et
 copia ceterorum studia restinxit.
@@ -155,7 +154,7 @@ inferiora tamen probaremus<note>miraremur... probaremus <hi rend="italics">L</hi
 </p>
             </div>
             <div type="textpart" n="6" subtype="section">
-               <p >
+               <p>
                   <reg>in</reg> oratoribus vero, Graecis
 quidem, admirabile est quantum inter omnis unus excellat;
 ac tamen, cum esset Demosthenes, multi oratores magni et
@@ -168,7 +167,7 @@ rebus magna sunt ea quae sunt optimis proxima.
 </p>
             </div>
             <div type="textpart" n="7" subtype="section">
-               <p >
+               <p>
                   <reg>atque</reg> ego in summo oratore fingendo talem informabo
 qualis fortasse nemo fuit. Non enim quaero quis fuerit,
 sed quid sit illud, quo nihil esse possit praestantius, quod in
@@ -182,7 +181,7 @@ alios densius, apud alios fortasse rarius.
 </p>
             </div>
             <div type="textpart" n="8" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> ego sic statuo,
 nihil esse in ullo genere tam pulchrum, quo non pulchrius id
 sit unde illud ut ex ore aliquo quasi imago exprimatur; quod
@@ -195,7 +194,7 @@ nec vero ille artifex cum faceret Iovis formam aut Minervae,
 </p>
             </div>
             <div type="textpart" n="9" subtype="section">
-               <p >contemplabatur aliquem e quo similitudinem duceret, sed
+               <p>contemplabatur aliquem e quo similitudinem duceret, sed
 ipsius in mente insidebat species pulchritudinis eximia quaedam,
 quam intuens in eaque defixus ad illius similitudinem
 artem et manum dirigebat.
@@ -210,19 +209,19 @@ effigiem auribus quaerimus.
 </p>
             </div>
             <div type="textpart" n="10" subtype="section">
-               <p >
+               <p>
                   <reg>has</reg> rerum formas appellat
-<foreign xml:lang="greek">i)de/as</foreign> ille non intellegendi solum sed etiam dicendi gravissimus
+<foreign xml:lang="greek">ἰδέας</foreign> ille non intellegendi solum sed etiam dicendi gravissimus
 auctor et magister Plato, easque gigni negat et ait
 semper esse ac ratione et intellegentia contineri; cetera
 nasci occidere fluere labi nec diutius esse uno et eodem
 statu. Quicquid est igitur de quo ratione et via disputetur,
 id est ad ultimam sui generis formam speciemque
 redigendum.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="11" subtype="section">
-               <p >
+               <p>
                   <reg>ac</reg> video hanc primam ingressionem meam non ex oratoriis<note>oratoriis <hi rend="italics">codd. dett.</hi>: oratoris <hi rend="italics">L et Nonius</hi>
                   </note>
 disputationibus ductam sed e media philosophia
@@ -239,7 +238,7 @@ tatas vias indagemus, tritas relinquamus.
 </p>
             </div>
             <div type="textpart" n="12" subtype="section">
-               <p >
+               <p>
                   <reg>ego</reg> autem et me
 saepe nova videri dicere intellego, cum pervetera dicam
 sed inaudita plerisque, et fateor me oratorem, si modo sim
@@ -255,19 +254,19 @@ quas, ut illi ipsi dicere solebant, agrestioribus Musis reliquerunt.
 </p>
             </div>
             <div type="textpart" n="13" subtype="section">
-               <p >
+               <p>
                   <reg>sic</reg> eloquentia haec forensis spreta a philosophis et
 repudiata multis quidem illa<note>illa quidem <hi rend="italics">ed. Rom.</hi> 1469, <hi rend="italics">cf. Madvig de Fin.</hi> iv. 16, 43</note> adiumentis magnisque caruit,
 sed tamen ornata verbis atque sententiis iactationem habuit
 in populo nec paucorum iudicium reprehensionemque pertimuit:
 ita et doctis eloquentia popularis et disertis elegans
 doctrina defuit.</p>
-               <p >
+               <p>
                   <milestone n="4" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="14" subtype="section">
-               <p >
+               <p>
                   <reg>positum</reg> sit igitur in primis, quod post magis intellegetur,
 sine philosophia non posse effici quem quaerimus eloquentem, non ut in ea tamen omnia sint, sed ut sic adiuvet ut
 palaestra histrionem; parva enim magnis saepe rectissime
@@ -276,7 +275,7 @@ variisque rebus sine philosophia potest quisquam dicere;—
 </p>
             </div>
             <div type="textpart" n="15" subtype="section">
-               <p >si quidem etiam in Phaedro Platonis hoc Periclem praestitisse
+               <p>si quidem etiam in Phaedro Platonis hoc Periclem praestitisse
 ceteris dicit<note>dicit <hi rend="italics">codd. dett.</hi>: dicat <hi rend="italics">L</hi>
                   </note> oratoribus Socrates, quod is Anaxagorae
 physici fuerit auditor; a quo censet eum, cum alia praeclara
@@ -288,7 +287,7 @@ idem de Demosthene existimari potest, cuius ex epistulis
 </p>
             </div>
             <div type="textpart" n="16" subtype="section">
-               <p >intellegi licet quam frequens fuerit Platonis auditor;—nec
+               <p>intellegi licet quam frequens fuerit Platonis auditor;—nec
 
 <pb n="p.2006"/>
 
@@ -309,7 +308,7 @@ rerum disciplina aut dici aut intellegi. potest?
                </p>
             </div>
             <div type="textpart" n="17" subtype="section">
-               <p >
+               <p>
                   <reg>ad</reg>
                   <note>potest! sed ad <hi rend="italics">Lambinus et Sauppe</hi>: posse ad <hi rend="italics">L</hi>
                   </note> has tot
@@ -324,7 +323,7 @@ doctrina quaeritur.
 </p>
             </div>
             <div type="textpart" n="18" subtype="section">
-               <p >
+               <p>
                   <reg>itaque</reg> M. Antonius, cui vel primas
 eloquentiae patrum nostrorum tribuebat aetas, vir natura
 peracutus et prudens<note>vir... prudens <hi rend="italics">secl. Bake</hi>
@@ -339,7 +338,7 @@ quod si ille nec se nec L. Crassum eloquentem putavit,
 </p>
             </div>
             <div type="textpart" n="19" subtype="section">
-               <p >habuit profecto comprehensam animo quandam formam
+               <p>habuit profecto comprehensam animo quandam formam
 eloquentiae, cui quoniam nihil deerat, eos quibus aliquid
 aut plura deerant in eam formam non poterat includere.
 Investigemus hunc igitur, Brute, si possumus, quem numquam
@@ -348,10 +347,10 @@ quem si imitari atque exprimere non possumus, quod idem
 ille vix deo concessum esse dicebat, at qualis esse debeat
 poterimus fortasse dicere.</p>
                <pb n="p.2007"/>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="20" subtype="section">
-               <p >
+               <p>
                   <reg>tria</reg> sunt omnino genera dicendi, quibus in singulis
 quidam floruerunt, peraeque autem, id quod volumus,
 perpauci in omnibus. Nam et grandiloqui, ut ita dicam,
@@ -376,7 +375,7 @@ concinniores, id est<note>id est <hi rend="italics">O</hi>: idest <hi rend="ital
 </p>
             </div>
             <div type="textpart" n="21" subtype="section">
-               <p >
+               <p>
                   <reg>est</reg> autem quidam interiectus inter hos<note>hos <hi rend="italics">Nonius</hi>: <hi rend="italics">om. L</hi>
                   </note> medius et quasi
 temperatus<note>temperatus <hi rend="italics">Nonius</hi>: temperandus <hi rend="italics">L</hi>
@@ -394,14 +393,14 @@ verborum sententiarumque distinguit.
 </p>
             </div>
             <div type="textpart" n="22" subtype="section">
-               <p >
+               <p>
                   <reg>horum</reg> singulorum<note>singulorum <hi rend="italics">secl. Bake</hi>
                   </note>
 generum quicumque vim in singulis consecuti sunt<note>in singulis consecuti sunt <hi rend="italics">Poggius</hi>: in <hi rend="italics">om. L</hi>: singuli sunt cons. <hi rend="italics">Stangl</hi>: singuli c. sunt Schütz</note>, magnum
 in oratoribus nomen habuerunt. Sed quaerendum est
 satisne id quod volumus effecerint.
 </p>
-               <p >
+               <p>
                   <milestone n="7" unit="chapter"/>
                   <reg>videmus</reg> enim fuisse quosdam qui idem ornate et
 graviter, idem versute et subtiliter dicerent. Atque utinam
@@ -413,7 +412,7 @@ in Latinis talis oratoris simulacrum reperire possemus!
 </p>
             </div>
             <div type="textpart" n="23" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> ego idem, qui in illo sermone nostro qui est
 expositus in Bruto multum tribuerim Latinis, vel ut hortarer
 alios vel quod amarem meos, recordor longe omnibus
@@ -438,13 +437,13 @@ eloquentiamque ipsius<note>ipsius <hi rend="italics">L</hi>: illius <hi rend="it
 </p>
             </div>
             <div type="textpart" n="24" subtype="section">
-               <p >
+               <p>
                   <reg>nunc</reg> enim tantum quisque laudat quantum se posse
 sperat imitari. Sed tamen eos studio optimo iudicio minus
 firmo praeditos docere quae sit propria laus Atticorum non
 alienum puto.
 </p>
-               <p >
+               <p>
                   <milestone n="8" unit="chapter"/>
                   <reg>semper</reg> oratorum eloquentiae moderatrix fuit auditorum
 prudentia. Omnes enim qui probari volunt voluntatem
@@ -454,7 +453,7 @@ et nutum totos se fingunt et accommodant.
 </p>
             </div>
             <div type="textpart" n="25" subtype="section">
-               <p >
+               <p>
                   <reg>itaque</reg>
 Caria et Phrygia et Mysia, quod minime politae<note>politae <hi rend="italics">F2</hi>: polite <hi rend="italics">L</hi>
                   </note> minimeque
@@ -475,7 +474,7 @@ verbum insolens, nullum odiosum ponere audebat.
 </p>
             </div>
             <div type="textpart" n="26" subtype="section">
-               <p >
+               <p>
                   <reg>itaque</reg>
 hic, quem praestitisse diximus ceteris, in illa pro Ctesiphonte
 oratione longe optima summissius a primo, deinde,
@@ -483,7 +482,7 @@ dum de legibus disputat, pressius, post sensim incendens
 iudices, ut vidit ardentis, in reliquis exsultavit audacius. Ac
 tamen in hoc ipso diligenter examinante verborum omnium
 pondera reprehendit Aeschines quaedam et exagitat inludensque
-dura<note>dura <hi rend="italics">L</hi>: dira <hi rend="italics">vulg.</hi> 'Graeco verbo (<foreign xml:lang="greek">miara/</foreign>) melius responderet <hi rend="italics">impura</hi> vel <hi rend="italics">putida</hi>' <hi rend="italics">Sandys</hi>
+dura<note>dura <hi rend="italics">L</hi>: dira <hi rend="italics">vulg.</hi> 'Graeco verbo (<foreign xml:lang="greek">μιαρά</foreign>) melius responderet <hi rend="italics">impura</hi> vel <hi rend="italics">putida</hi>' <hi rend="italics">Sandys</hi>
                   </note> odiosa intolerabilia esse dicit; quin etiam
 quaerit ab ipso, cum quidem eum beluam appellat<note>appellat <hi rend="italics">M Goeller</hi>: appellet <hi rend="italics">FPO</hi>
                   </note>, utrum
@@ -492,7 +491,7 @@ quidem videatur Attice dicere.
 </p>
             </div>
             <div type="textpart" n="27" subtype="section">
-               <p >
+               <p>
                   <reg>facile</reg> est enim verbum
 aliquod ardens, ut ita dicam, notare idque restinctis iam
 animorum incendiis inridere. Itaque se purgans iocatur
@@ -505,12 +504,12 @@ vero inclinata ululantique voce more Asiatico
 canere coepisset, quis eum ferret aut potius quis non iuberet
 auferri?
 </p>
-               <p >
+               <p>
                   <milestone n="9" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="28" subtype="section">
-               <p >
+               <p>
                   <reg>ad</reg> Atticorum igitur auris<note>aures <hi rend="italics">vulg.</hi>: aut res <hi rend="italics">L</hi>
                   </note> teretes et religiosas qui se
 accommodant, ei sunt existimandi Attice dicere. Quorum
@@ -521,7 +520,7 @@ quod solum; quod Attice, non falluntur.
 </p>
             </div>
             <div type="textpart" n="29" subtype="section">
-               <p >
+               <p>
                   <reg>istorum</reg> enim
 
 <pb n="p.2010"/>
@@ -541,7 +540,7 @@ aut ne sit Aeschines neve Demosthenes Atticus.
 </p>
             </div>
             <div type="textpart" n="30" subtype="section">
-               <p >
+               <p>
                   <reg>ecce</reg>
 autem aliqui se Thucydidios esse profitentur: novum
 quoddam imperitorum et inauditum genus. Nam qui
@@ -558,7 +557,7 @@ quod est in oratione civili vitium vel maximum.
 </p>
             </div>
             <div type="textpart" n="31" subtype="section">
-               <p >
+               <p>
                   <reg>quae</reg> est autem in hominibus tanta perversitas, ut inventis
 frugibus glande vescantur? <reg>an</reg> victus hominum Atheniensium
 beneficio excoli potuit, oratio non potuit? <reg>quis</reg> porro
@@ -570,7 +569,7 @@ est numeratus orator,
 </p>
             </div>
             <div type="textpart" n="32" subtype="section">
-               <p >nec vero, si historiam non scripsisset,
+               <p>nec vero, si historiam non scripsisset,
 nomen eius exstaret, cum praesertim fuisset honoratus et
 nobilis. Huius tamen nemo neque verborum neque sententiarum
 gravitatem imitatur, sed cum mutila quaedam et
@@ -582,10 +581,10 @@ germanos se putant esse Thucydidas. Nactus sum etiam qui
 Xenophontis similem esse se cuperet, cuius sermo est ille
 quidem melle dulcior, sed a forensi strepitu remotissimus.
 </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="33" subtype="section">
-               <p >
+               <p>
                   <reg>referamus</reg> nos igitur<note>nos igitur <hi rend="italics">Ernesti</hi>: igitur nos <hi rend="italics">L</hi>
                   </note> ad eum quem volumus incohandum
 et ea demum<note>ea demum <hi rend="italics">Ernesti</hi>: eadem <hi rend="italics">L</hi>: ea quidem <hi rend="italics">Kayser</hi>: ea denique <hi rend="italics">Heerdegen</hi>
@@ -603,7 +602,7 @@ admirabilium<note>incredibili f. v. admirabilium <hi rend="italics">ed. Ven.</hi
 </p>
             </div>
             <div type="textpart" n="34" subtype="section">
-               <p >
+               <p>
                   <reg>quid</reg> enim tam distans quam a severitate comitas? <reg>quis</reg>
 tamen umquam te aut sanctior est habitus aut dulcior?
 <reg>quid</reg> tam difficile quam in plurimorum controversiis diiudicandis
@@ -625,7 +624,7 @@ aut ipse scribis aliquid aut me vocas ad scribendum!
 </p>
             </div>
             <div type="textpart" n="35" subtype="section">
-               <p >
+               <p>
                   <reg>itaque</reg> hoc sum adgressus statim Catone absoluto—quem
 ipsum numquam attigissem tempora timens inimica virtuti,
 nisi tibi hortanti et illius memoriam mihi caram excitanti
@@ -641,15 +640,15 @@ quaestionem non potuero, iniusti<note>iniuste <hi rend="italics">maluit Kraffert
 sit, mea recepti; in quo tamen iudici nostri errorem laus
 tibi dati muneris compensabit.
 </p>
-               <p >
+               <p>
                   <milestone n="11" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="36" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> in omni re difficillimum est formam, qui<note>qui <hi rend="italics">Tulich</hi> (<hi rend="italics">ed. Rom.</hi> 1515): quae <hi rend="italics">idem in marg.</hi>: quod <hi rend="italics">L</hi>
                   </note> 
-                  <foreign xml:lang="greek">xarakth\r</foreign>
+                  <foreign xml:lang="greek">χαρακτὴρ</foreign>
 Graece dicitur, exponere optimi, quod aliud aliis videtur
 optimum. Ennio delector, ait quispiam, quod non discedit
 a communi more verborum; Pacuvio, inquit alius: omnes
@@ -669,10 +668,10 @@ cum in suo quidque<note>quidque <hi rend="italics">Reid</hi>: quodque <hi rend="
 in omnibus rebus esse aliquid optimum, etiam si
 lateret, idque ab eo posse qui eius rei gnarus esset iudicari.
 </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="37" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> quoniam plura sunt orationum genera eaque diversa
 neque in unam formam cadunt omnia, laudationum <del>scriptionum</del>
 et historiarum et talium suasionum, qualem Isocrates
@@ -683,7 +682,7 @@ reliquarumque scriptionum<note>scriptionum <hi rend="italics">secl. Sauppe</hi>:
                      </note>
                   </del> formam, quae absunt
 a forensi contentione eiusque totius generis quod Graece
-<foreign xml:lang="greek">e)pideiktiko\n</foreign> nominatur, quia<note>quia <hi rend="italics">vulg.</hi>: qua <hi rend="italics">L</hi>
+<foreign xml:lang="greek">ἐπιδεικτικὸν</foreign> nominatur, quia<note>quia <hi rend="italics">vulg.</hi>: qua <hi rend="italics">L</hi>
                   </note> quasi ad inspiciendum delectationis
 causa comparatum est, non complectar hoc tempore;
 non quo neglegenda sit; est enim illa quasi nutrix eius
@@ -699,7 +698,7 @@ licentia.
 </p>
             </div>
             <div type="textpart" n="38" subtype="section">
-               <p >
+               <p>
                   <reg>datur</reg> etiam venia concinnitati sententiarum et
 arguti<note>argutiis <hi rend="italics">maluit Heerdegen</hi>
                   </note> certique et circumscripti verborum ambitus conceduntur,
@@ -722,10 +721,10 @@ scripserat.
 </p>
             </div>
             <div type="textpart" n="39" subtype="section">
-               <p >
+               <p>
                   <reg>haec</reg> tractasse Thrasymachum Calchedonium
 primum et Leontinum ferunt Gorgiam, Theodorum inde
-Byzantium multosque alios, quos <foreign xml:lang="greek">logodaida/lous</foreign> appellat in
+Byzantium multosque alios, quos <foreign xml:lang="greek">λογοδαιδάλους</foreign> appellat in
 Phaedro Socrates; quorum satis arguta multa, sed ut modo
 primumque nascentia minuta et versiculorum similia quaedam nimiumque depicta. Quo magis sunt Herodotus
 Thucydidesque mirabiles; quorum aetas cum in eorum
@@ -740,7 +739,7 @@ dicere.
                </p>
             </div>
             <div type="textpart" n="40" subtype="section">
-               <p >
+               <p>
                   <reg>horum</reg> aetati successit Isocrates, qui praeter
 ceteros eiusdem generis laudatur semper a nobis, non numquam,
 Brute, leniter et erudite repugnante te; sed concedas<note>concedas <hi rend="italics">Heerdegen</hi>: credas <hi rend="italics">L</hi>: credes <hi rend="italics">codd. dett.</hi>: cedes <hi rend="italics">Ernesti</hi>
@@ -761,7 +760,7 @@ domus eius officina habita eloquentiae est.
 </p>
             </div>
             <div type="textpart" n="41" subtype="section">
-               <p >
+               <p>
                   <reg>itaque</reg>
 ut ego, cum a nostro Catone laudabar, vel reprehendi me
 a ceteris facile patiebar, sic Isocrates videtur testimonio<note>prae test. <hi rend="italics">Heerdegen</hi>
@@ -782,7 +781,7 @@ inest enim natura philosophia<note>philosophia <hi rend="italics">vulg.</hi>: ph
 </p>
             </div>
             <div type="textpart" n="42" subtype="section">
-               <p >
+               <p>
                   <reg>haec</reg> de adulescente Socrates auguratur<note>auguratur <hi rend="italics">F</hi>: auguratus <hi rend="italics">OPM</hi>: auguratust <hi rend="italics">Stangl</hi>
                   </note>. At ea de seniore
 scribit Plato et scribit aequalis et quidem exagitator omnium
@@ -803,12 +802,12 @@ fuit de oratoris quasi incunabulis dicere. Verum haec
 ludorum atque pompae; nos autem iam<note>autem iam <hi rend="italics">F</hi>: autem <hi rend="italics">OPM</hi>: autem <hi rend="italics">secl. Stangl</hi>
                   </note> in aciem dimicationemque veniamus.
 </p>
-               <p >
+               <p>
                   <milestone n="14" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="43" subtype="section">
-               <p >
+               <p>
                   <reg>quoniam</reg> tria videnda sunt oratori: quid dicat et quo
 quidque loco et quo modo, dicendum omnino est quid sit
 optimum in singulis, sed aliquanto secus atque in tradenda
@@ -819,13 +818,13 @@ sed qualis nobis esse videatur.
 </p>
             </div>
             <div type="textpart" n="44" subtype="section">
-               <p >
+               <p>
                   <reg>ac</reg> duo breviter prima;
 sunt enim non tam insignia ad maximam laudem quam
 necessaria et tamen<note>et tamen <hi rend="italics">L</hi>: et eadem <hi rend="italics">Halm</hi>: tamen <hi rend="italics">secl. Sorof</hi>
                   </note> cum multis paene communia.
 </p>
-               <p >
+               <p>
                   <reg>nam</reg> et invenire et iudicare quid dicas magna illa quidem
 sunt et tamquam animi instar in corpore, sed propria magis
 prudentiae quam eloquentiae: qua tamen in causa est
@@ -835,7 +834,7 @@ summum esse volumus, argumentorum et rationum locos.
 </p>
             </div>
             <div type="textpart" n="45" subtype="section">
-               <p >
+               <p>
                   <reg>nam</reg> quoniam<note>quoniam <hi rend="italics">om. ed. Venet., secl. vulg.</hi>
                   </note>, quicquid est quod in controversia aut in
 contentione versetur, in eo aut sitne aut quid sit aut quale
@@ -849,9 +848,9 @@ universo sit probatum id in parte sit probari necesse;—
 </p>
             </div>
             <div type="textpart" n="46" subtype="section">
-               <p >haec igitur quaestio a propriis personis et temporibus ad
+               <p>haec igitur quaestio a propriis personis et temporibus ad
 universi generis rationem<note>rationem <hi rend="italics">Nizolius</hi>: orationem <hi rend="italics">L</hi>
-                  </note> traducta appellatur <foreign xml:lang="greek">qe/sis</foreign>. In
+                  </note> traducta appellatur <foreign xml:lang="greek">θέσις</foreign>. In
 hac Aristoteles adulescentis non ad philosophorum morem
 
 <pb n="p.2016"/>
@@ -866,7 +865,7 @@ tradidit unde omnis in utramque partem traheretur oratio.
                </p>
             </div>
             <div type="textpart" n="47" subtype="section">
-               <p >
+               <p>
                   <reg>faciet</reg>
                   <note>faciet <hi rend="italics">Gulielmius</hi>: facile <hi rend="italics">L</hi>
                   </note> igitur hic noster—non enim declamatorem aliquem
@@ -884,7 +883,7 @@ argumentorum momenta<note>momenta sumenda <hi rend="italics">maluit Eussner</hi>
 </p>
             </div>
             <div type="textpart" n="48" subtype="section">
-               <p >
+               <p>
                   <reg>iudicium</reg> igitur adhibebit
 nec inveniet solum quid dicat sed etiam expendet. Nihil
 enim est feracius ingeniis, eis praesertim quae disciplinis
@@ -898,7 +897,7 @@ dilectus <hi rend="italics">nisi</hi>
 </p>
             </div>
             <div type="textpart" n="49" subtype="section">
-               <p >quonam modo ille in
+               <p>quonam modo ille in
 bonis haerebit et habitabit suis aut molliet dura aut occultabit
 quae dilui non poterunt atque omnino opprimet, si
 licebit, aut abducet animos aut aliud adferet, quod oppositum
@@ -906,7 +905,7 @@ probabilius sit quam illud quod obstabit?
 </p>
             </div>
             <div type="textpart" n="50" subtype="section">
-               <p >
+               <p>
                   <reg>iam</reg> vero
 ea quae invenerit qua diligentia conlocabit? quoniam id
 secundum erat de tribus. Vestibula nimirum honesta
@@ -918,12 +917,12 @@ leviora<note>inculcabit locabitque in medio leviora: <hi rend="italics">Sandys n
                   </note>.
 </p>
                <pb n="p.2017"/>
-               <p >
+               <p>
                   <milestone n="16" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="51" subtype="section">
-               <p >
+               <p>
                   <reg>atque</reg> in primis duabus dicendi partibus qualis esset
 summatim breviterque descripsimus. Sed, ut ante dictum
 est, in his partibus, etsi graves atque magnae sunt, minus et
@@ -939,7 +938,7 @@ totis moderatur oratio?
 </p>
             </div>
             <div type="textpart" n="52" subtype="section">
-               <p >
+               <p>
                   <reg>quod</reg> quidem ego, Brute, ex tuis
 litteris sentiebam, non te id sciscitari<note>sciscitari <hi rend="italics">vulg.</hi>: scitari <hi rend="italics">L</hi>
                   </note>, qualem ego <hi rend="italics">in</hi>
@@ -954,7 +953,7 @@ naturae variae et voluntates multum inter se distantia effecerunt genera dicendi
 </p>
             </div>
             <div type="textpart" n="53" subtype="section">
-               <p >flumen aliis verborum volubilitasque
+               <p>flumen aliis verborum volubilitasque
 cordi est, qui ponunt in orationis celeritate eloquentiam;
 distincta alios et interpuncta intervalla, morae respirationesque
 delectant: quid potest esse tam diversum? tamen
@@ -971,12 +970,12 @@ paulo ante divisimus, ut alii graves alii tenues alii temperati
 vellent videri, quot orationum genera esse diximus totidem
 oratorum reperiuntur.
 </p>
-               <p >
+               <p>
                   <milestone n="17" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="54" subtype="section">
-               <p >
+               <p>
                   <reg>et</reg> quoniam coepi iam cumulatius hoc munus augere
 quam a te postulatum est—tibi enim tantum de orationis
 
@@ -990,7 +989,7 @@ dum, quae communis est multarum artium.
 </p>
             </div>
             <div type="textpart" n="55" subtype="section">
-               <p >
+               <p>
                   <reg>quo</reg> modo
 autem dicatur, id est in duobus, in agendo et in eloquendo.
 Est enim actio quasi corporis quaedam eloquentia, cum<note>cum <hi rend="italics">L</hi>: quae <hi rend="italics">Ernesti</hi>
@@ -1007,7 +1006,7 @@ quem ad modum utatur orator.
 </p>
             </div>
             <div type="textpart" n="56" subtype="section">
-               <p >
+               <p>
                   <reg>nam</reg> et infantes actionis
 dignitate eloquentiae saepe fructum tulerunt et diserti deformitate
 agendi multi infantes putati sunt; ut iam<note>iam <hi rend="italics">L</hi>: sane <hi rend="italics">Jahn</hi>
@@ -1022,7 +1021,7 @@ inclinata videri gravis et inflexa<note>flexa <hi rend="italics">maluit Schütz<
 </p>
             </div>
             <div type="textpart" n="57" subtype="section">
-               <p >mira est enim
+               <p>mira est enim
 quaedam natura vocis, cuius quidem e tribus omnino sonis,
 inflexo acuto gravi, tanta sit et tam suavis varietas perfecta
 in cantibus.
@@ -1041,7 +1040,7 @@ dulci et clara fuisse.
 </p>
             </div>
             <div type="textpart" n="58" subtype="section">
-               <p >
+               <p>
                   <reg>in</reg> quo illud etiam notandum mihi
 videtur ad studium persequendae suavitatis in vocibus: ipsa
 enim natura, quasi modularetur hominum orationem, in
@@ -1052,7 +1051,7 @@ aurium voluptatem sequatur<note>sequetur <hi rend="italics">maluit Stangl</hi>
 </p>
             </div>
             <div type="textpart" n="59" subtype="section">
-               <p >
+               <p>
                   <reg>ac</reg> vocis quidem
 bonitas<note>quidem bonitas <hi rend="italics">Ernesti</hi>: bonitas quidem <hi rend="italics">L</hi>
                   </note> optanda est; non est enim in nobis, sed tractatio
@@ -1071,7 +1070,7 @@ in remissis.
 </p>
             </div>
             <div type="textpart" n="60" subtype="section">
-               <p >
+               <p>
                   <reg>vultus</reg> vero, qui secundum vocem plurimum
 potest, quantam adferet tum dignitatem tum venustatem! <reg>in</reg>
 quo cum effeceris ne quid ineptum sit aut vultuosum<note>sit aut voltuosum <hi rend="italics">Nonius</hi>: aut voltuosum sit <hi rend="italics">L</hi>
@@ -1081,12 +1080,12 @@ est animi vultus, sic indices oculi; quorum et hilaritatis
 et vicissim tristitiae modum res ipsae de quibus agetur
 temperabunt.
 </p>
-               <p >
+               <p>
                   <milestone n="19" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="61" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> iam illius perfecti oratoris et summae eloquentiae
 species exprimenda est. Quem hoc uno excellere <del>id est
 oratione<note>id est oratione <hi rend="italics">secl. Schütz</hi>
@@ -1094,7 +1093,7 @@ oratione<note>id est oratione <hi rend="italics">secl. Schütz</hi>
                   </del>, cetera in eo latere indicat nomen ipsum; non
 enim inventor aut compositor aut actor <hi rend="italics">qui</hi>
                   <note>actor qui <hi rend="italics">Madvig</hi>: sed <hi rend="italics">qui</hi> (l. 28) <hi rend="italics">maluit Heerdegen</hi>: est <hi rend="italics">om. Nixon</hi> (<hi rend="italics">non addito</hi> qu)</note> haec complexus
-est omnia, sed et Graece ab eloquendo <foreign xml:lang="greek">r(h/twr</foreign> et
+est omnia, sed et Graece ab eloquendo <foreign xml:lang="greek">ῥήτωρ</foreign> et
 Latine eloquens dictus est; ceterarum enim rerum quae
 
 <pb n="p.2020"/>
@@ -1102,10 +1101,10 @@ Latine eloquens dictus est; ceterarum enim rerum quae
 sunt in oratore partem aliquam sibi quisque vindicat,
 dicendi autem, id est eloquendi, maxima vis soli huic conceditur.
 </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="62" subtype="section">
-               <p >
+               <p>
                   <reg>quamquam</reg> enim et philosophi quidam<note>quidam <hi rend="italics">vulg.</hi>: quidem <hi rend="italics">L</hi>
                   </note> ornate locuti
 sunt—si quidem et Theophrastus <hi rend="italics">a</hi> divinitate<note>a divinitate <hi rend="italics">vulg.</hi>: divinitate <hi rend="italics">L</hi>
@@ -1119,7 +1118,7 @@ neque nervos neque aculeos oratorios ac forensis habet.
 </p>
             </div>
             <div type="textpart" n="63" subtype="section">
-               <p >
+               <p>
                   <reg>loquuntur</reg> cum doctis, quorum sedare animos malunt quam
 incitare, et de<note>et de <hi rend="italics">Heerdegen</hi>: fide <hi rend="italics">L</hi>: sic de <hi rend="italics">codd. dett.</hi>: sic... loquuntur <hi rend="italics">secl. Kayser</hi>: <del>scilicet</del> de <hi rend="italics">Stangl</hi>
                   </note> rebus placatis ac minime turbulentis docendi
@@ -1131,7 +1130,7 @@ difficile est hanc eloquentiam, de qua nunc agitur, secernere.
 </p>
             </div>
             <div type="textpart" n="64" subtype="section">
-               <p >
+               <p>
                   <reg>mollis</reg> est enim oratio philosophorum et umbratilis
 nec sententiis nec verbis instructa popularibus<note>popularibus <hi rend="italics">codd. dett.</hi>: popularis <hi rend="italics">L</hi> vincta <hi rend="italics">codd. dett.</hi>: iuncta <hi rend="italics">L</hi>
                   </note> nec vincta
@@ -1144,10 +1143,10 @@ oratio<note>oratoris <hi rend="italics">codd. dett.</hi>: orationis <hi rend="it
                   </note> est, tamen unius oratoris locutio hoc proprio signata
 nomine est.
 </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="65" subtype="section">
-               <p >
+               <p>
                   <reg>sophistarum</reg>, de quibus supra dixi, magis distinguenda
 similitudo videtur, qui omnes eosdem volunt flores quos
 adhibet orator in causis persequi. Sed hoc differunt quod,
@@ -1167,14 +1166,14 @@ contrariis, saepissimeque similiter extrema definiunt<note>definiunt <hi rend="i
                </p>
             </div>
             <div type="textpart" n="66" subtype="section">
-               <p >
+               <p>
                   <reg>huic</reg>
 generi historia finitima est, in qua et narratur ornate et
 regio saepe aut pugna describitur; interponuntur etiam
 contiones et hortationes, sed in his tracta quaedam et fluens
 expetitur, non haec contorta et acris oratio.
 </p>
-               <p >
+               <p>
                   <reg>ab</reg> his non multo secus quam a poetis haec eloquentia
 quam quaerimus sevocanda est. Nam etiam poetae quaestionem attulerunt,
 quidnam esset illud quo ipsi differrent
@@ -1183,12 +1182,12 @@ nunc apud oratores iam ipse numerus increbruit.
 </p>
             </div>
             <div type="textpart" n="67" subtype="section">
-               <p >
+               <p>
                   <reg>quicquid</reg>
 est enim quod sub aurium mensuram aliquam cadit<note>cadit <hi rend="italics">L et Rufin.</hi>: cadat <hi rend="italics">Wesenberg</hi>
                   </note>, etiam
 si abest a versu—nam id quidem orationis est vitium—numerus
-vocatur, qui Graece <foreign xml:lang="greek">r(uqmo\s</foreign> dicitur. Itaque video
+vocatur, qui Graece <foreign xml:lang="greek">ῥυθμὸς</foreign> dicitur. Itaque video
 visum esse non nullis Platonis et Democriti locutionem, etsi
 absit a versu, tamen quod incitatius<note>incitatius <hi rend="italics">F2</hi>: incitatus <hi rend="italics">L</hi>
                   </note> feratur et clarissimis
@@ -1201,7 +1200,7 @@ oratoris persequitur, cum versu sit astrictior.
 </p>
             </div>
             <div type="textpart" n="68" subtype="section">
-               <p >
+               <p>
                   <reg>ego</reg> autem,
 etiam si quorundam grandis et ornata vox est poetarum,
 tamen in ea cum licentiam statuo maiorem esse quam in
@@ -1222,12 +1221,12 @@ igitur orator a philosophorum eloquentia, a sophistarum,
 ab historicorum, a poetarum explicandus est nobis qualis
 futurus sit.
 </p>
-               <p >
+               <p>
                   <milestone n="21" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="69" subtype="section">
-               <p >
+               <p>
                   <reg>erit</reg> igitur eloquens—hunc enim auctore Antonio quaerimus—is
 qui in foro causisque civilibus ita dicet, ut probet,
 ut delectet, ut flectat. Probare necessitatis est, delectare
@@ -1240,7 +1239,7 @@ uno vis omnis oratoris est.
 </p>
             </div>
             <div type="textpart" n="70" subtype="section">
-               <p >
+               <p>
                   <reg>magni</reg> igitur iudici, summae
 etiam facultatis esse debebit moderator ille et quasi temperator
 huius tripertitae varietatis; nam et iudicabit quid
@@ -1248,7 +1247,7 @@ cuique<note>cuique <hi rend="italics">L</hi>: '<hi rend="italics">valde vereor n
                   </note> opus sit et poterit quocumque modo postulabit
 causa dicere. Sed est eloquentiae sicut reliquarum rerum
 fundamentum sapientia. Vt enim in vita sic in oratione
-nihil est difficilius quam quid deceat videre. <foreign xml:lang="greek">Pre/pon</foreign> appellant
+nihil est difficilius quam quid deceat videre. <foreign xml:lang="greek">πρέπον</foreign> appellant
 hoc Graeci, nos dicamus sane decorum; de quo
 praeclare et multa<note>praeclare et multa <hi rend="italics">L et Iul. Vict.</hi>: multa et praeclare <hi rend="italics">Goeller</hi>
                   </note> praecipiuntur et res est cognitione dignissima;
@@ -1257,7 +1256,7 @@ et in poematis et in oratione peccatur.
 </p>
             </div>
             <div type="textpart" n="71" subtype="section">
-               <p >
+               <p>
                   <reg>est</reg> autem quid
 deceat oratori videndum non in sententiis solum sed etiam
 in verbis. Non enim omnis fortuna, non omnis honos,
@@ -1273,7 +1272,7 @@ qui dicunt et eorum qui audiunt.
 </p>
             </div>
             <div type="textpart" n="72" subtype="section">
-               <p >
+               <p>
                   <reg>itaque</reg> hunc locum longe
 et late patentem philosophi solent in officiis tractare—non
 cum de recto ipso disputant, nam id quidem unum est—,
@@ -1291,7 +1290,7 @@ saepe aut probatur aut reicitur alio atque alio elata verbo.
 </p>
             </div>
             <div type="textpart" n="73" subtype="section">
-               <p >
+               <p>
                   <reg>in</reg> omnibusque rebus videndum est quatenus; etsi enim
 suus cuique modus est, tamen magis offendit nimium quam
 parum; in quo Apelles pictores quoque eos peccare dicebat
@@ -1310,7 +1309,7 @@ oportere dicas;—oportere enim perfectionem declarat offici,
 </p>
             </div>
             <div type="textpart" n="74" subtype="section">
-               <p >quo et semper utendum est et omnibus, decere quasi aptum
+               <p>quo et semper utendum est et omnibus, decere quasi aptum
 esse consentaneumque tempori et personae; quod cum in
 factis saepissime tum in dictis valet, in vultu denique et
 gestu et incessu, contraque item dedecere; quod si poeta
@@ -1333,12 +1332,12 @@ orator viderit: illud quidem perspicuum est, non modo
 partis orationis sed etiam causas totas alias alia forma
 dicendi esse tractandas.
 </p>
-               <p >
+               <p>
                   <milestone n="23" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="75" subtype="section">
-               <p >
+               <p>
                   <reg>sequitur</reg> ut cuiusque generis nota quaeratur et formula:
 magnum opus et arduum, ut saepe iam diximus; sed
 ingredientibus considerandum fuit quid ageremus, nunc
@@ -1348,7 +1347,7 @@ vocant Atticum.
 </p>
             </div>
             <div type="textpart" n="76" subtype="section">
-               <p >
+               <p>
                   <reg>summissus</reg> est et humilis, consuetudinem
 imitans, ab indisertis re plus quam opinione differens. Itaque
 eum qui audiunt, quamvis ipsi infantes sint, tamen illo
@@ -1360,7 +1359,7 @@ maximis viribus careat, sit, ut ita dicam, integra valetudine.
 </p>
             </div>
             <div type="textpart" n="77" subtype="section">
-               <p >
+               <p>
                   <reg>primum</reg> igitur eum tamquam e vinculis numerorum eximamus. Sunt enim quidam, ut scis, oratorii<note>oratorii <hi rend="italics">codd. dett.</hi>: oratori <hi rend="italics">L</hi>
                   </note> numeri, de quibus
 mox agemus, observandi ratione quadam, sed alio in genere
@@ -1374,7 +1373,7 @@ neglegentiam de re hominis magis quam de verbis laborantis.
 </p>
             </div>
             <div type="textpart" n="78" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> erit videndum de reliquis, cum haec duo ei
 liberiora fuerint, circuitus conglutinatioque verborum. Illa
 enim ipsa contracta et minuta non neglegenter tractanda
@@ -1390,7 +1389,7 @@ margaritarum,
 </p>
             </div>
             <div type="textpart" n="79" subtype="section">
-               <p >ne calamistri quidem adhibebuntur; fucati
+               <p>ne calamistri quidem adhibebuntur; fucati
 vero medicamenta candoris et ruboris omnia repellentur;
 elegantia modo et munditia remanebit. Sermo purus erit
 et Latinus, dilucide planeque dicetur, quid deceat circumspicietur;
@@ -1404,7 +1403,7 @@ unde ex abdito erutae; ac—quod<note>ac quod <hi rend="italics">Friedrich</hi>:
 </p>
             </div>
             <div type="textpart" n="80" subtype="section">
-               <p >
+               <p>
                   <reg>supellex</reg> est enim quodam modo nostra, quae est in ornamentis,
 alia rerum alia verborum. Ornatus autem <hi rend="italics">verborum</hi>
 duplex<note>orn. autem verborum duplex <hi rend="italics">vulg.</hi>: ornatus autem duplex <hi rend="italics">L</hi>: verborum orn. autem duplex <hi rend="italics">Stangl</hi>
@@ -1421,7 +1420,7 @@ sunt in propriis, nisi quod raro utimur.
 </p>
             </div>
             <div type="textpart" n="81" subtype="section">
-               <p >
+               <p>
                   <reg>conlocata</reg> autem
 verba habent ornatum, si aliquid concinnitatis efficiunt,
 quod verbis mutatis non maneat manente sententia; nam
@@ -1429,7 +1428,7 @@ sententiarum ornamenta quae permanent, etiam si verba
 mutaveris, sunt illa quidem permulta, sed quae emineant
 pauciora.
 </p>
-               <p >
+               <p>
                   <reg>ergo</reg> ille tenuis orator, modo sit elegans, nec in faciendis
 
 <pb n="p.2026"/>
@@ -1447,7 +1446,7 @@ agros, laetas esse segetes, luxuriosa frumenta.
 </p>
             </div>
             <div type="textpart" n="82" subtype="section">
-               <p >
+               <p>
                   <reg>nihil</reg> horum
 parum audacter, sed aut simile est illi unde transferas, aut
 si res suum nullum habet nomen, docendi causa sumptum,
@@ -1462,11 +1461,11 @@ oratione humili ponitur quod idem in alia<note>alia <hi rend="italics">L</hi>: a
 </p>
             </div>
             <div type="textpart" n="83" subtype="section">
-               <p >
+               <p>
                   <reg>illam</reg>
 autem concinnitatem, quae verborum conlocationem inluminat
 eis luminibus quae Graeci quasi aliquos gestus orationis
-<foreign xml:lang="greek">sxh/mata</foreign> appellant, quod idem verbum ab eis etiam
+<foreign xml:lang="greek">σχήματα</foreign> appellant, quod idem verbum ab eis etiam
 in sententiarum ornamenta transfertur, adhibet<note>adhibet <hi rend="italics">L</hi>: adhibebit <hi rend="italics">Bake</hi>
                   </note> hic quidem<note>hic quidem <hi rend="italics">vulg.</hi>: quidem hic <hi rend="italics">L</hi>
                   </note>
@@ -1482,7 +1481,7 @@ etiam elegantem videri volet, <hi rend="italics">et</hi> eliget<note>et eliget <
 </p>
             </div>
             <div type="textpart" n="84" subtype="section">
-               <p >sunt
+               <p>sunt
 enim pleraque apta<note>apta <hi rend="italics">Lambinus</hi>: aptae <hi rend="italics">L</hi>
                   </note> huius ipsius oratoris de quo loquor
 parsimoniae. Nam illa de quibus ante dixi huic acuto
@@ -1497,7 +1496,7 @@ aucupium delectationis manifesto deprehensum appareat;
                </p>
             </div>
             <div type="textpart" n="85" subtype="section">
-               <p >itemque si quae verborum iterationes contentionem aliquam
+               <p>itemque si quae verborum iterationes contentionem aliquam
 et clamorem requirent, erunt ab hac summissione orationis
 alienae; ceteris promiscue poterit uti, continuationem
 verborum modo relaxet et dividat utaturque verbis quam
@@ -1512,7 +1511,7 @@ erit enim ut voce sic etiam oratione suppressior.
 </p>
             </div>
             <div type="textpart" n="86" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> pleraque
 ex ills convenient etiam huic tenuitati, quamquam
 isdem ornamentis utetur horridius; talem enim inducimus.
@@ -1522,12 +1521,12 @@ corporis, vultu tamen multa conficiens; non hoc quo
 dicuntur os ducere, sed illo quo significant ingenue quo
 sensu quidque pronuntient.
 </p>
-               <p >
+               <p>
                   <milestone n="26" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="87" subtype="section">
-               <p >
+               <p>
                   <reg>huic</reg> generi orationis aspergentur etiam sales, qui in
 dicendo nimium<note>nimium <hi rend="italics">L</hi>: mirum <hi rend="italics">Aldus</hi>
                   </note> quantum valent; quorum duo genera sunt,
@@ -1538,7 +1537,7 @@ aliud agimus.
 </p>
             </div>
             <div type="textpart" n="88" subtype="section">
-               <p >
+               <p>
                   <reg>illud</reg> admonemus tamen ridiculo sic usurum
 oratorem ut nec nimis frequenti ne scurrile sit, nec subobsceno
 ne mimicum<note>mimicum <hi rend="italics">Nonius</hi> 
@@ -1550,7 +1549,7 @@ alienum. Haec enim ad illud indecorum referuntur.
 </p>
             </div>
             <div type="textpart" n="89" subtype="section">
-               <p >
+               <p>
                   <reg>vitabit</reg> etiam quaesita nec ex tempore ficta, sed domo
 adlata, quae plerumque sunt frigida. Parcet et amicitiis et
 dignitatibus, vitabit insanabilis contumelias, tantum modo
@@ -1565,7 +1564,7 @@ certe sit vel maxime Atticum.
 </p>
             </div>
             <div type="textpart" n="90" subtype="section">
-               <p >
+               <p>
                   <reg>hanc</reg> ego iudico formam
 summissi oratoris<note>oratoris esse <hi rend="italics">maluit Bake</hi>
                   </note>, sed magni tamen et germani Attici;
@@ -1576,10 +1575,10 @@ fertur, Demosthenes minus habetur; quo quidem mihi nihil
 videtur urbanius, sed non tam dicax fuit quam facetus; est
 autem illud acrioris ingeni, hoc maioris artis.
 </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="91" subtype="section">
-               <p >
+               <p>
                   <reg>vberius</reg> est aliud aliquantoque robustius<note>toque robustius <hi rend="italics">hinc incipit codex Abbrincensis</hi> (<hi rend="italics">A</hi>)</note> quam hoc
 humile de quo dictum est, summissius autem quam illud
 de quo iam dicetur amplissimum. Hoc in genere nervorum
@@ -1592,7 +1591,7 @@ ornatum copiosumque summissius.
                </p>
             </div>
             <div type="textpart" n="92" subtype="section">
-               <p >
+               <p>
                   <reg>huic</reg> omnia dicendi
 ornamenta conveniunt plurimumque est in hac orationis<note>orationis <hi rend="italics">FPO</hi>: ornamenti <hi rend="italics">A</hi>
                   </note>
@@ -1610,7 +1609,7 @@ significet sumptum ex re aliqua consequenti.
 </p>
             </div>
             <div type="textpart" n="93" subtype="section">
-               <p >
+               <p>
                   <reg>quod</reg> quamquam
 transferendo fit, tamen alio modo transtulit cum<note>cum <hi rend="italics">L</hi>: quod <hi rend="italics">A</hi>
                   </note> dixit<note>cum dixit <hi rend="italics">secl. Stangl</hi>
@@ -1626,20 +1625,20 @@ dixisset<note>si ... dixisset <hi rend="italics">secl. Goeller</hi>
                      </note>; et</del> horridam Africam terribili tremere tumultu
 <del>cum dicit pro Afris immutate Africam<note>cum... Africam <hi rend="italics">secl. Bake</hi>
                      </note>
-                  </del>: hanc <foreign xml:lang="greek">u(pallagh/n</foreign>
-rhetores, quia quasi summutantur verba pro verbis, <foreign xml:lang="greek">metwnumi/an</foreign>
+                  </del>: hanc <foreign xml:lang="greek">ὑπαλλαγήν</foreign>
+rhetores, quia quasi summutantur verba pro verbis, <foreign xml:lang="greek">μετωνυμίαν</foreign>
 grammatici vocant,
 </p>
             </div>
             <div type="textpart" n="94" subtype="section">
-               <p >quod nomina transferuntur; Aristoteles
+               <p>quod nomina transferuntur; Aristoteles
 autem translationi et haec ipsa subiungit et abusionem,
-quam <foreign xml:lang="greek">kata/xrhsin</foreign> vocat, ut cum minutum dicimus
+quam <foreign xml:lang="greek">κατάχρησιν</foreign> vocat, ut cum minutum dicimus
 animum pro parvo; et abutimur verbis propinquis, si opus est vel
 quod delectat vel quod decet<note>decet <hi rend="italics">A</hi>: licet <hi rend="italics">L</hi>
                   </note>. Iam cum fluxerunt continuo
 plures translationes, alia plane fit oratio; itaque genus hoc
-Graeci appellant <foreign xml:lang="greek">a)llhgori/an</foreign>: nomine recte, genere melius
+Graeci appellant <foreign xml:lang="greek">ἀλληγορίαν</foreign>: nomine recte, genere melius
 ille qui ista omnia translationes vocat. Haec frequentat
 Phalereus maxime suntque dulcissima; et quamquam translatio
 est apud eum multa, tamen immutationes nusquam
@@ -1647,7 +1646,7 @@ crebriores.
 </p>
             </div>
             <div type="textpart" n="95" subtype="section">
-               <p >
+               <p>
                   <reg>in</reg> idem genus orationis—loquor enim de illa
 modica ac temperata—verborum cadunt lumina omnia,
 multa etiam sententiarum; latae<note>laetae <hi rend="italics">Iulius Victor</hi>
@@ -1661,7 +1660,7 @@ hic quem<note>quem <hi rend="italics">L</hi>: quod <hi rend="italics">A</hi>
 </p>
             </div>
             <div type="textpart" n="96" subtype="section">
-               <p >
+               <p>
                   <reg>est</reg> enim quoddam etiam
 insigne et<note>insigne et <hi rend="italics">C</hi>: insignibus <hi rend="italics">maluit Stangl</hi>
                   </note> florens<note>florens <hi rend="italics">C</hi>: floribus <hi rend="italics">Heerdegen</hi>
@@ -1672,12 +1671,12 @@ spretum a subtilibus, repulsum a gravibus in ea de<note>de <hi rend="italics">L<
                   </note> qua
 loquor mediocritate consedit.
 </p>
-               <p >
+               <p>
                   <milestone n="28" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="97" subtype="section">
-               <p >
+               <p>
                   <reg>tertius</reg> est ille amplus copiosus, gravis ornatus, in quo
 profecto vis maxima est. Hic est enim, cuius ornatum
 dicendi et copiam admiratae gentes eloquentiam in civitatibus plurimum<note>pluribus <hi rend="italics">A</hi>
@@ -1695,7 +1694,7 @@ sensus; inserit novas opiniones, evellit insitas.
 </p>
             </div>
             <div type="textpart" n="98" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> multum
 interest inter hoc dicendi genus et superiora. Qui in illo
 subtili et acuto elaboravit ut callide arguteque diceret, nec
@@ -1714,7 +1713,7 @@ non potest.
 </p>
             </div>
             <div type="textpart" n="99" subtype="section">
-               <p >
+               <p>
                   <reg>at</reg> vero hic noster, quem principem ponimus,
 gravis acer ardens, si ad hoc unum est natus aut in hoc
 solo se exercuit aut huic generi studuit<note>studet <hi rend="italics">L</hi>
@@ -1735,10 +1734,10 @@ apud sanos et quasi inter sobrios bacchari vinulentus
 videtur<note>videbitur <hi rend="italics">maluit H. Stephanus</hi>
                   </note>.
 </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="100" subtype="section">
-               <p >
+               <p>
                   <reg>tenemus</reg> igitur, Brute, quem quaerimus, sed animo;
 nam<note>nam <hi rend="italics">A</hi>: non <hi rend="italics">L</hi>: <hi rend="italics">unde</hi> non manu, nam manu si <hi rend="italics">Klotz</hi>
                   </note> manu si prehendissem, ne ipse quidem sua tanta eloquentia
@@ -1759,7 +1758,7 @@ inquies, umquam fuit.
 </p>
             </div>
             <div type="textpart" n="101" subtype="section">
-               <p >
+               <p>
                   <reg>ne</reg> fuerit<note>ne fuerit <hi rend="italics">L</hi>: ne dūtu fueris <hi rend="italics">A</hi>: ne dum tu videris <hi rend="italics">Heerdegen</hi>: ne dum tu videris, ne fuerit <hi rend="italics">Stangl</hi>
                   </note>. Ego enim quid desiderem,
 non quid viderim disputo redeoque ad illam Platonis
@@ -1774,7 +1773,7 @@ magna graviter dicere.
 </p>
             </div>
             <div type="textpart" n="102" subtype="section">
-               <p >
+               <p>
                   <reg>tota</reg> mihi causa pro Caecina de
 verbis interdicti<note>de verbis interdicti <hi rend="italics">L</hi>: re vera <hi rend="italics">A</hi>
                   </note> fuit: res involutas definiendo explicavimus,
@@ -1787,7 +1786,7 @@ omni<note>in ea omni <hi rend="italics">Heerdegen</hi>: ibi omni <hi rend="itali
 </p>
             </div>
             <div type="textpart" n="103" subtype="section">
-               <p >
+               <p>
                   <reg>at</reg> haec interdum
 temperanda et varianda sunt. Quod igitur in accusationis
 septem libris non reperitur genus? quod in Habiti<note>Habiti <hi rend="italics">AL</hi>: Aviti <hi rend="italics">vulg.</hi>
@@ -1805,7 +1804,7 @@ aliqua si non perfectio, at conatus tamen atque adumbratio.
 </p>
             </div>
             <div type="textpart" n="104" subtype="section">
-               <p >
+               <p>
                   <reg>non</reg> adsequimur; at quid sequi<note>sequi <hi rend="italics">Heerdegen</hi>: siqui <hi rend="italics">A</hi>: si qui <hi rend="italics">F</hi>: si quid <hi rend="italics">OPM</hi>: at quid deceat <hi rend="italics">vulg.</hi>
                   </note> deceat videmus.
 
@@ -1823,7 +1822,7 @@ desiderant.
                </p>
             </div>
             <div type="textpart" n="105" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> tamen, quoniam<note>quod iam <hi rend="italics">L</hi>
                   </note> et hunc tu oratorem cum
 eius studiosissimo Pammene, cum esses Athenis, totum
@@ -1840,7 +1839,7 @@ Antonius, auditus eloquens nemo erat.
 </p>
             </div>
             <div type="textpart" n="106" subtype="section">
-               <p >
+               <p>
                   <reg>atqui</reg> si Antonio
 Crassus eloquens visus non est aut sibi ipse, numquam
 Cotta visus esset, numquam Sulpicius, numquam Hortensius;
@@ -1858,7 +1857,7 @@ eramus<note>eramus <hi rend="italics">L</hi>: oramus (<hi rend="italics">supersc
 </p>
             </div>
             <div type="textpart" n="107" subtype="section">
-               <p >
+               <p>
                   <reg>quantis</reg>
 illa clamoribus adulescentuli diximus <del>de supplicio parricidarum<note>de...parricidarum <hi rend="italics">om. A</hi>
                      </note>
@@ -1882,7 +1881,7 @@ filii, filiae paelex.
 </p>
             </div>
             <div type="textpart" n="108" subtype="section">
-               <p >
+               <p>
                   <reg>nec</reg> vero hic erat unus ardor in nobis
 ut hoc modo omnia diceremus. Ipsa enim illa <del>pro Roscio<note>pro Roscio <hi rend="italics">seel. Bake, coll. Quintil.</hi> xii. 1. 20</note>
                   </del>
@@ -1897,7 +1896,7 @@ habent quam probo varietatem.
                </p>
             </div>
             <div type="textpart" n="109" subtype="section">
-               <p >
+               <p>
                   <reg>an</reg> ego Homero, Ennio,
 reliquis poetis et maxime tragicis concederem ut ne omnibus
 locis eadem contentione uterentur crebroque mutarent,
@@ -1913,7 +1912,7 @@ vidimus: ego non elaborem?
 </p>
             </div>
             <div type="textpart" n="110" subtype="section">
-               <p >
+               <p>
                   <reg>cum</reg> dico me, te, Brute,
 dico; nam in me quidem iam pridem effectum est quod
 futurum fuit; tu autem eodem modo omnis causas ages?
@@ -1934,7 +1933,7 @@ nil levitate Aeschini et splendore verborum.
 </p>
             </div>
             <div type="textpart" n="111" subtype="section">
-               <p >
+               <p>
                   <reg>multae</reg> sunt
 eius totae<note>et totae <hi rend="italics">L</hi>
                   </note> orationes subtiles, ut contra Leptinem; multae
@@ -1951,7 +1950,7 @@ efficit, cum gravitatis<note>gravitati aptis <hi rend="italics">maluit Reid</hi>
 </p>
             </div>
             <div type="textpart" n="112" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> ab hoc parumper
 abeamus, quando quidem de genere, non de homine quaerimus:
 rei potius, id est eloquentiae vim et naturam explicemus. Illud
@@ -1969,12 +1968,12 @@ docere videmur<note>videmur <hi rend="italics">A</hi>: videamur <hi rend="italic
 minus nostra commendatione, tuo tamen nomine divulgari
 necesse est.
 </p>
-               <p >
+               <p>
                   <milestone n="32" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="113" subtype="section">
-               <p >
+               <p>
                   <reg>esse</reg> igitur perfecte eloquentis puto non eam tantum<note>tantum <hi rend="italics">codd. dett.</hi>: solum <hi rend="italics">L</hi>: tam <hi rend="italics">A</hi>
                   </note>
 facultatem habere quae sit eius propria, fuse lateque dicendi,
@@ -1997,7 +1996,7 @@ palmae illius similem eloquentiam esse dicebat.
 </p>
             </div>
             <div type="textpart" n="114" subtype="section">
-               <p >
+               <p>
                   <reg>atque</reg>
 etiam ante hunc Aristoteles principio artis rhetorical dicit
 illam artem quasi ex altera parte respondere dialecticae, ut
@@ -2012,7 +2011,7 @@ qui dialectici dicuntur spinosiora multa pepererunt.
 </p>
             </div>
             <div type="textpart" n="115" subtype="section">
-               <p >
+               <p>
                   <reg>ego</reg>
                   <note>ego <hi rend="italics">A</hi>: ergo <hi rend="italics">L</hi>
                   </note>
@@ -2031,12 +2030,12 @@ sed quia<note>quia <hi rend="italics">A</hi>: quod <hi rend="italics">OPM</hi>: 
                   </note> sua sponte squalidiora sunt, adhibendus erit in his
 explicandis quidam orationis nitor.
 </p>
-               <p >
+               <p>
                   <milestone n="33" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="116" subtype="section">
-               <p >
+               <p>
                   <reg>et</reg> quoniam in omnibus quae ratione docentur et via
 primum constituendum est quid quidque sit—nisi enim
 inter eos qui disceptant<note>disceptant <hi rend="italics">A</hi>: disceptent <hi rend="italics">L</hi>
@@ -2058,7 +2057,7 @@ sive formae sive partes, ut in eas tribuatur omnis oratio.
 </p>
             </div>
             <div type="textpart" n="117" subtype="section">
-               <p >
+               <p>
                   <reg>erit</reg> igitur haec facultas in eo quem volumus esse eloquentem,
 ut definire rem possit nec id faciat tam presse et
 anguste quam in illis eruditissimis disputationibus fieri
@@ -2073,7 +2072,7 @@ dixi, iudicem esse me, non doctorem volo.
 </p>
             </div>
             <div type="textpart" n="118" subtype="section">
-               <p >
+               <p>
                   <reg>nec</reg> vero a<note>a <hi rend="italics">om. FPO</hi>
                   </note>
 dialecticis modo sit instructus et habeat omnis philosophiae
@@ -2089,12 +2088,12 @@ causas et<note>et <hi rend="italics">A</hi>: sed <hi rend="italics">L</hi>
                   </note>, nihil, inquam, sine ea scientia
 quam dixi graviter ample copiose dici et explicari potest.
 </p>
-               <p >
+               <p>
                   <milestone n="34" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="119" subtype="section">
-               <p >
+               <p>
                   <reg>de</reg> materia loquor orationis etiam nunc, non de ipso
 genere dicendi. Volo enim prius habeat orator rem de
 qua dicat, dignam auribus eruditis, quam cogitet quibus
@@ -2110,7 +2109,7 @@ excelsius magnificentiusque et dicet et sentiet.
 </p>
             </div>
             <div type="textpart" n="120" subtype="section">
-               <p >
+               <p>
                   <reg>cum</reg> illa<note>cumque illa <hi rend="italics">L</hi>
                   </note>
 
@@ -2137,10 +2136,10 @@ rerum veterum cum superiorum<note>superioribus <hi rend="italics">A</hi>: superi
 summa cum delectatione et auctoritatem orationi adfert et
 fidem.
 </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="121" subtype="section">
-               <p >
+               <p>
                   <reg>sic</reg> igitur instructus veniet ad causas, quarum habebit
 genera primum ipsa cognita. Erit enim ei perspectum
 nihil ambigi posse in quo non aut res controversiam faciat
@@ -2154,7 +2153,7 @@ videmus.
                </p>
             </div>
             <div type="textpart" n="122" subtype="section">
-               <p >
+               <p>
                   <reg>cum</reg> tam pauca sint<note>sint <hi rend="italics">L</hi>: sunt <hi rend="italics">A</hi>
                   </note> genera causarum, etiam
 argumentorum praecepta pauca sunt<note>pauca sunt <hi rend="italics">L</hi>: pauca <hi rend="italics">A</hi>
@@ -2184,7 +2183,7 @@ tractantur uno modo.
 </p>
             </div>
             <div type="textpart" n="123" subtype="section">
-               <p >
+               <p>
                   <reg>quoniam</reg> autem non quem doceam
 quaero, sed quem probem, probabo primum eum qui quid
 deceat viderit<note>viderit <hi rend="italics">A</hi>: videbit <hi rend="italics">L</hi>
@@ -2204,7 +2203,7 @@ aequalis oratio.
 </p>
             </div>
             <div type="textpart" n="124" subtype="section">
-               <p >
+               <p>
                   <reg>principia</reg> verecunda, nondum<note>nondum <hi rend="italics">Al</hi>: non <hi rend="italics">Lm</hi>
                   </note> elatis incensa
 verbis, sed acuta sententiis vel ad offensionem adversarii
@@ -2219,13 +2218,13 @@ ut quanta ad rem tanta ad orationem fiat accessio.
 </p>
             </div>
             <div type="textpart" n="125" subtype="section">
-               <p >
+               <p>
                   <reg>cum</reg> vero causa ea inciderit in qua vis eloquentiae possit
 expromi, tum se latius fundet orator, tum reget et flectet
 animos et sic adficiet ut volet, id est ut causae natura et
 ratio temporis postulabit.
 </p>
-               <p >
+               <p>
                   <reg>sed</reg> erit duplex eius omnis ornatus ille admirabilis, pro-
 
 <pb n="p.2039"/>
@@ -2237,12 +2236,12 @@ verbum nullum nisi aut grave aut elegans excidat<note>sic ut... excidat <hi rend
                   </note>, tum
 sunt maxime luminosae et quasi actuosae partes duae:
 quarum alteram in universi generis quaestione pono, quam,
-ut supra dixi, Graeci appellant <foreign xml:lang="greek">qe/sin</foreign>, alteram in augendis
-amplificandisque rebus, quae ab isdem <foreign xml:lang="greek">au)/chsis</foreign> est nominata.
+ut supra dixi, Graeci appellant <foreign xml:lang="greek">θέσιν</foreign>, alteram in augendis
+amplificandisque rebus, quae ab isdem <foreign xml:lang="greek">αὔξησις</foreign> est nominata.
 </p>
             </div>
             <div type="textpart" n="126" subtype="section">
-               <p >
+               <p>
                   <reg>quae</reg> etsi aequabiliter<note>aequabiliter <hi rend="italics">emend. vetus</hi>: aequaliter <hi rend="italics">AL</hi>
                   </note> toto corpore orationis fusa
 esse debet, tamen in communibus locis maxime excellet<note>debent ... excellent <hi rend="italics">maluit Bake</hi>
@@ -2255,7 +2254,7 @@ idem esse causarum, sed proprii<note>proprio <hi rend="italics">A</hi>
 At<note>at <hi rend="italics">vulg.</hi>: ac <hi rend="italics">AL</hi>
                   </note> vero illa pars orationis, quae est de genere universo,
 totas causas saepe continet. Quicquid est enim illud in
-quo quasi certamen est controversiae, quod Graece <foreign xml:lang="greek">krino/menon</foreign>
+quo quasi certamen est controversiae, quod Graece <foreign xml:lang="greek">κρινόμενον</foreign>
 dicitur, id ita dici placet, ut traducatur ad perpetuam
 quaestionem atque uti de<note>uti de <hi rend="italics">Stangl</hi>: ut inde <hi rend="italics">A</hi>: ut de <hi rend="italics">L</hi>
                   </note> universo genere dicatur, nisi cum
@@ -2264,7 +2263,7 @@ de vero ambigitur<note>ambigetur <hi rend="italics">L</hi>: ambigitur <hi rend="
 </p>
             </div>
             <div type="textpart" n="127" subtype="section">
-               <p >
+               <p>
                   <reg>dicetur</reg>
 autem non Peripateticorum more—est enim illorum exercitatio
 elegans iam inde ab Aristotele constituta—, sed aliquanto
@@ -2277,23 +2276,23 @@ possit oratio; quod <del>et<note>et <hi rend="italics">om. A</hi>
 faciendum est quotiescumque dabitur vel amplificandi vel
 minuendi locus, et paene infinite in perorando.
 </p>
-               <p >
+               <p>
                   <milestone n="37" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="128" subtype="section">
-               <p >
+               <p>
                   <reg>duo</reg> restant<note>duo restant <hi rend="italics">Schüts</hi>: duae res sunt enim <hi rend="italics">A</hi>: duo sunt <hi rend="italics">L</hi> tractatae <hi rend="italics">A</hi>
                   </note> enim, quae bene tractata ab oratore admirabilem
 eloquentiam faciunt<note>faciunt <hi rend="italics">Stephanus</hi>: faciant <hi rend="italics">AL</hi>
                   </note>. Quorum alterum est, quod
-Graeci <foreign xml:lang="greek">h)qiko\n</foreign> vocant, ad naturas<note>naturam <hi rend="italics">A</hi>
+Graeci <foreign xml:lang="greek">ἠθικὸν</foreign> vocant, ad naturas<note>naturam <hi rend="italics">A</hi>
                   </note> et ad mores et ad omnem
 vitae consuetudinem accommodatum; alterum, quod idem
 
 <pb n="p.2040"/>
 
-                  <foreign xml:lang="greek">paqhtiko\n</foreign> nominant, quo perturbantur animi et concitantur,
+                  <foreign xml:lang="greek">παθητικὸν</foreign> nominant, quo perturbantur animi et concitantur,
 in quo uno regnat oratio. Illud superius come iucundum,
 ad benevolentiam conciliandam paratum; hoc vehemens<note>vehementius <hi rend="italics">A</hi>
                   </note>
@@ -2302,7 +2301,7 @@ rapide fertur, sustineri nullo pacto potest.
 </p>
             </div>
             <div type="textpart" n="129" subtype="section">
-               <p >
+               <p>
                   <reg>quo</reg> genere nos
 mediocres aut multo etiam minus, sed magno semper usi
 impetu saepe adversaries de statu omni deiecimus. Nobis
@@ -2314,7 +2313,7 @@ venenis ereptam memoriam diceret.
 </p>
             </div>
             <div type="textpart" n="130" subtype="section">
-               <p >
+               <p>
                   <reg>quid</reg> ego de miserationibus
 loquar<note>loquor <hi rend="italics">A</hi>
                   </note>? quibus eo sum usus pluribus quod, etiam
@@ -2331,7 +2330,7 @@ eadem illa cum aguntur<note>quae aguntur <hi rend="italics">A</hi>
                </p>
             </div>
             <div type="textpart" n="131" subtype="section">
-               <p >
+               <p>
                   <reg>nec</reg> vero miseratione solum mens iudicum permovenda est
 —qua nos ita dolenter uti solemus ut puerum infantem in
 manibus perorantes tenuerimus, ut alia in causa excitato reo
@@ -2346,7 +2345,7 @@ exempla, mitiorum defensiones meae.
 </p>
             </div>
             <div type="textpart" n="132" subtype="section">
-               <p >
+               <p>
                   <reg>nullo</reg> enim modo
 animus audientis aut incitari aut leniri potest, qui modus
 a me non temptatus sit,—dicerem perfectum, si ita iudi-
@@ -2366,7 +2365,7 @@ Cottae, nihil Sulpici; dicebat melius quam scripsit Hortensius.
 </p>
             </div>
             <div type="textpart" n="133" subtype="section">
-               <p >
+               <p>
                   <reg>verum</reg> haec vis, quam quaerimus, quanta sit suspicemur<note>suspicamur <hi rend="italics">A</hi>
                   </note>,
 quoniam exemplum non habemus, aut si exempla
@@ -2378,15 +2377,15 @@ mentibus nostris includi sic potest, ut maior eloquentia ne
 requiratur<note>non requiratur <hi rend="italics">L</hi>
                   </note> quidem.
 </p>
-               <p >
+               <p>
                   <milestone n="39" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="134" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> iam forma <del>ipsa<note>ipsa <hi rend="italics">om. A</hi>
                      </note>
-                  </del> restat et <foreign xml:lang="greek">xarakth\r</foreign> ille qui dicitur;
+                  </del> restat et <foreign xml:lang="greek">χαρακτὴρ</foreign> ille qui dicitur;
 qui qualis esse debeat ex his<note>his <hi rend="italics">A</hi>: ipsis <hi rend="italics">L</hi>: iis ipsis <hi rend="italics">Lambinus</hi>
                   </note> quae supra dicta sunt intellegi
 potest. Nam et singulorum verborum et conlocatorum
@@ -2403,7 +2402,7 @@ appellantur insignia, non quia<note>quia <hi rend="italics">A et Quintil.</hi> i
 </p>
             </div>
             <div type="textpart" n="135" subtype="section">
-               <p >
+               <p>
                   <reg>eadem</reg> ratio est horum quae sunt orationis lumina
 et quodam modo insignia: cum aut duplicantur iteranturque
 verba aut leviter<note>leviter <hi rend="italics">Ernesti</hi> (<hi rend="italics">cf. Gesner ad Quintil.</hi> ix. 1, 38): breviter <hi rend="italics">AL Quintil.</hi>: bis breviter <hi rend="italics">Pluygers</hi>
@@ -2429,10 +2428,10 @@ vel questionis<note>conquestionis <hi rend="italics">cum codd. dett. maluit Lamb
                   </note>; aut cum eiusdem nominis casus
 saepius commutantur.
 </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="136" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> sententiarum ornamenta maiora sunt; quibus quia
 frequentissime Demosthenes utitur<note>utitur <hi rend="italics">A</hi>: utatur <hi rend="italics">L et codd. Quint. BM</hi>
                   </note>, sunt qui putent<note>putent <hi rend="italics">A</hi>: putant <hi rend="italics">L</hi>
@@ -2448,7 +2447,7 @@ exemplis? <reg>tantum</reg> modo notetur locus.
                </p>
             </div>
             <div type="textpart" n="137" subtype="section">
-               <p >
+               <p>
                   <reg>sic</reg> igitur dicet
 ille, quem expetimus, ut verset saepe multis modis eadem
 et<note>eadem et <hi rend="italics">Quint.</hi>: eandem et <hi rend="italics">A</hi>: eadem ut <hi rend="italics">L</hi>
@@ -2473,7 +2472,7 @@ culpam in adversarium conferat;
 </p>
             </div>
             <div type="textpart" n="138" subtype="section">
-               <p >ut saepe cum eis qui
+               <p>ut saepe cum eis qui
 audiunt, non numquam etiam cum adversario quasi deliberet;
 ut hominum sermones moresque describat; ut muta
 quaedam loquentia inducat; ut ab eo quod agitur avertat
@@ -2492,7 +2491,7 @@ ut exsecretur; ut fiat eis apud quos dicet<note>dicet <hi rend="italics">L</hi>:
 </p>
             </div>
             <div type="textpart" n="139" subtype="section">
-               <p >
+               <p>
                   <reg>atque</reg>
 alias etiam dicendi quasi virtutes sequetur<note>sequetur <hi rend="italics">A Quint.</hi>: sequatur <hi rend="italics">L</hi>
                   </note>: brevitatem, si
@@ -2504,10 +2503,10 @@ imitatio.
                   <reg>hoc</reg> in genere—nam quasi silvam vides—omnis
 eluceat oportet eloquentiae magnitudo.
 </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="140" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> haec nisi conlocata et quasi structa et nexa verbis ad
 eam laudem quam volumus aspirare non possunt. De quo
 cum mihi deinceps viderem esse dicendum, etsi movebant<note>movebant <hi rend="italics">A</hi>: non movebant <hi rend="italics">L</hi>
@@ -2528,7 +2527,7 @@ petenti satis facere voluissem.
 </p>
             </div>
             <div type="textpart" n="141" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> si profiterer<note>profiterer <hi rend="italics">Ernesti</hi>: profitear <hi rend="italics">L</hi>: profiteatur <hi rend="italics">A</hi>
                   </note>—quod
 utinam possem!—me studiosis dicendi praecepta et quasi
@@ -2548,7 +2547,7 @@ vero repugnante vix suas regiones finisque defenderet.
 </p>
             </div>
             <div type="textpart" n="142" subtype="section">
-               <p >
+               <p>
                   <reg>cur</reg>
 igitur ius civile docere semper pulchrum fuit hominumque
 clarissimorum discipulis floruerunt domus: ad dicendum
@@ -2561,12 +2560,12 @@ etiam iuvat universam<note>universam <hi rend="italics">L</hi>: iuvat eversam <h
 est quod scire honestum est aut quod posse pulcherrimum
 est id non gloriosum est docere?
 </p>
-               <p >
+               <p>
                   <milestone n="42" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="143" subtype="section">
-               <p >'<reg>at</reg> alterum factitatum est, alterum novum.' <reg>fateor</reg>; sed
+               <p>'<reg>at</reg> alterum factitatum est, alterum novum.' <reg>fateor</reg>; sed
 utriusque rei causa est. Alteros enim respondentes audire
 sat erat, ut ei qui docerent nullum sibi ad earn rem tempus
 ipsi seponerent, sed eodem tempore et discentibus satis
@@ -2586,7 +2585,7 @@ praecipere, nos contra fortasse possumus.
 </p>
             </div>
             <div type="textpart" n="144" subtype="section">
-               <p >'<reg>at</reg> dignitatem
+               <p>'<reg>at</reg> dignitatem
 docere non habet.' <reg>certe</reg>, si quasi in ludo; sed si monendo,
 si cohortando, si percontando, si communicando<note>communicando <hi rend="italics">A</hi>: commemorando <hi rend="italics">L</hi>
                   </note>, si interdum
@@ -2603,7 +2602,7 @@ non honestum est?
 </p>
             </div>
             <div type="textpart" n="145" subtype="section">
-               <p >'<reg>at</reg> ius profitentur etiam qui nesciunt;
+               <p>'<reg>at</reg> ius profitentur etiam qui nesciunt;
 eloquentiam<note>eloquentiam <hi rend="italics">A</hi>: eloquentia <hi rend="italics">L</hi>
                   </note> autem illi ipsi qui consecuti sunt tamen ea<note>ea <hi rend="italics">om. L</hi>: eam, tamen <hi rend="italics">Stangl</hi>
                   </note> se
@@ -2616,7 +2615,7 @@ id quod ipsi fuerit honestissimum discere?
 </p>
             </div>
             <div type="textpart" n="146" subtype="section">
-               <p >
+               <p>
                   <reg>ac</reg> fortasse
 ceteri tectiores; ego semper me didicisse prae me tuli. Qui<note>qui <hi rend="italics">vulg.</hi>: quid <hi rend="italics">AL</hi>
                   </note>
@@ -2635,7 +2634,7 @@ legerentur, dissimulare<note>dissimularem <hi rend="italics">L</hi>: dissimulare
 probarem<note>improbarem <hi rend="italics">Jahn</hi>
                   </note> nisi quod parum fortasse profeceram?
 </p>
-               <p >
+               <p>
                   <milestone n="43" unit="chapter"/>
                   <reg>quod</reg> cum ita sit, tamen ea quae supra dicta sunt plus
 
@@ -2646,7 +2645,7 @@ habuerunt.
 </p>
             </div>
             <div type="textpart" n="147" subtype="section">
-               <p >
+               <p>
                   <reg>de</reg> verbis enim componendis et de syllabis
 prope modum dinumerandis et dimetiendis loquemur; quae
 etiam si sunt, sicuti mihi videntur, necessaria, tamen fiunt
@@ -2667,7 +2666,7 @@ suspicabar respondendum fuit.
 </p>
             </div>
             <div type="textpart" n="148" subtype="section">
-               <p >
+               <p>
                   <reg>quod</reg> si ea quae
 dixi non ita essent, quis tamen se tam durum agrestemque
 praeberet qui hanc mihi non daret veniam, ut cum meae
@@ -2686,12 +2685,12 @@ erunt perfectae, profecto maximis<note>maximis <hi rend="italics">om. L</hi>
                   </del> litterae respondebunt.
 Sed ad institutam disputationem revertamur.
 </p>
-               <p >
+               <p>
                   <milestone n="44" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="149" subtype="section">
-               <p >
+               <p>
                   <reg>conlocabuntur</reg> igitur verba, aut ut inter se quam aptissime
 cohaereant extrema cum primis eaque sint quam suavissimis
 vocibus, aut ut<note>aut ut <hi rend="italics">A</hi>: ut aut <hi rend="italics">L</hi>
@@ -2708,7 +2707,7 @@ quaedam nec tamen fiat<note>fiat <hi rend="italics">A</hi>: fiet <hi rend="itali
 tum puerilis labor; quod apud Lucilium scite exagitat in
 Albucio Scaevola:
 <quote rend="blockquote">
-                     <l>quam lepide lexis<note>lexis <hi rend="italics">AL</hi>: <foreign xml:lang="greek">le/ceis</foreign> 
+                     <l>quam lepide lexis<note>lexis <hi rend="italics">AL</hi>: <foreign xml:lang="greek">λέξεις</foreign> 
                            <hi rend="italics">edd.</hi>
                         </note> compostae<note>compostae <hi rend="italics">vulg.</hi>: composit(a)e <hi rend="italics">AL</hi>
                         </note> ut tesserulae omnes</l>
@@ -2717,7 +2716,7 @@ Albucio Scaevola:
                </p>
             </div>
             <div type="textpart" n="150" subtype="section">
-               <p >
+               <p>
                   <reg>nolo</reg> haec tam minuta constructio appareat; sed tamen
 stilus exercitatus efficiet facile formulam<note>formulam <hi rend="italics">A</hi>: hanc viam <hi rend="italics">L</hi>: formam ac viam <hi rend="italics">Reid</hi>
                   </note> componendi. Nam
@@ -2734,12 +2733,12 @@ coniungere.
 </p>
             </div>
             <div type="textpart" n="151" subtype="section">
-               <p >
+               <p>
                   <reg>in</reg> quo quidam etiam Theopompum reprehendunt,
 quod eas litteras tanto opere fugerit, etsi idem magister
 eius Isocrates fecerat; at non Thucydides, ne ille quidem
 haud paulo maior scriptor Plato nec solum in eis sermonibus
-qui <foreign xml:lang="greek">dia/logoi</foreign> dicuntur, ubi etiam de industria id faciendum
+qui <foreign xml:lang="greek">διάλογοι</foreign> dicuntur, ubi etiam de industria id faciendum
 fuit sed in populari oratione, qua mos est Athenis
 laudari in contione eos qui sint in proeliis interfecti; quae
 sic<note>quae ... sit <hi rend="italics">non male secl. Bake</hi>
@@ -2748,12 +2747,12 @@ necesse sit. In ea est crebra ista vocalium<note>vocalium <hi rend="italics">Man
                   </note> concursio, quam
 magna ex parte ut vitiosam fugit Demosthenes.
 </p>
-               <p >
+               <p>
                   <milestone n="45" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="152" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> Graeci viderint; nobis ne si<note>ne si <hi rend="italics">L</hi>: nisi <hi rend="italics">A</hi>
                   </note> cupiamus. quidem distrahere
 voces conceditur. Indicant orationes illae ipsae
@@ -2774,7 +2773,7 @@ et semel quidem nos<note>et semel quidem nos <hi rend="italics">Heerdegen</hi>: 
                </p>
             </div>
             <div type="textpart" n="153" subtype="section">
-               <p >
+               <p>
                   <reg>hoc</reg> idem nostri saepius non tulissent, quod Graeci laudare
 etiam solent. Sed quid ego vocalis? <reg>sine</reg> vocalibus saepe
 brevitatis causa contrahebant, ut ita dicerent: multi' modis,
@@ -2797,7 +2796,7 @@ evellit.
 </p>
             </div>
             <div type="textpart" n="154" subtype="section">
-               <p >
+               <p>
                   <reg>libenter</reg> etiam copulando verba iungebant,
 ut sodes pro si audes, sis pro si vis. Iam in uno capsis tria
 verba sunt. Ain pro aisne, nequire pro non quire, malle
@@ -2811,12 +2810,12 @@ cum me et cum te, ut esset simile illis nobiscum atque
 vobiscum<note>vobiscum et nobiscum <hi rend="italics">AL</hi>: <hi rend="italics">correxerunt Itali</hi>
                   </note>.
 </p>
-               <p >
+               <p>
                   <milestone n="46" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="155" subtype="section">
-               <p >
+               <p>
                   <reg>atque</reg> etiam a quibusdam sero iam emendatur antiquitas,
 qui haec reprehendunt. Nam pro deum atque hominum
 fidem deorum aiunt. Ita credo hoc illi nesciebant: an
@@ -2854,7 +2853,7 @@ quam centuriam fabrum et procum,
 </p>
             </div>
             <div type="textpart" n="156" subtype="section">
-               <p >ut censoriae tabulae
+               <p>ut censoriae tabulae
 loquuntur, audeo dicere, non fabrorum aut procorum; planeque
 duorum virorum iudicium aut trium virorum capitalium
 aut decem virorum stlitibus iudicandis dico numquam. Et
@@ -2876,12 +2875,12 @@ nummum, non sestertiorum<note>sestertiorum <hi rend="italics">Itali</hi>: sester
                   </note> nummorum, quod in his consuetudo
 varia non est.
 </p>
-               <p >
+               <p>
                   <milestone n="47" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="157" subtype="section">
-               <p >
+               <p>
                   <reg>quid</reg> quod sic loqui, nosse, iudicasse vetant, novisse
 iubent et iudicavisse? quasi vero nesciamus in hoc genere
 et plenum verbum recte dici et imminutum usitate. Itaque
@@ -2928,7 +2927,7 @@ nescire dulcius. Ipsum meridiem cur non medidiem?
 </p>
             </div>
             <div type="textpart" n="158" subtype="section">
-               <p >
+               <p>
                   <reg>credo</reg>, quod erat insuavius. †<reg>vna</reg>
                   <note>insuavius. una <hi rend="italics">AL</hi>: insuavius. absona <hi rend="italics">Hellmuth</hi>: insuavius. insuavissima <hi rend="italics">Jahn</hi>
                   </note> praepositio est af<note>af <hi rend="italics">Stegmann ex Velio Longo</hi> p. 2224: ab <hi rend="italics">A</hi>: ea <hi rend="italics">FPO</hi>: abs eaque <hi rend="italics">Lambinus</hi>
@@ -2959,12 +2958,12 @@ reddidit: adiuncti verbi prima littera praepositionem<note>prima littera praepos
 ut subegit, summovit<note>summovit <hi rend="italics">ed. vet.</hi>: summutavit <hi rend="italics">FO</hi>: submutavit <hi rend="italics">PM</hi>: turn mutavit <hi rend="italics">A</hi>
                   </note>, sustulit.
 </p>
-               <p >
+               <p>
                   <milestone n="48" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="159" subtype="section">
-               <p >
+               <p>
                   <reg>quid</reg> in verbis iunctis? quam scite insipientem non insapientem,
 iniquum non inaequum, tricipitem non tricapitem, concisum non
 concaesum! Ex quo quidam pertisum
@@ -2990,7 +2989,7 @@ debet oratio.
 </p>
             </div>
             <div type="textpart" n="160" subtype="section">
-               <p >
+               <p>
                   <reg>quin</reg> ego ipse, cum scirem ita maiores
 locutos esse<note>esse <hi rend="italics">om. A</hi>
                   </note>, ut nusquam nisi in vocali aspiratione uterentur,
@@ -3017,7 +3016,7 @@ Pyrrhum aurium causa dicimus.
 </p>
             </div>
             <div type="textpart" n="161" subtype="section">
-               <p >
+               <p>
                   <reg>quin</reg> etiam, quod iam
 subrusticum videtur, olim autem politius, eorum verborum,
 quorum eaedem erant postremae duae litterae, quae sunt in
@@ -3041,14 +3040,14 @@ putamus?
 </p>
             </div>
             <div type="textpart" n="162" subtype="section">
-               <p >
+               <p>
                   <reg>haec</reg> dixi brevius quam si hac de re una<note>una postulata <hi rend="italics">A</hi> (<hi rend="italics">oculi errore ex</hi> postulari <hi rend="italics">natum</hi>), <hi rend="italics">unde</hi> una proposita <hi rend="italics">Heerdegen</hi>: una posita <hi rend="italics">Stroebel</hi>
                   </note>
 disputarem—est enim locus hic late patens de natura
 usuque verborum—longius autem quam instituta ratio
 postulabat.
 </p>
-               <p >
+               <p>
                   <milestone n="49" unit="chapter"/>
                   <reg>sed</reg> quia rerum verborumque iudicium in prudentia<note>in prudentia <hi rend="italics">A</hi>: prudentiae <hi rend="italics">L</hi>
                   </note> est,
@@ -3062,7 +3061,7 @@ aut ars eius conciliandae reperienda.
 </p>
             </div>
             <div type="textpart" n="163" subtype="section">
-               <p >
+               <p>
                   <reg>duae</reg> sunt igitur res
 quae permulceant auris, sonus et numerus. De numero
 mox, nunc de sono quaerimus. Verba, ut supra diximus,
@@ -3081,7 +3080,7 @@ proximus inquinatus insuavissima littera:
                </p>
             </div>
             <div type="textpart" n="164" subtype="section">
-               <p >
+               <p>
                   <reg>qua</reg> re bonitate potius nostrorum verborum utamur quam
 splendore Graecorum, nisi forte sic loqui paenitet:
 <quote rend="blockquote">qua tempestate Helenam Paris<note>paris helenam <hi rend="italics">AL</hi>: <hi rend="italics">transp. Lachmann, cp. de Orat.</hi> iii. 219</note>
@@ -3111,7 +3110,7 @@ sunt, etiam si nihil est factum de industria.
 </p>
             </div>
             <div type="textpart" n="165" subtype="section">
-               <p >
+               <p>
                   <reg>in</reg>
 huius concinnitatis consectatione Gorgiam fuisse principem
 accepimus; quo de genere illa nostra sunt in Miloniana:
@@ -3125,7 +3124,7 @@ non quaesitum esse numerum, sed secutum.
 </p>
             </div>
             <div type="textpart" n="166" subtype="section">
-               <p >
+               <p>
                   <reg>quod</reg> fit item
 in contrariis referendis, ut illa sunt quibus non modo
 numerosa oratio sed etiam versus efficitur:
@@ -3146,7 +3145,7 @@ condemnas dixisset qui versum effugere vellet<note>dixisset... voluisset <hi ren
 oratione numerosum: <reg>quod</reg> scis nihil prodest; quod
 nescis multum obest.
 <milestone n="50" unit="chapter"/>
-                  <reg>semper</reg> haec, quae Graeci <foreign xml:lang="greek">a)nti/qeta</foreign>
+                  <reg>semper</reg> haec, quae Graeci <foreign xml:lang="greek">ἀντίθετα</foreign>
 
                   <pb n="p.2055"/>
 
@@ -3156,7 +3155,7 @@ oratorium necessitate ipsa efficiunt etiam<note>etiam <hi rend="italics">A</hi>:
 </p>
             </div>
             <div type="textpart" n="167" subtype="section">
-               <p >
+               <p>
                   <reg>hoc</reg> genere antiqui iam ante Isocratem delectabantur et
 maxime Gorgias, cuius in oratione plerumque efficit numerum
 ipsa concinnitas. Nos etiam in hoc genere frequentes,
@@ -3167,10 +3166,10 @@ invicto, huius libidines cum illius continentia: ab illo
 qui cepit conditas, ab hoc qui constitutas accepit captas
 dicetis Syracusas.
 </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="168" subtype="section">
-               <p >
+               <p>
                   <reg>ergo</reg> et hi numeri sint cogniti et genus illud tertium
 explicetur quale sit, numerosae et aptae orationis. Quod
 qui non sentiunt, quas auris habeant aut quid in his
@@ -3187,7 +3186,7 @@ sed eas aut vinciebant aut explebant parum.
 </p>
             </div>
             <div type="textpart" n="169" subtype="section">
-               <p >'<reg>hoc</reg>
+               <p>'<reg>hoc</reg>
 me ipsum delectat' inquiunt. Quid si antiquissima illa
 pictura paucorum colorum magis quam<note>quem quam <hi rend="italics">maluit Stangl</hi>
                   </note> haec iam perfecta
@@ -3213,10 +3212,10 @@ videmus.
 </p>
             </div>
             <div type="textpart" n="170" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> habet nomen invidiam, cum in oratione
-iudiciali et forensi numerus <del>Latine, Graece <foreign xml:lang="greek">r(uqmo/s</foreign>
-                     <note>Latine, Graece <foreign xml:lang="greek">r(uqmo/s</foreign> 
+iudiciali et forensi numerus <del>Latine, Graece <foreign xml:lang="greek">ῥυθμός</foreign>
+                     <note>Latine, Graece <foreign xml:lang="greek">ῥυθμός</foreign> 
                         <hi rend="italics">secl. Ernesti</hi>
                      </note>
                   </del> inesse
@@ -3238,7 +3237,7 @@ ea fere quia sunt conclusa laudantur.
 </p>
             </div>
             <div type="textpart" n="171" subtype="section">
-               <p >
+               <p>
                   <reg>et</reg> apud Graecos
 quidem iam anni prope quadringenti sunt cum hoc probatur;
 nos nuper agnovimus. Ergo Ennio licuit vetera
@@ -3255,10 +3254,10 @@ se isti imitatores esse dicunt, etsi in eis aliquid desidero,
 hos vero minime, qui nihil illorum nisi vitium sequuntur,
 cum a bonis absint longissime.
 </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="172" subtype="section">
-               <p >
+               <p>
                   <reg>quod</reg> si auris tam inhumanas tamque agrestis habent,
 ne doctissimorum quidem virorum eos movebit<note>moverit <hi rend="italics">A</hi>
                   </note> auctoritas?
@@ -3283,7 +3282,7 @@ nesciunt.
 </p>
             </div>
             <div type="textpart" n="173" subtype="section">
-               <p >
+               <p>
                   <reg>quod</reg> si ita est—nec vero aliter existimo—
 quid, ipsi suis sensibus non moventur? nihilne eis inane
 videtur, nihil inconditum, nihil curtum<note>curtum <hi rend="italics">L</hi>: incultum <hi rend="italics">A</hi>
@@ -3301,12 +3300,12 @@ omnium longitudinum et brevitatum in sonis sicut acutarum
 graviumque vocum iudicium ipsa natura in auribus nostris
 conlocavit.
 </p>
-               <p >
+               <p>
                   <milestone n="52" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="174" subtype="section">
-               <p >
+               <p>
                   <reg>visne</reg> igitur, Brute, totum hunc locum accuratius etiam
 explicemus quam illi ipsi, qui et haec et alia<note>alia <hi rend="italics">A</hi>: illa <hi rend="italics">L</hi>
                   </note> nobis tradiderunt,
@@ -3316,7 +3315,7 @@ te id vel maxime velle perspexerim? <reg>primum</reg> ergo origo,
 deinde causa, post natura, tum ad extremum usus ipse explicetur
 orationis aptae atque numerosae.
 </p>
-               <p >
+               <p>
                   <reg>nam</reg> qui Isocratem maxime mirantur, hoc in eius<note>eius <hi rend="italics">L Rufin.</hi>: omnis <hi rend="italics">A</hi>: eo <hi rend="italics">Bake</hi>: scriptis <hi rend="italics">sive</hi> orationibus <hi rend="italics">add. edd.</hi>
                   </note> summis
 
@@ -3332,7 +3331,7 @@ turn ut varietas occurreret satietati.
 </p>
             </div>
             <div type="textpart" n="175" subtype="section">
-               <p >
+               <p>
                   <reg>quod</reg> ab eis vere
 quadam ex parte, non totum dicitur. Nam neminem in
 eo genere scientius versatum Isocrate confitendum est, sed
@@ -3348,7 +3347,7 @@ ante dictum est, ex tribus partibus conlocationis alterum.
 </p>
             </div>
             <div type="textpart" n="176" subtype="section">
-               <p >
+               <p>
                   <reg>horum</reg> uterque Isocratem aetate praecurrit, ut eos ille
 moderatione, non inventione vicerit. Est enim, ut in transferendis
 faciendisque verbis tranquillior sic in ipsis numeris
@@ -3365,12 +3364,12 @@ quo dicit sese minus iam servire numeris quam solitus esset.
 Ita non modo superiores sed etiam se ipse correxerat<note>correxerat <hi rend="italics">AL</hi>: correxit <hi rend="italics">codd. dett.</hi>
                   </note>.
 </p>
-               <p >
+               <p>
                   <milestone n="53" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="177" subtype="section">
-               <p >
+               <p>
                   <reg>quoniam</reg> igitur habemus aptae orationis eos principes
 auctoresque quos diximus et origo inventa est, causa quaeratur. Quae
 sic aperta est, ut mirer veteres<note>veteres ea <hi rend="italics">Kayser</hi>
@@ -3389,7 +3388,7 @@ quandam in se continet vocum omnium mensionem<note>dimensionem <hi rend="italics
 </p>
             </div>
             <div type="textpart" n="178" subtype="section">
-               <p >
+               <p>
                   <reg>itaque</reg> et longiora et breviora iudicat et perfecta ac moderata
 semper exspectat; mutila sentit quaedam et quasi<note>quasi et <hi rend="italics">A</hi>
                   </note> decurtata,
@@ -3405,10 +3404,10 @@ oratione animadversum est, multo illud quidem serius, sed
 eadem natura admonente, esse quosdam certos cursus conclusionesque
 verborum.
 </p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="179" subtype="section">
-               <p >
+               <p>
                   <reg>quoniam</reg> igitur causam quoque ostendimus, naturam
 nunc—id enim erat tertium—si placet explicemus; quae
 disputatio non huius instituti sermonis est, sed artis intimae. Quaeri
@@ -3421,7 +3420,7 @@ voluptatis adferat.
 </p>
             </div>
             <div type="textpart" n="180" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> ut in plerisque rebus sic in hac
 duplex est considerandi via quarum altera est longior,
 brevior altera, eadem etiam planior.
@@ -3450,7 +3449,7 @@ aeque in oratione atque in versu numerus appareat.
 </p>
             </div>
             <div type="textpart" n="181" subtype="section">
-               <p >
+               <p>
                   <reg>deinde</reg>, quod dicitur in oratione numerosum, id utrum numero
 solum efficiatur, an etiam vel compositione quadam vel
 genere verborum; an sit<note>an sit <hi rend="italics">Lambinus</hi>: an est <hi rend="italics">AL</hi>
@@ -3462,11 +3461,11 @@ quadam<note>quadam <hi rend="italics">Schenkl</hi>: quaedam <hi rend="italics">A
                   </note> omnium
 fons compositio ex eaque et numerus efficiatur et ea quae
 dicuntur orationis quasi formae et lumina, quae, ut dixi,
-Graeci vocant <foreign xml:lang="greek">sxh/mata</foreign>.
+Graeci vocant <foreign xml:lang="greek">σχήματα</foreign>.
 </p>
             </div>
             <div type="textpart" n="182" subtype="section">
-               <p >
+               <p>
                   <reg>at</reg> non est unum nec idem quod
 voce iucundum est et quod moderatione absolutum et
 quod inluminatum genere verborum; quamquam id quidem
@@ -3475,12 +3474,12 @@ est; compositio autem ab utroque differt, quae tota servit
 gravitati vocum aut suavitati. Haec igitur fere sunt in
 quibus rei natura quaerenda sit.
 </p>
-               <p >
+               <p>
                   <milestone n="55" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="183" subtype="section">
-               <p >
+               <p>
                   <reg>esse</reg> ergo in oratione numerum quendam non est difficile
 cognoscere. Iudicat enim sensus; in quo est iniquum quod
 accidit non agnoscere, si cur id accidat reperire nequeamus.
@@ -3493,13 +3492,13 @@ atque sensu, quem dimensa ratio docuit quid accideret<note>accideret <hi rend="i
 notatio naturae et animadversio peperit artem. Sed in versibus res est apertior, quamquam etiam a modis quibusdam
 cantu remoto soluta esse videtur<note>videtur <hi rend="italics">vulg.</hi>: videatur <hi rend="italics">AL</hi>
                   </note> oratio maximeque id in
-optimo quoque eorum poetarum qui <foreign xml:lang="greek">lurikoi\</foreign> a Graecis no-
+optimo quoque eorum poetarum qui <foreign xml:lang="greek">λυρικοὶ</foreign> a Graecis no-
 minantur, quos<note>quos <hi rend="italics">L</hi>: eos <hi rend="italics">A</hi>
                   </note> cum cantu spoliaveris, nuda paene remanet
 oratio. </p>
             </div>
             <div type="textpart" n="184" subtype="section">
-               <p >
+               <p>
                   <reg>quorum</reg> similia sunt quaedam etiam apud nostros<note>nostros <hi rend="italics">L</hi>: illos <hi rend="italics">A</hi>
                   </note>,
 velut illa in Thyeste:
@@ -3518,7 +3517,7 @@ versibus<note>quo ... versibus <hi rend="italics">om.</hi>
                   </note>. </p>
             </div>
             <div type="textpart" n="185" subtype="section">
-               <p >
+               <p>
                   <reg>omnino</reg> duo. sunt quae condiant orationem,
 verborum numerorumque iucunditas. In verbis inest quasi 
 materia quaedam, in numero autem expolitio. Sed ut
@@ -3526,7 +3525,7 @@ ceteris in rebus necessitatis inventa antiquiora sunt quam
 voluptatis. </p>
             </div>
             <div type="textpart" n="186" subtype="section">
-               <p >
+               <p>
 
                   <del>
                      <reg>itaque</reg> et Herodotus et eadem superiorque
@@ -3550,7 +3549,7 @@ palaestram et extrema<note>extrema <hi rend="italics">AL</hi>: externa <hi rend=
                   </note> liniamenta orationi attulit. </p>
             </div>
             <div type="textpart" n="187" subtype="section">
-               <p >
+               <p>
                   <reg>quod</reg> si
 
 <pb n="p.2062"/>
@@ -3574,10 +3573,10 @@ contineri. Nam circuitus ille, quem saepe iam diximus,
 incitatior numero ipso fertur et labitur, quoad perveniat ad
 finem et insistat. Perspicuum est igitur numeris astrictam
 orationem esse debere, carere versibus.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="188" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> hi numeri poeticine sint an ex alio genere quodam 
 deinceps est videndum. Nullus est igitur numerus extra
 poeticos, propterea quod definita sunt genera numerorum.
@@ -3592,7 +3591,7 @@ cadere qui possunt? quibus ordine locatis quod efficitur
 numerosum sit necesse est. </p>
             </div>
             <div type="textpart" n="189" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> quaeritur quo numero aut 
 quibus potissimum sit utendum. Incidere vero omnis in
 orationem etiam ex hoc intellegi potest, quod versus saepe
@@ -3612,7 +3611,7 @@ etiam minus usitatos, sed tamen versus: vitiosum genus et
 longa animi provisione fugiendum. </p>
             </div>
             <div type="textpart" n="190" subtype="section">
-               <p >
+               <p>
                   <reg>elegit</reg> ex multis Iso-
 crati libris triginta fortasse versus Hieronymus Peripateticus
 in primis nobilis, plerosque senarios, sed etiam anapaestos<note>anapaestos <hi rend="italics">vulg.</hi>: anapaesta <hi rend="italics">FPO</hi>: anapesti <hi rend="italics">A</hi>
@@ -3630,12 +3629,12 @@ loco quo reprehendit, ut a me animum adversum est studiose
 inquirente in eum, immittit imprudens ipse senarium. Sit
 igitur hoc cognitum in solutis etiam verbis inesse numeros
 eosdemque esse oratorios qui sint poetici.</p>
-               <p >
+               <p>
                   <milestone n="57" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="191" subtype="section">
-               <p >
+               <p>
                   <reg>sequitur</reg> ergo ut qui maxime cadant in orationem aptam
 numeri videndum sit. Sunt enim qui iambicum<note>iambicum <hi rend="italics">L</hi>: iambum <hi rend="italics">Stangl</hi>: ambiguum <hi rend="italics">A</hi>
                   </note> putent, 
@@ -3663,7 +3662,7 @@ constet alter e brevibus, fieri<note>constet... fieri <hi rend="italics">Ernesti
 nimis tardam orationem, neutram temperatam. </p>
             </div>
             <div type="textpart" n="192" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> et illi
 priores errant et Ephorus in culpa est. Nam et<note>et <hi rend="italics">L</hi>: <hi rend="italics">secl. Manutius</hi>:ei <hi rend="italics">Jahn</hi>
                   </note> qui paeana
@@ -3682,7 +3681,7 @@ Ernesti</hi>
 admirationem possit traducere. </p>
             </div>
             <div type="textpart" n="193" subtype="section">
-               <p >
+               <p>
                   <reg>trochaeum</reg> autem, qui est 
 eodem spatio quo choreus, cordacem appellat, qia con-
 tractio et<note>et <hi rend="italics">Sauppe</hi>: ut <hi rend="italics">L</hi>
@@ -3697,7 +3696,7 @@ modo commoditatis habuerunt rationem, nullam dignitatis.
 </p>
             </div>
             <div type="textpart" n="194" subtype="section">
-               <p >
+               <p>
                   <reg>iambus</reg> enim et dactylus in versum cadunt maxime itaque 
 ut versum fugimus in oratione, sic hi sunt evitandi continuati pedes; aliud enim quiddam est oratio nec qicquam
 inimicius quam illa versibus; paean autem minime est aptus
@@ -3714,7 +3713,7 @@ eadem a Theophrasto Theodecteque de paeane dicuntur.
 </p>
             </div>
             <div type="textpart" n="195" subtype="section">
-               <p >
+               <p>
                   <reg>ego</reg> autem sentio<note>sentio <hi rend="italics">L</hi>: censeo <hi rend="italics">Bake</hi>
                   </note> omnis in oratione esse<note>esse <hi rend="italics">vulg.</hi>:
 est <hi rend="italics">L</hi>
@@ -3732,14 +3731,14 @@ ac vulgare videatur; ut ab altero non delectere, alterum
 oderis—; </p>
             </div>
             <div type="textpart" n="196" subtype="section">
-               <p >
+               <p>
                   <reg>sit</reg> igitur, ut supra dixi, permixta et temperata
 numeris<note>permixta... numeris <hi rend="italics">secl Bake</hi>
                   </note> nec dissoluta nec tota numerosa<note>numerosa oratio <hi rend="italics">maluit Heerdegen</hi>
                   </note>, paeane maxime,
 quoniam optimus auctor ita censet, sed reliquis etiam nu-
 meris, quos ille praeterit, temperata.</p>
-               <p >
+               <p>
                   <milestone n="58" unit="chapter"/>
                   <reg>quos</reg> autem numeros cum quibus tamquam purpuram
 misceri oporteat nunc dicendum est atque etiam quibus 
@@ -3749,7 +3748,7 @@ enim frequentissimus est in eis<note>eis <hi rend="italics">Rufinus</hi>: his <h
 sermone dicuntur; </p>
             </div>
             <div type="textpart" n="197" subtype="section">
-               <p >
+               <p>
                   <reg>paean</reg> autem in amplioribus, in utroque
 dactylus. Itaque<note>itaque <hi rend="italics">Rufinus</hi>: ita <hi rend="italics">L</hi>
                   </note> in varia et perpetua oratione hi sunt inter
@@ -3764,7 +3763,7 @@ rent minus<note>delectarent minus. nec vero Heerdegen: delectarent nec vero minu
                   </note>. </p>
             </div>
             <div type="textpart" n="198" subtype="section">
-               <p >
+               <p>
                   <reg>nec</reg> vero is cursus est numerorum—orationis
 dico, nam est longe aliter in versibus—, nihil ut fiat extra
 modum; nam id quidem esset poema; sed omnis nec
@@ -3787,12 +3786,12 @@ non sunt in ea tamquam tibicini<note>tibicini <hi rend="italics">L</hi>: tibicin
                   </note> percussionum modi, sed
 universa comprehensio et species orationis clausa et ter-
 minata est, quod voluptate aurium iudicatur.</p>
-               <p >
+               <p>
                   <milestone n="59" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="199" subtype="section">
-               <p >
+               <p>
                   <reg>solet</reg> autem quaeri totone in ambitu verborum numeri 
 tenendi sint an in primis partibus atque in extremis; plerique enim censent cadere tantum numerose oportere termi-
 narique sententiam. Est autem, ut id maxime deceat, non
@@ -3806,7 +3805,7 @@ hensio et tota a capite ita fluere, ut ad extremum veniens
 ipsa consistat. </p>
             </div>
             <div type="textpart" n="200" subtype="section">
-               <p >
+               <p>
                   <reg>id</reg> autem bona disciplina exercitatis, qui et
 multa scripserint et quaecumque etiam sine scripto dicent<note>dicent <hi rend="italics">Jahn</hi>: dicerent <hi rend="italics">L</hi>
                   </note>
@@ -3820,7 +3819,7 @@ omnia illa et prima et media verba spectare debent ad
 ultimum. </p>
             </div>
             <div type="textpart" n="201" subtype="section">
-               <p >
+               <p>
                   <reg>interdum</reg> enim cursus est in oratione incitatior, 
 interdum moderata ingressio, ut iam a principio videndum
 sit quem ad modum velis venire ad extremum. Nec in
@@ -3839,7 +3838,7 @@ dicimus—; conlocationis<note>collocationis <hi rend="italics">Manutius</hi>: c
 positio, concinnitas, numerus. </p>
             </div>
             <div type="textpart" n="202" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> in utroque frequen-
 tiores sunt et liberiores poetae; nam et transferunt verba
 cum crebrius tum etiam audacius et priscis libentius utuntur et liberius novis. Quod idem fit in numeris, in quibus
@@ -3853,7 +3852,7 @@ numero fiat, sed non numquam aut concinnitate aut con-
 structione verborum. </p>
             </div>
             <div type="textpart" n="203" subtype="section">
-               <p >
+               <p>
                   <reg>ita</reg> si numerus orationis quaeritur qui
 sit, omnis est, sed alius alio melior atque aptior; si locus, in
 omni parte verborum; si unde ortus sit, ex aurium voluptate; si componendorum ratio, dicetur alio loco, quia pertinet ad usum, quae pars quarta et extrema nobis in divi- 
@@ -3863,21 +3862,21 @@ versibus, quorum modum notat ars, sed aures ipsae tacito
 eum sensu<note>sensu <hi rend="italics">codd. deft.</hi>:
 sensum <hi rend="italics">FPO</hi>
                   </note> sine arte definiunt.</p>
-               <p >
+               <p>
                   <milestone n="61" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="204" subtype="section">
-               <p >
+               <p>
                   <reg>satis</reg> multa de natura; sequitur usus, de quo est accu-
 ratius disputandum. In quo quaesitum est in totone cir-
-cuitu illo orationis, quem Graeci <foreign xml:lang="greek">peri/odon,</foreign> nos tum ambitum, tum circuitum, tum comprehensionem aut continuationem aut circumscriptionem dicimus, an in principiis 
+cuitu illo orationis, quem Graeci <foreign xml:lang="greek">περίοδον,</foreign> nos tum ambitum, tum circuitum, tum comprehensionem aut continuationem aut circumscriptionem dicimus, an in principiis 
 solum an in extremis an in utraque parte numerus tenendus
 sit; deinde cum aliud videatur esse numerus aliud numero-
 sum, quid intersit. </p>
             </div>
             <div type="textpart" n="205" subtype="section">
-               <p >
+               <p>
                   <reg>tum</reg> autem in omnibusne numeris
 aequaliter particulas deceat incidere an facere alias breviores alias longiores, idque quando aut cur; quibusque
 partibus, pluribusne an singulis, imparibus an aequalibus,
@@ -3891,7 +3890,7 @@ eo genere distinctio; quodque ad rem maxime pertinet, qua
 ratione numerosa fiat oratio. </p>
             </div>
             <div type="textpart" n="206" subtype="section">
-               <p >
+               <p>
                   <reg>explicandum</reg> etiam est unde
 orta sit forma verborum dicendumque quantos circuitus
 facere deceat deque eorum particulis et tamquam incisionibus disserendum est quaerendumque utrum una species et
@@ -3899,24 +3898,24 @@ longitude sit earum anne plures et, si plures, quo loco aut
 quando quoque genere uti oporteat. Postremo totius
 generis utilitas explicanda est, quae quidem patet latius;
 non ad unam enim rem aliquam, sed ad pluris accommodatur.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="207" subtype="section">
-               <p >
+               <p>
                   <reg>ac</reg> licet non ad singula<note>singula <hi rend="italics">Bake</hi>:
 singulas res <hi rend="italics">L</hi>
                   </note> respondentem de universo genere 
 sic dicere, ut etiam singulis satis responsum esse videatur.
 Remotis igitur reliquis generibus unum selegimus hoc, quod
 in causis foroque versatur, de quo diceremus. Ergo in
-aliis, id est in historia et in eo quod appellamus <foreign xml:lang="greek">e)pideiktiko/n,</foreign>
+aliis, id est in historia et in eo quod appellamus <foreign xml:lang="greek">ἐπιδεικτικόν,</foreign>
 placet omnia dici Isocrateo Theopompeoque more illa cir-
 cumscriptione ambituque, ut tamquam in orbe inclusa
 currat oratio, quoad insistat in singulis perfectis absolutis-
 que sententiis. </p>
             </div>
             <div type="textpart" n="208" subtype="section">
-               <p >
+               <p>
                   <reg>itaque</reg> postea quam est nata haec vel cir- 
 cumscriptio vel comprehensio vel continuatio vel ambitus,
 si ita licet dicere, nemo, qui aliquo esset in numero, scripsit
@@ -3929,7 +3928,7 @@ habet oratori voluptati aurium servienti. <milestone n="62" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="209" subtype="section">
-               <p >
+               <p>
                   <reg>genus</reg> autem hoc
 orationis neque totum adsumendum est ad causas forensis
 neque omnino repudiandum, si enim semper utare, cum
@@ -3945,7 +3944,7 @@ videndum est quo loco, deinde quam diu retinenda sit, tum
 quot modis commutanda. </p>
             </div>
             <div type="textpart" n="210" subtype="section">
-               <p >
+               <p>
                   <reg>adhibenda</reg> est igitur numerosa
 oratio, si aut laudandum est aliquid ornatius, ut<note>ut <hi rend="italics">vulg.</hi>:
 aut <hi rend="italics">L</hi>
@@ -3971,7 +3970,7 @@ prendat <hi rend="italics">FP</hi>
 </p>
             </div>
             <div type="textpart" n="211" subtype="section">
-               <p >
+               <p>
                   <reg>haec</reg> autem forma retinenda non diu est, nec dico<note>nec dico <hi rend="italics">L</hi>: non dico <hi rend="italics">Sauppe</hi>
                   </note> in per-
 oratione, quam ipsam includit<note>quam
@@ -3982,7 +3981,7 @@ ipsam includit <hi rend="italics">Beier</hi>: quam ipse includit <hi rend="itali
 partibus. Nam cum sis eis locis usus quibus ostendi licere<note>licere <hi rend="italics">vulg.</hi>:liceret <hi rend="italics">L</hi>
                   </note>,
 transferenda tota dictio est ad illa quae nescio cur, cum
-Graeci <foreign xml:lang="greek">ko/mmata</foreign> et <foreign xml:lang="greek">kw=la</foreign> nominent, nos non recte incisa et
+Graeci <foreign xml:lang="greek">κόμματα</foreign> et <foreign xml:lang="greek">κῶλα</foreign> nominent, nos non recte incisa et
 membra dicamus. Neque enim esse possunt rebus ignotis
 nota nomina, sed cum verba aut suavitatis aut inopiae causa
 transferre soleamus, in omnibus hoc fit artibus, ut, cum id
@@ -3993,12 +3992,12 @@ appellandum sit quod propter rerum ignorationem ipsarum
 nullum habuerit ante nomen, necessitas cogat<note>cogat <hi rend="italics">vulg.</hi>: cogit <hi rend="italics">L</hi>
                   </note> aut novum
 facere verbum aut a simili mutuari.</p>
-               <p >
+               <p>
                   <milestone n="63" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="212" subtype="section">
-               <p >
+               <p>
                   <reg>quo</reg> autem pacto deceat incise membratimve dici iam 
 videbimus; nunc quot modis mutentur comprehensiones
 conclusionesque dicendum est. Fluit omnino numerus a
@@ -4013,7 +4012,7 @@ ab aliis<note>ab aliis <hi rend="italics">Rufinus</hi>: ab illis <hi rend="itali
                   </note> eidem pedes aliis vocabulis nominantur. </p>
             </div>
             <div type="textpart" n="213" subtype="section">
-               <p >
+               <p>
                   <reg>dichoreus</reg> 
 non est ille quidem sua sponte vitiosus in clausulis, sed in
 orationis numero nihil est tam vitiosum quam si semper est
@@ -4028,7 +4027,7 @@ dein<note>dein <hi rend="italics">L</hi>: deinde
 publicam ;—haec item membra ternis; post ambitus: </p>
             </div>
             <div type="textpart" n="214" subtype="section">
-               <p >
+               <p>
                   <reg>quicumque</reg> eam violavissent, ab omnibus esse ei poenas persolutas;—dichoreus; nihil enim ad rem, extrema illa longa
 sit an brevis; deinde: Patris dictum sapiens temeritas fili
 comprobavit—hoc dichoreo tantus clamor contionis exci-
@@ -4040,7 +4039,7 @@ brevibus et longa est, quem<note>quem
 a quo dissentio. 'At eadem verba, eadem sententia.' </p>
             </div>
             <div type="textpart" n="215" subtype="section">
-               <p >
+               <p>
                   <reg>animo</reg> 
 istuc satis est, auribus non satis. Sed id crebrius fieri non
 
@@ -4048,7 +4047,7 @@ istuc satis est, auribus non satis. Sed id crebrius fieri non
 
 oportet; primum enim numerus agnoscitur, deinde satiat,
 postea cognita facilitate contemnitur.</p>
-               <p >
+               <p>
                   <milestone n="64" unit="chapter"/>
                   <reg>sed</reg> sunt clausulae plures, quae numerose et iucunde
 cadant<note>cadant <hi rend="italics">L</hi>: cadunt <hi rend="italics">Bake</hi>
@@ -4067,7 +4066,7 @@ brevibus et longa, <del>in<note>in <hi rend="italics">L</hi>: <hi rend="italics"
 ego non plane reicio, sed alios antepono. </p>
             </div>
             <div type="textpart" n="216" subtype="section">
-               <p >
+               <p>
                   <reg>ne</reg> spondeus 
 quidem funditus est repudiandus, etsi, quod est e longis
 duabus, hebetior videtur et tardior; habet tamen stabilem
@@ -4082,7 +4081,7 @@ tremo: adiungo, quod minimum sit<note>sit <hi rend="italics">L</hi>: est
 saepe etiam tertium. </p>
             </div>
             <div type="textpart" n="217" subtype="section">
-               <p >
+               <p>
                   <reg>ne</reg> iambus quidem, qui est e brevi
 et longa, aut par choreo qui habet tris brevis <hi rend="italics">trochaeus,</hi>
                   <note>trochaeus <hi rend="italics">Rufinus</hi>: <hi rend="italics">om. L</hi>
@@ -4100,7 +4099,7 @@ extremus an creticus, quia postrema syllaba brevis an longa
 sit ne in versu quidem refert. </p>
             </div>
             <div type="textpart" n="218" subtype="section">
-               <p >
+               <p>
                   <reg>qua</reg> re etiam paeana qui
 dixit aptiorem, in quo esset longa postrema, vidit parum,
 
@@ -4120,7 +4119,7 @@ numerum apertum et nimis insignem facit. <milestone n="65" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="219" subtype="section">
-               <p >
+               <p>
                   <reg>his</reg> igitur tot
 commutationibus tamque variis si utemur, nec deprehendetur manifesto quid a nobis de industria fiat et occurretur
 satietati. Et quia non <hi rend="italics">numero solum</hi>
@@ -4137,7 +4136,7 @@ eam aetatem, apte numeroseque dixerunt, ea non numero
 quaesito, sed verborum conlocatione ceciderunt. </p>
             </div>
             <div type="textpart" n="220" subtype="section">
-               <p >
+               <p>
                   <reg>formae</reg>
 vero quaedam sunt orationis, in quibus ea<note>ea <hi rend="italics">edd.</hi>:ea si <hi rend="italics">L</hi>: ea scilicet <hi rend="italics">Stangl</hi>: ea sic
 <hi rend="italics">Heerdegen</hi>
@@ -4156,12 +4155,12 @@ laxare nequeamus. Multum<note>multumque <hi rend="italics">Stangl</hi>
                   </note> interest utrum numerosa sit,
 id est similis numerorum, an plane e numeris constet oratio;
 alterum si fit, intolerabile vitium est, alterum nisi fit, dissipata et inculta et fluens est oratio.</p>
-               <p >
+               <p>
                   <milestone n="66" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="221" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> quoniam non modo non frequenter verum etiam 
 raro in veris causis aut<note>aut <hi rend="italics">L</hi>: ac <hi rend="italics">Madvig</hi> (<hi rend="italics">Adv. Crit.</hi> iii. 99:
 et <hi rend="italics">Schütz</hi>
@@ -4187,7 +4186,7 @@ comprehensio <hi rend="italics">damnat Heerdegen, secl. Stangl</hi>
                </p>
             </div>
             <div type="textpart" n="222" subtype="section">
-               <p >
+               <p>
                   <reg>his</reg> igitur singulis versibus quasi nodi
 apparent continuationis, quos in ambitu coniungimus. Sin
 membratim volumus dicere, insistimus atque<note>atque <hi rend="italics">Stangl</hi>:
@@ -4204,7 +4203,7 @@ senarium; omnino melius caderet prodeant ipsi; sed de
 genere nunc disputo;—</p>
             </div>
             <div type="textpart" n="223" subtype="section">
-               <p >
+               <p>
                   <reg>cur</reg> clandestinis consiliis nos op-
 
 <pb n="p.2074"/>
@@ -4214,7 +4213,7 @@ pugnant? cur de perfugis<note>perfugis <hi rend="italics">Quint. ei Rufinus</hi>
                      <hi rend="italics">Ru-
 finus</hi>: comparat is <hi rend="italics">vel</hi> comparatis <hi rend="italics">Quint. codd.</hi>
                   </note> contra
-nos? Prima sunt illa duo, quae <foreign xml:lang="greek">ko/mmata</foreign> Graeci vocant,
+nos? Prima sunt illa duo, quae <foreign xml:lang="greek">κόμματα</foreign> Graeci vocant,
 nos incisa dicimus; deinde tertium <hi rend="italics">kw=lon</hi> illi, nos mem-
 brum; sequitur non longa—ex duobus enim versibus, id
 est membris, perfecta comprehensio est et in spondeos
@@ -4228,7 +4227,7 @@ est apud me: Domus tibi deerat? at habebas. Pecunia
 superabat? at egebas; </p>
             </div>
             <div type="textpart" n="224" subtype="section">
-               <p >
+               <p>
                   <reg>haec</reg> incise dicta sunt quattuor;
 at membratim quae sequuntur duo: Incurristi amens in
 columnas, in alienos<note>alienos <hi rend="italics">L</hi>: alienis <hi rend="italics">Rufinus</hi>: antis
@@ -4248,7 +4247,7 @@ et utrisque addi pedis pars potest, non fere ternis amplius.
 </p>
             </div>
             <div type="textpart" n="225" subtype="section">
-               <p >
+               <p>
                   <reg>incisim</reg> autem et membratim tractata oratio in veris causis 
 plurimum valet, maximeque eis locis, cum aut arguas aut
 refellas, ut nos<note>nos <hi rend="italics">Rufinus</hi>:
@@ -4263,7 +4262,7 @@ quaeso<note>quaeso <hi rend="italics">vulg.</hi>: quasi <hi rend="italics">L</hi
                   </note>, nostrum fefellit ita vos esse facturos? </p>
             </div>
             <div type="textpart" n="226" subtype="section">
-               <p >
+               <p>
                   <reg>nec</reg> ullum 
 genus est dicendi aut melius aut fortius quam<note>quam <hi rend="italics">vulg.</hi>: <hi rend="italics">om.
 L et Rufinus</hi>
@@ -4282,12 +4281,12 @@ posui, ut qui vellet auribus ipsis quid numerosum etiam
 in minimis particulis orationis esset iudicaret. Et quoniam
 plura de numerosa oratione diximus quam quisquam ante 
 nos, nunc de eius generis utilitate dicemus.</p>
-               <p >
+               <p>
                   <milestone n="68" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="227" subtype="section">
-               <p >
+               <p>
                   <reg>nihil</reg> enim est aliud, Brute, quod quidem tu minime
 omnium ignoras, pulchre et oratorie dicere nisi optimis
 sententiis verbisque lectissimis<note>lectissimis <hi rend="italics">codd. deti.</hi>: lectissime
@@ -4307,7 +4306,7 @@ sed ordo pedum facit, ut id quod pronuntiatur aut orationis
 aut poematis simile videatur. </p>
             </div>
             <div type="textpart" n="228" subtype="section">
-               <p >
+               <p>
                   <reg>hanc</reg> igitur, sive composi-
 tionem sive perfectionem sive numerum vocari placet, <del>et<note>et <hi rend="italics">secl. Lambinus</hi>
                      </note>
@@ -4331,9 +4330,9 @@ facit, nisi petitio fuit apta, nec satis tecte<note>tecte <hi rend="italics">edd
 nisi etiam in cedendo quid deceat intellegit. </p>
             </div>
             <div type="textpart" n="229" subtype="section">
-               <p >
+               <p>
                   <reg>itaque</reg> qualis 
-eorum motus quos <foreign xml:lang="greek">a)palai/strous</foreign> Graeci vocant, talis horum
+eorum motus quos <foreign xml:lang="greek">ἀπαλαίστρους</foreign> Graeci vocant, talis horum
 mihi videtur oratio qui non claudunt numeris sententias,
 tantumque abest ut<note>ut <hi rend="italics">Manutius</hi>:ne <hi rend="italics">L</hi>
                   </note>—quod ei<note>ei <hi rend="italics">codd. dett.</hi>:
@@ -4350,7 +4349,7 @@ verba traiciamus aperte, quo melius aut cadat aut volvatur
 oratio; quod se </p>
             </div>
             <div type="textpart" n="230" subtype="section">
-               <p >L. Caelius Antipater in prooemio belli 
+               <p>L. Caelius Antipater in prooemio belli 
 Punici nisi necessario facturum negat. O virum simplicem
 qui nos nihil celet<note>celet <hi rend="italics">vulg.</hi>: celat <hi rend="italics">L</hi>
                   </note>, sapientem qui serviendum necessitati
@@ -4372,7 +4371,7 @@ numeris in quoddam genus abiectum incidant versiculorum<note>versiculorum <hi re
 simillimum. </p>
             </div>
             <div type="textpart" n="231" subtype="section">
-               <p >
+               <p>
                   <reg>tertium</reg> est, in quo fuerunt fratres illi Asiati- 
 
 <pb n="p.2077"/>
@@ -4396,7 +4395,7 @@ vitia contraria. <milestone n="70" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="232" subtype="section">
-               <p >
+               <p>
                   <reg>quantum</reg> autem sit apte dicere, experiri
 licet, si aut compositi<note>composite <hi rend="italics">A</hi>: compositis <hi rend="italics">L</hi>
                   </note> oratoris bene structam conlocationem
@@ -4419,7 +4418,7 @@ perfacile Deliaco aut Syro potuisse superari; fac ita: potu-
 isse superari ab aliquo Syro aut Deliaco; </p>
             </div>
             <div type="textpart" n="233" subtype="section">
-               <p >
+               <p>
                   <reg>videsne</reg>, ut ordine
 verborum paululum commutato, isdem tamen verbis<note>isdem tamen verbis <hi rend="italics">A</hi>: isdem verbis <hi rend="italics">L, secl. Bake</hi>
                   </note> stante
@@ -4439,7 +4438,7 @@ hominis sit probos improbare qui improbos probet; quanto
 aptius, si ita dixisset: Quin eiusdem hominis sit qui improbos probet probos improbare! </p>
             </div>
             <div type="textpart" n="234" subtype="section">
-               <p >
+               <p>
                   <reg>hoc</reg> modo dicere nemo 
 umquam noluit nemoque potuit quin dixerit<note>dixerit <hi rend="italics">AL</hi>: didicerit <hi rend="italics">Stangl</hi>
                   </note>; qui autem
@@ -4456,7 +4455,7 @@ conlocationis universam speciem sustulerit, non singulorum
 operum venustatem; ut in Thucydide orbem modo orationis desidero, ornamenta comparent. </p>
             </div>
             <div type="textpart" n="235" subtype="section">
-               <p >
+               <p>
                   <reg>isti</reg> autem cum 
 dissolvunt orationem, in qua nec res nec verbum ullum est
 nisi abiectum, non clipeum, sed, ut in proverbio est—etsi
@@ -4482,7 +4481,7 @@ voles lingua eo genere quo illi volunt<note>volet <hi rend="italics">Ernesti</hi
 apta dissolvere quam dissipata conectere. </p>
             </div>
             <div type="textpart" n="236" subtype="section">
-               <p >
+               <p>
                   <reg>res</reg> se autem
 
 <pb n="p.2079"/>
@@ -4500,10 +4499,10 @@ aut exspectari<note>exspectari <hi rend="italics">codd. dett.</hi>: spectari <hi
 expectare <hi rend="italics">L</hi>
                   </note> aut audiri<note>audire <hi rend="italics">L</hi>
                   </note> libentius.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="237" subtype="section">
-               <p >
+               <p>
                   <reg>habes</reg> meum de oratore, Brute, indicium; quod aut
 sequere, si probaveris, aut tuo stabis, si aliud quoddam
 est tuum. In quo neque pugnabo tecum neque hoc meum,
@@ -4522,7 +4521,7 @@ cum ipsum illud verum<note>verum <hi rend="italics">L</hi>: verum tam_ (<hi rend
                   </note> tamen in occulto lateret. </p>
             </div>
             <div type="textpart" n="238" subtype="section">
-               <p >
+               <p>
                   <reg>tu</reg> autem
 velim, si tibi ea quae disputata sunt minus probabuntur,
 ut aut maius opus institutum putes quam effici potuerit,
@@ -4534,175 +4533,175 @@ scribendi me impudentiam<note>impudentiam <hi rend="italics">A</hi>: imprudentia
          </div>
       </body>
       <pb n="p.2080"/>
-      <back >
+      <back>
          <div type="textpart" subtype="section">
-            <head >Index Nominum</head>
-            <p >Academia 12.</p>
-            <p >Accius (L.) 36, 156.</p>
-            <p >Aegyptus 232.</p>
-            <p >Aemilius Paullus (L.) 232.</p>
-            <p >Aeschines 26, 29, 57, 110, 235.</p>
-            <p >Aesculapius 155.</p>
-            <p >Africa 93.</p>
-            <p >Agamemnon 74.</p>
-            <p >Ala 153.</p>
-            <p >Albucius (T.) 149.</p>
-            <p >Anaxagoras.</p>
-            <p >Antonius (M.) 18, 19, 33, 69, 100, 105, 132.</p>
-            <p >Apelles, 73.</p>
-            <p >Archilochus 4.</p>
-            <p >Aristophanes 29 (cf. 190).</p>
-            <p >Aristoteles, 94, 127, 214, 218; Rhet.1, 99, 114, 172, 178, 192, 195, 214, 218, 228.</p>
-            <p >Asia 163, 212.</p>
-            <p >Asiatici rhetores, 25, 27, 212, 230, 231, 234.</p>
-            <p >Athenae 23, 27, 105, 151.</p>
-            <p >Athenienses, 31.</p>
-            <p >Attice 23, 26, 28, 29.</p>
-            <p >Attici oratores 27, 28, 76-90.</p>
-            <p >Aurelius Cotta (L.) 106, 132.</p>
-            <p >Axilla 153.</p>
-            <p >Bellius 153.</p>
-            <p >Bruges 160.</p>
-            <p >Burrus 160.</p>
-            <p >Caecina 102.</p>
-            <p >Caelius Antipater (L.) 230.</p>
-            <p >Caepiones 160.</p>
-            <p >Calchas 74.</p>
-            <p >Carbo (C.) 213.</p>
-            <p >Caria, 25, 57.</p>
-            <p >Carneades 51.</p>
-            <p >Cartago 160.</p>
-            <p >Catilina 129.</p>
-            <p >Ceres Hennensis 210.</p>
-            <p >Cetegi 160.</p>
-            <p >Charmadas 51.</p>
-            <p >Chryse 155.</p>
-            <p >Chrysippus 115.</p>
-            <p >Claudius Marcellus (M.) 232.</p>
-            <p >Clitomachus1.</p>
-            <p >Cluentius Habitus (A.) 103, 108.</p>
-            <p >Coa Venus. 5</p>
-            <p >Corneliana <hi rend="italics">oratio</hi> 225, 232.</p>
-            <p >Cornelius Scipio (L.) 232.</p>
-            <p >Ctesiphontis causa 26, 57, 111, 133.</p>
-            <p >Deliacus 232.</p>
-            <p >Demades 90.</p>
-            <p >Demetrius Phalereus 92, 94.</p>
-            <p >Democritus Abderita 67.</p>
-            <p >Demosthenes 6, 15, 23, 26, 27, 30, 56, 57, 90, 104, 105, 110, 111, 133, 136, 151 226, 234, 235.</p>
-            <p >Diana Segestana 210.</p>
-            <p >Doryphorus 5.</p>
-            <p >Duellius (C.) 153.</p>
-            <p >Ennius 36, 93, 109, 152, 155, 157, 160, 171, 184.</p>
-            <p >Ephorus Cumanus 172, 191, 192, 194, 218.</p>
-            <p >Etesiae 152.</p>
-            <p >Fabius Maximus Cunctator (Q.) 232.</p>
-            <p >Fauni 171.</p>
-            <p >Gallia 34.</p>
-            <p >Gorgias 39, 40, 165–167, 157, 176.</p>
+            <head>Index Nominum</head>
+            <p>Academia 12.</p>
+            <p>Accius (L.) 36, 156.</p>
+            <p>Aegyptus 232.</p>
+            <p>Aemilius Paullus (L.) 232.</p>
+            <p>Aeschines 26, 29, 57, 110, 235.</p>
+            <p>Aesculapius 155.</p>
+            <p>Africa 93.</p>
+            <p>Agamemnon 74.</p>
+            <p>Ala 153.</p>
+            <p>Albucius (T.) 149.</p>
+            <p>Anaxagoras.</p>
+            <p>Antonius (M.) 18, 19, 33, 69, 100, 105, 132.</p>
+            <p>Apelles, 73.</p>
+            <p>Archilochus 4.</p>
+            <p>Aristophanes 29 (cf. 190).</p>
+            <p>Aristoteles, 94, 127, 214, 218; Rhet.1, 99, 114, 172, 178, 192, 195, 214, 218, 228.</p>
+            <p>Asia 163, 212.</p>
+            <p>Asiatici rhetores, 25, 27, 212, 230, 231, 234.</p>
+            <p>Athenae 23, 27, 105, 151.</p>
+            <p>Athenienses, 31.</p>
+            <p>Attice 23, 26, 28, 29.</p>
+            <p>Attici oratores 27, 28, 76-90.</p>
+            <p>Aurelius Cotta (L.) 106, 132.</p>
+            <p>Axilla 153.</p>
+            <p>Bellius 153.</p>
+            <p>Bruges 160.</p>
+            <p>Burrus 160.</p>
+            <p>Caecina 102.</p>
+            <p>Caelius Antipater (L.) 230.</p>
+            <p>Caepiones 160.</p>
+            <p>Calchas 74.</p>
+            <p>Carbo (C.) 213.</p>
+            <p>Caria, 25, 57.</p>
+            <p>Carneades 51.</p>
+            <p>Cartago 160.</p>
+            <p>Catilina 129.</p>
+            <p>Ceres Hennensis 210.</p>
+            <p>Cetegi 160.</p>
+            <p>Charmadas 51.</p>
+            <p>Chryse 155.</p>
+            <p>Chrysippus 115.</p>
+            <p>Claudius Marcellus (M.) 232.</p>
+            <p>Clitomachus1.</p>
+            <p>Cluentius Habitus (A.) 103, 108.</p>
+            <p>Coa Venus. 5</p>
+            <p>Corneliana <hi rend="italics">oratio</hi> 225, 232.</p>
+            <p>Cornelius Scipio (L.) 232.</p>
+            <p>Ctesiphontis causa 26, 57, 111, 133.</p>
+            <p>Deliacus 232.</p>
+            <p>Demades 90.</p>
+            <p>Demetrius Phalereus 92, 94.</p>
+            <p>Democritus Abderita 67.</p>
+            <p>Demosthenes 6, 15, 23, 26, 27, 30, 56, 57, 90, 104, 105, 110, 111, 133, 136, 151 226, 234, 235.</p>
+            <p>Diana Segestana 210.</p>
+            <p>Doryphorus 5.</p>
+            <p>Duellius (C.) 153.</p>
+            <p>Ennius 36, 93, 109, 152, 155, 157, 160, 171, 184.</p>
+            <p>Ephorus Cumanus 172, 191, 192, 194, 218.</p>
+            <p>Etesiae 152.</p>
+            <p>Fabius Maximus Cunctator (Q.) 232.</p>
+            <p>Fauni 171.</p>
+            <p>Gallia 34.</p>
+            <p>Gorgias 39, 40, 165–167, 157, 176.</p>
             <pb n="p.2081"/>
-            <p >Graecae litterae 160.</p>
-            <p >Graece 37, 61, 67,.126.</p>
-            <p >Graeci 6, 36, 70, 83, 125, 128, 152, 153, 163, 166, 171, 181, 183, 204, 211, 223, 229.</p>
-            <p >Graecum otium 108.</p>
-            <p >Grai 152.</p>
-            <p >Hegesias 226, 230.</p>
-            <p >Helena 164.</p>
-            <p >Hellespontus 163.</p>
-            <p >Herodotus 39, 186, 219.</p>
-            <p >Hierocles 231.</p>
-            <p >Hieronymus 190.</p>
-            <p >Hipponactei versus 189.</p>
-            <p >Hister 152.</p>
-            <p >Homerus 4, 109.</p>
-            <p >Hortensius Hortalus (Q.) 106, 129, 132.</p>
-            <p >Hyperides 90, 110.</p>
-            <p >Ialysus 5.</p>
-            <p >Iphigenia 74.</p>
-            <p >Isocrates 37, 38, 40, 41, 42, 62, 151, 167, 172–175, 190, 207, 235.</p>
-            <p >Italia 34, 232.</p>
-            <p >Iunius Brutus (M.) 1–3, 19, 33, 34, 105, 110, 227.</p>
-            <p >Iuppiter Olympius 5, 9.</p>
-            <p >Laelius Sapiens (C.) 230, 232.</p>
-            <p >Latina lingua 150.</p>
-            <p >Latine 61, 170.</p>
-            <p >Latini 22, 23.</p>
-            <p >Leptinem, <hi rend="italics">oratio contra</hi> 111.</p>
-            <p >Licinius Crassus (C.) 19, 106, 132, 219, 222, 223, 226.</p>
-            <p >Livius Drusus (M.) 109.</p>
-            <p >Lucilius (C.) 149, 161.</p>
-            <p >Lysias 29, 30, 41, 90, 110, 226.</p>
-            <p >Manilia lex 102.</p>
-            <p >Menecles 231.</p>
-            <p >Menelaus 74.</p>
-            <p >Miloniana <hi rend="italics">oratio </hi>165.</p>
-            <p >Minerva Phidiae 9.</p>
-            <p >Mucius Scaevola (Q.) 149.</p>
-            <p >Mummius (L.) 232.</p>
-            <p >Musae 12, 62.</p>
-            <p >Mysia 25.</p>
-            <p >Mysus 27.</p>
-            <p >Naevius (Cn.) 152.</p>
-            <p >Naucrates 172.</p>
-            <p >Orcivii 160.</p>
-            <p >Otones 160.</p>
-            <p >Pacuvius (M.) 36, 155, 164.</p>
-            <p >Pammenes 105.</p>
-            <p >Panathenaicus Isocratis 38.</p>
-            <p >Panegyricus Isocratis 37.</p>
-            <p >Paris 164.</p>
-            <p >Pericles 15, 29, 119.</p>
-            <p >Peripatetici 127.</p>
-            <p >Phaedrus Platonis 15, 39, 41.</p>
-            <p >Phidias 5, 8, 9, 234.</p>
-            <p >Philippicae <hi rend="italics">orationes </hi>111.</p>
-            <p >Philippus 176.</p>
-            <p >Phryges 60.</p>
-            <p >Phrygia 25, 27.</p>
-            <p >Phryx 27.</p>
-            <p >Pindarus 4.</p>
-            <p >Plato 5, 10, 12, 15, 17, 41 sq., 62, 67, 151.</p>
-            <p >Poeni 153.</p>
-            <p >Pomponius Atticus (T.) 120.</p>
-            <p >Porcius Cato Censor (M.) 35, 152.</p>
-            <p >Porcius Cato Vticensis (M.) 35, 41.</p>
-            <p >Protogenes 5.</p>
-            <p >Pyrrhus =Burrus 160.</p>
-            <p >Rhodii 25.</p>
-            <p >Rhodus 5.</p>
-            <p >Roscius Amerinus (Sex.) 101.</p>
-            <p >Scribonius Curio (C.) 129.</p>
-            <p >Sempronius Gracchus (C.) 233.</p>
-            <p >Sicilia 210.</p>
-            <p >Socrates 15, 39, 41 sq.</p>
-            <p >Sophocles 4.</p>
-            <p >Stilpo 157.</p>
-            <p >Sulpicius Rufus (P.) 106, 132.</p>
-            <p >Syracusae 210.</p>
-            <p >Syria 232.</p>
-            <p >Syrus 232, 233.</p>
+            <p>Graecae litterae 160.</p>
+            <p>Graece 37, 61, 67,.126.</p>
+            <p>Graeci 6, 36, 70, 83, 125, 128, 152, 153, 163, 166, 171, 181, 183, 204, 211, 223, 229.</p>
+            <p>Graecum otium 108.</p>
+            <p>Grai 152.</p>
+            <p>Hegesias 226, 230.</p>
+            <p>Helena 164.</p>
+            <p>Hellespontus 163.</p>
+            <p>Herodotus 39, 186, 219.</p>
+            <p>Hierocles 231.</p>
+            <p>Hieronymus 190.</p>
+            <p>Hipponactei versus 189.</p>
+            <p>Hister 152.</p>
+            <p>Homerus 4, 109.</p>
+            <p>Hortensius Hortalus (Q.) 106, 129, 132.</p>
+            <p>Hyperides 90, 110.</p>
+            <p>Ialysus 5.</p>
+            <p>Iphigenia 74.</p>
+            <p>Isocrates 37, 38, 40, 41, 42, 62, 151, 167, 172–175, 190, 207, 235.</p>
+            <p>Italia 34, 232.</p>
+            <p>Iunius Brutus (M.) 1–3, 19, 33, 34, 105, 110, 227.</p>
+            <p>Iuppiter Olympius 5, 9.</p>
+            <p>Laelius Sapiens (C.) 230, 232.</p>
+            <p>Latina lingua 150.</p>
+            <p>Latine 61, 170.</p>
+            <p>Latini 22, 23.</p>
+            <p>Leptinem, <hi rend="italics">oratio contra</hi> 111.</p>
+            <p>Licinius Crassus (C.) 19, 106, 132, 219, 222, 223, 226.</p>
+            <p>Livius Drusus (M.) 109.</p>
+            <p>Lucilius (C.) 149, 161.</p>
+            <p>Lysias 29, 30, 41, 90, 110, 226.</p>
+            <p>Manilia lex 102.</p>
+            <p>Menecles 231.</p>
+            <p>Menelaus 74.</p>
+            <p>Miloniana <hi rend="italics">oratio </hi>165.</p>
+            <p>Minerva Phidiae 9.</p>
+            <p>Mucius Scaevola (Q.) 149.</p>
+            <p>Mummius (L.) 232.</p>
+            <p>Musae 12, 62.</p>
+            <p>Mysia 25.</p>
+            <p>Mysus 27.</p>
+            <p>Naevius (Cn.) 152.</p>
+            <p>Naucrates 172.</p>
+            <p>Orcivii 160.</p>
+            <p>Otones 160.</p>
+            <p>Pacuvius (M.) 36, 155, 164.</p>
+            <p>Pammenes 105.</p>
+            <p>Panathenaicus Isocratis 38.</p>
+            <p>Panegyricus Isocratis 37.</p>
+            <p>Paris 164.</p>
+            <p>Pericles 15, 29, 119.</p>
+            <p>Peripatetici 127.</p>
+            <p>Phaedrus Platonis 15, 39, 41.</p>
+            <p>Phidias 5, 8, 9, 234.</p>
+            <p>Philippicae <hi rend="italics">orationes </hi>111.</p>
+            <p>Philippus 176.</p>
+            <p>Phryges 60.</p>
+            <p>Phrygia 25, 27.</p>
+            <p>Phryx 27.</p>
+            <p>Pindarus 4.</p>
+            <p>Plato 5, 10, 12, 15, 17, 41 sq., 62, 67, 151.</p>
+            <p>Poeni 153.</p>
+            <p>Pomponius Atticus (T.) 120.</p>
+            <p>Porcius Cato Censor (M.) 35, 152.</p>
+            <p>Porcius Cato Vticensis (M.) 35, 41.</p>
+            <p>Protogenes 5.</p>
+            <p>Pyrrhus =Burrus 160.</p>
+            <p>Rhodii 25.</p>
+            <p>Rhodus 5.</p>
+            <p>Roscius Amerinus (Sex.) 101.</p>
+            <p>Scribonius Curio (C.) 129.</p>
+            <p>Sempronius Gracchus (C.) 233.</p>
+            <p>Sicilia 210.</p>
+            <p>Socrates 15, 39, 41 sq.</p>
+            <p>Sophocles 4.</p>
+            <p>Stilpo 157.</p>
+            <p>Sulpicius Rufus (P.) 106, 132.</p>
+            <p>Syracusae 210.</p>
+            <p>Syria 232.</p>
+            <p>Syrus 232, 233.</p>
             <pb n="p.2082"/>
-            <p >Taurici fines 163.</p>
-            <p >Terentius Afer (P.) 157.</p>
-            <p >Theodectes 172, 194, 218.</p>
-            <p >Theodorus 39, 40.</p>
-            <p >Theophrastus 39, 79, 172, 194, 218, 228.</p>
-            <p >Theopompeo more 207.</p>
-            <p >Theopompus 151.</p>
-            <p >Thessalia 176.</p>
-            <p >Thrasymachus 39, 40, 175.</p>
-            <p >Thucydidei 30.</p>
-            <p >Thucydides 30, 30, 32, 39, 40, 151.</p>
-            <p >Thyestes 184.</p>
-            <p >Timanthes 74.</p>
-            <p >Tmolus 163.</p>
-            <p >Trallianus 234.</p>
-            <p >Tullius Cicero (M.) 23, 35, 102, 103, 107, 108, 129, 131 152, 165, 167, 210, 223, 232.</p>
-            <p >Tusculanum 110.</p>
-            <p >Venus Coa 5.</p>
-            <p >Vlixes 74.</p>
-            <p >Xenophon 32, 62.</p>
-            <p >Zeno 113.</p>
+            <p>Taurici fines 163.</p>
+            <p>Terentius Afer (P.) 157.</p>
+            <p>Theodectes 172, 194, 218.</p>
+            <p>Theodorus 39, 40.</p>
+            <p>Theophrastus 39, 79, 172, 194, 218, 228.</p>
+            <p>Theopompeo more 207.</p>
+            <p>Theopompus 151.</p>
+            <p>Thessalia 176.</p>
+            <p>Thrasymachus 39, 40, 175.</p>
+            <p>Thucydidei 30.</p>
+            <p>Thucydides 30, 30, 32, 39, 40, 151.</p>
+            <p>Thyestes 184.</p>
+            <p>Timanthes 74.</p>
+            <p>Tmolus 163.</p>
+            <p>Trallianus 234.</p>
+            <p>Tullius Cicero (M.) 23, 35, 102, 103, 107, 108, 129, 131 152, 165, 167, 210, 223, 232.</p>
+            <p>Tusculanum 110.</p>
+            <p>Venus Coa 5.</p>
+            <p>Vlixes 74.</p>
+            <p>Xenophon 32, 62.</p>
+            <p>Zeno 113.</p>
          </div>
       </back>
    </text>

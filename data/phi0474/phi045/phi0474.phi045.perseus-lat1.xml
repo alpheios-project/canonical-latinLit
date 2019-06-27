@@ -1,9 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="eng">
-      <fileDesc >
+      <fileDesc>
          <titleStmt>
             <title>Academica</title>
             <author>M. Tullius Cicero</author>
@@ -26,8 +25,8 @@
             <authority>Perseus Project</authority>
             <date type="release">2009-10-07</date>
          </publicationStmt>
-         <sourceDesc xmlns="http://www.tei-c.org/ns/1.0">
-            <biblStruct >
+         <sourceDesc>
+            <biblStruct>
                <monogr>
                   <title>Academicorum reliquiae cum Lucullo</title>
                   <author>M. Tullius Cicero</author>
@@ -59,22 +58,22 @@
             <refState unit="section"/>
          </refsDecl>
       </encodingDesc>
-      <profileDesc >
+      <profileDesc>
          <langUsage>
             <language ident="lat">Latin</language>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
       </profileDesc>
       <revisionDesc>
-<change who="balmas01" when="2013-09-13">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
-<change who="gcrane" when="2013-06-08">TEI XML converted to facilitate CTS compatibility</change>
-<change who="gcrane" when="2011-01-15">base SDL file</change>
-<change who="rsingh04" when="2009-10-09">more reorganizing of texts module by collection</change>
-<change who="rsingh04" when="2009-09-14">added a bunch of cicero texts, removed old cicero files that aren't used</change>
-<change who="ajones06" when="2009-09-14">Fixed the metadata.</change>
-<change who="gcrane" when="2009-09-09">base files</change>
-<change who="gcrane" when="2006-05-05">added to repository</change>
-<change who="gcrane" when="2006-05-04">entered repository</change>
+         <change who="balmas01" when="2013-09-13">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
+         <change who="gcrane" when="2013-06-08">TEI XML converted to facilitate CTS compatibility</change>
+         <change who="gcrane" when="2011-01-15">base SDL file</change>
+         <change who="rsingh04" when="2009-10-09">more reorganizing of texts module by collection</change>
+         <change who="rsingh04" when="2009-09-14">added a bunch of cicero texts, removed old cicero files that aren't used</change>
+         <change who="ajones06" when="2009-09-14">Fixed the metadata.</change>
+         <change who="gcrane" when="2009-09-09">base files</change>
+         <change who="gcrane" when="2006-05-05">added to repository</change>
+         <change who="gcrane" when="2006-05-04">entered repository</change>
 
          <change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change>
       </revisionDesc>
@@ -1453,20 +1452,20 @@ scr. <hi rend="italics">A</hi>
               n="urn:cts:latinLit:phi0474.phi045.perseus-lat1">
             <pb n="p.1"/>
             <div type="textpart" n="1" subtype="book">
-               <head >LIBER PRIMUS</head>
-               <milestone  unit="chapter" n="1"/>
+               <head>LIBER PRIMUS</head>
+               <milestone unit="chapter" n="1"/>
                <div type="textpart" n="1" subtype="section">
-                  <p >
+                  <p>
 In Cumano nuper cum mecum Atticus noster esset,
 nuntiatum est nobis a M. Varrone venisse eum Roma
 pridie vesperi et, nisi de via fessus esset, continuo
 ad nos venturum fuisse. quod cum audissemus, nullam moram interponendam putavimus quin videremus hominem nobiscum et studiis eisdem et vetustate
 amicitiae coniunctum; itaque confestim ad eum ire
 perreximus. paulumque cum ab<note>ab <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*d</foreign>
+                        <foreign xml:lang="greek">Δ</foreign>
                      </note> eius villa abessemus,
-ipsum ad nos venientem vidimus; atque illum complexi, ut mos amicorum est (satis enim<note>satis enim <foreign xml:lang="greek">*g</foreign>
-                     </note> longo intervallo * * * ), ad suam<note>-eum <foreign xml:lang="greek">*d</foreign> se visentium <hi rend="italics">Dav.</hi>
+ipsum ad nos venientem vidimus; atque illum complexi, ut mos amicorum est (satis enim<note>satis enim <foreign xml:lang="greek">Γ</foreign>
+                     </note> longo intervallo * * * ), ad suam<note>-eum <foreign xml:lang="greek">Δ</foreign> se visentium <hi rend="italics">Dav.</hi>
                      </note> villam reduximus.<note>
                         <add>non videramus inter nos</add> 
                         <hi rend="italics">Reitz.</hi> 
@@ -1476,16 +1475,16 @@ ipsum ad nos venientem vidimus; atque illum complexi, ut mos amicorum est (satis
 	                 </p>
                </div>
                <div type="textpart" n="2" subtype="section">
-                  <p >
+                  <p>
 	hic pauca primo,
 
 atque ea<note>ea <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">x</foreign>
-                     </note> percunctantibus nobis ecquid<note>ecquid <hi rend="italics">Man.</hi> et sis quid <foreign xml:lang="greek">*g*d</foreign>
-                     </note> forte Roma<note>Romae <foreign xml:lang="greek">gx</foreign>
+                        <foreign xml:lang="greek">χ</foreign>
+                     </note> percunctantibus nobis ecquid<note>ecquid <hi rend="italics">Man.</hi> et sis quid <foreign xml:lang="greek">ΓΔ</foreign>
+                     </note> forte Roma<note>Romae <foreign xml:lang="greek">γχ</foreign>
                      </note>
 novi.</p>
-                  <p >
+                  <p>
                      <add>Tum</add>
                      <note>
                         <hi rend="italics">add. Reid</hi> 
@@ -1493,21 +1492,21 @@ novi.</p>
                         <hi rend="italics">St.</hi>
                      </note> Atticus <quote>Omitte ista quae nec percunctari
 nec audire sine molestia possumus quaeso</quote> inquit <quote>et
-quaere<note>quaere <foreign xml:lang="greek">mp</foreign>
-                           <hi rend="sup">m</hi> quare <foreign xml:lang="greek">*g*d</foreign>
-                        </note> potius ecquid<note>ecquid <hi rend="italics">Asc.</hi> et quid <foreign xml:lang="greek">*g*d</foreign>
+quaere<note>quaere <foreign xml:lang="greek">μπ</foreign>
+                           <hi rend="sup">m</hi> quare <foreign xml:lang="greek">ΓΔ</foreign>
+                        </note> potius ecquid<note>ecquid <hi rend="italics">Asc.</hi> et quid <foreign xml:lang="greek">ΓΔ</foreign>
                         </note> ipse novi. silent enim diutius
 Musae Varronis quam solebant, nec tamen istum
 cessare sed celare quae scribat existimo.</quote>
                   </p>
-                  <p >
+                  <p>
                      <quote>Minime vero</quote> inquit ille; <quote>intemperantis enim arbitror esse scribere quod occultari velit;<note>int. esse arb. scr. quidquam q. occ. velis <hi rend="italics">Hier. adv. Rufin. 1, 1</hi>
                         </note> sed habeo
-magnum opus<note>opus magunum <foreign xml:lang="greek">*d</foreign>
-                        </note> in manibus, quae<note>qui <foreign xml:lang="greek">g</foreign>
+magnum opus<note>opus magunum <foreign xml:lang="greek">Δ</foreign>
+                        </note> in manibus, quae<note>qui <foreign xml:lang="greek">γ</foreign>
                            <hi rend="sup">1</hi> quod <hi rend="italics">Asc.</hi> idque <hi rend="italics">Chr.</hi>
                         </note> iam pridem; ad hunc <pb n="p.2"/>
-enim<note>enim <foreign xml:lang="greek">*g</foreign> eum <foreign xml:lang="greek">*d</foreign> 
+enim<note>enim <foreign xml:lang="greek">Γ</foreign> eum <foreign xml:lang="greek">Δ</foreign> 
                            <hi rend="italics">om. Asc.</hi>
                         </note> ipsum</quote> (me autem dicebat) <quote>quaedam institui,
 quae et sunt magna sane et limantur a me politius.</quote>
@@ -1515,10 +1514,10 @@ quae et sunt magna sane et limantur a me politius.</quote>
                   </p>
                </div>
                <div type="textpart" n="3" subtype="section">
-                  <p >Et ego <quote>Ista quidem</quote> inquam <quote>Varro iam diu expectans non audeo tamen flagitare;
+                  <p>Et ego <quote>Ista quidem</quote> inquam <quote>Varro iam diu expectans non audeo tamen flagitare;
 
 audivi enim e Libone
-nostro, cuius nosti studium (nihil enim<note>enim <foreign xml:lang="greek">*d</foreign> ei, <foreign xml:lang="greek">*g</foreign>
+nostro, cuius nosti studium (nihil enim<note>enim <foreign xml:lang="greek">Δ</foreign> ei, <foreign xml:lang="greek">Γ</foreign>
                         </note> eius modi celare
 possumus), non te ea intermittere sed accuratius tractare nec de manibus umquam deponere. illud autem
 mihi ante hoc tempus numquam in mentem venit a
@@ -1527,17 +1526,17 @@ res eas quas tecum simul didici mandare monumentis philosophiamque veterem illam
 Latinis litteris illustrare, quaero quid sit cur cum<note>cum <add>tam</add> 
                            <hi rend="italics">Pl.</hi>
                         </note>
-multa scribas genus hoc<note>hoc genus <foreign xml:lang="greek">ngf</foreign>
+multa scribas genus hoc<note>hoc genus <foreign xml:lang="greek">νγφ</foreign>
                         </note> praetermittas, praesertim cum
 et ipse in eo excellas et id studium totaque ea res
 longe ceteris et studiis et artibus antecedat.</quote>
                   </p>
                </div>
                <div type="textpart" n="4" subtype="section">
-                  <p >
+                  <p>
                      <milestone unit="chapter" n="2"/>Tum ille:
 
-'Rem a me saepe deliberatam et multum agitatam requiris. itaque non haesitans respondebo, sed<note>sed] et <hi rend="italics">B<foreign xml:lang="greek">a.</foreign>
+'Rem a me saepe deliberatam et multum agitatam requiris. itaque non haesitans respondebo, sed<note>sed] et <hi rend="italics">B<foreign xml:lang="greek">α.</foreign>
                         </hi>
                      </note> ea dicam quae mihi sunt in promptu, quod
 ista ipsa de re multum ut dixi et diu cogitavi. nam
@@ -1545,62 +1544,62 @@ cum philosophiam viderem diligentissime Graecis
 litteris explicatam, existimavi si qui de nostris eius
 studio tenerentur, si essent Graecis doctrinis eruditi,
 Graeca potius quam nostra lecturos, sin a Graecorum
-artibus et disciplinis abhorrerent, ne haec<note>haec <foreign xml:lang="greek">*dn</foreign> hoc <foreign xml:lang="greek">*g</foreign>
+artibus et disciplinis abhorrerent, ne haec<note>haec <foreign xml:lang="greek">Δν</foreign> hoc <foreign xml:lang="greek">Γ</foreign>
                      </note> quidem
 curaturos, quae sine eruditione Graeca intellegi non
-possunt.<note>possent <foreign xml:lang="greek">p</foreign>
-                     </note> itaque ea nolui<note>nolui <foreign xml:lang="greek">*dg</foreign> uolui <foreign xml:lang="greek">*g</foreign>
+possunt.<note>possent <foreign xml:lang="greek">π</foreign>
+                     </note> itaque ea nolui<note>nolui <foreign xml:lang="greek">Δγ</foreign> uolui <foreign xml:lang="greek">Γ</foreign>
                      </note> scribere quae nec indocti
 intellegere possent nec docti legere curarent.
 
 </p>
                </div>
                <div type="textpart" n="5" subtype="section">
-                  <p >Vides
-autem eadem ipse; didicisti enim non posse nos Amafinii<note>Amafinii <foreign xml:lang="greek">x</foreign> -fanii <foreign xml:lang="greek">*g*d</foreign>
+                  <p>Vides
+autem eadem ipse; didicisti enim non posse nos Amafinii<note>Amafinii <foreign xml:lang="greek">χ</foreign> -fanii <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> aut Rabirii similes esse, qui nulla arte adhibita
 de rebus ante oculos positis vulgari sermone disputant,
 nihil definiunt nihil partiuntur nihil apta interrogatione
 concludunt, nullam denique artem esse nec dicendi nec <pb n="p.3"/>
 disserendi putant; nos autem praeceptis dialecticorum
-et oratorum etiam,<note>etiam <foreign xml:lang="greek">*gp</foreign> et <foreign xml:lang="greek">w</foreign>
+et oratorum etiam,<note>etiam <foreign xml:lang="greek">Γπ</foreign> et <foreign xml:lang="greek">ω</foreign>
                      </note> quoniam<note>
                         <hi rend="italics">cf. Quint. inst. 2, 20, 9</hi>
                      </note> utramque vim virtutem
 esse nostri putant, sic parentes ut legibus verbis
-quoque<note>quamquam <foreign xml:lang="greek">*d</foreign>
+quoque<note>quamquam <foreign xml:lang="greek">Δ</foreign>
                      </note> novis cogimur uti, quae docti ut dixi a
-Graecis petere malent,<note>malent <foreign xml:lang="greek">n</foreign> mallent <foreign xml:lang="greek">*g*d</foreign>
+Graecis petere malent,<note>malent <foreign xml:lang="greek">ν</foreign> mallent <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> indocti ne a nobis quidem 
 accipient,<note>accipient <hi rend="italics">Dav.</hi>
                      </note>
 
-ut<note>-unt <foreign xml:lang="greek">*g*d</foreign>
+ut<note>-unt <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> frustra omnis suscipiatur <add>labor</add>.<note>
                         <hi rend="italics">add.</hi> 
-                        <foreign xml:lang="greek">g</foreign>
+                        <foreign xml:lang="greek">γ</foreign>
                         <hi rend="sup">m</hi>
-                        <foreign xml:lang="greek">w</foreign>
+                        <foreign xml:lang="greek">ω</foreign>
                      </note> 
 	                 </p>
                </div>
                <div type="textpart" n="6" subtype="section">
-                  <p >Iam vero physica, si Epicurum id est si Democritum probarem, possem<note>possum <foreign xml:lang="greek">x</foreign>
-                     </note> scribere ita plane ut Amafinius.<note>Amafinius <foreign xml:lang="greek">s</foreign> -fanius <foreign xml:lang="greek">*g*d</foreign>
+                  <p>Iam vero physica, si Epicurum id est si Democritum probarem, possem<note>possum <foreign xml:lang="greek">χ</foreign>
+                     </note> scribere ita plane ut Amafinius.<note>Amafinius <foreign xml:lang="greek">ς</foreign> -fanius <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> quid
 est enim magnum, cum causas rerum efficientium
 sustuleris, de corpusculorum (ita enim appellat atomos)
-concursione fortuita loqui? nostra tu physica<note>physicam <foreign xml:lang="greek">*d</foreign>
+concursione fortuita loqui? nostra tu physica<note>physicam <foreign xml:lang="greek">Δ</foreign>
                      </note> nosti;
 quae cum<note>cum <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">w</foreign>
+                        <foreign xml:lang="greek">ω</foreign>
                      </note> contineantur ex effectione et ex materia ea
-quam fingit et format effectio, adhibenda etiam<note>etaim <foreign xml:lang="greek">*g</foreign> enim <foreign xml:lang="greek">*d</foreign>
-                     </note> geometria est; quam<note>quam <foreign xml:lang="greek">*g</foreign> quoniam <foreign xml:lang="greek">*d</foreign>
+quam fingit et format effectio, adhibenda etiam<note>etaim <foreign xml:lang="greek">Γ</foreign> enim <foreign xml:lang="greek">Δ</foreign>
+                     </note> geometria est; quam<note>quam <foreign xml:lang="greek">Γ</foreign> quoniam <foreign xml:lang="greek">Δ</foreign>
                      </note> quibusnam quisquam enuntiare verbis
 aut quem ad intellegendum poterit adducere? Haec
 ipsa de vita et moribus et de expetendis fugiendisque
-rebus illi simpliciter, pecudis enim et<note>illi enim simpl. pec. et <foreign xml:lang="greek">*d</foreign>
+rebus illi simpliciter, pecudis enim et<note>illi enim simpl. pec. et <foreign xml:lang="greek">Δ</foreign>
                      </note> hominis idem
 bonum esse censent; apud nostros autem<note>autem <hi rend="italics">Lb.</hi>
                      </note> non ignoras
@@ -1609,30 +1608,30 @@ quae sit et quanta subtilitas.
 </p>
                </div>
                <div type="textpart" n="7" subtype="section">
-                  <p >sive enim<note>enim <foreign xml:lang="greek">*g*d</foreign>
+                  <p>sive enim<note>enim <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> Zenonem sequare, magnum est efficere ut quis intellegat quid
 sit illud verum et simplex bonum quod non possit
 ab honestate seiungi (quod bonum quale sit negat
 omnino Epicurus <add>se</add>
                      <note>
                         <hi rend="italics">add. Lb.</hi>
-                     </note> sine voluptatibus sensum moventibus ne<note>ne <hi rend="italics">Dur.</hi> nec <foreign xml:lang="greek">*g*d</foreign>
+                     </note> sine voluptatibus sensum moventibus ne<note>ne <hi rend="italics">Dur.</hi> nec <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> suspicari <add>quidem</add>
                      <note>
                         <hi rend="italics">add. Dur.</hi>
                      </note>); si vero Academiam
-veterem persequemur,<note>persequamur <foreign xml:lang="greek">p</foreign>
+veterem persequemur,<note>persequamur <foreign xml:lang="greek">π</foreign>
                         <hi rend="sub">1</hi>
-                        <foreign xml:lang="greek">w</foreign> -quimur <foreign xml:lang="greek">m</foreign> suspicamur <foreign xml:lang="greek">n</foreign>
-                     </note> quam nos<note>nos <foreign xml:lang="greek">g</foreign>
+                        <foreign xml:lang="greek">ω</foreign> -quimur <foreign xml:lang="greek">μ</foreign> suspicamur <foreign xml:lang="greek">ν</foreign>
+                     </note> quam nos<note>nos <foreign xml:lang="greek">γ</foreign>
                         <hi rend="sup">m</hi>
-                        <foreign xml:lang="greek">s</foreign> non <foreign xml:lang="greek">*g*d</foreign>
+                        <foreign xml:lang="greek">ς</foreign> non <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> ut scis probamus,
 quam erit<note>erunt <hi rend="italics">Ern.</hi>
                      </note> illa acute explicanda nobis, quam argute
-quam obscure etiam contra Stoicos disserendum. Totum igitur illud<note>igitur illud <foreign xml:lang="greek">*dn</foreign> illud igitur <foreign xml:lang="greek">*g</foreign>
+quam obscure etiam contra Stoicos disserendum. Totum igitur illud<note>igitur illud <foreign xml:lang="greek">Δν</foreign> illud igitur <foreign xml:lang="greek">Γ</foreign>
                      </note> philosophiae studium mihi quidem
-ipse sumo et ad vitae constantiam quantum<note>quantam <foreign xml:lang="greek">*d</foreign>
+ipse sumo et ad vitae constantiam quantum<note>quantam <foreign xml:lang="greek">Δ</foreign>
                      </note> possum <pb n="p.4"/>
 et ad delectationem animi, nec ullum arbitror, ut apud
 Platonem<note>
@@ -1643,54 +1642,54 @@ homini;
 </p>
                </div>
                <div type="textpart" n="8" subtype="section">
-                  <p >sed meos amicos in quibus est studium in
+                  <p>sed meos amicos in quibus est studium in
 Graeciam mitto id est<note>id est <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">g</foreign>
+                        <foreign xml:lang="greek">γ</foreign>
                      </note> ad Graecos ire iubeo,<note>id ... iubeo <hi rend="italics">del. Lb.</hi>
-                     </note> ut ex [a]<note>ex [a] <hi rend="italics">Ha.</hi> ca a <foreign xml:lang="greek">*g*d</foreign>
+                     </note> ut ex [a]<note>ex [a] <hi rend="italics">Ha.</hi> ca a <foreign xml:lang="greek">ΓΔ</foreign>
                      </note>
-fontibus potius hauriant quam<note>haur. riu. quam (<hi rend="italics">hoc in ras.</hi>) sectentur <foreign xml:lang="greek">p</foreign>
+fontibus potius hauriant quam<note>haur. riu. quam (<hi rend="italics">hoc in ras.</hi>) sectentur <foreign xml:lang="greek">π</foreign>
                      </note> rivulos consectentur.
 quae autem nemo adhuc docuerat nec erat unde studiosi scire possent, ea quantum potui (nihil enim
 magnopere meorum miror) feci ut essent nota nostris;
-a Graecis enim peti non poterant ac post L. Aelii<note>L. Aelii <hi rend="italics">Camer.</hi> Laelii <foreign xml:lang="greek">*g*d</foreign>
+a Graecis enim peti non poterant ac post L. Aelii<note>L. Aelii <hi rend="italics">Camer.</hi> Laelii <foreign xml:lang="greek">ΓΔ</foreign>
                      </note>
 nostri occasum ne a Latinis quidem. et tamen in illis
 veteribus nostris, quae Menippum imitati non interpretati quadam hilaritate conspersimus, multa admixta ex intima philosophia, multa dicta dialectice,
 quae quo facilius minus docti intellegerent, iucunditate quadam ad legendum invitati; in laudationibus,
-in his ipsis antiquitatum prooemiis<note>prohemiss <foreign xml:lang="greek">*d</foreign> praemiis <foreign xml:lang="greek">*g</foreign>
+in his ipsis antiquitatum prooemiis<note>prohemiss <foreign xml:lang="greek">Δ</foreign> praemiis <foreign xml:lang="greek">Γ</foreign>
                      </note> philosophiae
 <add>more</add>
                      <note>
                         <hi rend="italics">add. Pl.</hi>
-                     </note> scribere voluimus,<note>uolumus <foreign xml:lang="greek">p</foreign>
+                     </note> scribere voluimus,<note>uolumus <foreign xml:lang="greek">π</foreign>
                      </note> si modo consecuti sumus.'</p>
                </div>
                <div type="textpart" n="9" subtype="section">
-                  <p >
+                  <p>
                      <milestone unit="chapter" n="3"/>
 Tum ego <quote>Sunt</quote>
                      <note>sunt <add>uera</add> 
-                        <foreign xml:lang="greek">*g</foreign>. <hi rend="italics">an</hi> s. vero?</note> inquam “ista Varro.
+                        <foreign xml:lang="greek">Γ</foreign>. <hi rend="italics">an</hi> s. vero?</note> inquam “ista Varro.
 
 nam nos in
-nostra urbe peregrinantis errantisque tamquam hospites tui libri quasi domum deduxerunt,<note>reduxerunt <foreign xml:lang="greek">s</foreign> 
+nostra urbe peregrinantis errantisque tamquam hospites tui libri quasi domum deduxerunt,<note>reduxerunt <foreign xml:lang="greek">ς</foreign> 
                         <hi rend="italics">Aug.</hi>
                      </note> ut possemus
 aliquando qui et ubi essemus agnoscere. tu aetatem
 patriae tu descriptiones<note>discr. <hi rend="italics">cod. Aug. l Mue.</hi>
                      </note> temporum, tu sacrorum iura
-tu sacerdotum,<note>sacerdotem <foreign xml:lang="greek">pm</foreign>
+tu sacerdotum,<note>sacerdotem <foreign xml:lang="greek">πμ</foreign>
                         <hi rend="sup">1</hi>
-                        <foreign xml:lang="greek">nr</foreign>
+                        <foreign xml:lang="greek">νρ</foreign>
                      </note> tu domesticam tu bellicam<note>bellicam] publicam <hi rend="italics">Aug.</hi>
-                     </note> disciplinam, tu sedum<note>sedum <hi rend="italics">vel</hi> -ium <hi rend="italics">codd. Aug. plerique</hi> sedem <foreign xml:lang="greek">*g*d</foreign>
+                     </note> disciplinam, tu sedum<note>sedum <hi rend="italics">vel</hi> -ium <hi rend="italics">codd. Aug. plerique</hi> sedem <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> regionum locorum tu omnium divinarum humanarumque rerum nomina genera officia
 causas aperuisti;<note>nos ... aperuisti <hi rend="italics">Aug. civ. 6, 2</hi>
-                     </note> plurimum<note>plurimumque <foreign xml:lang="greek">s</foreign> 
+                     </note> plurimum<note>plurimumque <foreign xml:lang="greek">ς</foreign> 
                         <hi rend="italics">Ald.</hi> -que idem p. <hi rend="italics">Gr.</hi>
                      </note> quidem poetis<note>
-                        <add>a</add> petis <foreign xml:lang="greek">*d</foreign>
+                        <add>a</add> petis <foreign xml:lang="greek">Δ</foreign>
                      </note> nostris
 omninoque Latinis et litteris luminis et verbis attulisti
 atque ipse varium et elegans omni fere numero poema
@@ -1701,30 +1700,30 @@ fecisti, philosophiamque multis locis inchoasti, ad impellendum
 </p>
                </div>
                <div type="textpart" n="10" subtype="section">
-                  <p >Causam autem
+                  <p>Causam autem
 probabilem tu quidem affers: aut enim Graeca legere
-malent<note>malent <foreign xml:lang="greek">n</foreign> mallent <foreign xml:lang="greek">*g*d</foreign>
-                     </note> qui erunt eruditi, aut ne haec<note>haec <foreign xml:lang="greek">px</foreign> hoc <foreign xml:lang="greek">wgf</foreign> 
+malent<note>malent <foreign xml:lang="greek">ν</foreign> mallent <foreign xml:lang="greek">ΓΔ</foreign>
+                     </note> qui erunt eruditi, aut ne haec<note>haec <foreign xml:lang="greek">πχ</foreign> hoc <foreign xml:lang="greek">ωγφ</foreign> 
                         <hi rend="italics">ambigue</hi> 
-                        <foreign xml:lang="greek">mn</foreign>
+                        <foreign xml:lang="greek">μν</foreign>
                      </note> quidem qui
-illa nescient.<note>nesciunt <foreign xml:lang="greek">*d</foreign>
+illa nescient.<note>nesciunt <foreign xml:lang="greek">Δ</foreign>
                      </note>
-                     <note>satisne <foreign xml:lang="greek">*d</foreign>
+                     <note>satisne <foreign xml:lang="greek">Δ</foreign>
                      </note> sed eam<note>eam <hi rend="italics">Turn.</hi>
-                     </note> mihi non<note>da mihi nunc (non <foreign xml:lang="greek">p</foreign>
-                        <hi rend="sup">1</hi>?)</note> sane<note>ea m. n. sane <foreign xml:lang="greek">*g</foreign>
+                     </note> mihi non<note>da mihi nunc (non <foreign xml:lang="greek">π</foreign>
+                        <hi rend="sup">1</hi>?)</note> sane<note>ea m. n. sane <foreign xml:lang="greek">Γ</foreign>
                      </note> probas; immo
-vero et haec qui illa non poterunt,<note>poterunt <foreign xml:lang="greek">s</foreign> potuerunt <foreign xml:lang="greek">*g*d</foreign>
+vero et haec qui illa non poterunt,<note>poterunt <foreign xml:lang="greek">ς</foreign> potuerunt <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> et qui Graeca
-poterunt<note>potuerunt <foreign xml:lang="greek">*gx</foreign>
-                     </note> non contemnent<note>contempnent <foreign xml:lang="greek">f</foreign> -nant <foreign xml:lang="greek">*g*d</foreign>
+poterunt<note>potuerunt <foreign xml:lang="greek">Γχ</foreign>
+                     </note> non contemnent<note>contempnent <foreign xml:lang="greek">φ</foreign> -nant <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> sua. quid enim causae est
-cur poetas Latinos Graecis litteris eruditi legant, philosophos non legant? an quia delectat Ennius Pacuvius Accius<note>Actius <foreign xml:lang="greek">*gr</foreign>
-                     </note> multi alii, qui non verba sed vim Graecorum expresserunt poetarum—quanto magis philosophi delectabunt, si ut illi<note>ut illi <foreign xml:lang="greek">*d</foreign> (si ut ... euripidem <hi rend="italics">in ras.</hi> 
-                        <foreign xml:lang="greek">p</foreign>) fuerint <foreign xml:lang="greek">*g</foreign> (-runt <foreign xml:lang="greek">m</foreign>)</note> Aeschylum<note>Aeschinem <foreign xml:lang="greek">*d</foreign>
+cur poetas Latinos Graecis litteris eruditi legant, philosophos non legant? an quia delectat Ennius Pacuvius Accius<note>Actius <foreign xml:lang="greek">Γρ</foreign>
+                     </note> multi alii, qui non verba sed vim Graecorum expresserunt poetarum—quanto magis philosophi delectabunt, si ut illi<note>ut illi <foreign xml:lang="greek">Δ</foreign> (si ut ... euripidem <hi rend="italics">in ras.</hi> 
+                        <foreign xml:lang="greek">π</foreign>) fuerint <foreign xml:lang="greek">Γ</foreign> (-runt <foreign xml:lang="greek">μ</foreign>)</note> Aeschylum<note>Aeschinem <foreign xml:lang="greek">Δ</foreign>
                      </note> Sophoclem
-Euripidem sic hi Platonem imitentur<note>mirentur <foreign xml:lang="greek">*g</foreign>
+Euripidem sic hi Platonem imitentur<note>mirentur <foreign xml:lang="greek">Γ</foreign>
                      </note> Aristotelem Theophrastum. oratores quidem laudari video si qui e
 nostris Hyperidem sint<note>sunt <hi rend="italics">Ha.</hi>
                      </note> aut Demosthenem imitati.
@@ -1732,17 +1731,17 @@ nostris Hyperidem sint<note>sunt <hi rend="italics">Ha.</hi>
 </p>
                </div>
                <div type="textpart" n="11" subtype="section">
-                  <p >Ego
-autem Varro<note>a. V. <hi rend="italics">Pl.</hi> autem <foreign xml:lang="greek">*d</foreign> uarro <foreign xml:lang="greek">*g</foreign>
+                  <p>Ego
+autem Varro<note>a. V. <hi rend="italics">Pl.</hi> autem <foreign xml:lang="greek">Δ</foreign> uarro <foreign xml:lang="greek">Γ</foreign>
                      </note> (dicam enim ut res est), dum me ambitio dum honores dum causae, dum rei publicae non
 solum cura sed quaedam etiam procuratio multis officiis implicatum et constrictum tenebat, animo<note>animo <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*d</foreign>
+                        <foreign xml:lang="greek">Δ</foreign>
                      </note> haec
 inclusa habebam et ne obsolescerent renovabam cum
-licebat legendo; nunc vero et fortunae gravissimo percussus<note>perculsus <foreign xml:lang="greek">x</foreign> 
+licebat legendo; nunc vero et fortunae gravissimo percussus<note>perculsus <foreign xml:lang="greek">χ</foreign> 
                         <hi rend="italics">Lb.</hi>
                      </note> vulnere et<note>et <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*g</foreign>
+                        <foreign xml:lang="greek">Γ</foreign>
                      </note> administratione rei publicae liberatus doloris medicinam a philosophia peto et otii oblectationem hanc honestissimam iudico. aut enim huic
 aetati hoc maxime aptum est, aut his rebus si quas
 dignas laude gessimus hoc in primis consentaneum,
@@ -1753,103 +1752,103 @@ possimus.
 </p>
                </div>
                <div type="textpart" n="12" subtype="section">
-                  <p >Brutus quidem noster excellens omni genere
+                  <p>Brutus quidem noster excellens omni genere
 laudis sic philosophiam Latinis litteris persequitur nihil
 <pb n="p.6"/>
  ut<note>
-                        <w>ut</w> in <foreign xml:lang="greek">*g</foreign> (ut nihil in <foreign xml:lang="greek">g</foreign>)</note> isdem de rebus Graeca<note>Graecia <foreign xml:lang="greek">*d</foreign>
-                     </note> desideres;<note>desideres <hi rend="italics">Ald. nep.</hi> -et <foreign xml:lang="greek">*g*d</foreign>
+                        <w>ut</w> in <foreign xml:lang="greek">Γ</foreign> (ut nihil in <foreign xml:lang="greek">γ</foreign>)</note> isdem de rebus Graeca<note>Graecia <foreign xml:lang="greek">Δ</foreign>
+                     </note> desideres;<note>desideres <hi rend="italics">Ald. nep.</hi> -et <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> et eandem
 quidem sententiam sequitur quam tu, nam Aristum
-Athenis<note>athetus <foreign xml:lang="greek">p</foreign>
-                     </note> audivit aliquamdiu, cuius tu fratrem<note>fratrem tu <foreign xml:lang="greek">*g</foreign>
+Athenis<note>athetus <foreign xml:lang="greek">π</foreign>
+                     </note> audivit aliquamdiu, cuius tu fratrem<note>fratrem tu <foreign xml:lang="greek">Γ</foreign>
                      </note> Antiochum. quam ob rem da quaeso te huic etiam generi
 litterarum.”</p>
                </div>
                <div type="textpart" n="13" subtype="section">
-                  <p >
+                  <p>
                      <milestone unit="chapter" n="4"/>Tum ille:
 
 'Istuc quidem considerabo, nec vero sine
 te. sed de te ipso quid est' inquit <quote>quod audio?</quote>
                   </p>
-                  <p >
+                  <p>
                      <quote>Quanam</quote> inquam <quote>de re?</quote>
                   </p>
-                  <p >
+                  <p>
                      <note type="sp" place="inline">VA.</note> 
                      <quote>Relictam a te veterem Academiam</quote>
-                     <note>Academiam <hi rend="italics">Bentl.</hi> iam <foreign xml:lang="greek">*g*d</foreign>
+                     <note>Academiam <hi rend="italics">Bentl.</hi> iam <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> inquit, <quote>tractari autem novam.</quote>
                   </p>
-                  <p >
+                  <p>
                      <quote>Quid ergo</quote> inquam <quote>Antiocho id magis licuerit
 nostro familiari, remigrare in domum veterem e nova,
 quam nobis in novam e vetere? certe enim recentissima
-quaeque sunt correcta et emendata maxime. quamquam Antiochi magister Philo,<note>pholo <foreign xml:lang="greek">*g</foreign>
-                        </note> magnus vir ut tu existimas<note>estimas <hi rend="italics">vel</hi> ex(s)t- <foreign xml:lang="greek">*g</foreign>
+quaeque sunt correcta et emendata maxime. quamquam Antiochi magister Philo,<note>pholo <foreign xml:lang="greek">Γ</foreign>
+                        </note> magnus vir ut tu existimas<note>estimas <hi rend="italics">vel</hi> ex(s)t- <foreign xml:lang="greek">Γ</foreign>
                         </note> ipse, †negaret<note>negat <hi rend="italics">Dav.</hi> negare solet <hi rend="italics">Pl.</hi>
                         </note> in libris, quod coram etiam ex
 ipso audiebamus, duas Academias esse, erroremque
 eorum qui ita putarent coarguit.</quote>
                   </p>
-                  <p >
+                  <p>
                      <note type="sp" place="inline">VA.</note> 
                      <quote>Est</quote> inquit <quote>ut dicis; sed ignorare te non arbitror quae contra Philonis Antiochus scripserit.</quote>
-                     <note>scripsit <foreign xml:lang="greek">gf</foreign>
+                     <note>scripsit <foreign xml:lang="greek">γφ</foreign>
                      </note>
                   </p>
                </div>
                <div type="textpart" n="14" subtype="section">
-                  <p >
+                  <p>
                      <note type="sp" place="inline">CIC.</note> 
-                     <quote>Immo vero et ista<note>ista <foreign xml:lang="greek">s</foreign> -am <foreign xml:lang="greek">*g*d</foreign>
+                     <quote>Immo vero et ista<note>ista <foreign xml:lang="greek">ς</foreign> -am <foreign xml:lang="greek">ΓΔ</foreign>
                         </note> et totam veterem Academiam,
-a qua absum tam<note>absum tam <foreign xml:lang="greek">x</foreign> -iam <foreign xml:lang="greek">g</foreign>
+a qua absum tam<note>absum tam <foreign xml:lang="greek">χ</foreign> -iam <foreign xml:lang="greek">γ</foreign>
                            <hi rend="sup">2</hi>
                         </note>
-                        <note>absuntam <foreign xml:lang="greek">n</foreign> absumptam <foreign xml:lang="greek">pmn</foreign>
+                        <note>absuntam <foreign xml:lang="greek">ν</foreign> absumptam <foreign xml:lang="greek">πμν</foreign>
                            <hi rend="sup">1</hi>
                         </note>
-                        <note>ass- <foreign xml:lang="greek">wg</foreign>
+                        <note>ass- <foreign xml:lang="greek">ωγ</foreign>
                            <hi rend="sup">1</hi>
-                           <foreign xml:lang="greek">f</foreign>
+                           <foreign xml:lang="greek">φ</foreign>
                         </note> diu, renovari a te nisi molestum
 est velim</quote>, et simul <quote>adsidamus</quote> inquam <quote>si videtur.</quote>
                   </p>
-                  <p >
+                  <p>
                      <note type="sp" place="inline">VA.</note> 
-                     <quote>Sane istuc<note>istud <foreign xml:lang="greek">*dn</foreign>
+                     <quote>Sane istuc<note>istud <foreign xml:lang="greek">Δν</foreign>
                         </note> quidem</quote>
-                     <note>quid est <foreign xml:lang="greek">px</foreign>
+                     <note>quid est <foreign xml:lang="greek">πχ</foreign>
                      </note> inquit, <quote>sum enim admodum
 infirmus. sed videamus idemne Attico placeat fieri
 a me quod te velle video.</quote>
                   </p>
-                  <p >
+                  <p>
                      <quote>Mihi vero</quote> ille; <quote>quid est enim quod malim quam
 ex Antiocho iam pridem audita recordari et simul
 videre satisne ea commode dici possint Latine?</quote>
                   </p>
-                  <p >Quae cum essent<note>essent <foreign xml:lang="greek">gs</foreign>
+                  <p>Quae cum essent<note>essent <foreign xml:lang="greek">γς</foreign>
                      </note>
-                     <note>sint <foreign xml:lang="greek">*g*d</foreign> sunt <foreign xml:lang="greek">s</foreign> 
+                     <note>sint <foreign xml:lang="greek">ΓΔ</foreign> sunt <foreign xml:lang="greek">ς</foreign> 
                         <hi rend="italics">del. Gul.</hi>
                      </note> dicta, in conspectu consedimus
 omnes. <pb n="p.7"/>
                   </p>
                </div>
                <div type="textpart" n="15" subtype="section">
-                  <p >
+                  <p>
 Tum Varro ita exorsus est:
 
 'Socrates mihi videtur, id quod constat inter omnes, primus a rebus
-occultis et ab ipsa natura involutis, in quibus<note>omnibus <foreign xml:lang="greek">*d</foreign>
+occultis et ab ipsa natura involutis, in quibus<note>omnibus <foreign xml:lang="greek">Δ</foreign>
                      </note> omnes
 ante eum philosophi occupati fuerunt, avocavisse philosophiam et ad vitam communem adduxisse, ut de
 virtutibus et de vitiis omninoque de<note>de<hi rend="sup">1</hi> 
                         <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*d</foreign>
+                        <foreign xml:lang="greek">Δ</foreign>
                      </note> bonis rebus et
 malis quaereret, caelestia autem vel procul esse a
 nostra cognitione censeret vel, si maxime cognita
@@ -1858,52 +1857,52 @@ essent, nihil tamen ad bene vivendum.
 </p>
                </div>
                <div type="textpart" n="16" subtype="section">
-                  <p >hic in omnibus
+                  <p>hic in omnibus
 fere sermonibus, qui ab is qui illum audierunt perscripti varie copioseque<note>que <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">px</foreign>
+                        <foreign xml:lang="greek">πχ</foreign>
                      </note> sunt, ita disputat ut nihil
 affirmet ipse refellat alios, nihil se scire dicat nisi
 id ipsum, eoque praestare ceteris,<note>pr. <add>se</add> 
-                        <foreign xml:lang="greek">m</foreign>; praestarem <foreign xml:lang="greek">p</foreign>
+                        <foreign xml:lang="greek">μ</foreign>; praestarem <foreign xml:lang="greek">π</foreign>
                         <hi rend="sup">1</hi> (ceteris <hi rend="italics">in ras.</hi>)</note> quod illi quae
-nesciant scire se putent,<note>putent <foreign xml:lang="greek">*dn</foreign> -ant <foreign xml:lang="greek">*g</foreign>
+nesciant scire se putent,<note>putent <foreign xml:lang="greek">Δν</foreign> -ant <foreign xml:lang="greek">Γ</foreign>
                      </note> ipse se nihil scire id unum
-sciat, ob eamque rem se<note>se rem <foreign xml:lang="greek">*g</foreign>
+sciat, ob eamque rem se<note>se rem <foreign xml:lang="greek">Γ</foreign>
                      </note> arbitrari ab Apolline omnium
 sapientissimum esse dictum, quod haec esset una
-hominis<note>omnis <foreign xml:lang="greek">*d</foreign>. <hi rend="italics">cf. Plato apol. 23</hi> A <hi rend="italics">Lact. ira 1, 6 s. epit. 35, 5</hi>
-                     </note> sapientia, non arbitrari sese<note>se <foreign xml:lang="greek">gf</foreign>
+hominis<note>omnis <foreign xml:lang="greek">Δ</foreign>. <hi rend="italics">cf. Plato apol. 23</hi> A <hi rend="italics">Lact. ira 1, 6 s. epit. 35, 5</hi>
+                     </note> sapientia, non arbitrari sese<note>se <foreign xml:lang="greek">γφ</foreign>
                      </note> scire quod nesciat.
-quae cum diceret constanter et in ea sententia permaneret, omnis eius oratio tantum<note>tantum <hi rend="italics">Dav. ad Lact. epit. 37</hi> tam <foreign xml:lang="greek">*g*d</foreign> tamen <hi rend="italics">vel</hi> tum <foreign xml:lang="greek">s</foreign>
+quae cum diceret constanter et in ea sententia permaneret, omnis eius oratio tantum<note>tantum <hi rend="italics">Dav. ad Lact. epit. 37</hi> tam <foreign xml:lang="greek">ΓΔ</foreign> tamen <hi rend="italics">vel</hi> tum <foreign xml:lang="greek">ς</foreign>
                      </note> in virtute laudanda
 et in hominibus<note>hom. <add>omnibus</add> 
-                        <foreign xml:lang="greek">*d</foreign> 
-                        <add>o.</add> h. <foreign xml:lang="greek">s</foreign>
+                        <foreign xml:lang="greek">Δ</foreign> 
+                        <add>o.</add> h. <foreign xml:lang="greek">ς</foreign>
                      </note> ad virtutis studium cohortandis consumebatur, ut e Socraticorum libris maximeque Platonis intellegi potest.
 
 </p>
                </div>
                <div type="textpart" n="17" subtype="section">
-                  <p >Platonis autem auctoritate,
-qui varius et multiplex et copiosus fuit, una et consentiens duobus vocabulis philosophiae forma instituta<note>constituta <foreign xml:lang="greek">*g</foreign>
+                  <p>Platonis autem auctoritate,
+qui varius et multiplex et copiosus fuit, una et consentiens duobus vocabulis philosophiae forma instituta<note>constituta <foreign xml:lang="greek">Γ</foreign>
                      </note>
 est Academicorum et Peripateticorum, qui rebus congruentes nominibus differebant. nam cum Speusippum sororis filium Plato philosophiae quasi heredem
-reliquisset, duo<note>duos <foreign xml:lang="greek">p</foreign>
+reliquisset, duo<note>duos <foreign xml:lang="greek">π</foreign>
                         <hi rend="sup">2</hi>
-                        <foreign xml:lang="greek">p</foreign>
+                        <foreign xml:lang="greek">π</foreign>
                         <hi rend="sub">1</hi>
-                        <foreign xml:lang="greek">p</foreign>
+                        <foreign xml:lang="greek">π</foreign>
                         <hi rend="sub">2</hi>
-                        <foreign xml:lang="greek">rg</foreign>
+                        <foreign xml:lang="greek">ργ</foreign>
                         <hi rend="sup">2</hi>
-                        <foreign xml:lang="greek">f</foreign>
+                        <foreign xml:lang="greek">φ</foreign>
                         <hi rend="sup">c</hi>
-                     </note> autem praestantissimo<note>praestatnissimos <foreign xml:lang="greek">mn</foreign>
+                     </note> autem praestantissimo<note>praestatnissimos <foreign xml:lang="greek">μν</foreign>
                      </note> studio atque
 doctrina, Xenocratem Calchedonium et Aristotelem
 Stagiritem, qui erant cum Aristotele Peripatetici dicti
 sunt, quia disputabant inambulantes in Lycio, illi <pb n="p.8"/>
-autem, quia<note>quia <foreign xml:lang="greek">*g*p</foreign> qui <foreign xml:lang="greek">wn</foreign>
+autem, quia<note>quia <foreign xml:lang="greek">ΓΠ</foreign> qui <foreign xml:lang="greek">ων</foreign>
                      </note> Platonis instituto in Academia, quod est
 alterum gymnasium, coetus erant et sermones habere
 soliti, e loci vocabulo nomen habuerunt. sed utrique
@@ -1911,88 +1910,88 @@ Platonis ubertate completi certam quandam disciplinae
 formulam composuerunt et eam quidem plenam ac
 refertam, illam autem Socraticam dubitanter<note>dubitanter <hi rend="italics">Bai.</hi>
                      </note>
-                     <note>-tantem <foreign xml:lang="greek">*g</foreign>
+                     <note>-tantem <foreign xml:lang="greek">Γ</foreign>
                      </note>
-                     <note>-tationem <foreign xml:lang="greek">*d</foreign> (tionem <hi rend="italics">in ras.</hi> 
-                        <foreign xml:lang="greek">p</foreign>)</note> de omnibus rebus et nulla affirmatione adhibita consuetudinem<note>consuetudine <foreign xml:lang="greek">mn</foreign>; adh. cons. <hi rend="italics">in. ras.</hi> 
-                        <foreign xml:lang="greek">p</foreign>
+                     <note>-tationem <foreign xml:lang="greek">Δ</foreign> (tionem <hi rend="italics">in ras.</hi> 
+                        <foreign xml:lang="greek">π</foreign>)</note> de omnibus rebus et nulla affirmatione adhibita consuetudinem<note>consuetudine <foreign xml:lang="greek">μν</foreign>; adh. cons. <hi rend="italics">in. ras.</hi> 
+                        <foreign xml:lang="greek">π</foreign>
                      </note>
 disserendi reliquerunt. ita facta est,<note>est <add>disserendi</add> 
-                        <foreign xml:lang="greek">*d</foreign> (diss. <hi rend="italics">in ras.</hi> 
-                        <foreign xml:lang="greek">p</foreign>)</note> quod minime
+                        <foreign xml:lang="greek">Δ</foreign> (diss. <hi rend="italics">in ras.</hi> 
+                        <foreign xml:lang="greek">π</foreign>)</note> quod minime
 Socrates probabat, ars quaedam philosophiae et rerum
 ordo et descriptio disciplinae.
 
 </p>
                </div>
                <div type="textpart" n="18" subtype="section">
-                  <p >Quae quidem erat primo
-duobus ut dixi nominibus una; nihil enim inter Peripateticos et illam veterem Academiam differebat. abundantia quadam ingenii praestabat, ut mihi quidem<note>mihi uid. quidem <foreign xml:lang="greek">*t*d</foreign> 
+                  <p>Quae quidem erat primo
+duobus ut dixi nominibus una; nihil enim inter Peripateticos et illam veterem Academiam differebat. abundantia quadam ingenii praestabat, ut mihi quidem<note>mihi uid. quidem <foreign xml:lang="greek">ΤΔ</foreign> 
                         <hi rend="italics">transposuit</hi> 
-                        <foreign xml:lang="greek">m</foreign>
+                        <foreign xml:lang="greek">μ</foreign>
                         <hi rend="sup">c</hi> (q. <hi rend="italics">in ras.</hi> 
-                        <foreign xml:lang="greek">p</foreign>)</note>
+                        <foreign xml:lang="greek">π</foreign>)</note>
 videtur, Aristoteles, sed idem fons erat utrisque et
 eadem rerum expetendarum fugiendarumque<note>fugiendarumque <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">p</foreign>
+                        <foreign xml:lang="greek">π</foreign>
                      </note> partitio.</p>
-                  <milestone  unit="chapter" n="5"/>
-                  <p >Sed quid ago' inquit <quote>aut sumne sanus qui haec
+                  <milestone unit="chapter" n="5"/>
+                  <p>Sed quid ago' inquit <quote>aut sumne sanus qui haec
 vos doceo? nam etsi non sus Minervam<note>
-                           <w>sus</w> sum <foreign xml:lang="greek">n</foreign>
+                           <w>sus</w> sum <foreign xml:lang="greek">ν</foreign>
                            <hi rend="sub">1</hi>
-                           <foreign xml:lang="greek">g</foreign>
+                           <foreign xml:lang="greek">γ</foreign>
                            <hi rend="sup">1</hi>
-                           <foreign xml:lang="greek">f</foreign> (Minerua <foreign xml:lang="greek">g</foreign>
-                           <hi rend="sup">1</hi>) sum sus <foreign xml:lang="greek">p</foreign>
+                           <foreign xml:lang="greek">φ</foreign> (Minerua <foreign xml:lang="greek">γ</foreign>
+                           <hi rend="sup">1</hi>) sum sus <foreign xml:lang="greek">π</foreign>
                            <hi rend="sup">1</hi>?</note> ut aiunt,
 tamen inepte quisquis Minervam docet.</quote>
                   </p>
-                  <p >Tum Atticus <quote>Tu vero</quote> inquit <quote>perge Varro; valde
+                  <p>Tum Atticus <quote>Tu vero</quote> inquit <quote>perge Varro; valde
 enim amo nostra atque nostros, meque ista delectant
 cum Latine dicuntur et isto modo.</quote>
                   </p>
-                  <p >
-                     <quote>Quid me</quote> inquam <quote>putas, qui philosophiam iam professus<note>prof. iam <foreign xml:lang="greek">*g</foreign>
-                        </note> sim<note>sim <foreign xml:lang="greek">*dn</foreign> sum <foreign xml:lang="greek">*g</foreign>
+                  <p>
+                     <quote>Quid me</quote> inquam <quote>putas, qui philosophiam iam professus<note>prof. iam <foreign xml:lang="greek">Γ</foreign>
+                        </note> sim<note>sim <foreign xml:lang="greek">Δν</foreign> sum <foreign xml:lang="greek">Γ</foreign>
                         </note> populo nostro me<note>me <hi rend="italics">om.</hi> 
-                           <foreign xml:lang="greek">*d</foreign>
+                           <foreign xml:lang="greek">Δ</foreign>
                         </note> exhibiturum.</quote>
                   </p>
                </div>
                <div type="textpart" n="19" subtype="section">
-                  <p >
+                  <p>
                      <note type="sp" place="inline">VA.</note> 
                      <quote>Pergamus igitur</quote> inquit,<note>inquit <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*gx</foreign>
+                        <foreign xml:lang="greek">Γχ</foreign>
                      </note> 'quoniam placet.
 
 Fuit
-ergo iam accepta a Platone philosophandi ratio<note>rat. phil. <foreign xml:lang="greek">p</foreign>
+ergo iam accepta a Platone philosophandi ratio<note>rat. phil. <foreign xml:lang="greek">π</foreign>
                         <hi rend="sup">1</hi>
                      </note> triplex, una de vita et moribus, altera de natura et
 rebus occultis, tertia de disserendo et quid verum<note>uerum <add>et</add> 
-                        <foreign xml:lang="greek">*d</foreign>
+                        <foreign xml:lang="greek">Δ</foreign>
                      </note> quid
 falsum quid rectum in oratione pravumve<note>prauumue <hi rend="italics">accedit</hi> 
-                        <foreign xml:lang="greek">s</foreign>
+                        <foreign xml:lang="greek">ς</foreign>
                      </note> quid consentiens<note>consentiens <add>sit</add> 
                         <hi rend="italics">Goer.</hi>
-                     </note> quid repugnet<note>repugnat <foreign xml:lang="greek">s</foreign> -ans <foreign xml:lang="greek">s</foreign> -ans esset <hi rend="italics">Mue.</hi>
+                     </note> quid repugnet<note>repugnat <foreign xml:lang="greek">ς</foreign> -ans <foreign xml:lang="greek">ς</foreign> -ans esset <hi rend="italics">Mue.</hi>
                      </note> iudicando. <pb n="p.9"/>
                   </p>
-                  <p >Ac primum<note>primam <foreign xml:lang="greek">*d</foreign>
+                  <p>Ac primum<note>primam <foreign xml:lang="greek">Δ</foreign>
                      </note> illam partem bene vivendi a natura
 petebant eique parendum esse dicebant, neque ulla
-alia in re nisi in natura quaerendum esse illud summum<note>summum illud <foreign xml:lang="greek">psmn</foreign>
-                     </note> bonum quo omnia referrentur,<note>referrentur <foreign xml:lang="greek">*d*g</foreign>
+alia in re nisi in natura quaerendum esse illud summum<note>summum illud <foreign xml:lang="greek">πσμν</foreign>
+                     </note> bonum quo omnia referrentur,<note>referrentur <foreign xml:lang="greek">ΔΓ</foreign>
                      </note>
-                     <note>-ere- <foreign xml:lang="greek">*g</foreign>
+                     <note>-ere- <foreign xml:lang="greek">Γ</foreign>
                      </note> constituebantque
 extremum esse rerum expetendarum et finem bonorum
 adeptum esse omnia e natura<note>omn. e nat. <hi rend="italics">Om.</hi> 
-                        <foreign xml:lang="greek">*g</foreign>
-                     </note> et animo<note>anima <foreign xml:lang="greek">*g</foreign>
+                        <foreign xml:lang="greek">Γ</foreign>
+                     </note> et animo<note>anima <foreign xml:lang="greek">Γ</foreign>
                      </note> et corpore
 et vita. corporis autem alia ponebant esse in toto
 alia in partibus, valetudinem vires pulchritudinem
@@ -2002,18 +2001,18 @@ etiam explanatam vocum impressionem;
 </p>
                </div>
                <div type="textpart" n="20" subtype="section">
-                  <p >animi autem
-quae essent ad comprehendendam ingeniis<note>ingenii <foreign xml:lang="greek">*g</foreign> 
+                  <p>animi autem
+quae essent ad comprehendendam ingeniis<note>ingenii <foreign xml:lang="greek">Γ</foreign> 
                         <hi rend="italics">del. Man.</hi>
                      </note> virtutem
 idonea, eaque ab his in naturam et mores dividebantur. naturae celeritatem ad discendum et memoriam dabant, quorum utrumque mentis esset proprium
 et ingenii; morum autem putabant studia esse et quasi
-consuetudinem, quam partim assiduitate exercitationis<note>exerc. ass. <foreign xml:lang="greek">*d</foreign>
-                     </note> partim ratione formabant, in quibus erat ipsa philosophia;<note>phil. ipsa <foreign xml:lang="greek">*d</foreign>
+consuetudinem, quam partim assiduitate exercitationis<note>exerc. ass. <foreign xml:lang="greek">Δ</foreign>
+                     </note> partim ratione formabant, in quibus erat ipsa philosophia;<note>phil. ipsa <foreign xml:lang="greek">Δ</foreign>
                      </note> in qua quod inchoatum est neque <add>absolutum</add>
                      <note>
                         <hi rend="italics">add.</hi> 
-                        <foreign xml:lang="greek">x</foreign> 
+                        <foreign xml:lang="greek">χ</foreign> 
                         <add>perfectum</add> 
                         <hi rend="italics">alii</hi>
                      </note> progressio quaedam ad virtutem appellatur,
@@ -2025,66 +2024,66 @@ res optima.
 </p>
                </div>
                <div type="textpart" n="21" subtype="section">
-                  <p >ergo haec animorum; vitae autem (id enim
+                  <p>ergo haec animorum; vitae autem (id enim
 erat tertium) adiuncta esse dicebant quae ad virtutis
 usum valerent. Iam<note>nam <hi rend="italics">Goer.</hi>
                      </note> virtus in<note>in<hi rend="sup">1</hi> 
                         <hi rend="italics">et</hi>
                         <hi rend="sup">2</hi> 
                         <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*d</foreign>
+                        <foreign xml:lang="greek">Δ</foreign>
                      </note> animi bonis et in corporis cernitur et<note>et <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*d</foreign>
+                        <foreign xml:lang="greek">Δ</foreign>
                      </note> in quibusdam quae non tam naturae
 quam beatae vitae adiuncta sunt. hominem enim<note>enim <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*d</foreign> autem <hi rend="italics">Mue.</hi>
+                        <foreign xml:lang="greek">Δ</foreign> autem <hi rend="italics">Mue.</hi>
                      </note> esse
-censebant quasi partem quandam<note>esse <hi rend="italics">post</hi> quandam <foreign xml:lang="greek">smn</foreign>
+censebant quasi partem quandam<note>esse <hi rend="italics">post</hi> quandam <foreign xml:lang="greek">σμν</foreign>
                      </note> civitatis et universi
 generis humani, eumque esse coniunctum cum hominibus humana<note>
                         <w>hum.</w> communi <hi rend="italics">IFGronovius observ. 3, 6</hi>
                      </note> quadam societate. ac de summo quidem <pb n="p.10"/>
 atque naturali bono sic agunt; cetera autem pertinere
-ad id putant aut adaugendum aut <del>ad</del> tenendum,<note>aut ad agendum <foreign xml:lang="greek">*dn</foreign>
+ad id putant aut adaugendum aut <del>ad</del> tenendum,<note>aut ad agendum <foreign xml:lang="greek">Δν</foreign>
                      </note>
                      <note>
                         <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">s</foreign>
+                        <foreign xml:lang="greek">ς</foreign>
                      </note>
-                     <note>tuendum <foreign xml:lang="greek">s</foreign>
+                     <note>tuendum <foreign xml:lang="greek">ς</foreign>
                      </note> ut
 divitias ut opes ut gloriam ut gratiam. Ita tripertita 
 ab his inducitur ratio bonorum,
 	</p>
                </div>
                <div type="textpart" n="22" subtype="section">
-                  <p >
+                  <p>
                      <milestone unit="chapter" n="6"/>atque haec illa sunt
 tria genera quae putant plerique Peripateticos dicere.
 id quidem non falso; est enim haec partitio illorum;
-illud imprudenter, si alios esse Academicos qui tum<note>tum <hi rend="italics">Asc.</hi> dum <foreign xml:lang="greek">*g*d</foreign>
+illud imprudenter, si alios esse Academicos qui tum<note>tum <hi rend="italics">Asc.</hi> dum <foreign xml:lang="greek">ΓΔ</foreign>
                      </note>
-appellarentur alios Peripateticos arbitrantur. communis haec ratio, et utrisque hic bonorum finis videbatur,<note>videbatur <hi rend="italics">Asc.</hi> uideatur <foreign xml:lang="greek">*g*d</foreign> uidetur <foreign xml:lang="greek">gf</foreign>
+appellarentur alios Peripateticos arbitrantur. communis haec ratio, et utrisque hic bonorum finis videbatur,<note>videbatur <hi rend="italics">Asc.</hi> uideatur <foreign xml:lang="greek">ΓΔ</foreign> uidetur <foreign xml:lang="greek">γφ</foreign>
                      </note>
-adipisci quae essent prima in<note>prima in <foreign xml:lang="greek">*gx</foreign> in prima <foreign xml:lang="greek">*d</foreign> in <hi rend="italics">del. Dav.</hi>
+adipisci quae essent prima in<note>prima in <foreign xml:lang="greek">Γχ</foreign> in prima <foreign xml:lang="greek">Δ</foreign> in <hi rend="italics">del. Dav.</hi>
                      </note> natura quaeque ipsa
 per sese expetenda aut omnia aut maxima; ea sunt
-autem maxima, quae in ipso animo atque in ipsa virtute versantur. itaque omnis illa antiqua<note>illa ant. <foreign xml:lang="greek">*dn</foreign>
+autem maxima, quae in ipso animo atque in ipsa virtute versantur. itaque omnis illa antiqua<note>illa ant. <foreign xml:lang="greek">Δν</foreign>
                         <hi rend="sup">1</hi>
-                        <foreign xml:lang="greek">f</foreign>
-                        <hi rend="sub">2</hi> ant. illa <foreign xml:lang="greek">*g</foreign> 
+                        <foreign xml:lang="greek">φ</foreign>
+                        <hi rend="sub">2</hi> ant. illa <foreign xml:lang="greek">Γ</foreign> 
                         <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">n</foreign>
+                        <foreign xml:lang="greek">ν</foreign>
                      </note> philosophia
 sensit in una virtute esse positam beatam vitam, nec
-tamen beatissimam nisi adiungerentur etiam<note>etiam <foreign xml:lang="greek">*gp</foreign> et <foreign xml:lang="greek">w</foreign>
+tamen beatissimam nisi adiungerentur etiam<note>etiam <foreign xml:lang="greek">Γπ</foreign> et <foreign xml:lang="greek">ω</foreign>
                      </note> corporis
 et cetera quae supra dicta sunt ad virtutis usum idonea.
 
 </p>
                </div>
                <div type="textpart" n="23" subtype="section">
-                  <p >Ex hac descriptione<note>discr. <hi rend="italics">mue.</hi>
+                  <p>Ex hac descriptione<note>discr. <hi rend="italics">mue.</hi>
                      </note> agendi quoque aliquid in
 vita et officii ipsius initium reperiebatur, quod erat
 in conservatione <add>sui et in appetitione</add>
@@ -2094,40 +2093,40 @@ in conservatione <add>sui et in appetitione</add>
 quas natura praescriberet. hinc gignebatur fuga desidiae voluptatumque contemptio, ex quo laborum dolorumque susceptio multorum magnorum<add>que</add>
                      <note>
                         <hi rend="italics">add.</hi> 
-                        <foreign xml:lang="greek">w</foreign>; <hi rend="italics">an</hi> 
+                        <foreign xml:lang="greek">ω</foreign>; <hi rend="italics">an</hi> 
                         <add>et</add> magn.?</note> recti
-honestique causa et earum rerum quae erant congruentes cum praescriptione<note>descriptione <foreign xml:lang="greek">*d</foreign>
+honestique causa et earum rerum quae erant congruentes cum praescriptione<note>descriptione <foreign xml:lang="greek">Δ</foreign>
                      </note> naturae; unde et amicitia
 exsistebat et iustitia atque aequitas, eaeque et voluptatibus et multis vitae commodis anteponebantur. Haec quidem fuit apud eos morum institutio et
-eius partis<note>partis <hi rend="italics">Wa.</hi> artis <foreign xml:lang="greek">*g*d</foreign>
+eius partis<note>partis <hi rend="italics">Wa.</hi> artis <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> quam primam posui forma atque descriptio.
 
 </p>
                </div>
                <div type="textpart" n="24" subtype="section">
-                  <p >
+                  <p>
 De<note>
                         <hi rend="italics">cf. Lact. inst. 7,3,1</hi>
-                     </note> natura autem (id enim sequebatur) ita dicebant<note>docebant <foreign xml:lang="greek">*g</foreign>
+                     </note> natura autem (id enim sequebatur) ita dicebant<note>docebant <foreign xml:lang="greek">Γ</foreign>
                      </note> ut eam dividerent in res duas, ut altera esset <pb n="p.11"/>
 efficiens, altera autem quasi huic se praebens, eaque<note>ea qua <hi rend="italics">Man.</hi> ex qua <hi rend="italics">Turn.</hi> ex eaque <hi rend="italics">Mue.</hi> ea <hi rend="italics">nominativus</hi>
                      </note>
-efficeretur<note>efficerentur <foreign xml:lang="greek">*gr</foreign>
+efficeretur<note>efficerentur <foreign xml:lang="greek">Γρ</foreign>
                         <hi rend="sup">1</hi>
                      </note> aliquid. in eo quod efficeret vim esse censebant, in eo autem quod efficeretur tantum modo<note>tantum modo <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*d</foreign>
+                        <foreign xml:lang="greek">Δ</foreign>
                      </note> materiam quandam; in utroque tamen utrumque: neque
 enim materiam ipsam cohaerere potuisse si nulla vi
 contineretur, neque vim sine aliqua materia; nihil est
 enim quod non alicubi esse cogatur. sed quod ex
 utroque, id iam corpus et quasi qualitatem quandam
-nominabant—dabitis<note>habitis <foreign xml:lang="greek">*g</foreign>
+nominabant—dabitis<note>habitis <foreign xml:lang="greek">Γ</foreign>
                      </note> enim profecto ut in rebus inusitatis, quod Graeci ipsi faciunt a quibus haec iam diu
 tractantur, utamur verbis interdum inauditis.'
 	</p>
                </div>
                <div type="textpart" n="25" subtype="section">
-                  <p >
+                  <p>
                      <milestone unit="chapter" n="7"/>
                      <quote>Nos
 vero</quote> inquit Atticus; <quote>quin etiam Graecis licebit utare
@@ -2135,13 +2134,13 @@ cum voles, si te Latina forte deficient.</quote>
                      <note type="sp" place="inline">VA.</note> 
                      <quote>Bene
 sane facis; sed enitar ut<note>
-                           <add>ut</add> in <foreign xml:lang="greek">p</foreign>
+                           <add>ut</add> in <foreign xml:lang="greek">π</foreign>
                            <hi rend="sup">1</hi>
-                        </note> Latine loquar, nisi in huiusce<note>eiusce <foreign xml:lang="greek">*gx</foreign>
+                        </note> Latine loquar, nisi in huiusce<note>eiusce <foreign xml:lang="greek">Γχ</foreign>
                         </note>
 modi verbis ut philosophiam aut rhetoricam aut physicam aut dialecticam appellem, quibus ut aliis multis consuetudo iam utitur pro Latinis. qualitates<note>
                            <hi rend="italics">s cf. Mart. Cap. 5, 510</hi>
-                        </note> igitur appellavi quas <foreign xml:lang="greek">poio/thtas</foreign> Graeci vocant, quod ipsum
+                        </note> igitur appellavi quas <foreign xml:lang="greek">ποιότητας</foreign> Graeci vocant, quod ipsum
 apud Graecos non est vulgi verbum sed philosophorum, atque id in multis; dialecticorum vero verba nulla
 sunt publica, suis utuntur. et id quidem commune
 omnium fere est artium;<note>
@@ -2149,43 +2148,43 @@ omnium fere est artium;<note>
                         </note> aut enim nova sunt rerum
 novarum facienda nomina aut ex aliis transferenda.
 quod si Graeci faciunt qui in his rebus tot iam saecla
-versantur, quanto id nobis magis<note>m. n. <foreign xml:lang="greek">*d</foreign> n. maius <foreign xml:lang="greek">p</foreign>
+versantur, quanto id nobis magis<note>m. n. <foreign xml:lang="greek">Δ</foreign> n. maius <foreign xml:lang="greek">π</foreign>
                            <hi rend="sup">
                               <hi rend="italics">p</hi>
                            </hi>
-                           <foreign xml:lang="greek">smn</foreign>
+                           <foreign xml:lang="greek">σμν</foreign>
                         </note> concedendum est,
 qui haec nunc primum tractare conamur.</quote>
 
                   </p>
                </div>
                <div type="textpart" n="26" subtype="section">
-                  <p >'Tu vero'
+                  <p>'Tu vero'
 inquam <quote>Varro bene etiam meriturus mihi videris de
 tuis civibus, si eos non modo copia rerum auxeris,
-ut effecisti,<note>ut fecisti <foreign xml:lang="greek">s</foreign> uti f- <hi rend="italics">RKl.</hi>
+ut effecisti,<note>ut fecisti <foreign xml:lang="greek">ς</foreign> uti f- <hi rend="italics">RKl.</hi>
                         </note> sed etiam verborum.</quote> 
                      <note type="sp" place="inline">VA.</note> 
                      <quote>Audebimus
 ergo</quote> inquit 'novis verbis uti te auctore, si necesse
-erit.<note>erit <foreign xml:lang="greek">*gpx</foreign> est <foreign xml:lang="greek">w</foreign>
+erit.<note>erit <foreign xml:lang="greek">Γπχ</foreign> est <foreign xml:lang="greek">ω</foreign>
                      </note>—earum igitur qualitatum sunt aliae principes <pb n="p.12"/>
 aliae ex his ortae. principes sunt unius modi et simplices; ex his autem ortae variae sunt et quasi multiformes. itaque aer (hoc<note>
                         <hi rend="italics">inde ab</hi> hoc <hi rend="italics">rursus deest</hi> 
-                        <foreign xml:lang="greek">s</foreign> hoc <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*d</foreign>
+                        <foreign xml:lang="greek">ς</foreign> hoc <hi rend="italics">om.</hi> 
+                        <foreign xml:lang="greek">Δ</foreign>
                      </note> quoque utimur enim<note>
                         <w>enim</w> iam <hi rend="italics">Ha.</hi>
                      </note> pro Latino) et<note>et<hi rend="sup">1</hi> 
                         <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*d</foreign>
-                     </note> ignis et aqua et terra prima<note>primae <foreign xml:lang="greek">s</foreign>
+                        <foreign xml:lang="greek">Δ</foreign>
+                     </note> ignis et aqua et terra prima<note>primae <foreign xml:lang="greek">ς</foreign>
                      </note> sunt; ex his autem
 ortae animantium formae earumque rerum quae gignuntur e terra. ergo illa initia et ut e Graeco vertam
 elementa dicuntur; e quibus aer et ignis movendi vim
 habent et efficiendi, reliquae partes accipiendi et quasi
 patiendi, aquam dico et terram. quintum genus, e
-quo essent astra mentesque, singulare<note>singulares <foreign xml:lang="greek">*gw</foreign>
+quo essent astra mentesque, singulare<note>singulares <foreign xml:lang="greek">Γω</foreign>
                      </note> eorumque quattuor quae supra dixi dissimile Aristoteles<note>Arist. <hi rend="italics">cf. AKail diss. phil. Vind. 11, 90</hi>
                      </note> quoddam
 esse rebatur.
@@ -2193,14 +2192,14 @@ esse rebatur.
 </p>
                </div>
                <div type="textpart" n="27" subtype="section">
-                  <p >Sed subiectam putant<note>putant <foreign xml:lang="greek">x</foreign> -at <foreign xml:lang="greek">*d</foreign> -abant <foreign xml:lang="greek">*g</foreign>
+                  <p>Sed subiectam putant<note>putant <foreign xml:lang="greek">χ</foreign> -at <foreign xml:lang="greek">Δ</foreign> -abant <foreign xml:lang="greek">Γ</foreign>
                      </note> omnibus sine
 ulla specie atque carentem omni illa qualitate (faciamus enim tractando usitatius hoc verbum et tritius)
 materiam quandam, ex qua omnia expressa atque effecta<note>efficat <hi rend="italics">Turn.</hi>
-                     </note> sint, quae tota omnia accipere possit<note>possit <foreign xml:lang="greek">x</foreign> -sunt <foreign xml:lang="greek">*g</foreign> -sint <foreign xml:lang="greek">*dn</foreign>
+                     </note> sint, quae tota omnia accipere possit<note>possit <foreign xml:lang="greek">χ</foreign> -sunt <foreign xml:lang="greek">Γ</foreign> -sint <foreign xml:lang="greek">Δν</foreign>
                      </note> omnibusque
-modis mutari<note>mutari <foreign xml:lang="greek">s</foreign>? <hi rend="italics">Dav.</hi> -re <foreign xml:lang="greek">*g*d</foreign>
-                     </note> atque ex omni parte eoque<note>eque <foreign xml:lang="greek">*g</foreign> eamque <hi rend="italics">Chr.</hi>
+modis mutari<note>mutari <foreign xml:lang="greek">ς</foreign>? <hi rend="italics">Dav.</hi> -re <foreign xml:lang="greek">ΓΔ</foreign>
+                     </note> atque ex omni parte eoque<note>eque <foreign xml:lang="greek">Γ</foreign> eamque <hi rend="italics">Chr.</hi>
                      </note> etiam interire,
 non in nihilum sed in suas partes, quae infinite secari
 ac dividi possint, cum sit nihil omnino in rerum
@@ -2211,20 +2210,20 @@ item infinite dividi possint.
 </p>
                </div>
                <div type="textpart" n="28" subtype="section">
-                  <p >et cum ita moveatur
+                  <p>et cum ita moveatur
 illa vis quam qualitatem esse diximus, et cum sic
-ultro citroque<note>introque <foreign xml:lang="greek">p</foreign> in utroque <foreign xml:lang="greek">w</foreign>
-                     </note> versetur, et materiam ipsam totam<note>totam ipsam <foreign xml:lang="greek">*g</foreign>
+ultro citroque<note>introque <foreign xml:lang="greek">π</foreign> in utroque <foreign xml:lang="greek">ω</foreign>
+                     </note> versetur, et materiam ipsam totam<note>totam ipsam <foreign xml:lang="greek">Γ</foreign>
                      </note>
 penitus commutari putant et illa effici quae appellant
 qualia; e quibus in<note>in <hi rend="italics">del. Dav.</hi>
-                     </note> omni natura cohaerente<note>cohaerente <foreign xml:lang="greek">*gp</foreign>
+                     </note> omni natura cohaerente<note>cohaerente <foreign xml:lang="greek">Γπ</foreign>
                         <hi rend="sup">m</hi>
-                        <foreign xml:lang="greek">x</foreign> cohercente <foreign xml:lang="greek">*d</foreign>
+                        <foreign xml:lang="greek">χ</foreign> cohercente <foreign xml:lang="greek">Δ</foreign>
                      </note> et continuata cum omnibus suis partibus unum<note>unum <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*d</foreign>
+                        <foreign xml:lang="greek">Δ</foreign>
                      </note> effectum esse
-mundum, extra quem nulla pars materiae<note>mat. par <foreign xml:lang="greek">*g</foreign>
+mundum, extra quem nulla pars materiae<note>mat. par <foreign xml:lang="greek">Γ</foreign>
                      </note> sit nullumque corpus. Partis autem esse mundi omnia quae
 insint in eo, quae natura sentiente teneantur, in qua <pb n="p.13"/>
 ratio perfecta insit, quae sit eadem sempiterna (nihil
@@ -2233,53 +2232,53 @@ enim valentius esse a quo intereat);
 </p>
                </div>
                <div type="textpart" n="29" subtype="section">
-                  <p >quam vim animum esse dicunt mundi, eandemque esse<note>esse<hi rend="sup">2</hi> 
+                  <p>quam vim animum esse dicunt mundi, eandemque esse<note>esse<hi rend="sup">2</hi> 
                         <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*g</foreign>
+                        <foreign xml:lang="greek">Γ</foreign>
                      </note> mentem sapientiamque perfectam, quem deum appellant, omniumque rerum quae sunt<note>sint <hi rend="italics">Mue.</hi>
                      </note> ei subiectae quasi prudentiam<note>providentiam <hi rend="italics">Lb.</hi>
                      </note> quandam procurantem caelestia maxime, deinde
-in terris ea quae pertineant<note>pertinent <foreign xml:lang="greek">r</foreign>
+in terris ea quae pertineant<note>pertinent <foreign xml:lang="greek">ρ</foreign>
                         <hi rend="sup">1</hi>
-                        <foreign xml:lang="greek">wm</foreign>
+                        <foreign xml:lang="greek">ωμ</foreign>
                      </note> ad homines; quam interdum eandem necessitatem appellant, quia nihil aliter
 possit atque ab ea constitutum sit, inter<add>dum</add>
-                     <note>interdum <foreign xml:lang="greek">p</foreign>
-                        <hi rend="sub">1</hi>, <hi rend="italics">idem et</hi> item <foreign xml:lang="greek">p</foreign>
-                        <hi rend="sup">m</hi> inter <foreign xml:lang="greek">*g*d</foreign> 
+                     <note>interdum <foreign xml:lang="greek">π</foreign>
+                        <hi rend="sub">1</hi>, <hi rend="italics">idem et</hi> item <foreign xml:lang="greek">π</foreign>
+                        <hi rend="sup">m</hi> inter <foreign xml:lang="greek">ΓΔ</foreign> 
                         <add>seriem causarum</add> 
                         <hi rend="italics">Pl.</hi>
                      </note> * * * quasi
 fatalem et immutabilem continuationem ordinis sempiterni, non<note>
-                        <w>no</w> num <foreign xml:lang="greek">p</foreign>
+                        <w>no</w> num <foreign xml:lang="greek">π</foreign>
                      </note> numquam quidem<note>quidem <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*g</foreign>
+                        <foreign xml:lang="greek">Γ</foreign>
                      </note> eandem fortunam, quod
-efficiat multa improvisa et<note>et <foreign xml:lang="greek">s</foreign>? <hi rend="italics">Lb.</hi> haec <foreign xml:lang="greek">*g*d</foreign> ac <hi rend="italics">Ha.</hi>
+efficiat multa improvisa et<note>et <foreign xml:lang="greek">ς</foreign>? <hi rend="italics">Lb.</hi> haec <foreign xml:lang="greek">ΓΔ</foreign> ac <hi rend="italics">Ha.</hi>
                      </note> necopinata nobis propter
 obscuritatem ignorationemque causarum.<note>fortunam — — quod multa eff. inopinata nobis ... causarum <hi rend="italics">Lact. inst. 3, 29, 3, cf. ibid. 18</hi> (ign. rerum atque caus.)</note>
                   </p>
                </div>
                <div type="textpart" n="30" subtype="section">
-                  <p >
+                  <p>
                      <milestone unit="chapter" n="8"/>Tertia deinde philosophiae pars, quae erat in ratione et in disserendo, sic tractabatur ab utrisque.
 Quamquam oriretur a sensibus tamen non<note>non <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*g</foreign>; tamen non <hi rend="italics">in ras.</hi> 
-                        <foreign xml:lang="greek">p</foreign>
+                        <foreign xml:lang="greek">Γ</foreign>; tamen non <hi rend="italics">in ras.</hi> 
+                        <foreign xml:lang="greek">π</foreign>
                      </note> esse iudicium veritatis in sensibus. mentem volebant rerum
-esse<note>esse ereum <foreign xml:lang="greek">ngf</foreign>
+esse<note>esse ereum <foreign xml:lang="greek">νγφ</foreign>
                      </note> iudicem, solam censebant idoneam cui crederetur, quia sola cerneret id quod semper esset simplex
-et unius modi et tale quale esset (hanc illi <foreign xml:lang="greek">i)de/an</foreign> appellabant,<note>appellabant <foreign xml:lang="greek">*gw</foreign> -labantur <foreign xml:lang="greek">m</foreign>
-                        <hi rend="sup">1</hi> -lant <foreign xml:lang="greek">pg</foreign>
+et unius modi et tale quale esset (hanc illi <foreign xml:lang="greek">ἰδέαν</foreign> appellabant,<note>appellabant <foreign xml:lang="greek">Γω</foreign> -labantur <foreign xml:lang="greek">μ</foreign>
+                        <hi rend="sup">1</hi> -lant <foreign xml:lang="greek">πγ</foreign>
                      </note> iam a Platone ita nominatam, nos recte speciem possumus dicere). 
 	</p>
                </div>
                <div type="textpart" n="31" subtype="section">
-                  <p >sensus autem omnis hebetes
+                  <p>sensus autem omnis hebetes
 et tardos esse arbitrabantur nec percipere ullo modo
 res eas quae subiectae sensibus viderentur,
 
-quod<note>quod <foreign xml:lang="greek">*g</foreign> quae <foreign xml:lang="greek">*d</foreign>
+quod<note>quod <foreign xml:lang="greek">Γ</foreign> quae <foreign xml:lang="greek">Δ</foreign>
                      </note> essent
 aut ita parvae ut sub sensum cadere non possent, aut
 ita mobiles et concitatae ut nihil umquam unum esset
@@ -2288,7 +2287,7 @@ ita mobiles et concitatae ut nihil umquam unum esset
                         <hi rend="italics">add. Ha.</hi> 
                         <add>aut</add> 
                         <hi rend="italics">Reid</hi>
-                     </note> constans, ne idem<note>ne idem <hi rend="italics">Man.</hi> eidem <foreign xml:lang="greek">*g*d</foreign>
+                     </note> constans, ne idem<note>ne idem <hi rend="italics">Man.</hi> eidem <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> quidem, quia continenter laberentur et fluerent omnia. itaque hanc omnem partem<note>artem <hi rend="italics">Non.</hi>
                      </note> 
                      <pb n="p.14"/>
@@ -2299,56 +2298,56 @@ rerum opinabilem<note>opinabilium <hi rend="italics">Goer.</hi>
                   </p>
                </div>
                <div type="textpart" n="32" subtype="section">
-                  <p >scientiam autem nusquam esse censebant nisi in animi notionibus<note>notionibus <foreign xml:lang="greek">s</foreign>? <hi rend="italics">Lb.</hi> mot- <foreign xml:lang="greek">*g*d</foreign>
+                  <p>scientiam autem nusquam esse censebant nisi in animi notionibus<note>notionibus <foreign xml:lang="greek">ς</foreign>? <hi rend="italics">Lb.</hi> mot- <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> atque
 rationibus. qua de causa definitiones rerum probabant
 et has ad omnia de quibus disceptabatur adhibebant;
-verborum etiam explicatio<note>explicari <foreign xml:lang="greek">*g</foreign>
-                     </note> probabatur,<note>probatur <foreign xml:lang="greek">*g</foreign>
+verborum etiam explicatio<note>explicari <foreign xml:lang="greek">Γ</foreign>
+                     </note> probabatur,<note>probatur <foreign xml:lang="greek">Γ</foreign>
                      </note> id est qua de
-causa quaeque essent<note>esset <foreign xml:lang="greek">m</foreign>
+causa quaeque essent<note>esset <foreign xml:lang="greek">μ</foreign>
                         <hi rend="sup">p</hi>
-                        <foreign xml:lang="greek">px</foreign>
-                     </note> ita nominata, quam <foreign xml:lang="greek">e)tumologi/an</foreign>
+                        <foreign xml:lang="greek">πχ</foreign>
+                     </note> ita nominata, quam <foreign xml:lang="greek">ἐτυμολογίαν</foreign>
 appellabant; post argumentis quibusdam<note>quibusdam <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*d</foreign>
+                        <foreign xml:lang="greek">Δ</foreign>
                      </note> et quasi
 rerum notis ducibus<note>et rer. not. quasi duc. <hi rend="italics">Dav.</hi>
                      </note> utebantur ad probandum<note>ad prob. <hi rend="italics">rursus accedit</hi> 
-                        <foreign xml:lang="greek">s</foreign>
+                        <foreign xml:lang="greek">ς</foreign>
                      </note> et ad
 concludendum id quod explanari volebant. in qua<note>in quo <hi rend="italics">Man.</hi> denique <hi rend="italics">Mue.</hi>
                      </note>
-tradebatur omnis dialecticae<note>dialectica <foreign xml:lang="greek">w</foreign>
-                     </note> disciplina id est orationis ratione conclusae;<note>conclusa <foreign xml:lang="greek">rw</foreign>
+tradebatur omnis dialecticae<note>dialectica <foreign xml:lang="greek">ω</foreign>
+                     </note> disciplina id est orationis ratione conclusae;<note>conclusa <foreign xml:lang="greek">ρω</foreign>
                      </note> huic quasi ex altera parte oratoria vis dicendi adhibebatur, explicatrix orationis
 perpetuae ad persuadendum accommodatae.
 </p>
                </div>
                <div type="textpart" n="33" subtype="section">
-                  <p >
+                  <p>
 Haec forma<note>forma <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*d</foreign>
+                        <foreign xml:lang="greek">Δ</foreign>
                      </note> erat illis prima, a Platone tradita; cuius
-quas acceperim dissupationes<note>dissupationes <hi rend="italics">Bai.</hi> disputat- <foreign xml:lang="greek">*g*d</foreign>
+quas acceperim dissupationes<note>dissupationes <hi rend="italics">Bai.</hi> disputat- <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> si vultis exponam.'</p>
-                  <p >
+                  <p>
                      <quote>Nos vero volumus</quote> inquam, <quote>ut pro Attico etiam
 respondeam.</quote>
                   </p>
-                  <p >
+                  <p>
                      <note type="sp" place="inline">ATT.</note> 
                      <quote>Et recte quidem<note>quidem <hi rend="italics">om.</hi> 
-                           <foreign xml:lang="greek">*d</foreign>
+                           <foreign xml:lang="greek">Δ</foreign>
                         </note>
                      </quote> inquit <quote>respondes; praeclare
 enim explicatur Peripateticorum et Academiae veteris
 auctoritas.</quote>
                   </p>
-                  <milestone  unit="chapter" n="9"/>
-                  <p >
+                  <milestone unit="chapter" n="9"/>
+                  <p>
                      <note type="sp" place="inline">VA.</note> “Aristoteles igitur<note>igitur <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*d</foreign>
+                        <foreign xml:lang="greek">Δ</foreign>
                      </note> primus species quas paulo
 ante dixi labefactavit, quas mirifice Plato erat amplexatus,<note>quas ... erat <add>amplexatus</add> 
                         <hi rend="italics">pars codicum Non. p. 470</hi>
@@ -2361,51 +2360,51 @@ ea sola positum esse beate vivere.
 </p>
                </div>
                <div type="textpart" n="34" subtype="section">
-                  <p >Nam Strato eius
+                  <p>Nam Strato eius
 auditor quamquam fuit acri ingenio tamen ab ea <pb n="p.15"/>
 disciplina omnino semovendus est; qui cum maxime
 necessariam partem philosophiae, quae posita est in
 virtute et in<note>in <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">mgf</foreign>
+                        <foreign xml:lang="greek">μγφ</foreign>
                      </note> moribus, reliquisset totumque se ad investigationem naturae contulisset, in ea ipsa plurimum
 dissedit a suis. Speusippus autem et Xenocrates, qui
 primi Platonis rationem auctoritatemque susceperant,
-et post eos Polemo<note>Polemon <foreign xml:lang="greek">*g</foreign>
-                     </note> et Crates unaque Crantor<note>Cranto <foreign xml:lang="greek">p</foreign>
+et post eos Polemo<note>Polemon <foreign xml:lang="greek">Γ</foreign>
+                     </note> et Crates unaque Crantor<note>Cranto <foreign xml:lang="greek">π</foreign>
                         <hi rend="sup">2</hi>
-                        <foreign xml:lang="greek">wg</foreign>
-                        <hi rend="sup">2</hi> Cratero <foreign xml:lang="greek">g</foreign>
-                        <hi rend="sup">1</hi> Crator <foreign xml:lang="greek">*g*d</foreign>
+                        <foreign xml:lang="greek">ωγ</foreign>
+                        <hi rend="sup">2</hi> Cratero <foreign xml:lang="greek">γ</foreign>
+                        <hi rend="sup">1</hi> Crator <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> in
-Academia congregati diligenter ea<note>eis <foreign xml:lang="greek">px</foreign>
-                     </note> quae a superioribus acceperant tuebantur.<note>utebantur <foreign xml:lang="greek">*d</foreign>
+Academia congregati diligenter ea<note>eis <foreign xml:lang="greek">πχ</foreign>
+                     </note> quae a superioribus acceperant tuebantur.<note>utebantur <foreign xml:lang="greek">Δ</foreign>
                      </note> Iam Polemonem audiverant
-assidue Zeno et Arcesilas.<note>Archesilaus <foreign xml:lang="greek">x</foreign>
+assidue Zeno et Arcesilas.<note>Archesilaus <foreign xml:lang="greek">χ</foreign>
                      </note>
 
                   </p>
                </div>
                <div type="textpart" n="35" subtype="section">
-                  <p >sed Zeno, cum Arcesilam<note>Archesilaum <foreign xml:lang="greek">p</foreign>
+                  <p>sed Zeno, cum Arcesilam<note>Archesilaum <foreign xml:lang="greek">π</foreign>
                         <hi rend="sup">1</hi>
-                        <foreign xml:lang="greek">w</foreign>
+                        <foreign xml:lang="greek">ω</foreign>
                      </note> anteiret aetate valdeque subtiliter dissereret et
 peracute moveretur, corrigere conatus est disciplinam.
 eam quoque si videtur correctionem explicabo, sicut
 solebat Antiochus.”</p>
-                  <p >
+                  <p>
                      <quote>Mihi vero</quote> inquam <quote>videtur, quod vides idem significare Pomponium.</quote>
                   </p>
-                  <milestone  unit="chapter" n="10"/>
-                  <p >
-                     <note type="sp" place="inline">VA.</note> 'Zeno igitur nullo modo is erat qui ut Theophrastus nervos<note>neruis <foreign xml:lang="greek">p</foreign>
-                     </note> virtutis inciderit,<note>incideret <foreign xml:lang="greek">s</foreign> 
-                        <hi rend="italics">Lb.</hi> -rent <foreign xml:lang="greek">n</foreign>
+                  <milestone unit="chapter" n="10"/>
+                  <p>
+                     <note type="sp" place="inline">VA.</note> 'Zeno igitur nullo modo is erat qui ut Theophrastus nervos<note>neruis <foreign xml:lang="greek">π</foreign>
+                     </note> virtutis inciderit,<note>incideret <foreign xml:lang="greek">ς</foreign> 
+                        <hi rend="italics">Lb.</hi> -rent <foreign xml:lang="greek">ν</foreign>
                      </note> sed contra qui
 omnia quae<del>que</del>
                      <note>
                         <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">s</foreign> quaecumque <hi rend="italics">Reid</hi>
+                        <foreign xml:lang="greek">ς</foreign> quaecumque <hi rend="italics">Reid</hi>
                      </note> ad beatam vitam pertinerent in una
 virtute poneret nec quicquam aliud numeraret in
 bonis idque appellaret honestum quod esset simplex
@@ -2414,14 +2413,14 @@ quoddam et solum et unum bonum.
 </p>
                </div>
                <div type="textpart" n="36" subtype="section">
-                  <p >cetera<note>
+                  <p>cetera<note>
                         <hi rend="italics">omissa turpitudo</hi>
                      </note> autem
 etsi nec bona nec mala essent tamen alia secundum
 naturam dicebat alia naturae esse contraria; his
 ipsis alia interiecta et media numerabat. quae autem
-secundum naturam essent ea sumenda et quadam aestimatione dignanda<note>dignando <foreign xml:lang="greek">p</foreign>
-                        <hi rend="sup">1</hi>?<foreign xml:lang="greek">*g</foreign>
+secundum naturam essent ea sumenda et quadam aestimatione dignanda<note>dignando <foreign xml:lang="greek">π</foreign>
+                        <hi rend="sup">1</hi>?<foreign xml:lang="greek">Γ</foreign>
                      </note> docebat,<note>dicebat <hi rend="italics">Lb.</hi>
                      </note> contraque contraria; neutra
 autem in mediis relinquebat, in quibus ponebat nihil
@@ -2430,35 +2429,35 @@ omnino esse momenti.
 </p>
                </div>
                <div type="textpart" n="37" subtype="section">
-                  <p >sed quae essent sumenda, ex
+                  <p>sed quae essent sumenda, ex
 iis alia pluris esse aestimanda alia minoris. quae pluris
 ea praeposita appellabat, reiecta autem quae minoris.
 Atque ut haec non tam rebus quam vocabulis commutaverat,
 <pb n="p.16"/>
  sic inter recte factum atque peccatum officium et contra officium media locabat quaedam, recte
 facta sola in bonis actionibus ponens, prave id est
-peccata in malis; officia autem conservata<note>conservata <hi rend="italics">Pl.</hi> et serv- <foreign xml:lang="greek">*g*d</foreign> serv- <hi rend="italics">Lb.</hi>
+peccata in malis; officia autem conservata<note>conservata <hi rend="italics">Pl.</hi> et serv- <foreign xml:lang="greek">ΓΔ</foreign> serv- <hi rend="italics">Lb.</hi>
                      </note> praetermissaque media putabat ut dixi.
 
 </p>
                </div>
                <div type="textpart" n="38" subtype="section">
-                  <p >cumque superiores
-non omnem virtutem in ratione esse dicerent<note>diceret <foreign xml:lang="greek">px</foreign>
+                  <p>cumque superiores
+non omnem virtutem in ratione esse dicerent<note>diceret <foreign xml:lang="greek">πχ</foreign>
                      </note> sed
-quasdam virtutes quasi<note>quasi <foreign xml:lang="greek">*g</foreign> que <foreign xml:lang="greek">p</foreign>
+quasdam virtutes quasi<note>quasi <foreign xml:lang="greek">Γ</foreign> que <foreign xml:lang="greek">π</foreign>
                         <hi rend="sup">1</hi> 
                         <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">p</foreign>
+                        <foreign xml:lang="greek">π</foreign>
                         <hi rend="sup">2</hi>
-                        <foreign xml:lang="greek">w</foreign>
+                        <foreign xml:lang="greek">ω</foreign>
                      </note> natura aut more perfectas,
 hic omnis in ratione ponebat. cumque illi ea genera
 virtutum<note>
                         <hi rend="italics">cf. p. 9, 26 s.</hi>
                      </note> quae supra dixi seiungi posse arbitrarentur,
 hic nec id ullo modo fieri posse disserebat,<note>hic ... disserebat <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">w</foreign>
+                        <foreign xml:lang="greek">ω</foreign>
                      </note> nec virtutis usum modo ut superiores sed ipsum habitum
 per se esse praeclarum, nec tamen virtutem cuiquam
 adesse quin ea semper uteretur. cumque perturbationem animi illi ex homine non tollerent naturaque et<note>
@@ -2472,22 +2471,22 @@ sapientem.
 </p>
                </div>
                <div type="textpart" n="39" subtype="section">
-                  <p >cumque eas perturbationes antiqui naturales esse dicerent et rationis expertes aliaque in parte
+                  <p>cumque eas perturbationes antiqui naturales esse dicerent et rationis expertes aliaque in parte
 animi cupiditatem alia<note>
                         <add>in</add> alia <hi rend="italics">Lb.</hi>
                      </note> rationem collocarent, ne his
-quidem assentiebatur; nam et perturbationes voluntarias esse putabat opinionisque iudicio suscipi et omnium perturbationum matrem esse arbitrabatur<note>arb. matr. esse <foreign xml:lang="greek">rw</foreign>
+quidem assentiebatur; nam et perturbationes voluntarias esse putabat opinionisque iudicio suscipi et omnium perturbationum matrem esse arbitrabatur<note>arb. matr. esse <foreign xml:lang="greek">ρω</foreign>
                      </note> immoderatam quandam intemperantiam. Haec fere de
 moribus.</p>
-                  <milestone  unit="chapter" n="11"/>
-                  <p >De naturis autem sic sentiebat, primum ut in<note>
-                        <w>ut in</w> ut <foreign xml:lang="greek">s</foreign>? <hi rend="italics">Asc.</hi> uti <hi rend="italics">Bai.</hi>
+                  <milestone unit="chapter" n="11"/>
+                  <p>De naturis autem sic sentiebat, primum ut in<note>
+                        <w>ut in</w> ut <foreign xml:lang="greek">ς</foreign>? <hi rend="italics">Asc.</hi> uti <hi rend="italics">Bai.</hi>
                      </note> quattuor initiis rerum illis quintam hanc naturam, ex
 qua superiores sensus et<note>
                         <w>et</w> etiam <hi rend="italics">Reid</hi>
                      </note> mentem effici rebantur, non
 adhiberet; statuebat enim ignem esse ipsam naturam
-quae quidque gigneret et mentem atque sensus. discrepabat etiam ab isdem, quod nullo modo arbitrabatur<note>arbitrabantur <foreign xml:lang="greek">*g</foreign>
+quae quidque gigneret et mentem atque sensus. discrepabat etiam ab isdem, quod nullo modo arbitrabatur<note>arbitrabantur <foreign xml:lang="greek">Γ</foreign>
                      </note>
 quicquam effici posse ab ea quae expers esset corporis,
 <pb n="p.17"/>
@@ -2497,49 +2496,49 @@ aliquid aut quod efficeretur posse esse non corpus.
 </p>
                </div>
                <div type="textpart" n="40" subtype="section">
-                  <p >
+                  <p>
 Plurima autem<note>
-                        <w>autem</w> aut <foreign xml:lang="greek">m</foreign>
-                        <hi rend="sup">1</hi>?<foreign xml:lang="greek">n</foreign> etiam <foreign xml:lang="greek">gf</foreign>
+                        <w>autem</w> aut <foreign xml:lang="greek">μ</foreign>
+                        <hi rend="sup">1</hi>?<foreign xml:lang="greek">ν</foreign> etiam <foreign xml:lang="greek">γφ</foreign>
                      </note> in illa tertia philosophiae parte mutavit. in qua primum de sensibus ipsis quaedam dixit
-nova, quos iunctos<note>uinctos <foreign xml:lang="greek">pf</foreign> inuictos <foreign xml:lang="greek">s</foreign>
-                     </note> esse censuit e quadam quasi impulsione oblata extrinsecus, quam ille <foreign xml:lang="greek">fantasi/an</foreign>,<note>
+nova, quos iunctos<note>uinctos <foreign xml:lang="greek">πφ</foreign> inuictos <foreign xml:lang="greek">ς</foreign>
+                     </note> esse censuit e quadam quasi impulsione oblata extrinsecus, quam ille <foreign xml:lang="greek">φαντασίαν</foreign>,<note>
                         <hi rend="italics">cf. p. 36, 10 Cael. Aur. acut. 3, 13</hi> (<hi rend="italics">Gell. 19, 1, 15</hi>)</note> nos
-visum appellemus<note>appellemus <foreign xml:lang="greek">p</foreign>
-                        <hi rend="sup">2</hi> -amus <foreign xml:lang="greek">*g*d</foreign>
-                     </note> licet, et teramus<note>terramus <foreign xml:lang="greek">n</foreign> -anus <foreign xml:lang="greek">s</foreign> teneamus <foreign xml:lang="greek">*d</foreign>
-                     </note> hoc quidem verbum,<note>hoc quidem uerbum <foreign xml:lang="greek">s</foreign> h. u. q. <foreign xml:lang="greek">*g*d</foreign>
+visum appellemus<note>appellemus <foreign xml:lang="greek">π</foreign>
+                        <hi rend="sup">2</hi> -amus <foreign xml:lang="greek">ΓΔ</foreign>
+                     </note> licet, et teramus<note>terramus <foreign xml:lang="greek">ν</foreign> -anus <foreign xml:lang="greek">ς</foreign> teneamus <foreign xml:lang="greek">Δ</foreign>
+                     </note> hoc quidem verbum,<note>hoc quidem uerbum <foreign xml:lang="greek">ς</foreign> h. u. q. <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> erit enim utendum in reliquo sermone saepius—
 sed ad haec quae visa sunt et quasi accepta sensibus
-assensionem<note>ascensionem <foreign xml:lang="greek">*g</foreign>
+assensionem<note>ascensionem <foreign xml:lang="greek">Γ</foreign>
                      </note> adiungit animorum, quam esse vult in
 nobis positam et voluntariam.
 
 </p>
                </div>
                <div type="textpart" n="41" subtype="section">
-                  <p >visis non omnibus
+                  <p>visis non omnibus
 adiungebat fidem sed is solum quae propriam quandam haberent declarationem earum rerum quae viderentur; id autem visum cum ipsum per se cerneretur,
 comprehendibile—feretis haec?<note>hoc <hi rend="italics">Dav.</hi>
                      </note>' ATT. <quote>nos vero</quote> inquit;<note>inquam <hi rend="italics">Ald.</hi>
                      </note> 
-                     <quote>quonam<note>quoniam <foreign xml:lang="greek">ng</foreign>
-                           <hi rend="sup">1</hi> quam <foreign xml:lang="greek">p</foreign>
+                     <quote>quonam<note>quoniam <foreign xml:lang="greek">νγ</foreign>
+                           <hi rend="sup">1</hi> quam <foreign xml:lang="greek">π</foreign>
                            <hi rend="sub">1</hi>; (quo)nam ... sed <hi rend="italics">in ras.</hi> 
-                           <foreign xml:lang="greek">p</foreign>
+                           <foreign xml:lang="greek">π</foreign>
                         </note> enim alio<note>alio <hi rend="italics">om.</hi> 
-                           <foreign xml:lang="greek">*dn</foreign>
-                        </note> modo <foreign xml:lang="greek">katalhmpto\n</foreign> diceres?</quote>—
-<note type="sp" place="inline">VA.</note> “sed cum acceptum iam et approbatum<note>probatum <foreign xml:lang="greek">*g</foreign>
+                           <foreign xml:lang="greek">Δν</foreign>
+                        </note> modo <foreign xml:lang="greek">καταλημπτὸν</foreign> diceres?</quote>—
+<note type="sp" place="inline">VA.</note> “sed cum acceptum iam et approbatum<note>probatum <foreign xml:lang="greek">Γ</foreign>
                      </note> esset, comprehensionem appellabat, similem is rebus quae manu
 prenderentur; ex quo etiam nomen hoc duxerat <del>at</del>,<note>
-                        <hi rend="italics">del. Man.</hi> ac <foreign xml:lang="greek">gf</foreign>
+                        <hi rend="italics">del. Man.</hi> ac <foreign xml:lang="greek">γφ</foreign>
                      </note>
 cum eo verbo antea nemo tali in re<note>
-                        <w>in re</w> iure <foreign xml:lang="greek">mw</foreign>
+                        <w>in re</w> iure <foreign xml:lang="greek">μω</foreign>
                      </note> usus esset, plurimisque idem novis verbis (nova enim dicebat) usus
 est. Quod autem erat sensu comprensum id ipsum
-sensum appellabat, et si ita erat comprensum ut convelli ratione non posset scientiam, sin aliter inscientiam nominabat; ex qua existebat<note>existebat <hi rend="italics">Pl.</hi> -erat <foreign xml:lang="greek">p</foreign> -eret <foreign xml:lang="greek">rw</foreign> extiterat <foreign xml:lang="greek">*g</foreign>
+sensum appellabat, et si ita erat comprensum ut convelli ratione non posset scientiam, sin aliter inscientiam nominabat; ex qua existebat<note>existebat <hi rend="italics">Pl.</hi> -erat <foreign xml:lang="greek">π</foreign> -eret <foreign xml:lang="greek">ρω</foreign> extiterat <foreign xml:lang="greek">Γ</foreign>
                      </note> etiam opinio, quae
 esset imbecilla<note>imb. <add>adsensio</add> 
                         <hi rend="italics">Pl.</hi>
@@ -2548,14 +2547,14 @@ esset imbecilla<note>imb. <add>adsensio</add>
 </p>
                </div>
                <div type="textpart" n="42" subtype="section">
-                  <p >sed inter scientiam et inscientiam comprehensionem illam quam dixi collocabat, eamque neque in
-rectis neque in pravis<note>paruis <foreign xml:lang="greek">*g</foreign>
+                  <p>sed inter scientiam et inscientiam comprehensionem illam quam dixi collocabat, eamque neque in
+rectis neque in pravis<note>paruis <foreign xml:lang="greek">Γ</foreign>
                      </note> numerabat, sed soli credendum <pb n="p.18"/>
 esse dicebat. E quo sensibus etiam fidem tribuebat,
 quod ut supra dixi comprehensio facta sensibus et
 vera esse illi et fidelis videbatur, non quod<note>quod <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*g</foreign>, <hi rend="italics">in ras.</hi> 
-                        <foreign xml:lang="greek">p</foreign>
+                        <foreign xml:lang="greek">Γ</foreign>, <hi rend="italics">in ras.</hi> 
+                        <foreign xml:lang="greek">π</foreign>
                      </note> omnia
 quae essent in re comprehenderet, sed quia nihil quod
 cadere in eam<note>
@@ -2566,139 +2565,139 @@ quasi normam scientiae et principium sui dedisset unde
 postea notiones rerum in animis imprimerentur; e quibus non principia solum sed latiores quaedam ad
 rationem inveniendam viae reperiuntur.<note>aperituntur <hi rend="italics">Man.</hi> -rirentur <hi rend="italics">Dav.</hi> reperirentur <hi rend="italics">Gr.</hi>
                      </note> errorem autem
-et temeritatem et ignorantiam<note>ignorationem <foreign xml:lang="greek">s</foreign>
+et temeritatem et ignorantiam<note>ignorationem <foreign xml:lang="greek">ς</foreign>
                      </note> et opinationem et suspicionem et uno nomine omnia quae essent aliena firmae et constantis assensionis a virtute sapientiaque
 removebat.</p>
-                  <p >Atque in his fere commutatio constitit omnis dissensioque Zenonis a superioribus.”</p>
+                  <p>Atque in his fere commutatio constitit omnis dissensioque Zenonis a superioribus.”</p>
                </div>
                <div type="textpart" n="43" subtype="section">
-                  <p >
+                  <p>
                      <milestone unit="chapter" n="12"/>Quae cum dixisset <del>et</del>,<note>
                         <hi rend="italics">del.</hi> 
-                        <foreign xml:lang="greek">s</foreign>? <hi rend="italics">Man.</hi>
+                        <foreign xml:lang="greek">ς</foreign>? <hi rend="italics">Man.</hi>
                      </note> 
                      <quote>Breviter sane minimeque
 obscure exposita est</quote> inquam <quote>a te Varro et veteris
-Academiae ratio et Stoicorum. horum<note>horum <hi rend="italics">Goer.</hi> uerum <foreign xml:lang="greek">*g*d</foreign>
+Academiae ratio et Stoicorum. horum<note>horum <hi rend="italics">Goer.</hi> uerum <foreign xml:lang="greek">ΓΔ</foreign>
                         </note> esse autem
-arbitror, ut<note>ut <foreign xml:lang="greek">sm</foreign> et <foreign xml:lang="greek">n</foreign> ut ab <foreign xml:lang="greek">p</foreign>
-                           <hi rend="sub">1</hi> ab <foreign xml:lang="greek">x</foreign> at <foreign xml:lang="greek">g</foreign>
+arbitror, ut<note>ut <foreign xml:lang="greek">σμ</foreign> et <foreign xml:lang="greek">ν</foreign> ut ab <foreign xml:lang="greek">π</foreign>
+                           <hi rend="sub">1</hi> ab <foreign xml:lang="greek">χ</foreign> at <foreign xml:lang="greek">γ</foreign>
                            <hi rend="sup">2</hi>
-                           <foreign xml:lang="greek">fx</foreign> at ab <foreign xml:lang="greek">*d</foreign> 
+                           <foreign xml:lang="greek">φχ</foreign> at ab <foreign xml:lang="greek">Δ</foreign> 
                            <hi rend="italics">om.</hi> 
-                           <foreign xml:lang="greek">g</foreign>
+                           <foreign xml:lang="greek">γ</foreign>
                            <hi rend="sup">1</hi>
                         </note> Antiocho nostro familiari placebat, correctionem veteris Academiae potius quam aliquam
 novam disciplinam putandam.</quote>
                   </p>
-                  <p >Tum<note>tum <foreign xml:lang="greek">s</foreign> tunc <foreign xml:lang="greek">*g*d</foreign>
-                     </note> Varro <quote>Tuae<note>duae <foreign xml:lang="greek">*d</foreign>
+                  <p>Tum<note>tum <foreign xml:lang="greek">ς</foreign> tunc <foreign xml:lang="greek">ΓΔ</foreign>
+                     </note> Varro <quote>Tuae<note>duae <foreign xml:lang="greek">Δ</foreign>
                         </note> sunt nunc partes</quote> inquit <quote>qui ab
 antiquorum ratione<note>ratione <add>nunc</add> 
-                           <foreign xml:lang="greek">*d</foreign>
-                        </note> desciscis<note>descistis <foreign xml:lang="greek">m</foreign>
+                           <foreign xml:lang="greek">Δ</foreign>
+                        </note> desciscis<note>descistis <foreign xml:lang="greek">μ</foreign>
                            <hi rend="sup">p</hi>
-                           <foreign xml:lang="greek">nf</foreign> deciscis <foreign xml:lang="greek">p</foreign>
-                           <hi rend="sub">1</hi> desistis <foreign xml:lang="greek">g</foreign>
+                           <foreign xml:lang="greek">νφ</foreign> deciscis <foreign xml:lang="greek">π</foreign>
+                           <hi rend="sub">1</hi> desistis <foreign xml:lang="greek">γ</foreign>
                         </note> et ea quae ab Arcesila
-novata sunt probas, docere<note>doce <foreign xml:lang="greek">p</foreign>
+novata sunt probas, docere<note>doce <foreign xml:lang="greek">π</foreign>
                            <hi rend="sup">2</hi>
-                           <foreign xml:lang="greek">p</foreign>
+                           <foreign xml:lang="greek">π</foreign>
                            <hi rend="sub">1</hi>
-                           <foreign xml:lang="greek">rw</foreign>
+                           <foreign xml:lang="greek">ρω</foreign>
                         </note> quod et qua de causa
-discidium<note>dissidium <foreign xml:lang="greek">mgf</foreign> desidium <foreign xml:lang="greek">sn</foreign>
+discidium<note>dissidium <foreign xml:lang="greek">μγφ</foreign> desidium <foreign xml:lang="greek">σν</foreign>
                         </note> factum sit, ut videamus satisne ista sit iusta
 defectio.</quote>
                   </p>
                </div>
                <div type="textpart" n="44" subtype="section">
-                  <p >
+                  <p>
 Tum ego <quote>Cum Zenone</quote> inquam “ut accepimus Arcesilas sibi omne certamen instituit, non pertinacia aut
-studio vincendi ut quidem mihi<note>quidem mihi <foreign xml:lang="greek">*gp</foreign>
+studio vincendi ut quidem mihi<note>quidem mihi <foreign xml:lang="greek">Γπ</foreign>
                      </note> videtur, sed earum <pb n="p.19"/>
 rerum obscuritate, quae ad confessionem ignorationis
-adduxerant Socratem et <del>vel ut</del> iam ante<note>et iam ante <hi rend="italics">Dav. ad Lact. epit. 32</hi> et ueluti amantes <foreign xml:lang="greek">*g*d</foreign>
+adduxerant Socratem et <del>vel ut</del> iam ante<note>et iam ante <hi rend="italics">Dav. ad Lact. epit. 32</hi> et ueluti amantes <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> Socratem
 Democritum Anaxagoram Empedoclem omnes paene
 veteres, qui nihil cognosci nihil percipi nihil sciri posse
-dixerunt, angustos sensus imbecillos<note>inbecilles <foreign xml:lang="greek">p</foreign>
+dixerunt, angustos sensus imbecillos<note>inbecilles <foreign xml:lang="greek">π</foreign>
                         <hi rend="sub">1</hi>
-                        <foreign xml:lang="greek">sgf</foreign>
+                        <foreign xml:lang="greek">σγφ</foreign>
                      </note> animos brevia
 curricula vitae et<note>et <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">sgf</foreign>
+                        <foreign xml:lang="greek">σγφ</foreign>
                      </note> ut Democritus<note>
                         <hi rend="italics">cf. p. 43, 13</hi>
                      </note> in profundo veritatem
-esse demersam,<note>demersam <foreign xml:lang="greek">gfx</foreign> dim- <foreign xml:lang="greek">smnp</foreign>
-                        <hi rend="sup">m</hi> diuersam <foreign xml:lang="greek">*d</foreign>
+esse demersam,<note>demersam <foreign xml:lang="greek">γφχ</foreign> dim- <foreign xml:lang="greek">σμνπ</foreign>
+                        <hi rend="sup">m</hi> diuersam <foreign xml:lang="greek">Δ</foreign>
                      </note> opinionibus et institutis omnia teneri,
-nihil veritati<note>ueritate <foreign xml:lang="greek">*g</foreign>
+nihil veritati<note>ueritate <foreign xml:lang="greek">Γ</foreign>
                      </note> relinqui, deinceps<note>
                         <w>deinceps</w> denique <hi rend="italics">Bentl.</hi> densis <hi rend="italics">IACvHeusde</hi> '<hi rend="italics">Cic.</hi> 
-                        <foreign xml:lang="greek">filopla/twn</foreign>' (<hi rend="italics">1836</hi>) <hi rend="italics">236 n. 1</hi>
+                        <foreign xml:lang="greek">φιλοπλάτων</foreign>' (<hi rend="italics">1836</hi>) <hi rend="italics">236 n. 1</hi>
                      </note> omnia tenebris circumfusa esse dixerunt.<note>
                         <hi rend="italics">cf. Lact. inst. 3, 4, 11. 28, 12 s. 30, 6 Democr. fr. 117 Deiels Emped. fr. 2 D.</hi> (<hi rend="italics">Kranz Herm. 47, 29 n. 2</hi>)</note>
 
                   </p>
                </div>
                <div type="textpart" n="45" subtype="section">
-                  <p >itaque Arcesilas negabat esse quicquam quod sciri posset, ne illud quidem ipsum quod
+                  <p>itaque Arcesilas negabat esse quicquam quod sciri posset, ne illud quidem ipsum quod
 Socrates sibi reliquisset, ut nihil scire se sciret;<note>ut ... sciret <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*dn</foreign>, <hi rend="italics">cf. p. 7, 12</hi>
+                        <foreign xml:lang="greek">Δν</foreign>, <hi rend="italics">cf. p. 7, 12</hi>
                      </note> sic
-omnia latere censebat<note>censebat <foreign xml:lang="greek">s</foreign> -bant <foreign xml:lang="greek">*g*d</foreign>
+omnia latere censebat<note>censebat <foreign xml:lang="greek">ς</foreign> -bant <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> in occulto neque esse quicquam
-quod cerni aut intellegi posset;<note>possit <foreign xml:lang="greek">*d</foreign>
+quod cerni aut intellegi posset;<note>possit <foreign xml:lang="greek">Δ</foreign>
                      </note> quibus de causis nihil
-oportere neque profiteri neque affirmare quemquam<note>quamquam <foreign xml:lang="greek">p</foreign>
-                        <hi rend="sup">1</hi>?<foreign xml:lang="greek">sm</foreign>
+oportere neque profiteri neque affirmare quemquam<note>quamquam <foreign xml:lang="greek">π</foreign>
+                        <hi rend="sup">1</hi>?<foreign xml:lang="greek">σμ</foreign>
                      </note>
-neque assensione<note>assertione <foreign xml:lang="greek">*d</foreign>
+neque assensione<note>assertione <foreign xml:lang="greek">Δ</foreign>
                      </note> approbare, cohibereque semper et
-ab omni lapsu continere temeritatem, quae tum<note>tum <foreign xml:lang="greek">p</foreign>
+ab omni lapsu continere temeritatem, quae tum<note>tum <foreign xml:lang="greek">π</foreign>
                         <hi rend="sup">2</hi>
-                        <foreign xml:lang="greek">s</foreign>
+                        <foreign xml:lang="greek">ς</foreign>
                      </note>
-                     <note>cum <foreign xml:lang="greek">*g*d</foreign>
+                     <note>cum <foreign xml:lang="greek">ΓΔ</foreign>
                      </note> esset
-insignis cum<note>tum <foreign xml:lang="greek">sg</foreign>
+insignis cum<note>tum <foreign xml:lang="greek">σγ</foreign>
                         <hi rend="sup">m</hi>
-                        <foreign xml:lang="greek">x</foreign>
+                        <foreign xml:lang="greek">χ</foreign>
                      </note> aut falsa aut incognita res approbaretur,
-neque hoc quicquam esse<note>esse <foreign xml:lang="greek">s</foreign> esset <foreign xml:lang="greek">*g*d</foreign> (<hi rend="italics">in ras.</hi> 
-                        <foreign xml:lang="greek">p</foreign>)</note> turpius quam cognitioni et
-perceptioni assensionem<note>assertionem <foreign xml:lang="greek">*d</foreign> assessionem <foreign xml:lang="greek">f</foreign>
+neque hoc quicquam esse<note>esse <foreign xml:lang="greek">ς</foreign> esset <foreign xml:lang="greek">ΓΔ</foreign> (<hi rend="italics">in ras.</hi> 
+                        <foreign xml:lang="greek">π</foreign>)</note> turpius quam cognitioni et
+perceptioni assensionem<note>assertionem <foreign xml:lang="greek">Δ</foreign> assessionem <foreign xml:lang="greek">φ</foreign>
                      </note> approbationemque praecurrere. huic rationi quod erat consentaneum faciebat,
-ut contra omnium sententias disserens<note>disserens de sua <foreign xml:lang="greek">*g</foreign> dies iam <foreign xml:lang="greek">*d</foreign>
-                     </note> de sua plerosque<note>plerumque <foreign xml:lang="greek">n</foreign> pleresque <foreign xml:lang="greek">gf</foreign> pleros <foreign xml:lang="greek">*d</foreign>
+ut contra omnium sententias disserens<note>disserens de sua <foreign xml:lang="greek">Γ</foreign> dies iam <foreign xml:lang="greek">Δ</foreign>
+                     </note> de sua plerosque<note>plerumque <foreign xml:lang="greek">ν</foreign> pleresque <foreign xml:lang="greek">γφ</foreign> pleros <foreign xml:lang="greek">Δ</foreign>
                      </note> deduceret,<note>deduceret <add>et efficeret</add> 
                         <hi rend="italics">Pl.</hi>
                      </note> ut cum in eadem re paria contrariis in
 partibus momenta rationum invenirentur facilius ab
-utraque parte assensio<note>ascensio <foreign xml:lang="greek">mnf</foreign> assertio <foreign xml:lang="greek">*d</foreign>
+utraque parte assensio<note>ascensio <foreign xml:lang="greek">μνφ</foreign> assertio <foreign xml:lang="greek">Δ</foreign>
                      </note> sustineretur.
 
 </p>
                </div>
                <div type="textpart" n="46" subtype="section">
-                  <p >Hanc Academiam
+                  <p>Hanc Academiam
 novam appellant, quae mihi vetus videtur, si quidem
 Platonem ex illa vetere numeramus, cuius in libris
 nihil affirmatur et in utramque partem multa disseruntur,
 <pb n="p.20"/>
  de omnibus quaeritur nihil certi dicitur—sed
-tamen illa quam exposuisti<note>exposuisti <hi rend="italics">Dur.</hi> exposui <foreign xml:lang="greek">*g*d</foreign>; <hi rend="italics">an a Cicerone neglegenter scriptum</hi>?</note> vetus, haec nova nominetur. quae usque ad Carneadem perducta,<note>producta <foreign xml:lang="greek">mn</foreign> (per <hi rend="italics">in ras.</hi> 
-                        <foreign xml:lang="greek">p</foreign>)</note> qui quartus
+tamen illa quam exposuisti<note>exposuisti <hi rend="italics">Dur.</hi> exposui <foreign xml:lang="greek">ΓΔ</foreign>; <hi rend="italics">an a Cicerone neglegenter scriptum</hi>?</note> vetus, haec nova nominetur. quae usque ad Carneadem perducta,<note>producta <foreign xml:lang="greek">μν</foreign> (per <hi rend="italics">in ras.</hi> 
+                        <foreign xml:lang="greek">π</foreign>)</note> qui quartus
 ab Arcesila fuit, in eadem Arcesilae ratione permansit. Carneades autem nullius philosophiae partis
 ignarus et, ut cognovi ex is qui illum audierant
-maximeque ex Epicureo<note>Epicureo <foreign xml:lang="greek">ms</foreign> -ZZZo <foreign xml:lang="greek">*g*d</foreign>
-                     </note> Zenone, qui cum ab eo plurimum dissentiret unum tamen praeter ceteros mirabatur, incredibili quadam fuit facultate et to<note>fuit īo facultate et do <foreign xml:lang="greek">m</foreign>
+maximeque ex Epicureo<note>Epicureo <foreign xml:lang="greek">μς</foreign> -ZZZo <foreign xml:lang="greek">ΓΔ</foreign>
+                     </note> Zenone, qui cum ab eo plurimum dissentiret unum tamen praeter ceteros mirabatur, incredibili quadam fuit facultate et to<note>fuit īo facultate et do <foreign xml:lang="greek">μ</foreign>
                         <hi rend="sup">1</hi>, īo <hi rend="italics">del. et</hi> do <add>ctrina</add> 
-                        <foreign xml:lang="greek">m</foreign>
+                        <foreign xml:lang="greek">μ</foreign>
                         <hi rend="sup">2</hi>; et to <hi rend="italics">om.</hi> 
-                        <foreign xml:lang="greek">*dn</foreign> et co<add>pia dicendi</add> 
+                        <foreign xml:lang="greek">Δν</foreign> et co<add>pia dicendi</add> 
                         <hi rend="italics">Chr.</hi>
                      </note> 
                      <gap reason="omitted"/>” quid autem stomachatur<note>stomachetur <hi rend="italics">Sig.</hi>
@@ -2710,28 +2709,28 @@ maximeque ex Epicureo<note>Epicureo <foreign xml:lang="greek">ms</foreign> -ZZZo
                </div>
             </div>
             <div type="textpart" n="2" subtype="book">
-               <head > LIBER SECUNDUS</head>
-               <quote  rend="blockquote">atqui si id crederemus, non egeremus<note>non eg. om. L</note> perpendiculis
+               <head> LIBER SECUNDUS</head>
+               <quote rend="blockquote">atqui si id crederemus, non egeremus<note>non eg. om. L</note> perpendiculis
 non<note>
                      <hi rend="italics">Non. p. 162 s.</hi> (perpendiculi et normae)</note> normis non regulis.</quote>
-               <quote  rend="blockquote">quid lunae quae liniamenta sint<note>sint <hi rend="italics">Iun.</hi> sunt <hi rend="italics">codd. del. Iun.</hi>
+               <quote rend="blockquote">quid lunae quae liniamenta sint<note>sint <hi rend="italics">Iun.</hi> sunt <hi rend="italics">codd. del. Iun.</hi>
                   </note> potesne dicere <del>ne</del>,
 cuius et nascentis et inseniscentis<note>et ins. <hi rend="italics">om.</hi> L et sen-<hi rend="italics">lun.</hi>
                   </note> alias hebetiora alias
 acutiora videntur cornua.<note>
                      <hi rend="italics">Non. p. 121 s.</hi> (hebes)</note>
                </quote>
-               <quote  rend="blockquote">quid tam planum videtur quam mare; e quo etiam<note>e quo etiam <hi rend="italics">om.</hi> C<hi rend="sup">A</hi>D<hi rend="sup">A</hi>; <add>ab</add> aequo <hi rend="italics">Quich.</hi>
+               <quote rend="blockquote">quid tam planum videtur quam mare; e quo etiam<note>e quo etiam <hi rend="italics">om.</hi> C<hi rend="sup">A</hi>D<hi rend="sup">A</hi>; <add>ab</add> aequo <hi rend="italics">Quich.</hi>
                   </note>
 aequor<note>
                      <hi rend="italics">Non. p. 65</hi> (aequor)</note> illud poetae vocant</quote>
-               <quote  rend="blockquote">
+               <quote rend="blockquote">
                   <hi rend="italics">in aqua remum integrum quasi fractum videmus</hi>
                   <note>
                      <hi rend="italics">Serv. ecl. 2, 27</hi> nulla — — res ita decipit quem ad modum imago; nam et in speculo contraria ostendit universa, et in ... videmus, quod etiam Cicero in Tusculanis plenius docet. <hi rend="italics">cf. index v.</hi> remus</note>
                </quote>
                <pb n="p.21"/>
-               <quote  rend="blockquote">quid mare nonne caeruleum? at eius<note>
+               <quote rend="blockquote">quid mare nonne caeruleum? at eius<note>
                      <w>at eius</w> adius L<hi rend="sup">1</hi>
                   </note> unda cum est
 pulsa remis, purpurascit,<note>
@@ -2742,21 +2741,21 @@ pulsa remis, purpurascit,<note>
                   <note>
                      <hi rend="italics">Non. p. 395</hi> (siccum)</note>
                </quote>
-               <quote  rend="blockquote">alius adultis, alius<note>
+               <quote rend="blockquote">alius adultis, alius<note>
                      <add>alius pueris</add> 
                      <hi rend="italics">Muell.</hi> alius ad. B alios ad. <hi rend="italics">cett.</hi>
                   </note> valentibus<note>valentibus <hi rend="italics">Quich.</hi> lent- <hi rend="italics">codd.</hi>
                   </note> alius aegris,<note>aegris B eugris <hi rend="italics">cett.</hi>
                   </note> alius siccis
 alius vinulentis</quote>
-               <quote  rend="blockquote">Si quando enim nos demersimus ut qui urinantur,<note>
+               <quote rend="blockquote">Si quando enim nos demersimus ut qui urinantur,<note>
                      <hi rend="italics">Non. p. 474</hi> (urinantur)</note> aut
 nihil superum aut obscure admodum cernimus</quote>
-               <quote  rend="blockquote">quibus etiam alabaster<note>
+               <quote rend="blockquote">quibus etiam alabaster<note>
                      <hi rend="italics">Non. p. 545</hi> (alabaster)</note> plenus unguenti putre esse<note>putre esse LA<hi rend="sup">A</hi>B<hi rend="sup">A</hi> putrer (-ret <hi rend="italics">Paris. 7666</hi>) esse C<hi rend="sup">A</hi> putere <hi rend="italics">Pius</hi> putris esse <hi rend="italics">Gerlach</hi> puter esse <hi rend="italics">Ha.</hi>
                   </note>
 videtur</quote>
-               <quote  rend="blockquote">
+               <quote rend="blockquote">
                   <hi rend="italics">nihil ab homnine percipi posse, nihilque reianzere sapienti nisi diligentissimam inquisitionem veritatis
 propterea quia si incertis rebus esset assensus etiam
 si fortasse verae forent liberari errore non posset, quae
@@ -2765,7 +2764,7 @@ maxima est culpa sapientis.<note>
                      </note>
                   </hi>
                </quote>
-               <quote  rend="blockquote">quae<note>qui cum G quicum <hi rend="italics">Ha.</hi>
+               <quote rend="blockquote">quae<note>qui cum G quicum <hi rend="italics">Ha.</hi>
                   </note> cum similitudine veri<note>veri <hi rend="italics">Linds.</hi> verbi <hi rend="italics">codd.</hi>
                   </note> concinere<note>
                      <hi rend="italics">Non. p. 43</hi> (concinnare <hi rend="italics">sic</hi>); lib. II L. lib. I B<hi rend="sup">A</hi>
@@ -2773,7 +2772,7 @@ maxima est culpa sapientis.<note>
                   <note>concinere GH<hi rend="sup">2</hi> -cinnere L -cinnare H<hi rend="sup">1</hi>
                   </note> maxime<note>maxime F<hi rend="sup">3</hi>B<hi rend="sup">A</hi> 
                      <hi rend="italics">om.</hi> L</note> sibi videretur</quote>
-               <quote  rend="blockquote">
+               <quote rend="blockquote">
                   <hi rend="italics">probabile vel veri simile ..., quod nos ad agendum</hi>
 
                   <pb n="p.22"/>
@@ -2789,14 +2788,14 @@ non enim vocabulorum opificem sed rerum inquisitorem decet esse sapientem.<note>
                      <hi rend="italics">Aug. c. Acad. 2, 11, 26</hi> (<hi rend="italics">Aug. ipse</hi>) probabile vel v. s. Academici vocant quod ... agamus tamen. — — 'talia' inquit Academicus mihi videntur ... sapientem.' — — quid putatis inquam Ciceronem, cuius haec verba sunt, inopem fuisse Latinae linguae, ut minus apta rebus quas sentiebat nomina imponeret? <hi rend="italics">ibid. 10, 24</hi> (<hi rend="italics">Alypius</hi>) videamus quaeso prius ne per hanc quaestionem — — in verbi controversiam decidamus, quod te ipso insinuante et (ex <hi rend="italics">edd.</hi>) auctoritate illa Tulliana turpissimum esse saepe confessi sumus. <hi rend="italics">cf. ibid. 7, 16. 11, 25</hi>
                   </note>
                </quote>
-               <quote  rend="blockquote">frangere avaritiam, scelera ponere,<note>poni L<hi rend="sup">1</hi> -ire L<hi rend="sup">2</hi> poenire <hi rend="italics">Guy.</hi>
+               <quote rend="blockquote">frangere avaritiam, scelera ponere,<note>poni L<hi rend="sup">1</hi> -ire L<hi rend="sup">2</hi> poenire <hi rend="italics">Guy.</hi>
                   </note> vitam suam exponere<note>
                      <hi rend="italics">Non. p. 104</hi> (exponere)</note> ad imitandum<note>mitandum L<hi rend="sup">1</hi>
                   </note> iuventuti</quote>
-               <quote  rend="blockquote">qui enim serius honores adamaverunt, vix admittuntur<note>
+               <quote rend="blockquote">qui enim serius honores adamaverunt, vix admittuntur<note>
                      <hi rend="italics">Non. p. 69</hi> (adamare)</note>
 ad eos nec satis commendati multitudini possunt esse.</quote>
-               <quote  rend="blockquote">
+               <quote rend="blockquote">
                   <hi rend="italics">Academico sapienti ab omnibus ceterarum sectarim
 qui sibi sapientes videntur secundas partes dari, cum</hi>
 
@@ -2839,7 +2838,7 @@ insanam, Academicos autem prae illis modestos cautosque homines videri Epicuro?<
                      <hi rend="italics">aug. c. Acad. 3, 7, 15</hi> (<hi rend="italics">Aug. ipse</hi>) est in libris Ciceronis quos in huius causae patrocinium scripsit locus quidam, ut mihi videtur mira urbantate conditus, ut non nullis autem etiam firmitate roboratus. difficile est prorsus ut quem quam non moveat quod ibi dictum est, Academico ...... Epicuro? ita peraeque prope de omnibus sectyis copiosissime Cicero iucundissimum legentibus quasi spectaculum praebet, velut ostendens nullum illorum esse qui non, cum sibi primas partes dederit, quod necesse est, secundas ei dicat dare quem non repugnare sed dubitare conspexerit. in quo ego nihil adversabor nec eis ullam auferam gloriam. videatur sane quibus libet cicero hic non iocatus, sed inania et ventosa quaedam, quod ab ipsorum Graeculorum levitate abhorreret, sequi et colligere voluisse. <hi rend="italics">in ipsis verbis multa sunt non Tulliana. libro II adscripsit Reid</hi>
                   </note>
                </quote>
-               <quote  rend="blockquote">(<hi rend="italics">Academicis</hi>) <hi rend="italics">morem fuisse occultandisententiam suam,
+               <quote rend="blockquote">(<hi rend="italics">Academicis</hi>) <hi rend="italics">morem fuisse occultandisententiam suam,
 nec eam cuiquam nisi qui secum ad senectutem usque
 vixissent aperire consuesse.<note>
                         <hi rend="italics">Aug. c. Acad. 3, 20, 43</hi> quisquis autem putat hoc sensisse Academicos (<hi rend="italics">non posse ab homine inveniri veritatem</hi>), ipsum Ciceronem audiat. ait enim illis morem ... consuesse. <hi rend="italics">libro II adscripsit Reid, III Krische 186</hi> (<hi rend="italics">60</hi>)</note>
@@ -2847,53 +2846,53 @@ vixissent aperire consuesse.<note>
                </quote>
             </div>
             <div type="textpart" n="3" subtype="book">
-               <head >LIBER TERTIUS</head>
-               <head >
+               <head>LIBER TERTIUS</head>
+               <head>
                   <hi rend="italics">PROOEMIUM<note>
-                        <hi rend="italics">Cic. Att. 16, 6, 4 VIII K. Sext. a. 710/44 Vibone</hi> nunc neglegentiam meam congnosce. de gloria librum ad te misi. at in eo prohoemium id (idem <hi rend="italics">Wesenberg</hi>) est quod in Academico tertio. id evenit ob eam rem quod habeo volumen prohoemiorum; ex eo eligere soleo, cum aliquod <foreign xml:lang="greek">su/ggramma</foreign> institui. itaque iam in Tusculano, qui non meminissem me abusum isto prohoemio, conieci id in eum librum quem tibi misi. cum autem in navi legerem Academicos, adgnovi erratum meum. <hi rend="italics">prooemii esse videntur quae secuntur usque ad p. 25, 7, quae varronis in III disputationi tribuit Krische 186</hi> (<hi rend="italics">60</hi>)</note>
+                        <hi rend="italics">Cic. Att. 16, 6, 4 VIII K. Sext. a. 710/44 Vibone</hi> nunc neglegentiam meam congnosce. de gloria librum ad te misi. at in eo prohoemium id (idem <hi rend="italics">Wesenberg</hi>) est quod in Academico tertio. id evenit ob eam rem quod habeo volumen prohoemiorum; ex eo eligere soleo, cum aliquod <foreign xml:lang="greek">σύγγραμμα</foreign> institui. itaque iam in Tusculano, qui non meminissem me abusum isto prohoemio, conieci id in eum librum quem tibi misi. cum autem in navi legerem Academicos, adgnovi erratum meum. <hi rend="italics">prooemii esse videntur quae secuntur usque ad p. 25, 7, quae varronis in III disputationi tribuit Krische 186</hi> (<hi rend="italics">60</hi>)</note>
                   </hi>
                </head>
-               <quote  rend="blockquote">in tanta animantium varietate homini ut soli cupiditas
+               <quote rend="blockquote">in tanta animantium varietate homini ut soli cupiditas
 ingeneraretur<note>
                      <hi rend="italics">Non. p. 123</hi> (ingeneraretur)</note> cognitionis et scientiae</quote>
-               <quote  rend="blockquote">quod si liceret ut iis qui in itinere deerravissent sic
+               <quote rend="blockquote">quod si liceret ut iis qui in itinere deerravissent sic
 vitam deviam secutos<note>secutos <hi rend="italics">vel</hi> -tus <hi rend="italics">codd.</hi> -tis <hi rend="italics">edd. Lact. Patr.</hi>
                   </note> corrigere errorem paenitendo,
 facilior esset emendatio temeritatis<note>
                      <hi rend="italics">Lact. inst. 6, 24, 1</hi> nec tamen deficiat aliquis — —, si — — ad iniustitiae viam lapsus est; potest enim reduci ac liberari, si eum paeniteat actorum — —. <hi rend="italics">2</hi> quod fieri posse Cicero non putavit, cuius haec in Academico tertio verba sunt: 'quod si ... temeritatis'</note>
                </quote>
                <pb n="p.25"/>
-               <quote  rend="blockquote">digladiari<note>
+               <quote rend="blockquote">digladiari<note>
                      <hi rend="italics">Non. p. 65</hi> (digladiari)</note> autem semper,<note>semper <add>et</add> 
                      <hi rend="italics">Quich.</hi>
                   </note> depugnare in<note>
                      <w>in</w> cum <hi rend="italics">Iun.</hi>
                   </note> facinorosis et
 audacibus quis non cum miserrimum turn etiam stultissimum dixerit?</quote>
-               <quote  rend="blockquote">aliqua potestas sit, vindicet<note>
+               <quote rend="blockquote">aliqua potestas sit, vindicet<note>
                      <hi rend="italics">Non. p. 419</hi> (vindicare)</note> se<note>
                      <add>si</add> sit <hi rend="italics">Aldina Nonii</hi>
                   </note> in libertatem</quote>
-               <quote  rend="blockquote">mihi autem non modo ad sapientiam caeci videmur
+               <quote rend="blockquote">mihi autem non modo ad sapientiam caeci videmur
 sed ad ea ipsa quae aliqua ex parte cerni videantur
 hebetes et obtunsi<note>
                      <hi rend="italics">Lact. inst. 3, 14, 15 M. Tullium increpans</hi> cedo igitur quid didiceris aut in qua secta veritatem deprehenderis. in Academia scilicet, quam secutus es quam probasti. at haec nihil docet nisi ut scias te nihil scire. tui ergo te libri arguunt quam nihil a philosophia disci possit ad vitam. haec tua verba sunt: 'mihi ... obtunsi'. <hi rend="italics">Academicis adscripsit Sig., libro II Krische 183</hi> (<hi rend="italics">57</hi>), <hi rend="italics">III Pl.</hi>
                   </note>
                </quote>
-               <quote  rend="blockquote">
+               <quote rend="blockquote">
                   <hi rend="italics">disputationem se habuisse cum M. Varrone</hi>
                </quote>
-               <quote  rend="blockquote">homine omnium facile acutissimo et sine ulla dubitatione doctissimo<note>
+               <quote rend="blockquote">homine omnium facile acutissimo et sine ulla dubitatione doctissimo<note>
                      <hi rend="italics">Aug. civ. 6, 2</hi> denique et ipse Tullius huic (<hi rend="italics">M. Varroni</hi>) tale testimonium perhibet, ut in libris Academicis dicat eam quae ibi versatur disputationem se habuisse cum M. Varrone 'homine' inquit 'omnium .., doctissimo'. non ait eloquentissimo — —, sed 'omn.' inquit 'fac. ac.', et in eis libris id est Academicis, ubi cuncta dubitanda esse contendit, addidit 'sine u. d. doct.'</note>
                </quote>
-               <quote  rend="blockquote">fixus<note>
+               <quote rend="blockquote">fixus<note>
                      <hi rend="italics">Diom. GK. 1, 377</hi> figor ambigue declinatur apud veteres tempore perfecto; reperimus enim fictus et fixus: — — Varro ad Ciceronem tertio 'fixum' et Cicero Academiarum (<hi rend="italics">sic codd.</hi> -micorum <hi rend="italics">Keil</hi>) tertio 'malcho in opera adfixa' et Vergilius (<hi rend="italics">Aen. 4, 15</hi>) 'si mihi non animo fixum'. <hi rend="italics">illa</hi> malcho in o. a. <hi rend="italics">alteri scriptori tribuens et ante ea lacunam statuens Keil testimonium refert ad p. 40, 30</hi>
                      <p>
                         <hi rend="italics">Verba haec sine nomine scriptoris apud Non. p. 433</hi> (sensus) <hi rend="italics">servata</hi> nam primum manifestum est et sapere nos cum incitatio sit vel sensus <hi rend="italics">Ciceronis esse Roth coniecit, Academicorum Pl.</hi>
                      </p>
                   </note>
                </quote>
-               <quote  rend="blockquote">
+               <quote rend="blockquote">
                   <hi rend="italics">
                      <del>Reliqua librorum III et IV fragmenta suo quodque
 loco Lucullo subscribentur.</del>

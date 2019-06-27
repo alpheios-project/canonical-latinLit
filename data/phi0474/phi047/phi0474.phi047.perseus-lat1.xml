@@ -1,9 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="eng">
-      <fileDesc >
+      <fileDesc>
          <titleStmt>
             <title>Paradoxa stoicorum ad M. Brutum</title>
             <author>M. Tullius Cicero</author>
@@ -27,8 +26,8 @@
             <authority>Perseus Project</authority>
             <date type="release">2009-10-07</date>
          </publicationStmt>
-         <sourceDesc xmlns="http://www.tei-c.org/ns/1.0">
-            <biblStruct >
+         <sourceDesc>
+            <biblStruct>
                <monogr>
                   <title>M. Tullii Ciceronis opera quae supersunt omnia</title>
                   <author>M. Tullius Cicero</author>
@@ -60,22 +59,22 @@
             <refState unit="section"/>
          </refsDecl>
       </encodingDesc>
-      <profileDesc >
+      <profileDesc>
          <langUsage>
             <language ident="lat">Latin</language>
             <language ident="grc">Ancient Greek</language>
          </langUsage>
       </profileDesc>
       <revisionDesc>
-<change who="balmas01" when="2013-09-13">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
-<change who="gcrane" when="2013-06-08">TEI XML converted to facilitate CTS compatibility</change>
-<change who="gcrane" when="2011-01-15">base SDL file</change>
-<change who="rsingh04" when="2009-10-09">more reorganizing of texts module by collection</change>
-<change who="rsingh04" when="2009-09-15">added more cicero texts, removed old cicero files that aren't used</change>
-<change who="ajones06" when="2009-09-10">Fixed some of the metadata for the Cicero philosophical works.</change>
-<change who="gcrane" when="2009-09-09">base files</change>
-<change who="gcrane" when="2006-05-06">small mods</change>
-<change who="gcrane" when="2006-04-29">replaced italics with angle brackets to mark supplements; fixed OCR errors by comparing this to another on-line edition: stray period  "latr.aret"; "e" for "c": hue-to ;huc, area to arca; the latter is tough, since "area" is a real word. There may have been one or two other fixes  I didn't check places
+         <change who="balmas01" when="2013-09-13">moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory</change>
+         <change who="gcrane" when="2013-06-08">TEI XML converted to facilitate CTS compatibility</change>
+         <change who="gcrane" when="2011-01-15">base SDL file</change>
+         <change who="rsingh04" when="2009-10-09">more reorganizing of texts module by collection</change>
+         <change who="rsingh04" when="2009-09-15">added more cicero texts, removed old cicero files that aren't used</change>
+         <change who="ajones06" when="2009-09-10">Fixed some of the metadata for the Cicero philosophical works.</change>
+         <change who="gcrane" when="2009-09-09">base files</change>
+         <change who="gcrane" when="2006-05-06">small mods</change>
+         <change who="gcrane" when="2006-04-29">replaced italics with angle brackets to mark supplements; fixed OCR errors by comparing this to another on-line edition: stray period  "latr.aret"; "e" for "c": hue-to ;huc, area to arca; the latter is tough, since "area" is a real word. There may have been one or two other fixes  I didn't check places
 where there was just a difference of a comma here or there.
 
 there are c. 30K of raw characters in this (30017 by one scan). at 99.95%
@@ -83,8 +82,8 @@ accuracy, that would allow for 15 errors. It looks like we are better than that
 *before* the text comparison.</change>
 
 
-<change who="gcrane" when="2006-04-29">tagged quotes as QUOTE</change>
-<change who="gcrane" when="2006-04-29">added to repository</change>
+         <change who="gcrane" when="2006-04-29">tagged quotes as QUOTE</change>
+         <change who="gcrane" when="2006-04-29">added to repository</change>
 
          <change when="2016-11-20" who="Thibault Clérice">CapiTainS and Epidoc</change>
       </revisionDesc>
@@ -94,9 +93,9 @@ accuracy, that would allow for 15 errors. It looks like we are better than that
          <pb n="p.1001"/>
          <div type="textpart" subtype="argument" n="arg">
             <p>Hoc libello Cicero Catonis Uticensis, perfecti illius Stoici, admiratione adductus disciplinae Stoicae praecepta, quae homines ob
-               severitatem admirabantur magis quam sequebantur, <foreign xml:lang="greek">para/doca</foreign>,
+               severitatem admirabantur magis quam sequebantur, <foreign xml:lang="greek">παράδοξα</foreign>,
                quae Latini vocant <quote>admirabilia</quote>, orationis suae suavitate mollita
-               probare populo et commendare sibi proposuit. Nam etsi in oratione pro L. Murena Catone accusante Stoicorum <foreign xml:lang="greek">para/doca</foreign> perstringit et in librorum de Finibus III. et IV. eorundem austeritati
+               probare populo et commendare sibi proposuit. Nam etsi in oratione pro L. Murena Catone accusante Stoicorum <foreign xml:lang="greek">παράδοξα</foreign> perstringit et in librorum de Finibus III. et IV. eorundem austeritati
                moderandum esse censet, tamen non tam doctrinae rationem illorum improbat quam sermonis insolentiam. Ac primo quidem loco
                bonum sola honestate contineri, deinde secundo tamquam consectario ostendit honestissimum quemque in se uno habere omnia
                bene beateque vivendi praesidia. Ex his autem locis cetera, quae
@@ -126,13 +125,13 @@ accuracy, that would allow for 15 errors. It looks like we are better than that
               n="urn:cts:latinLit:phi0474.phi047.perseus-lat1">
             <div type="textpart" n="intro" subtype="book">
                <div type="textpart" n="1" subtype="section">
-                  <p > Animadverti, Brute, saepe Catonem, avunculum
+                  <p> Animadverti, Brute, saepe Catonem, avunculum
 tuum, cum in senatu sententiam diceret, locos gravis ex
 philosophia tractare abhorrentis ab hoc usu forensi et
 publico, sed dicendo consequi tamen, ut illa etiam populo probabilia viderentur; </p>
                </div>
                <div type="textpart" n="2" subtype="section">
-                  <p > quod eo maius est illi quam
+                  <p> quod eo maius est illi quam
 aut tibi aut nobis, quia nos ea philosophia plus utimur,
 quae peperit dicendi copiam et in qua dicuntur ea, quae
 non multum discrepent ab opinione populari, Cato autem, perfectus mea sententia Stoicus, et ea sentit, quae
@@ -140,7 +139,7 @@ non sane probantur in volgus, et in ea est haeresi, quae
 nullum sequitur florem orationis neque dilatat argumentum: minutis interrogatiunculis quasi punctis quod proposuit efficit. </p>
                </div>
                <div type="textpart" n="3" subtype="section">
-                  <p >  sed nihil est tam incredibile, quod non
+                  <p>  sed nihil est tam incredibile, quod non
 dicendo fiat probabile, nihil tam horridum, tam incultum, quod non splendescat oratione et tamquam excolatur. quod cum ita putarem, feci etiam audacius quam
 ille ipse, de quo loquor: Cato enim dum taxat de magnitudine animi, de continentia, de morte, de omni laude
 virtutis, de dis inmortalibus, de caritate patriae Stoice
@@ -149,18 +148,18 @@ ipsa, quae vix in gymnasiis et in otio Stoici probant,
 ludens conieci in communis locos. </p>
                </div>
                <div type="textpart" n="4" subtype="section">
-                  <p > quae quia sunt admirabilia contraque opinionem omnium <del>ab ipsis etiam
-<foreign xml:lang="greek">para/doca</foreign> appellantur</del>, temptare volui possentne proferri in lucem <del>id est in forum</del> et ita dici, ut probarentur, an alia quaedam esset erudita, alia popularis oratio,
-eoque hos locos scripsi libentius, quod mihi ista <foreign xml:lang="greek">para/doca</foreign>
+                  <p> quae quia sunt admirabilia contraque opinionem omnium <del>ab ipsis etiam
+<foreign xml:lang="greek">παράδοξα</foreign> appellantur</del>, temptare volui possentne proferri in lucem <del>id est in forum</del> et ita dici, ut probarentur, an alia quaedam esset erudita, alia popularis oratio,
+eoque hos locos scripsi libentius, quod mihi ista <foreign xml:lang="greek">παράδοξα</foreign>
 quae appellant maxime videntur esse Socratica
 longeque verissima. </p>
                </div>
                <div type="textpart" n="5" subtype="section">
-                  <p > accipies igitur hoc parvum opusculum, lucubratum his iam contractioribus noctibus,
+                  <p> accipies igitur hoc parvum opusculum, lucubratum his iam contractioribus noctibus,
 quoniam illud maiorum vigiliarum munus in tuo nomine
 adparuit, et degustabis genus exercitationum  earum,
 quibus uti consuevi, cum ea, quae dicuntur in scholis
-<foreign xml:lang="greek">qetikw=s</foreign>, ad nostrum hoc oratorium transfero dicendi
+<foreign xml:lang="greek">θετικῶς</foreign>, ad nostrum hoc oratorium transfero dicendi
 genus. hoc tamen opus in acceptum ut referas nihil
 postulo; non enim est tale, ut in arce poni possit, quasi
 Minerva illa Phidiae, sed tamen, ut ex eadem officina
@@ -169,11 +168,11 @@ exisse adpareat.</p>
             </div>
             <pb n="p.1003"/>
             <div type="textpart" n="1" subtype="book">
-               <head >Paradoxon I</head>
+               <head>Paradoxon I</head>
                <div type="textpart" n="6" subtype="section">
-                  <quote  xml:lang="greek">o(/ti mo/non to\ kalo\n a)gaqo/n.</quote>
-                  <milestone  unit="chapter" n="1"/>
-                  <p >vereor ne cui vestrum ex Socraticorum  hominum
+                  <quote xml:lang="greek">o(/ti mo/non to\ kalo\n a)gaqo/n.</quote>
+                  <milestone unit="chapter" n="1"/>
+                  <p>vereor ne cui vestrum ex Socraticorum  hominum
 disputationibus, non ex meo sensu deprompta haec videatur oratio; dicam quod sentio tamen et dicam brevius
 quam res tanta dici potest. numquam hercule ego neque pecunias istorum neque tecta magnifica neque opes
 neque imperia neque eas, quibus maxime astricti sunt,
@@ -183,12 +182,12 @@ desiderare maxime, quibus abundarent; neque enim umquam expletur nec satiatur cu
 amittendi metu. </p>
                </div>
                <div type="textpart" n="7" subtype="section">
-                  <p > in quo equidem   continentissimorum
+                  <p> in quo equidem   continentissimorum
 hominum, maiorum nostrorum, saepe requiro prudentiam, qui haec inbecilla et conmutabilia <del>pecuniae membra</del> verbo <quote>bona</quote> putaverunt appellanda, cum re ac
 factis longe aliter iudicavissent. potestne bonum cuiquam malo esse aut potest quisquam in abundantia bonorum ipse esse non bonus? atqui ista omnia talia videmus, ut et inprobi habeant et absint probis. </p>
                </div>
                <div type="textpart" n="8" subtype="section">
-                  <p > quam ob
+                  <p> quam ob
 rem licet inrideat si qui volt, plus apud me tamen vera
 ratio valebit quam volgi opinio; neque ego umquam
 bona perdidisse dicam, si quis pecus aut supellectilem
@@ -200,14 +199,14 @@ nam omnia mecum porto mea.</quote>
                   </p>
                </div>
                <div type="textpart" n="9" subtype="section">
-                  <p > ille haec ludibria fortunae ne sua quidem putavit, quae nos appellamus etiam
+                  <p> ille haec ludibria fortunae ne sua quidem putavit, quae nos appellamus etiam
 bona. quid est igitur, quaeret aliquis, bonum? si, quod
 recte fit et honeste et cum virtute, id bene fieri vere
 dicitur, quod rectum et honestum et cum virtute est, id
 solum opinor bonum.</p>
                </div>
                <div type="textpart" n="10" subtype="section">
-                  <p >
+                  <p>
                      <milestone unit="chapter" n="2"/>
 sed haec videri possunt odiosiora,
 cum lentius disputantur: vita atque factis inlustrata sunt
@@ -225,7 +224,7 @@ aut supellectilis ad delicias aut epularum ad voluptates?
 ponite ante oculos unum quemque <del>regum</del>. </p>
                </div>
                <div type="textpart" n="11" subtype="section">
-                  <p > voltis a
+                  <p> voltis a
 Romulo? voltis post liberam civitatem ab iis ipsis, qui
 liberaverunt? quibus tandem Romulus gradibus escendit
 in caelum? iisne, quae isti bona appellant, an rebus
@@ -234,7 +233,7 @@ omitto reliquos; sunt enim omnes pares inter se praeter
 Superbum. </p>
                </div>
                <div type="textpart" n="12" subtype="section">
-                  <p > Brutum si qui roget, quid egerit in patria
+                  <p> Brutum si qui roget, quid egerit in patria
 liberanda, si quis item reliquos eiusdem consilii socios,
 quid spectaverint, quid secuti sint: num quis exsistat,
 cui voluptas, cui divitiae, cui denique praeter officium
@@ -250,17 +249,17 @@ Karthaginiensium adventum corporibus suis intercludendum putaverunt? quid Africa
 quid inter horum aetates interiectus Cato? quid innumerabiles alii? - nam domesticis exemplis abundamus -:
 cogitassene quicquam in vita sibi esse expetendum nisi
 quod laudabile esse et praeclarum videretur?</p>
-                  <milestone  unit="chapter" n="3"/>
+                  <milestone unit="chapter" n="3"/>
                </div>
                <div type="textpart" n="13" subtype="section">
-                  <p > veniant
+                  <p> veniant
 igitur isti inrisores huius orationis ac sententiae, et iam
 vel ipsi iudicent, utrum se horum alicuius, qui marmoreis tectis ebore et auro fulgentibus, qui signis, qui
 tabulis, qui caelato auro et argento, qui Corinthiis operibus abundant, an C. Fabricii, qui nihil habuit eorum,
 nihil habere voluit, similis malint? </p>
                </div>
                <div type="textpart" n="14" subtype="section">
-                  <p > atque haec quidem,
+                  <p> atque haec quidem,
 quae modo huc, modo illuc transferuntur, facile adduci
 solent ut in bonis rebus esse negent; illud arte tenent
 accurateque defendunt, voluptatem esse summum bonum: quae quidem mihi vox pecudum videtur esse, non
@@ -277,7 +276,7 @@ prosternes, ut nihil inter te atque inter quadripedem aliquam putes interesse? q
 eum, qui id possidet, meliorem facit? </p>
                </div>
                <div type="textpart" n="15" subtype="section">
-                  <p > ut enim est quisque maxime boni particeps, ita est laudabilis maxime,
+                  <p> ut enim est quisque maxime boni particeps, ita est laudabilis maxime,
 neque est ullum bonum, de quo non is, qui id habeat,
 honeste possit gloriari. quid autem est horum in voluptate? melioremne efficit aut laudabiliorem virum? an
 quisquam in potiendis voluptatibus gloriando se et praedicatione ecfert? atqui si voluptas, quae plurimorum patrociniis defenditur, in rebus bonis habenda non est,
@@ -287,14 +286,14 @@ vivere nisi honeste et recte vivere.</p>
                </div>
             </div>
             <div type="textpart" n="2" subtype="book">
-               <head >Paradoxon II</head>
+               <head>Paradoxon II</head>
                <div type="textpart" n="16" subtype="section">
-                  <milestone  unit="chapter" n="1"/>
-                  <quote  xml:lang="greek">o(/ti au)ta/rkhs h( a)reth\ pro\s eu)daimoni/an</quote>
-                  <quote  rend="blockquote">
+                  <milestone unit="chapter" n="1"/>
+                  <quote xml:lang="greek">o(/ti au)ta/rkhs h( a)reth\ pro\s eu)daimoni/an</quote>
+                  <quote rend="blockquote">
                      <del>In quo virtus sit, ei nihil deesse ad beate vivendum.</del>
                   </quote>
-                  <p >nec vero ego M. Regulum aerumnosum nec infelicem nec miserum umquam putavi; non enim magnitudo
+                  <p>nec vero ego M. Regulum aerumnosum nec infelicem nec miserum umquam putavi; non enim magnitudo
 animi cruciabatur eius a Poenis, non gravitas, non fides,
 non constantia, non ulla virtus, non denique animus
 ipse, qui tot virtutum praesidio tantoque comitatu, cum
@@ -304,7 +303,7 @@ fortunatis hominibus, adversis unus ex summis viris
 videbatur, quo beatius esse mortali nihil potest. </p>
                </div>
                <div type="textpart" n="17" subtype="section">
-                  <p > nescis,
+                  <p> nescis,
 insane, nescis, quantas viris virtus habeat; nomen tantum virtutis usurpas, quid ipsa valeat ignoras: nemo
 potest non beatissimus esse, qui est totus aptus ex sese
 quique in se uno sua ponit omnia. cui spes omnis et
@@ -322,7 +321,7 @@ consecutus sum, ut eo statu essem, quem neque fortunae temeritas neque inimicoru
 mortemne mihi minitaris, </p>
                </div>
                <div type="textpart" n="18" subtype="section">
-                  <p > ut omnino ab hominibus, an
+                  <p> ut omnino ab hominibus, an
 exsilium, ut ab inprobis demigrandum sit? mors terribilis iis, quorum cum vita omnia exstinguuntur, non
 iis, quorum laus emori non potest; exsilium autem illis,
 quibus quasi circumscriptus est habitandi locus, non iis,
@@ -334,7 +333,7 @@ tuae tibi occurrunt iniuriae, quae te suspirare libere non
 sinunt. </p>
                </div>
                <div type="textpart" n="19" subtype="section">
-                  <p > quam ob rem ut inprobo et stulto et inerti nemini bene esse potest, sic bonus vir et sapiens et fortis
+                  <p> quam ob rem ut inprobo et stulto et inerti nemini bene esse potest, sic bonus vir et sapiens et fortis
 miser esse nemo potest; nec vero, cuius virtus moresque
 laudandi sunt, eius non laudanda vita est, neque porro
 fugienda vita est quae laudanda est, esset autem fugienda, si esset misera. quam ob rem quicquid est
@@ -342,11 +341,11 @@ laudabile, idem et beatum et florens et expetendum videri decet.</p>
                </div>
             </div>
             <div type="textpart" n="3" subtype="book">
-               <head >Paradoxon III</head>
+               <head>Paradoxon III</head>
                <div type="textpart" n="20" subtype="section">
-                  <quote  rend="blockquote" xml:lang="greek">o(/ti i)/sa ta\ a(marth/mata kai\ ta\ katorqw/mata</quote>
-                  <milestone  unit="chapter" n="1"/>
-                  <p >
+                  <quote rend="blockquote" xml:lang="greek">o(/ti i)/sa ta\ a(marth/mata kai\ ta\ katorqw/mata</quote>
+                  <milestone unit="chapter" n="1"/>
+                  <p>
                      <quote>parva</quote> inquit <quote>est res.</quote> at magna culpa; nec enim
 peccata rerum  eventis, sed vitiis hominum  metienda
 sunt: in quo peccatur, id potest aliud alio maius esse
@@ -369,7 +368,7 @@ si non licuit, quod semper unum et idem est, quae ex
 eo peccata nascuntur aequalia sint oportet. </p>
                </div>
                <div type="textpart" n="21" subtype="section">
-                  <p > quod si virtutes sunt pares inter se, paria esse etiam vitia necesse
+                  <p> quod si virtutes sunt pares inter se, paria esse etiam vitia necesse
 est: atqui paris esse virtutes nec bono viro meliorem nec
 temperante temperantiorem nec. forti fortiorem nec sapienti sapientiorem posse fieri, facillume potest perspici.
 an virum bonum dices, qui depositum nullo teste, cum
@@ -378,7 +377,7 @@ idem in decem milibus non idem fecerit? aut temperantem, qui se in aliqua libidi
 effuderit? </p>
                </div>
                <div type="textpart" n="22" subtype="section">
-                  <p > una virtus est consentiens cum ratione et perpetua constantia; nihil huc addi potest, quo magis virtus
+                  <p> una virtus est consentiens cum ratione et perpetua constantia; nihil huc addi potest, quo magis virtus
 sit, nihil demi, ut virtutis nomen relinquatur: etenim si
 bene facta recte facta sunt et nihil recto rectius, certe
 ne bono quidem melius quicquam inveniri potest. sequitur igitur ut etiam vitia sint paria, si quidem pravitates animi recte vitia dicuntur. atqui quoniam pares
@@ -386,7 +385,7 @@ virtutes sunt, recte facta, quoniam a virtutibus proficiscuntur, paria esse debe
 vitiis manant, sint aequalia necesse est.</p>
                </div>
                <div type="textpart" n="23" subtype="section">
-                  <p >
+                  <p>
                      <quote>a philosophis</quote>
 inquit <quote>ista sumis.</quote> metuebam ne a lenonibus diceres.
 <quote>Socrates disputabat isto modo.</quote> bene hercule narras;
@@ -402,7 +401,7 @@ ac si magistratibus manus adferant? quamcumque in
 domum stuprum intulerint, eandem esse labem lubidinis? </p>
                </div>
                <div type="textpart" n="24" subtype="section">
-                  <p > 
+                  <p> 
                      <quote>nihilne igitur interest</quote>—nam hoc dicet aliquis—<quote>patrem quis necet anne servum?</quote> nuda ista si ponas,
 iudicare qualia sint non facile possim. patrem vita privare
 
@@ -417,7 +416,7 @@ utro accessit, id fit propensius, si utroque adiuncta est,
 paria fiant necesse est. </p>
                </div>
                <div type="textpart" n="25" subtype="section">
-                  <p > illud tamen interest, quod in
+                  <p> illud tamen interest, quod in
 servo necando, si id fit iniuria, semel peccatur, in patris
 vita violanda multa peccantur: violatur is qui procreavit, is qui aluit, is qui erudivit, is qui in sede ac domo
 atque in re publica conlocavit; multitudine peccatorum
@@ -429,7 +428,7 @@ etiamne in minimis rebus? etiam, si quidem rerum modum figere non possumus, anim
 possumus. </p>
                </div>
                <div type="textpart" n="26" subtype="section">
-                  <p > histrio si paulum se movit extra numerum
+                  <p> histrio si paulum se movit extra numerum
 aut si versus pronuntiatus est syllaba una brevior aut
 longior, exsibilatur, exploditur: in vita tu, quae omni
 gestu moderatior, omni versu aptior esse debet, in
@@ -442,16 +441,16 @@ posse videatur.</p>
                </div>
             </div>
             <div type="textpart" n="4" subtype="book">
-               <head >Paradoxon IV</head>
+               <head>Paradoxon IV</head>
                <div type="textpart" n="27" subtype="section">
-                  <quote  rend="blockquote" xml:lang="greek">o(/ti pa=s a)/frwn mai/netai</quote>
-                  <quote  rend="blockquote">
+                  <quote rend="blockquote" xml:lang="greek">o(/ti pa=s a)/frwn mai/netai</quote>
+                  <quote rend="blockquote">
                      <del>Omnis stultos insanire.</del>
                   </quote>
-                  <milestone  unit="chapter" n="1"/>
-                  <p >ego vero te non stultum, ut saepe, non inprobum,
+                  <milestone unit="chapter" n="1"/>
+                  <p>ego vero te non stultum, ut saepe, non inprobum,
 ut semper, sed dementem * * *</p>
-                  <p >* * * rebus ad victum necessariis esse invictus * *
+                  <p>* * * rebus ad victum necessariis esse invictus * *
 potest. sapientis animus magnitudine consilii, tolerantia
 rerum humanarum, contemptione fortunae, virtutibus
 denique omnibus ut moenibus saeptus vincetur et expugnabitur, qui ne civitate quidem pelli potest? quae
@@ -469,7 +468,7 @@ a Catilinae furiis ad tuum scelus furoremque conversae
 non civitas erat. </p>
                </div>
                <div type="textpart" n="28" subtype="section">
-                  <p > itaque pulsus ego civitate non sum, 
+                  <p> itaque pulsus ego civitate non sum, 
 quae nulla erat: accersitus in civitatem sum, cum esset
 in re publica consul, qui tum nullus fuerat, esset senatus, qui tum occiderat, esset consensus populi liber,
 esset iuris et aequitatis, quae vincla sunt civitatis, repetita memoria. ac vide quam ista tui latrocinii tela contempserim: iactam et inmissam a te nefariam in me
@@ -478,7 +477,7 @@ sceleratas faces inferebas, meorum aliquid ruere aut
 deflagrare arbitrabare: </p>
                </div>
                <div type="textpart" n="29" subtype="section">
-                  <p > nihil neque meum est neque
+                  <p> nihil neque meum est neque
 cuiusquam, quod auferri, quod eripi, quod amitti potest.
 si mihi eripuisses divinam animi mei conscientiam, meis
 curis, vigiliis, consiliis stare te invitissimo rem publicam, si huius aeterni beneficii inmortalem memoriam
@@ -490,12 +489,12 @@ maxime, cum meam salutem senatus exteris nationibus,
 <add>ut</add> civis optumi, commendabat, tu ne nunc quidem, nisi
 forte idem hostis esse et civis potest. an tu civem ab
 hoste natura ac loco, non animo factisque distinguis?</p>
-                  <milestone  unit="chapter" n="2"/>
-                  <p >
+                  <milestone unit="chapter" n="2"/>
+                  <p>
 </p>
                </div>
                <div type="textpart" n="30" subtype="section">
-                  <p >caedem  in foro fecisti, armatis latronibus templa tenuisti, privatorum domos, aedis sacras incendisti: cur
+                  <p>caedem  in foro fecisti, armatis latronibus templa tenuisti, privatorum domos, aedis sacras incendisti: cur
 hostis Spartacus, si tu civis? potes autem esse tu civis,
 propter quem aliquando civitas non fuit? et me tuo nomine appellas, cum omnes meo discessu exsulasse rem
 publicam putent? numquamne, homo amentissime, te
@@ -509,7 +508,7 @@ nec quid loquare? nescis exsilium  scelerum esse poenam, meum illud iter ob prae
 esse susceptum? </p>
                </div>
                <div type="textpart" n="31" subtype="section">
-                  <p > omnes scelerati atque inpii, quorum tu
+                  <p> omnes scelerati atque inpii, quorum tu
 te ducem esse profiteris, quos leges exsilio adfici volunt,
 exsules sunt, etiam  si solum non mutarunt. an cum
 omnes te leges exsulem esse iubeant, <add>non eris tu exsul?
@@ -518,7 +517,7 @@ plurimos occidisti. qui incendium fecerit? aedes Nympharum manu tua deflagravit.
 in foro castra posuisti. </p>
                </div>
                <div type="textpart" n="32" subtype="section">
-                  <p > sed quid ego communis leges
+                  <p> sed quid ego communis leges
 profero, quibus omnibus es exsul? familiarissimus tuus
 de te privilegium tulit, ut, si in opertum Bonae Deae
 accessisses, exsulares: at te id fecisse etiam gloriari
@@ -530,14 +529,14 @@ oportebit.</p>
                </div>
             </div>
             <div type="textpart" n="5" subtype="book">
-               <head >Paradoxon V</head>
+               <head>Paradoxon V</head>
                <div type="textpart" n="33" subtype="section">
-                  <quote  rend="blockquote" xml:lang="greek">o(/ti mo/nos o( sofo\s e)leu/qeros kai\ pa=s a)/frwn dou=los</quote>
-                  <quote  rend="blockquote">
+                  <quote rend="blockquote" xml:lang="greek">o(/ti mo/nos o( sofo\s e)leu/qeros kai\ pa=s a)/frwn dou=los</quote>
+                  <quote rend="blockquote">
                      <del>Omnis sapientis liberos esse et stultos omnis servos.</del>
                   </quote>
-                  <milestone  unit="chapter" n="1"/>
-                  <p >laudetur vero hic imperator aut etiam     appelletur
+                  <milestone unit="chapter" n="1"/>
+                  <p>laudetur vero hic imperator aut etiam     appelletur
 aut hoc nomine dignus putetur. quo modo aut cui tandem hic libero imperabit, qui non potest cupiditatibus
 suis imperare? refrenet primum libidines, spernat voluptates, iracundiam teneat, coerceat avaritiam, ceteras
 animi labis repellat; tum incipiat aliis imperare, cum
@@ -555,7 +554,7 @@ me, si quid in his studiis operae posuerim, perdidisse?
 liberum esse neminem. </p>
                </div>
                <div type="textpart" n="34" subtype="section">
-                  <p > quid est enim libertas? potestas
+                  <p> quid est enim libertas? potestas
 vivendi, ut velis. quis igitur vivit, ut volt, nisi qui recte
 vivit, qui gaudet officio, cui vivendi via considerata atque provisa est? qui ne legibus quidem propter metum
 paret, sed eas sequitur et colit, quod id salutare esse
@@ -568,7 +567,7 @@ si, ut sapiens poeta dixit, <quote>suis ea cuique fingitur moribus.</quote> soli
 invitus, nihil dolens, nihil coactus. </p>
                </div>
                <div type="textpart" n="35" subtype="section">
-                  <p > quod etsi ita esse
+                  <p> quod etsi ita esse
 pluribus verbis disserendum est, illud tamen et breve et
 confitendum est, nisi qui ita sit adfectus, esse liberum
 neminem. servi igitur omnes inprobi; nec hoc tam re
@@ -576,10 +575,10 @@ est quam dictu inopinatum atque mirabile: non enim ita
 dicunt eos esse servos, ut mancipia, quae sunt dominorum facta nexo aut aliquo iure civili, sed, si servitus
 sit, sicut est, oboedientia fracti animi et abiecti et arbitrio carentis suo, quis neget omnis levis, omnis cupidos,
 omnis denique inprobos esse servos?</p>
-                  <milestone  unit="chapter" n="2"/>
+                  <milestone unit="chapter" n="2"/>
                </div>
                <div type="textpart" n="36" subtype="section">
-                  <p >an ille mihi liber,
+                  <p>an ille mihi liber,
 cui mulier imperat? cui leges inponit, praescribit, iubet,
 vetat quod videtur? qui nihil imperanti negare potest,
 nihil recusare audet? poscit, dandum est; vocat, veniendum; eicit, abeundum; minatur, extimescendum. ego
@@ -589,7 +588,7 @@ puto. atque in pari stultitia sunt, quos signa, quos tabulae, quos caelatum arge
 quos aedificia magnifica nimio opere delectant. <quote>at sumus</quote> inquit <quote>principes civitatis.</quote> vos vero ne conservorum quidem vestrorum principes estis; </p>
                </div>
                <div type="textpart" n="37" subtype="section">
-                  <p > sed ut in magna
+                  <p> sed ut in magna
 familia sunt alii lautiores, ut sibi videntur, servi, sed
 tamen servi, ut atrienses, at qui tractant ista, qui tergent, qui ungunt, qui verrunt, qui spargunt, non honestissimum locum servitutis tenent, sic in civitate, qui
 se istarum rerum cupiditatibus dediderunt, ipsius servitutis
@@ -604,7 +603,7 @@ clamores tollentem cum video, servum esse ineptiarum
 omnium iudico. </p>
                </div>
                <div type="textpart" n="38" subtype="section">
-                  <p > 
+                  <p> 
                      <quote>nonne igitur sunt illa festiva?</quote> sunt;
 nam nos quoque oculos eruditos habemus. sed, obsecro te, ita venusta habeantur ista, non ut vincla virorum
 sint, sed ut oblectamenta puerorum. quid enim censes?
@@ -617,14 +616,14 @@ copia gloriantem, nonne hunc hominem ita servum iudicet, ut ne in familia quidem
 negotio putet? </p>
                </div>
                <div type="textpart" n="39" subtype="section">
-                  <p > an eorum servitus dubia est, qui cupiditate peculii nullam condicionem recusant durissimae
+                  <p> an eorum servitus dubia est, qui cupiditate peculii nullam condicionem recusant durissimae
 servitutis? hereditatis spes quid iniquitatis in serviendo
 non suscipit? quem nutum locupletis orbi senis non observat? loquitur ad voluntatem, quicquid denuntiatum
 est facit, adsectatur, adsidet, muneratur. quid horum
 est liberi?</p>
                </div>
                <div type="textpart" n="40" subtype="section">
-                  <p >
+                  <p>
                      <milestone unit="chapter" n="3"/>quid denique servi non inertis? quid? iam
 illa cupiditas, quae videtur esse liberalior, honoris, imperii, provinciarum, quam dura est domina, quam imperiosa, quam vehemens! Cethego, homini non probatissimo, servire coegit eos, qui sibi esse amplissimi
 videbantur, munera mittere, noctu venire domum ad
@@ -641,7 +640,7 @@ quo timore nocentis adficiti an non est omnis metus servitus?
                   </p>
                </div>
                <div type="textpart" n="41" subtype="section">
-                  <p > quid valet igitur illa eloquentissimi viri, L. Crassi,
+                  <p> quid valet igitur illa eloquentissimi viri, L. Crassi,
 copiosa magis quam sapiens oratio <quote>eripite nos ex servitute</quote>? quae est ista servitus tam claro homini tamque
 nobili? omnis animi debilitati et humilis et fracti timiditas servitus est. <quote>nolite sinere nos cuiquam servire.</quote>
 in libertatem vindicari volt? minime; quid enim adiungit? <quote>nisi vobis universis.</quote> dominum mutare, non liber
@@ -656,21 +655,21 @@ ipsa convincat.</p>
                </div>
             </div>
             <div type="textpart" n="6" subtype="book">
-               <head >Paradoxon VI</head>
+               <head>Paradoxon VI</head>
                <div type="textpart" n="42" subtype="section">
-                  <quote  rend="blockquote" xml:lang="greek">o(/ti mo/nos o( sofo\s plou/sios</quote>
-                  <quote  rend="blockquote">
+                  <quote rend="blockquote" xml:lang="greek">o(/ti mo/nos o( sofo\s plou/sios</quote>
+                  <quote rend="blockquote">
                      <del>Quod solus sapiens dives.</del>
                   </quote>
-                  <milestone  unit="chapter" n="1"/>
-                  <p >quae est ista in commemoranda pecunia tua tam insolens ostentatio? solusne tu dives? pro di inmortales!
+                  <milestone unit="chapter" n="1"/>
+                  <p>quae est ista in commemoranda pecunia tua tam insolens ostentatio? solusne tu dives? pro di inmortales!
 egone me audisse aliquid et didicisse non gaudeam? solusne dives? quid, si ne dives quidem? quid, si pauper
 etiam? quem enim intellegimus divitem aut hoc verbum
 in quo homine ponimus? opinor in eo, cui tanta possessio sit, ut ad liberaliter vivendum facile contentus sit,
 qui nihil quaerat, nihil adpetat, nihil optet amplius. </p>
                </div>
                <div type="textpart" n="43" subtype="section">
-                  <p > animus oportet tuus se iudicet divitem, non hominum 
+                  <p> animus oportet tuus se iudicet divitem, non hominum 
 sermo, neque possessiones tuae. nihil sibi deesse putat,
 nihil curat amplius, satiatus est aut contentus etiam pecunia: concedo, dives est. sin autem propter aviditatem
 pecuniae nullum quaestum turpem putas, cum isti ordini
@@ -678,7 +677,7 @@ ne honestus quidem possit esse ullus; si cotidie fraudas,
 decipis, poscis, pacisceris, aufers, eripis, si socios spolias, aerarium  expilas, si testamenta amicorum <hi rend="italics">ne</hi> exspectas quidem atque ipse supponis, haec utrum abundantis an egentis signa sunt? </p>
                </div>
                <div type="textpart" n="44" subtype="section">
-                  <p > animus hominis dives, non
+                  <p> animus hominis dives, non
 arca appellari solet. quamvis ilia sit plena, dum te
 inanem videbo, divitem non putabo; etenim ex eo, quantum
 
@@ -692,7 +691,7 @@ innumerabilis cupiditates habet, quae brevi tempore maximas copias exhaurire pos
 appellabo divitem, cum ipse egere se sentiat? </p>
                </div>
                <div type="textpart" n="45" subtype="section">
-                  <p > multi ex te audierunt cum diceres, neminem esse divitem, nisi
+                  <p> multi ex te audierunt cum diceres, neminem esse divitem, nisi
 qui exercitum alere posset suis fructibus, quod populus
 Romanus tantis vectigalibus iam pridem vix potest:
 ergo hoc proposito numquam eris dives ante, quam tibi
@@ -703,7 +702,7 @@ ut expleas id quod exoptas. itaque istam paupertatem vel potius egestatem  ac me
 obscure tulisti.</p>
                </div>
                <div type="textpart" n="46" subtype="section">
-                  <p >
+                  <p>
                      <milestone unit="chapter" n="2"/>nam ut iis, qui honeste rem quaerunt
 mercaturis faciendis, operis dandis, publicis sumendis,
 intellegimus opus esse quaesito, sic, qui videt domi tuae
@@ -719,7 +718,7 @@ omnia venalia, edictum, decretum, alienam suam sententiam, forum, domum, vocem, 
 putet confiteri sibi quaesito opus esse? cui quaesito autem opus sit, quis umquam hunc vere dixerit divitem? </p>
                </div>
                <div type="textpart" n="47" subtype="section">
-                  <p > etenim  divitiarum est fructus in copia, copiam autem
+                  <p> etenim  divitiarum est fructus in copia, copiam autem
 declarat satietas rerum atque abundantia: quam tu quoniam numquam adsequere, numquam omnino es dives
 futurus. meam autem quoniam pecuniam contemnis, et
 
@@ -730,7 +729,7 @@ recte—est enim ad volgi opinionem mediocris, ad tuam
 nulla, ad meam modica—, de me silebo, de re loquar. </p>
                </div>
                <div type="textpart" n="48" subtype="section">
-                  <p > si censenda nobis sit atque aestimanda res, utrum tandem pluris aestimemus pecuniam Pyrrhi, quam Fabricio
+                  <p> si censenda nobis sit atque aestimanda res, utrum tandem pluris aestimemus pecuniam Pyrrhi, quam Fabricio
 dabat, an continentiam Fabricii, qui illam pecuniam repudiabat? utrum aurum Samnitium an responsum M'.
 Curii? hereditatem L. Pauli an liberalitatem Africani,
 qui eius hereditatis Q. Maximo fratri partem suam concessit? haec profecto, quae sunt summarum virtutum,
@@ -739,7 +738,7 @@ quis igitur, si quidem, ut quisque quod plurimi est possidet, ita divitissimus h
 auri et argenti pluris quam virtus aestimanda est. </p>
                </div>
                <div type="textpart" n="49" subtype="section">
-                  <p > o di 
+                  <p> o di 
 inmortales! non intellegunt homines quam magnum vectigal sit parsimonia. venio enim iam ad sumptuosos,
 relinquo istum quaestuosum. capit ille ex suis praediis
 sescena sestertia, ego centena ex meis; illi aurata tecta
@@ -752,7 +751,7 @@ possessio quo est maior, eo plus requirit ad se tuendam,
 an quae suis se viribus sustinet? </p>
                </div>
                <div type="textpart" n="50" subtype="section">
-                  <p > sed quid ego de me
+                  <p> sed quid ego de me
 loquor, qui morum ac temporum vitio aliquantum etiam
 ipse fortasse in huius saeculi errore verser? M'. Manilius
 patrum nostrorum memoria, ne semper Curios et Luscinos loquamur, pauper tandem fuit? habuit enim aediculas in Carinis et fundum in Labicano. nos igitur
@@ -761,7 +760,7 @@ aestimatione census, verum victu atque cultu terminatur
 pecuniae modus. </p>
                </div>
                <div type="textpart" n="51" subtype="section">
-                  <p > non esse cupidum pecunia est, non esse
+                  <p> non esse cupidum pecunia est, non esse
 emacem vectigal est: contentum vero suis rebus esse
 maximae sunt certissimaeque divitiae.  etenim  si isti
 callidi rerum aestimatores prata et areas quasdam magno
@@ -776,7 +775,7 @@ amittitur, nec tempestatum nec temporum perturbatione
 mutatur! </p>
                </div>
                <div type="textpart" n="52" subtype="section">
-                  <p > qua praediti qui sunt, soli sunt divites. soli
+                  <p> qua praediti qui sunt, soli sunt divites. soli
 enim possident res et fructuosas et sempiternas solique,
 quod est proprium divitiarum, contenti sunt rebus suis,
 satis esse putant quod est, nihil adpetunt, nulla re egent,
