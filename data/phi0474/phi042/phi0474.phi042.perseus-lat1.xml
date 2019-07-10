@@ -1,9 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader xml:lang="eng">
-      <fileDesc >
+      <fileDesc>
          <titleStmt>
             <title>Topica</title>
             <title type="sub">Machine readable text</title>
@@ -25,8 +24,8 @@
             <authority>Perseus Project</authority>
             <date type="release">2011-04-14</date>
          </publicationStmt>
-         <sourceDesc xmlns="http://www.tei-c.org/ns/1.0">
-            <biblStruct >
+         <sourceDesc>
+            <biblStruct>
                <monogr>
                   <author>M. Tullius Cicero</author>
                   <title>M. Tulli Ciceronis Rhetorica, Tomus II</title>
@@ -56,7 +55,7 @@
             <refState unit="section"/>
          </refsDecl>
       </encodingDesc>
-      <profileDesc >
+      <profileDesc>
          <langUsage>
             <language ident="">Latin
 	</language>
@@ -70,28 +69,28 @@
    </teiHeader>
    <text xml:lang="">
       <pb n="p.4001"/>
-      <front >
+      <front>
          <div type="textpart" subtype="section">
-            <head >SIGLA</head>
-            <p >
+            <head>SIGLA</head>
+            <p>
                <hi rend="italics">O</hi> = cod. Ottobonianus 1406, saec. x</p>
-            <p >(<hi rend="italics">f</hi>) = cod. Vitebergensis, saec. xv (1432)</p>
-            <p >(<hi rend="italics">A</hi>) = cod. Vossianus 84, saec. x</p>
-            <p >(<hi rend="italics">B</hi>) = cod. Vossianus 86, saec. x</p>
-            <p >
+            <p>(<hi rend="italics">f</hi>) = cod. Vitebergensis, saec. xv (1432)</p>
+            <p>(<hi rend="italics">A</hi>) = cod. Vossianus 84, saec. x</p>
+            <p>(<hi rend="italics">B</hi>) = cod. Vossianus 86, saec. x</p>
+            <p>
                <hi rend="italics">m</hi> = cod. Marcianus 257, saec. x</p>
-            <p >
+            <p>
                <hi rend="italics">A</hi> (<hi rend="italics">A</hi>) (<hi rend="italics">B</hi>) <hi rend="italics">m</hi>
             </p>
-            <p >(<hi rend="italics">a</hi>) = cod. Einsiedlensis 324, saec. x</p>
-            <p >(<hi rend="italics">b</hi>) = cod. Sangallensis 830, saec. x</p>
-            <p >(<hi rend="italics">c</hi>) = cod. Sangallensis 854, saec. xi</p>
-            <p >(<hi rend="italics">d</hi>) = cod. Sangallensis 818, saec. xi</p>
-            <p >
+            <p>(<hi rend="italics">a</hi>) = cod. Einsiedlensis 324, saec. x</p>
+            <p>(<hi rend="italics">b</hi>) = cod. Sangallensis 830, saec. x</p>
+            <p>(<hi rend="italics">c</hi>) = cod. Sangallensis 854, saec. xi</p>
+            <p>(<hi rend="italics">d</hi>) = cod. Sangallensis 818, saec. xi</p>
+            <p>
                <hi rend="italics">V</hi> = cod. Vossianus 70, saec. x</p>
-            <p >
+            <p>
                <hi rend="italics">L</hi> = cod. Leidensis 90, saec. xi</p>
-            <p >(<foreign xml:lang="greek">b</foreign>) = cod. Bernensis 219°, saec. xi</p>
+            <p>(<foreign xml:lang="greek">β</foreign>) = cod. Bernensis 219°, saec. xi</p>
          </div>
       </front>
       <pb n="p.4002"/>
@@ -99,13 +98,13 @@
          <div xml:lang="lat"
               type="edition"
               n="urn:cts:latinLit:phi0474.phi042.perseus-lat1">
-            <head >
-               <abbr>M.<expan xmlns="http://www.tei-c.org/ns/1.0">
+            <head>
+               <abbr>M.<expan>
                      <ex>Marci</ex>
                   </expan>
                </abbr>Tvlli Ciceronis Topica</head>
             <div type="textpart" n="1" subtype="section">
-               <p >
+               <p>
                   <milestone n="1" unit="chapter"/>
                   <reg>maiores</reg> nos res scribere ingressos, C. Trebati, et his
 libris, quos brevi tempore satis multos edidimus, digniores
@@ -116,7 +115,7 @@ incidisti in Aristotelis Topica quaedam, quae sunt ab illo
 pluribus libris explicata. Qua inscriptione commotus continuo a me librorum eorum sententiam requisisti; </p>
             </div>
             <div type="textpart" n="2" subtype="section">
-               <p >
+               <p>
                   <reg>quam</reg> 
 cum tibi exposuissem, disciplinam inveniendorum argu-
 mentorum, ut sine ullo errore ad ea<note>ad ea <hi rend="italics">Klotz ex Boethio</hi>: ad eam <hi rend="italics">codd.</hi>
@@ -133,7 +132,7 @@ hortatus essem, utrumque, ut ex te audiebam, es expertus.
 Sed a libris te obscuritas reiecit; </p>
             </div>
             <div type="textpart" n="3" subtype="section">
-               <p >
+               <p>
                   <reg>rhetor</reg> autem ille magnus
 haec, ut opinor, Aristotelia se ignorare respondit. Quod
 quidem minime sum admiratus eum philosophum rhetori
@@ -146,7 +145,7 @@ ventae sunt adlici debuerunt, sed dicendi quoque incredi-
 bili quadam cum copia turn etiam suavitate. </p>
             </div>
             <div type="textpart" n="4" subtype="section">
-               <p >
+               <p>
                   <reg>non</reg> potui
 igitur tibi saepius hoc roganti et tamen verenti ne mihi
 gravis esses—facile enim id cernebam—debere diutius, ne
@@ -157,7 +156,7 @@ dum fuimus una, tu optimus es testis quam fuerim occupa-
 tus; </p>
             </div>
             <div type="textpart" n="5" subtype="section">
-               <p >
+               <p>
                   <reg>ut</reg> autem a te discessi in Graeciam proficiscens, cum
 opera mea nec res publica nec amici uterentur nec honeste 
 inter arma versari possem, ne si tuto quidem mihi id liceret,
@@ -168,22 +167,22 @@ repetita in ipsa navigatione conscripsi tibique ex itinere misi, ut mea diligent
 etsi admonitore non eges, ad memoriam nostrarum rerum
 excitarem. Sed iam tempus est ad id quod instituimus
 accedere.</p>
-               <p >
+               <p>
                   <milestone n="2" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="6" subtype="section">
-               <p >Cum omnis ratio diligens disserendi duas habeat partis<note>partis <hi rend="italics">vulg.</hi>: artis <hi rend="italics">Aa2</hi>
+               <p>Cum omnis ratio diligens disserendi duas habeat partis<note>partis <hi rend="italics">vulg.</hi>: artis <hi rend="italics">Aa2</hi>
                   </note>, 
 unam inveniendi alteram iudicandi, utriusque princeps, ut
 mihi quidem videtur, Aristoteles fuit. Stoici autem in
-altera elaboraverunt; iudicandi enim vias diligenter persecuti sunt ea scientia quam <foreign xml:lang="greek">dialektikh\n</foreign> appellant, inveniendi
-artem quae <foreign xml:lang="greek">topikh\</foreign> dicitur, quae et<note>quaeque et <hi rend="italics">A</hi>
+altera elaboraverunt; iudicandi enim vias diligenter persecuti sunt ea scientia quam <foreign xml:lang="greek">διαλεκτικὴν</foreign> appellant, inveniendi
+artem quae <foreign xml:lang="greek">τοπικὴ</foreign> dicitur, quae et<note>quaeque et <hi rend="italics">A</hi>
                   </note> ad usum potior erat et 
 ordine naturae certe prior, totam reliquerunt. </p>
             </div>
             <div type="textpart" n="7" subtype="section">
-               <p >
+               <p>
                   <reg>nos</reg> autem,
 quoniam in utraque summa utilitas est et utramque, si
 erit otium, persequi cogitainus, ab ea quae prior est
@@ -197,7 +196,7 @@ debemus; sic enim appellatae ab Aristotele sunt eae quasi
 sedes, e quibus argumenta promuntur. </p>
             </div>
             <div type="textpart" n="8" subtype="section">
-               <p >
+               <p>
                   <reg>itaque</reg> licet definire 
 locum esse argumenti sedem, argumentum autem rationem,
 quae rei dubiae faciat fidem. Sed ex his locis in quibus
@@ -209,7 +208,7 @@ Extrinsecus autem ea ducuntur quae absunt longeque
 disiuncta sunt. </p>
             </div>
             <div type="textpart" n="9" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> ad id totum de quo disseritur tum
 definitio adhibetur, quae<note>quae <hi rend="italics">O</hi>: qua <hi rend="italics">codd.</hi>
                   </note> quasi involutum evolvit<note>evolvit <hi rend="italics">O</hi>: evolvitur <hi rend="italics">codd.</hi>
@@ -220,7 +219,7 @@ res suas obtinendas; eius autem aequitatis utilis cognitio
 est; utilis ergo est iuris civilis scientia;—</p>
             </div>
             <div type="textpart" n="10" subtype="section">
-               <p >
+               <p>
                   <reg>tum</reg> partium 
 enumeratio, quae tractatur hoc modo: Si neque censu nec
 vindicta nec testamento liber factus est, non est liber;
@@ -236,7 +235,7 @@ xvi. 10. 16</note> aere dando. <milestone n="3" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="11" subtype="section">
-               <p >
+               <p>
                   <reg>ducuntur</reg> etiam argu- 
 menta ex eis rebus quae quodam modo adfectae sunt ad
 id de quo quaeritur. Sed hoc genus in pluris partis distri-
@@ -250,19 +249,19 @@ alia ex effectis, alia ex comparatione maiorum aut parium
 aut minorum. </p>
             </div>
             <div type="textpart" n="12" subtype="section">
-               <p >
+               <p>
                   <reg>coniugata</reg> dicuntur quae sunt ex verbis 
 generis eiusdem. Eiusdem autem generis verba sunt quae
 orta ab uno varie commutantur, ut sapiens sapienter sapien-
 
 <pb n="p.4005"/>
 
-tia. Haec verborum coniugatio <foreign xml:lang="greek">suzugi/a</foreign> dicitur, ex qua
+tia. Haec verborum coniugatio <foreign xml:lang="greek">συζυγία</foreign> dicitur, ex qua
 huius modi est argumentum: Si compascuus ager est, ius
 est compascere. A genere sic ducitur: </p>
             </div>
             <div type="textpart" n="13" subtype="section">
-               <p >
+               <p>
                   <reg>quoniam</reg> argentum
 omne mulieri legatum est, non potest ea pecunia quae
 numerata domi relicta est non esse legata; forma enim 
@@ -271,7 +270,7 @@ numerata autem pecunia nomen argenti retinet; legata
 igitur videtur. </p>
             </div>
             <div type="textpart" n="14" subtype="section">
-               <p >
+               <p>
                   <reg>a</reg> forma generis, quam interdum, quo
 planius accipiatur, partem licet nominare hoc modo: Si
 ita Fabiae pecunia legata est a viro, si ei viro materfamilias 
@@ -284,7 +283,7 @@ cum fuerit Fabia, legatum <del>ei<note>ei <hi rend="italics">om. O</hi>
                   </del> non videtur. </p>
             </div>
             <div type="textpart" n="15" subtype="section">
-               <p >
+               <p>
                   <reg>a</reg> similitudine 
 hoc modo: Si aedes eae corruerunt vitiumve faciunt<note>fecerunt <hi rend="italics">c</hi>
                   </note> quarum usus fructus legatus est, heres restituere non debet nec
@@ -292,7 +291,7 @@ reficere, non magis quam servum restituere, si is cuius
 usus fructus legatus esset deperisset. A differentia: </p>
             </div>
             <div type="textpart" n="16" subtype="section">
-               <p >
+               <p>
                   <reg>non</reg>,
 si uxori vir legavit argentum omne quod suum esset, 
 idcirco quae in nominibus fuerunt legata sunt. Multum
@@ -302,7 +301,7 @@ enim differt in arcane positum sit argentum an in tabulis
                   </del>. </p>
             </div>
             <div type="textpart" n="17" subtype="section">
-               <p >
+               <p>
                   <reg>ex</reg> contrario autem sic: Non debet ea mulier
 cui vir bonorum suorum usum fructum legavit cellis vinariis
 et oleariis plenis relictis, putare id ad se pertinere. Vsus 
@@ -313,7 +312,7 @@ enim, non abusus, legatus est. <del>Ea sunt inter se contraria<note>Ea... contra
                </p>
             </div>
             <div type="textpart" n="18" subtype="section">
-               <p >
+               <p>
                   <reg>ab</reg> adiunctis: Si ea mulier testamentum fecit
 quae se capite numquam deminuit, non videtur ex edicto
 praetoris secundum eas tabulas possessio dari. Adiungitur<note>adiungeretur <hi rend="italics">A</hi>: adiungetur <hi rend="italics">Bm</hi>
@@ -322,7 +321,7 @@ enim, ut secundum servorum, secundum exsulum, secundum
 puerorum tabulas possessio videatur ex edicto dari. </p>
             </div>
             <div type="textpart" n="19" subtype="section">
-               <p >
+               <p>
                   <reg>ab</reg>
 
                   <pb n="p.4006"/>
@@ -333,14 +332,14 @@ divortium, etsi mulier nuntium remisit, tamen pro liberis
 manere nihil oportet. A consequentibus: </p>
             </div>
             <div type="textpart" n="20" subtype="section">
-               <p >
+               <p>
                   <reg>si</reg> mulier, cum 
 fuisset nupta cum eo quicum conubium non esset, nuntium
 remisit; quoniam qui nati sunt patrem non sequuntur, pro
 liberis manere nihil oportet. A repugnantibus: </p>
             </div>
             <div type="textpart" n="21" subtype="section">
-               <p >
+               <p>
                   <reg>si</reg> pater- 
 familias uxori ancillarum usum fructum legavit a filio
 neque a secundo herede legavit, mortuo filio mulier usum
@@ -351,7 +350,7 @@ potest. Repugnat<note>repugnat <hi rend="italics">O</hi>: pugnat <hi rend="itali
 Ab efficientibus rebus hoc modo: </p>
             </div>
             <div type="textpart" n="22" subtype="section">
-               <p >
+               <p>
                   <reg>omnibus</reg> est ius parietem 
 directum ad parietem communem adiungere vel solidum
 vel fornicatum. Sed qui in pariete communi demoliendo
@@ -362,7 +361,7 @@ aedificatum est, ut suspendi non posset<note>possit <hi rend="italics">Abf</hi>
                   </note>. </p>
             </div>
             <div type="textpart" n="23" subtype="section">
-               <p >
+               <p>
                   <reg>ab</reg> effectis rebus 
 hoc modo: Cum mulier viro in manum convenit, omnia
 quae mulieris fuerunt viri fiunt dotis nomine. Ex comparatione autem omnia valent quae sunt huius modi:
@@ -384,22 +383,22 @@ annuus est usus. Valeat aequitas, quae paribus in causis
 paria iura desiderat. </p>
             </div>
             <div type="textpart" n="24" subtype="section">
-               <p >
+               <p>
                   <reg>quae</reg> autem adsumuntur extrinsecus, 
 
 <pb n="p.4007"/>
 
 ea maxime ex auctoritate ducuntur. Itaque Graeci talis
-argumentationes <foreign xml:lang="greek">a)te/xnous</foreign> vocant, id est artis expertis, ut si
+argumentationes <foreign xml:lang="greek">ἀτέχνους</foreign> vocant, id est artis expertis, ut si
 ita respondeas: Quoniam P. Scaevola id solum esse ambitus aedium dixerit, quod<note>quod <hi rend="italics">vulg.</hi>: quantum <hi rend="italics">OB ex Boethio</hi>: quo <hi rend="italics">d</hi>: quoad <hi rend="italics">Valla</hi>
                   </note> parietis communis tegendi causa
 tectum proiceretur, ex quo tecto in eius<note>tecto in eius <hi rend="italics">Boethius</hi>: in tectum eius <hi rend="italics">codd.</hi>
                   </note> aedis qui pro- 
 texisset aqua deflueret, id tibi ius videri.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="25" subtype="section">
-               <p >
+               <p>
                   <reg>his</reg> igitur locis qui sunt expositi ad omne argumentum
 reperiendum<note>reperiendum
 <hi rend="italics">om. codd. O</hi>
@@ -414,7 +413,7 @@ epulas recepi, sic accipiam, ut reliquiarum sit potius aliquid
 quam te hinc patiar non satiatum discedere. </p>
             </div>
             <div type="textpart" n="26" subtype="section">
-               <p >
+               <p>
                   <reg>quando</reg> ergo
 unus quisque eorum locorum quos exposui sua quaedam
 habet membra, ea quam subtilissime persequamur, et pri-
@@ -424,7 +423,7 @@ duo genera prima: unum earum rerum quae sunt, alterum
 earum quae intelleguntur. </p>
             </div>
             <div type="textpart" n="27" subtype="section">
-               <p >
+               <p>
                   <reg>esse</reg> ea dico quae cerni
 tangique<note>tangive <hi rend="italics">A</hi>
                   </note> possunt, ut fundum aedes, parietem stillicidium, 
@@ -444,7 +443,7 @@ quam notionem voco. Ea saepe in argumentando defini-
 tione explicanda est. </p>
             </div>
             <div type="textpart" n="28" subtype="section">
-               <p >
+               <p>
                   <reg>atque</reg> etiam definitiones aliae sunt
 partitionum aliae divisionum; partitionum, cum res ea 
 
@@ -464,7 +463,7 @@ sed ad huius libri institutum illa nihil pertinent; tantum
 est dicendum qui sit definitionis modus. </p>
             </div>
             <div type="textpart" n="29" subtype="section">
-               <p >
+               <p>
                   <reg>sic</reg> igitur veteres 
 praecipiunt: cum sumpseris ea quae sint ei rei quam
 definire velis cum aliis communia, usque eo persequi, dum
@@ -490,7 +489,7 @@ id quod est, sive id quod intellegitur definiendum est.
 </p>
             </div>
             <div type="textpart" n="30" subtype="section">
-               <p >
+               <p>
                   <reg>partitionum</reg> 
                   <del>autem<note>autem <hi rend="italics">secl. Lambinus</hi>
                      </note>
@@ -502,7 +501,7 @@ est. In partitione quasi membra sunt, ut corporis caput
 
 umeri manus latera crura pedes et cetera; <milestone n="7" unit="chapter"/>
                   <reg>in</reg> divisione
-formae, quas Graeci <foreign xml:lang="greek">ei)/dh</foreign> vocant, nostri, si qui haec forte
+formae, quas Graeci <foreign xml:lang="greek">εἴδη</foreign> vocant, nostri, si qui haec forte
 tractant, species appellant, non pessime id quidem sed
 inutiliter ad mutandos casus in dicendo. Nolim enim, ne
 si Latine quidem dici possit, specierum et speciebus dicere; 
@@ -511,12 +510,12 @@ velim. Cum autem utroque verbo idem significetur, com-
 moditatem in dicendo non arbitror neglegendam. </p>
             </div>
             <div type="textpart" n="31" subtype="section">
-               <p >
+               <p>
                   <reg>genus</reg>
 et formam definiunt hoc modo: Genus est notio ad pluris
 differentias pertinens; forma est notio cuius differentia ad 
 caput generis et quasi fontem referri potest. Notionem
-appello quod Graeci turn <foreign xml:lang="greek">e)/nnoian</foreign> turn <foreign xml:lang="greek">pro/lhyin.</foreign> Ea est
+appello quod Graeci turn <foreign xml:lang="greek">ἔννοιαν</foreign> turn <foreign xml:lang="greek">πρόληψιν.</foreign> Ea est
 insita et animo<note>animo <hi rend="italics">Hammer</hi>: ante <hi rend="italics">codd.</hi>: <hi rend="italics">om. non nulli</hi>
                   </note> praecepta<note>praecepta <hi rend="italics">f</hi>: per-
 cepta <hi rend="italics">codd.</hi>
@@ -531,7 +530,7 @@ turbatus non satis acute quae sunt secernenda distinguit.
 </p>
             </div>
             <div type="textpart" n="32" subtype="section">
-               <p >
+               <p>
                   <reg>saepe</reg> etiam definiunt et oratores et poetae per translationem<note>per translationem
 <hi rend="italics">Oef</hi>: tralatione <hi rend="italics">A2abcL</hi>
                   </note>
@@ -546,10 +545,10 @@ aetatis, senectutem occasum vitae velit definire; translatione
 enim utens discedebat a verbis propriis rerum ac suis.
 <milestone n="8" unit="chapter"/>
                   <reg>quod</reg> ad definitiones attinet, hactenus; reliqua videamus.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="33" subtype="section">
-               <p >
+               <p>
                   <reg>partitione</reg> tum sic utendum est, nullam ut partem re-
 linquas; ut, si partiri velis tutelas, inscienter facias, si 
 ullam praetermittas. At si stipulationum aut iudiciorum
@@ -563,28 +562,28 @@ subiciantur; partium distributio saepe est infinitior, tam-
 quam rivorum a fonte diductio. </p>
             </div>
             <div type="textpart" n="34" subtype="section">
-               <p >
+               <p>
                   <reg>itaque</reg> in oratoriis artibus 
-quaestionis genere proposito, quot eius formae sint, subiungitur absolute. At cum de ornamentis verborum sententiarumve praecipitur, quae vocant <foreign xml:lang="greek">sxh/mata,</foreign> non fit idem.
+quaestionis genere proposito, quot eius formae sint, subiungitur absolute. At cum de ornamentis verborum sententiarumve praecipitur, quae vocant <foreign xml:lang="greek">σχήματα,</foreign> non fit idem.
 Res est enim infinitior; ut ex hoc quoque intellegatur quid
 velimus inter partitionem et divisionem interesse. Quam-
 quam enim vocabula prope idem valere videbantur<note>videbantur <hi rend="italics">Orelli</hi>: videantur <hi rend="italics">codd.</hi>: videntur <hi rend="italics">Boethius</hi>
                   </note>, tamen
 quia res differebant, nomina rerum distare voluerunt.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="35" subtype="section">
-               <p >Multa etiam ex notatione sumuntur.. Ea est autem, 
+               <p>Multa etiam ex notatione sumuntur.. Ea est autem, 
 cum ex vi nominis argumentum elicitur; quam Graeci
-<foreign xml:lang="greek">e)tumologi/an</foreign> appellant, id est verbum ex verbo veriloquium;
+<foreign xml:lang="greek">ἐτυμολογίαν</foreign> appellant, id est verbum ex verbo veriloquium;
 nos autem novitatem verbi non satis apti fugientes genus
 hoc notationem appellamus, quia sunt verba rerum notae.
-Itaque hoc quidem Aristoteles <foreign xml:lang="greek">su/mbolon</foreign> appellat, quod
+Itaque hoc quidem Aristoteles <foreign xml:lang="greek">σύμβολον</foreign> appellat, quod
 Latine est nota. Sed cum intellegitur quid significetur,
 minus laborandum est de nomine. </p>
             </div>
             <div type="textpart" n="36" subtype="section">
-               <p >
+               <p>
                   <reg>multa</reg> igitur in disputando 
 notatione eliciuntur ex verbo, ut cum quaeritur postliminium
 quid sit—non dico quae sint postlimini; nam id caderet
@@ -598,7 +597,7 @@ timo non plus inesse timum quam in meditullio tullium;
 Scaevola autem </p>
             </div>
             <div type="textpart" n="37" subtype="section">
-               <p >P. F. iunctum putat esse verbum, ut sit in 
+               <p>P. F. iunctum putat esse verbum, ut sit in 
 eo et post et limen; ut, quae a nobis alienata, cum ad
 hostem pervenerint, ex suo tamquam limine exierint, hinc
 
@@ -610,20 +609,20 @@ videantur. Quo genere etiam Mancini causa defendi
 potest, postliminio redisse; deditum non esse, quoniam
 non sit receptus; nam neque deditionem neque donationem
 sine acceptione intellegi posse.</p>
-               <p >
+               <p>
                   <milestone n="9" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="38" subtype="section">
-               <p >Sequitur is locus, qui constat ex eis rebus quae quodam
+               <p>Sequitur is locus, qui constat ex eis rebus quae quodam
 modo adfectae sunt ad id de quo ambigitur; quem modo
 dixi in plures partes distributum. Cuius est primus locus
-ex coniugatione<note>coniunctione <hi rend="italics">AabcL<foreign xml:lang="greek">b</foreign>
+ex coniugatione<note>coniunctione <hi rend="italics">AabcL<foreign xml:lang="greek">β</foreign>
                      </hi>
                   </note>, quam <del>Graeci<note>Graeci <hi rend="italics">om. codd. plur.</hi>: <hi rend="italics">secl. Orelli</hi>
                      </note>
                   </del> 
-                  <foreign xml:lang="greek">suzugi/an</foreign> vocant, finitimus
+                  <foreign xml:lang="greek">συζυγίαν</foreign> vocant, finitimus
 notationi, de qua modo dictum est; ut, si aquam pluviam 
 eam modo intellegeremus quam imbri conlectam videremus,
 veniret Mucius, qui, quia coniugata<note>coniugata <hi rend="italics">Of</hi>: iugata <hi rend="italics">codd.</hi>
@@ -632,7 +631,7 @@ pluendo, diceret omnem aquam oportere arceri quae
 pluendo crevisset. </p>
             </div>
             <div type="textpart" n="39" subtype="section">
-               <p >
+               <p>
                   <reg>cum</reg> autem a genere ducetur argu-
 mentum, non erit necesse id usque a capite arcessere. 
 Saepe etiam citra licet, dum modo supra sit quod sumitur,
@@ -647,19 +646,19 @@ quarum altera iubetur ab arbitro coerceri altera non iube-
 tur. </p>
             </div>
             <div type="textpart" n="40" subtype="section">
-               <p >
+               <p>
                   <reg>commode</reg> etiam tractatur haec argumentatio quae ex
 genere sumitur, cum ex toto partis persequare hoc modo:
 Si dolus malus est, cum aliud agitur aliud simulatur,
 enumerare licet quibus id modis fiat, deinde in eorum 
 aliquem id quod arguas dolo malo factum includere; quod
 genus argumenti in primis firmum videri solet.</p>
-               <p >
+               <p>
                   <milestone n="10" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="41" subtype="section">
-               <p >
+               <p>
                   <reg>similitudo</reg> sequitur, quae late patet, sed oratoribus et
 philosophis magis quam vobis. Etsi enim omnes loci sunt
 omnium disputationum ad argumenta suppeditanda, tamen 
@@ -671,17 +670,17 @@ Itaque genera tibi nota sint; ubi autem eis utare, quae-
 stiones ipsae te admonebunt. </p>
             </div>
             <div type="textpart" n="42" subtype="section">
-               <p >
+               <p>
                   <reg>sunt</reg> enim similitudines 
 quae ex pluribus conlationibus perveniunt quo volunt hoc
 modo: Si tutor fidem praestare debet, si socius, si cui
 mandaris, si qui fiduciam acceperit, debet etiam procura-
 tor. Haec ex pluribus perveniens quo vult appellatur
-inductio, quae Graece <foreign xml:lang="greek">e)pagwgh\</foreign> nominatur, qua plurimum
+inductio, quae Graece <foreign xml:lang="greek">ἐπαγωγὴ</foreign> nominatur, qua plurimum
 est usus in sermonibus Socrates. </p>
             </div>
             <div type="textpart" n="43" subtype="section">
-               <p >
+               <p>
                   <reg>alterum</reg> similitudinis 
 genus conlatione sumitur, cum una res uni, par pari com-
 paratur hoc modo: Quem ad modum, si in urbe de finibus
@@ -693,7 +692,7 @@ agrorum est, aquae pluviae arcendae adigere arbitrum non
 possis. </p>
             </div>
             <div type="textpart" n="44" subtype="section">
-               <p >
+               <p>
                   <reg>ex</reg> eodem similitudinis loco etiam exempla sumun- 
 tur, ut Crassus in causa Curiana exemplis plurimis usus
 est, qui testamento sic heredes instituisset, ut si filius natus
@@ -705,7 +704,7 @@ memoratio exemplorum valuit, eaque vos in respondendo
 uti multum soletis. </p>
             </div>
             <div type="textpart" n="45" subtype="section">
-               <p >
+               <p>
                   <reg>ficta</reg> enim exempla similitudinis
 habent vim; sed ea oratoria magis sunt quam vestra;
 quamnquam uti etiam vos soletis, sed hoc modo: Finge
@@ -714,7 +713,7 @@ potest. Num idcirco id eius factum est qui accepit? aut
 num is qui mancipio dedit ob eam rem se ulla re obligavit ? In hoc genere oratoribus et philosophis concessum
 est, ut muta etiam loquantur, ut mortui ab inferis exciten-
 tur, ut aliquid quod fieri nullo modo possit augendae rei
-gratia dicatur aut minuendae, quae <foreign xml:lang="greek">u(perbolh\</foreign> dicitur, multa
+gratia dicatur aut minuendae, quae <foreign xml:lang="greek">ὑπερβολὴ</foreign> dicitur, multa
 alia mirabilia. Sed latior est campus illorum. Eisdem
 
 <pb n="p.4013"/>
@@ -725,12 +724,12 @@ tamen ex locis, ut ante dixi, et <del>in<note>in <hi rend="italics">om. codd.</h
                      </note>
                   </del>
 quaestionibus argumenta ducuntur.</p>
-               <p >
+               <p>
                   <milestone n="11" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="46" subtype="section">
-               <p >
+               <p>
                   <reg>sequitur</reg> similitudinem differentia rei maxime contraria
 superiori; sed est eiusdem dissimile et simile invenire.
 Eius generis haec sunt: Non, quem ad modum quod 
@@ -739,7 +738,7 @@ item, quod pupillo aut pupillae debeas, recte possis eodem
 modo solvere. </p>
             </div>
             <div type="textpart" n="47" subtype="section">
-               <p >
+               <p>
                   <reg>deinceps</reg> locus est qui e contrario dicitur.
 Contrariorum autem genera plura; unum eorum quae in
 eodem genere plurimum differunt, ut sapientia stultitia. 
@@ -752,32 +751,32 @@ diversa <hi rend="italics">codd.</hi>
                   </note>. </p>
             </div>
             <div type="textpart" n="48" subtype="section">
-               <p >
+               <p>
                   <reg>sunt</reg> enim alia con-
 traria, quae privantia licet appellemus Latine, Graeci
-appellant <foreign xml:lang="greek">sterhtika/.</foreign> Praeposito enim ' in' privatur verbum
+appellant <foreign xml:lang="greek">στερητικά.</foreign> Praeposito enim ' in' privatur verbum
 ea vi, quam haberet si 'in' praepositum non fuisset, dignitas
 indignitas, humanitas inhumanitas, et cetera generis eiusdem, 
 quorum tractactio est eadem quae superiorum quae adversa
 dixi. </p>
             </div>
             <div type="textpart" n="49" subtype="section">
-               <p >
+               <p>
                   <reg>nam</reg> alia quoque sunt contrariorum genera, velut ea
 quae cum aliquo conferuntur, ut duplum simplum, multa
 pauca, longum breve, maius minus. Sunt etiam illa valde
 contraria quae appellantur negantia; ea<note>ea <hi rend="italics">om. A</hi>
                   </note> 
-                  <foreign xml:lang="greek">a)pofatika\</foreign> Graece<note>Graece <hi rend="italics">AOf</hi>: Graeci <hi rend="italics">codd.</hi>:
-(<foreign xml:lang="greek">a)pofatika\</foreign> Graeci) aientibus <hi rend="italics">Madvig</hi>
+                  <foreign xml:lang="greek">ἀποφατικὰ</foreign> Graece<note>Graece <hi rend="italics">AOf</hi>: Graeci <hi rend="italics">codd.</hi>:
+(<foreign xml:lang="greek">ἀποφατικὰ</foreign> Graeci) aientibus <hi rend="italics">Madvig</hi>
                   </note>, 
 contraria aientibus: Si hoc est, illud non est. Quid enim
 opus exemplo est? Tantum intellegatur, in argumento
 quaerendo contrariis omnibus contraria non convenire.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="50" subtype="section">
-               <p >
+               <p>
                   <reg>ab</reg> adiunctis autem posui equidem exemplum paulo ante,
 multa adiungi, quae suscipienda essent si statuissemus ex 
 edicto secundum eas tabulas possessionem dari, quas is
@@ -791,7 +790,7 @@ sit aut quid omnino fieri possit. <milestone n="12" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="51" subtype="section">
-               <p >
+               <p>
                   <reg>ac</reg> loci quidem ipsius
 forma talis est. Admonet autem hic locus, ut quaeratur
 quid ante rem, quid cum re, quid post rem evenerit.
@@ -804,7 +803,7 @@ parte locus hic oratorius non modo non iuris consultorum,
 sed ne philosophorum quidem. </p>
             </div>
             <div type="textpart" n="52" subtype="section">
-               <p >
+               <p>
                   <reg>ante</reg> rem enim quaeruntur
 quae talia sunt: apparatus conloquia locus constitutum
 convivium; cum re autem: pedum crepitus, <del>strepitus
@@ -813,13 +812,13 @@ noverat'</hi>
                      </note>,</del> corporum umbrae et si quid eius modi; at post
 rem: pallor rubor titubatio, si qua alia signa conturbationis
 et conscientiae, praeterea restinctus ignis, gladius cruentus
-ceteraque<note>ceteraque <hi rend="italics">A2Of</hi>: et cetera <hi rend="italics">db2<foreign xml:lang="greek">b</foreign>
+ceteraque<note>ceteraque <hi rend="italics">A2Of</hi>: et cetera <hi rend="italics">db2<foreign xml:lang="greek">β</foreign>
                      </hi>: cetera <hi rend="italics">codd.</hi>
                   </note> quae suspicionem facti possunt movere.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="53" subtype="section">
-               <p >
+               <p>
                   <reg>deinceps</reg> est locus dialecticorum proprius ex consequen-
 tibus et antecedentibus et repugnantibus<note>adiuncta <hi rend="italics">maluit Manutius</hi>
                   </note>. Nam coniuncta,
@@ -847,7 +846,7 @@ autem argentum est; legata igitur numerata pecunia est?
 </p>
             </div>
             <div type="textpart" n="54" subtype="section">
-               <p >
+               <p>
                   <reg>appellant</reg> autem dialectici eam conclusionem argumenti,
 in qua, cum primum adsumpseris, consequitur id quod
 adnexum est primum conclusionis modum; cum id quod 
@@ -858,18 +857,18 @@ plura sumpseris, ut quod relinquitur tollendum sit, is
 tertius appellatur conclusionis modus. </p>
             </div>
             <div type="textpart" n="55" subtype="section">
-               <p >
+               <p>
                   <reg>ex</reg> hoc illa rhetorum 
-ex contrariis conclusa, quae ipsi <foreign xml:lang="greek">e)nqumh/mata</foreign> appellant; non
+ex contrariis conclusa, quae ipsi <foreign xml:lang="greek">ἐνθυμήματα</foreign> appellant; non
 quod omnis<note>non quod omnis <hi rend="italics">O</hi>: non quia omnis <hi rend="italics">b2</hi>: non quod non omnis
 <hi rend="italics">
-                        <foreign xml:lang="greek">b</foreign>V2</hi>: non quin omnis <hi rend="italics">b marg.</hi>: non qui nominis <hi rend="italics">A1ab1cL</hi>
-                  </note> sententia proprio nomine <foreign xml:lang="greek">e)nqu/mhma</foreign> non dicatur<note>||| dicatur <hi rend="italics">A</hi>: dicatur <hi rend="italics">abcLV1<foreign xml:lang="greek">b</foreign>
+                        <foreign xml:lang="greek">β</foreign>V2</hi>: non quin omnis <hi rend="italics">b marg.</hi>: non qui nominis <hi rend="italics">A1ab1cL</hi>
+                  </note> sententia proprio nomine <foreign xml:lang="greek">ἐνθύμημα</foreign> non dicatur<note>||| dicatur <hi rend="italics">A</hi>: dicatur <hi rend="italics">abcLV1<foreign xml:lang="greek">β</foreign>
                      </hi>: non dicatur <hi rend="italics">codd.</hi>
                   </note>,
 sed, ut Homerus propter excellentiam commune poetarum
 nomen efficit apud Graecos suum, sic, cum omnis sententia
-<foreign xml:lang="greek">e)nqu/mhma</foreign> dicatur, quia videtur ea quae ex contrariis con- 
+<foreign xml:lang="greek">ἐνθύμημα</foreign> dicatur, quia videtur ea quae ex contrariis con- 
 ficitur acutissima, sola proprie nomen commune possedit.
 Eius generis haec sunt:
 <quote rend="blockquote">
@@ -880,19 +879,19 @@ Eius generis haec sunt:
                      <l>obest?</l>
                   </quote>
                </p>
-               <p >
+               <p>
                   <milestone n="14" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="56" subtype="section">
-               <p >
+               <p>
                   <reg>hoc</reg> disserendi genus attingit omnino vestras quoque in
 respondendo disputationes, sed philosophorum magis, quibus est cum oratoribus illa ex repugnantibus sententiis 
 communis conclusio quae a dialecticis tertius modus, a rhe-
 
 <pb n="p.4016"/>
 
-toribus <foreign xml:lang="greek">e)nqu/mhma</foreign> dicitur. Reliqui dialecticorum modi plures
+toribus <foreign xml:lang="greek">ἐνθύμημα</foreign> dicitur. Reliqui dialecticorum modi plures
 sunt, qui ex disiunctionibus constant: Aut hoc aut illud;
 hoc autem; non igitur illud. Itemque: Aut hoc aut illud;
 non autem hoc; illud igitur. Quae conclusiones idcirco
@@ -900,29 +899,29 @@ ratae sunt quod in disiunctione plus uno verum esse non
 potest. </p>
             </div>
             <div type="textpart" n="57" subtype="section">
-               <p >
+               <p>
                   <reg>atque</reg> ex eis conclusionibus quas supra scripsi prior
 quartus posterior quintus a dialecticis modus appellatur.
 Deinde addunt coniunctionum negantiam sic: Non et hoc
 et illud; hoc autem; non igitur illud. Hic modus est
 sextus. Septimus autem: Non et hoc et illud; non autem
 hoc; illud igitur. Ex eis modis conclusiones innumerabiles
-nascuntur, in quo est tota fere <foreign xml:lang="greek">dialektikh/.</foreign> Sed ne hae
+nascuntur, in quo est tota fere <foreign xml:lang="greek">διαλεκτική.</foreign> Sed ne hae
 quidem quas exposui ad hanc institutionem necessariae.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="58" subtype="section">
-               <p >
+               <p>
                   <reg>proximus</reg> est locus rerum efficientium, quae causae
 appellantur; deinde rerum effectarum ab efficientibus
 causis. Harum exempla, ut reliquorum locorum, paulo
-ante posui equidem<note>equidem <hi rend="italics">Of<foreign xml:lang="greek">b</foreign>
+ante posui equidem<note>equidem <hi rend="italics">Of<foreign xml:lang="greek">β</foreign>
                      </hi>: et quidem <hi rend="italics">codd.</hi>
                   </note> ex iure civili; sed haec patent latius.
 <milestone n="15" unit="chapter"/>
                   <reg>causarum</reg> 
                   <del>enim<note>enim <hi rend="italics">codd.</hi>: <hi rend="italics">secl. Friedrich</hi>:
-igitur <hi rend="italics">Of<foreign xml:lang="greek">b</foreign>
+igitur <hi rend="italics">Of<foreign xml:lang="greek">β</foreign>
                         </hi>: <hi rend="italics">secl. Orelli</hi>
                      </note>
                   </del> genera duo sunt; unum, quod vi sua id 
@@ -935,11 +934,11 @@ sine.quo effici non possit, ut si quis aes statue causam
 velit dicere, quod sine eo non possit effici. </p>
             </div>
             <div type="textpart" n="59" subtype="section">
-               <p >
+               <p>
                   <reg>huius</reg> generis
 causarum, sine quo non efficitur, alia sunt quieta, nihil
 agentia, stolida quodam modo, ut locus tempus materia
-ferramenta et cetera<note>et cetera <hi rend="italics">Of<foreign xml:lang="greek">b</foreign>c</hi>: cetera
+ferramenta et cetera<note>et cetera <hi rend="italics">Of<foreign xml:lang="greek">β</foreign>c</hi>: cetera
 <hi rend="italics">codd.</hi>
                   </note> generis eiusdem; alia autem praecur-
 sionem quandam adhibent ad efficiendum et quaedam
@@ -958,7 +957,7 @@ sola per se; beatos efficiat necne sola per sese quaestio est.
 </p>
             </div>
             <div type="textpart" n="60" subtype="section">
-               <p >
+               <p>
                   <reg>qua</reg> re cum in disputationem incident causa efficiens aliquid 
 necessario, sine dubitatione licebit quod efficitur ab ea
 caiisa concludere. <milestone n="16" unit="chapter"/>
@@ -970,7 +969,7 @@ enim, si sine parentibus filii esse non possunt, propterea in
 parentibus causa fuit gignendi necessaria. </p>
             </div>
             <div type="textpart" n="61" subtype="section">
-               <p >
+               <p>
                   <reg>hoc</reg> igitur sine
 quo non fit, ab eo in quo certe fit diligenter est separandum.
 Illud enim est tamquam 
@@ -984,7 +983,7 @@ igneum fulmen iniectum est, inflammatur navis necessario.
 </p>
             </div>
             <div type="textpart" n="62" subtype="section">
-               <p >
+               <p>
                   <reg>atque</reg> etiam est causarum dissimilitudo, quod aliae sunt,
 ut sine ulla appetitione animi, sine voluntate, sine opinione
 suum quasi opus efficiant, vel ut omne intereat quod ortum
@@ -1001,7 +1000,7 @@ causa nec quidquam omnino; sed huius modi causae non
 necessariae. </p>
             </div>
             <div type="textpart" n="63" subtype="section">
-               <p >
+               <p>
                   <reg>omnium</reg> autem causarum in aliis inest con-
 
 <pb n="p.4018"/>
@@ -1021,7 +1020,7 @@ partim sunt ignorata partim voluntaria; ignorata, quae
 necessitate effecta sunt; voluntaria, quae consilio. </p>
             </div>
             <div type="textpart" n="64" subtype="section">
-               <p >
+               <p>
                   <del>
                      <reg>quae</reg> 
 autem fortuna, vel ignorata vel voluntaria<note>Quae ... voluntaria <hi rend="italics">del. Schütz</hi>
@@ -1036,7 +1035,7 @@ voluntaria sunt aut necessaria interdum aut certe ignorata
 videantur. </p>
             </div>
             <div type="textpart" n="65" subtype="section">
-               <p >
+               <p>
                   <reg>toto</reg> igitur loco causarum explicate, ex earum
 differentia in magnis quidem causis vel oratorum vel
 philosophorum magna argumentorum suppetit copia; in
@@ -1047,7 +1046,7 @@ adhibentur in consilia et patronis diligentibus ad eorum
 prudentiam confugientibus hastas ministrant. </p>
             </div>
             <div type="textpart" n="66" subtype="section">
-               <p >
+               <p>
                   <reg>in</reg> omnibus 
 igitur eis iudiciis, in quibus EX FIDE BONA est additum, ubi
 <del>vero<note>vero om. <hi rend="italics">Odcf</hi>
@@ -1068,7 +1067,7 @@ suis disputare. <milestone n="18" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="67" subtype="section">
-               <p >
+               <p>
                   <reg>coniunctus</reg> huic causarum loco ille locus 
 est qui efficitur ex causis. Vt enim causa quid sit effectum
 indicat, sic quod effectum est quae fuerit causa demonstrat.
@@ -1077,10 +1076,10 @@ philosophis, sed eis qui ornate et copiose loqui possunt,
 mirabilem copiam dicendi, cum denuntiant quid ex quaque 
 re sit futurum. Causarum enim cognitio cognitionem even-
 torum facit.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="68" subtype="section">
-               <p >Reliquus est comparationis locus, cuius genus et ex-
+               <p>Reliquus est comparationis locus, cuius genus et ex-
 emplum supra positum est ut ceterorum; nunc explicanda
 tractatio est. Comparantur igitur ea quae aut maiora aut 
 minora aut paria dicuntur; in quibus spectantur haec:
@@ -1088,7 +1087,7 @@ numerus species vis, quaedam etiam ad res aliquas adfectio.
 </p>
             </div>
             <div type="textpart" n="69" subtype="section">
-               <p >
+               <p>
                   <reg>numero</reg> sic comparabuntur, plura bona ut paucioribus
 bonis anteponantur, pauciora mala malis pluribus, diuturniora
 bona brevioribus, longe et late pervagata angustis, ex quibus 
@@ -1103,7 +1102,7 @@ bus, voluntaria necessariis, animata inanimis, naturalia non
 naturalibus, artificiosa non artificiosis. </p>
             </div>
             <div type="textpart" n="70" subtype="section">
-               <p >
+               <p>
                   <reg>vis</reg> autem in com- 
 paratione sic cemitur: efficiens causa gravior quam non
 efficiens; quae se ipsis<note>ipsis <hi rend="italics">Oef</hi>: ipsa <hi rend="italics">codd.</hi>
@@ -1120,14 +1119,14 @@ Atque ut haec in comparatione meliora, sic deteriora quae
 eis sunt contraria. </p>
             </div>
             <div type="textpart" n="71" subtype="section">
-               <p >
+               <p>
                   <reg>parium</reg> autem comparatio nec elationem 
 habet nec summissionem; est enim aequalis. Multa autem
 sunt quae aequalitate ipsa comparantur<note>comparantur <hi rend="italics">OLbf</hi>: comparentur <hi rend="italics">codd.</hi>
                   </note>; quae ita fere con-
 cluduntur: Si consilio iuvare cives et auxilio aequa in
 laude ponendum est, pari gloria debent esse ei qui consu-
-lunt et ei qui defendunt; at quod<note>at quod <hi rend="italics">O<foreign xml:lang="greek">b</foreign>cf</hi>:
+lunt et ei qui defendunt; at quod<note>at quod <hi rend="italics">O<foreign xml:lang="greek">β</foreign>cf</hi>:
 atqui <hi rend="italics">Boethius</hi>: et quod <hi rend="italics">codd.</hi>
                   </note> primum, est; quod sequitur igitur. Perfecta est omnis argumentorum invenien-
 dorum praeceptio, ut, cum profectus sis a definitione, a
@@ -1135,12 +1134,12 @@ partitione, a notatione, a coniugatis, a genere, a formis,
 a similitudine, a differentia, a contrariis, ab adiunctis, a consequentibus, ab antecedentibus, a repugnantibus, a causis,
 ab effectis, a comparatione maiorum minorum parium, nulla
 praeterea sedes argumenti quaerenda sit.</p>
-               <p >
+               <p>
                   <milestone n="19" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="72" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> quoniam ita a principio divisimus, ut alios locos
 diceremus in eo ipso de quo ambigitur haerere, de quibus 
 satis est dictum, alios adsumi extrinsecus, de eis pauca
@@ -1152,7 +1151,7 @@ aliorum manus sint ventura, detur opera, ut quam plurimum
 eis quos recta studia delectant prodesse possimus. </p>
             </div>
             <div type="textpart" n="73" subtype="section">
-               <p >
+               <p>
                   <reg>haec</reg> 
 ergo argumentatio, quae dicitur artis expers, in testimonio
 posita est. Testimonium autem nunc dicimus omne quod
@@ -1173,10 +1172,10 @@ dignos quibus credatur putant; non recte fortasse, sed vulgi
 opinio mutari vix potest ad eamque omnia dirigunt et qui
 iudicant et qui existimant. Qui enim rebus his quas dixi
 excellunt, ipsa virtute videntur excellere.</p>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="74" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> reliquis quoque rebus quas modo enumeravi quam-
 quam in his nulla species virtutis est, tamen interdum
 confirmatur fides, si aut ars quaedam adhibetur—magna
@@ -1190,7 +1189,7 @@ bus animi, dolore cupiditate iracundia metu, quia neces-
 sitatis vim habent, adferunt auctoritatem et fidem. </p>
             </div>
             <div type="textpart" n="75" subtype="section">
-               <p >
+               <p>
                   <reg>cuius</reg> 
 generis etiam illa sunt ex quibus verum non numquam
 invenitur, pueritia somnus imprudentia<note>imprudentes <hi rend="italics">A</hi>
@@ -1207,7 +1206,7 @@ mus<note>Huic... accepimus <hi rend="italics">secl. Friedrich</hi>
                </p>
             </div>
             <div type="textpart" n="76" subtype="section">
-               <p >
+               <p>
                   <reg>concursio</reg> autem fortuitorum talis est, ut si interven- 
 tum est casu, cum aut ageretur aliquid quod proferendum
 non esset, aut diceretur. In hoc genere etiam illa est in
@@ -1223,7 +1222,7 @@ Deorum enim virtus natura excellit, hominum autem
 industria. </p>
             </div>
             <div type="textpart" n="77" subtype="section">
-               <p >
+               <p>
                   <reg>divina</reg> haec fere sunt testimonia: primum 
 orationis — oracula enim ex eo ipso appellata sunt, quod
 inest <del>in<note>in <hi rend="italics">A</hi>: <hi rend="italics">om. codd.</hi>
@@ -1238,7 +1237,7 @@ significata visis. Quibus ex locis sumi interdum solent ad
 fidem faciendam testimonia deorum. </p>
             </div>
             <div type="textpart" n="78" subtype="section">
-               <p >
+               <p>
                   <reg>in</reg> homine virtutis 
 opinio valet plurimum. Opinio est autem non modo eos
 virtutem habere qui habeant, sed eos etiam qui habere
@@ -1250,12 +1249,12 @@ qui in honoribus populi reque publica versantur, sed et
 oratores et philosophos et poetas et historicos, ex quorum
 et dictis et scriptis saepe auctoritas petitur ad faciendam
 fidem.</p>
-               <p >
+               <p>
                   <milestone n="21" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="79" subtype="section">
-               <p >
+               <p>
                   <reg>expositis</reg> omnibus argumentandi locis illud primum
 intellegendum est nec ullam esse disputationem in qua<note>in qua <hi rend="italics">codd.</hi>: in quam <hi rend="italics">A vulg.</hi>
                   </note> non
@@ -1263,14 +1262,14 @@ aliquis locus incurrat, nec fere omnis locos incidere in
 omnem quaestionem et quibusdam quaestionibus alios qui-
 busdam alios esse aptiores locos. Quaestionum duo genera:
 alterum infinitum definitul alterum. Definitum est quod
-<foreign xml:lang="greek">u(po/qesin</foreign> Graeci, nos causam; infinitum quod <foreign xml:lang="greek">qe/sin</foreign> illi
+<foreign xml:lang="greek">ὑπόθεσιν</foreign> Graeci, nos causam; infinitum quod <foreign xml:lang="greek">θέσιν</foreign> illi
 
 <pb n="p.4023"/>
 
 appellant, nos propositum possumus nominare. </p>
             </div>
             <div type="textpart" n="80" subtype="section">
-               <p >
+               <p>
                   <reg>causa</reg> certis
 personis locis temporibus actionibus negotiis cernitur aut in
 omnibus aut in plerisque eorum, propositum autem aut in
@@ -1280,7 +1279,7 @@ earum aliqua de re est quibus causae continentur, aut una aut
 pluribus aut non numquam omnibus. </p>
             </div>
             <div type="textpart" n="81" subtype="section">
-               <p >
+               <p>
                   <reg>quaestionum</reg> autem
 'quacumque de re' sunt<note>sunt <hi rend="italics">d</hi>: sint <hi rend="italics">codd.</hi>
                   </note> duo genera<note>genera <hi rend="italics">Friedrich</hi>: genera sunt <hi rend="italics">codd.</hi>
@@ -1288,7 +1287,7 @@ pluribus aut non numquam omnibus. </p>
 alterum actionis. </p>
             </div>
             <div type="textpart" n="82" subtype="section">
-               <p >
+               <p>
                   <reg>cognitionis</reg> sunt eae quarum est finis
 scientia, ut si quaeratur a naturane ius profectum sit an ab 
 aliqua quasi condicione hominum et pactione. Actionis
@@ -1313,11 +1312,11 @@ eloquentia commutatione aliqua converti in infantiam. <milestone n="22" unit="ch
                </p>
             </div>
             <div type="textpart" n="83" subtype="section">
-               <p >
+               <p>
                   <reg>cum</reg> 
 autem quid sit quaeritur, notio explicanda est et proprietas
 et divisio et partitio. Haec enim sunt definitioni attributa;
-additur etiam descriptio, quam <foreign xml:lang="greek">xarakth=ra</foreign> Graeci vocant.
+additur etiam descriptio, quam <foreign xml:lang="greek">χαρακτῆρα</foreign> Graeci vocant.
 Notio sic quaeritur: sitne id aequum quod ei qui plus
 potest utile est. Proprietas sic: in hominemne solum cadat 
 an etiam in beluas aegritudo. Divisio et eodem pacto
@@ -1333,7 +1332,7 @@ generis, in quibus et natura et<note>
                   </note> vita describitur. </p>
             </div>
             <div type="textpart" n="84" subtype="section">
-               <p >
+               <p>
                   <reg>cum</reg> 
 autem quaeritur quale quid sit, aut simpliciter quaeritur
 aut comparate simpliciter: Expetendane sit gloria; com-
@@ -1347,7 +1346,7 @@ sit ulcisci a quocumque iniuriam acceperis. De honesto
 et turpi: Honestumne sit pro patria mori? </p>
             </div>
             <div type="textpart" n="85" subtype="section">
-               <p >
+               <p>
                   <reg>ex</reg> altero
 autem genere, quod erat bipertitum, unum est de eodem
 et alio: Quid intersit inter amicum et adsentatorem, regem
@@ -1355,7 +1354,7 @@ et tyrannum; alterum de maiore et minore, ut si quaeratur
 eloquentiane pluris sit an iuris civilis scientia. De cognitionis quaestionibus hactenus. </p>
             </div>
             <div type="textpart" n="86" subtype="section">
-               <p >
+               <p>
                   <reg>actionis</reg> reliquae sunt, 
 quarum duo genera: unum ad officium, alterum ad motum
 animi vel gignendum vel sedandum planeve tollendum.
@@ -1368,12 +1367,12 @@ tum exsultantem laetitiam comprimens, tum aegritudinem
 abstergens. Haec cum in propositi<note>propositi <hi rend="italics">Hammer</hi>: propositis <hi rend="italics">codd.</hi>
                   </note> quaestionibus genera
 sint, eadem in causas transferuntur.</p>
-               <p >
+               <p>
                   <milestone n="23" unit="chapter"/>
                </p>
             </div>
             <div type="textpart" n="87" subtype="section">
-               <p >
+               <p>
                   <reg>loci</reg> autem qui ad quasque quaestiones accommodati 
 sint deinceps est videndum. Omnes illi quidem ad pleras- 
 que, sed alii ad alias, ut dixi, aptiores. Ad coniecturam
@@ -1389,7 +1388,7 @@ enim quaeratur idemne sit pertinacia et perseverantia,
 definitionibus iudicandum est. </p>
             </div>
             <div type="textpart" n="88" subtype="section">
-               <p >
+               <p>
                   <reg>loci</reg> autem convenient in
 eius generis quaestionem consequentis antecedentis repugnantis; adiuncti<note>adiunctis <hi rend="italics">vulg.</hi>
                   </note> etiam eis qui sumuntur ex causis et
@@ -1401,7 +1400,7 @@ illud effectum est: ex quovis horum id de quo quaeritur
 idemne an aliud sit inveniri potest. </p>
             </div>
             <div type="textpart" n="89" subtype="section">
-               <p >
+               <p>
                   <reg>ad</reg> tertium genus
 quaestionis, in quo quale sit quaeritur, in comparationem 
 ea cadunt quae paulo ante in comparationis loco enumerata
@@ -1411,7 +1410,7 @@ que cum de honesto turpique quaeritur, ad animi bona aut
 mala omnis oratio dirigenda est. </p>
             </div>
             <div type="textpart" n="90" subtype="section">
-               <p >
+               <p>
                   <reg>cum</reg> autem de aequo et
 iniquo disseritur, aequitatis loci conligentur. Hi cernuntur
 bipertito, et natura et instituto. Natura partes habet duas,
@@ -1431,10 +1430,10 @@ secunda sanctitas, tertia iustitia aut aequitas nominatur<note>Atque... nominatu
 dicenda sunt. Pleraque enim sunt ei cum proposito
 communia.</p>
                <pb n="p.4026"/>
-               <p />
+               <p/>
             </div>
             <div type="textpart" n="91" subtype="section">
-               <p >Tria sunt <del>igitur<note>igitur <hi rend="italics">om. O</hi>: enim <hi rend="italics">cedd.</hi>
+               <p>Tria sunt <del>igitur<note>igitur <hi rend="italics">om. O</hi>: enim <hi rend="italics">cedd.</hi>
                      </note>
                   </del> genera causarum: iudici deliberationis 
 laudationis. Quarum fines ipsi declarant quibus utendum
@@ -1448,7 +1447,7 @@ Friedrich</hi>
 item est ante dictum. </p>
             </div>
             <div type="textpart" n="92" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> definitae quaestiones a suis 
 quaeque<note>quaeque <hi rend="italics">codd.</hi>: quoque <hi rend="italics">Of</hi>
                   </note> locis quasi propriis instruuntur<note>instruuntur <hi rend="italics">A</hi>:
@@ -1467,9 +1466,9 @@ locis quos exposuimus in praeceptis oratoriis explicata
 sunt. </p>
             </div>
             <div type="textpart" n="93" subtype="section">
-               <p >
+               <p>
                   <reg>refutatio</reg> autem accusationis, in qua est depulsio 
-criminis, quoniam Graece <foreign xml:lang="greek">sta/sis</foreign> dicitur, appelletur Latine
+criminis, quoniam Graece <foreign xml:lang="greek">στάσις</foreign> dicitur, appelletur Latine
 status; in quo primum insistit quasi ad repugnandum con-
 gressa defensio. Atque in deliberationibus etiam et lauda-
 tionibus idem exsistunt status. Nam et negantur saepe ea
@@ -1480,7 +1479,7 @@ possint; in qua argumentatione status coniecturalis exsistit;
 </p>
             </div>
             <div type="textpart" n="94" subtype="section">
-               <p >
+               <p>
                   <reg>aut</reg>
                   <note>at <hi rend="italics">codd.</hi>
                   </note> cum aliquid de utilitate honestate aequitate disseritur 
@@ -1496,9 +1495,9 @@ factum sit. Quibus omnibus generibus usus est nimis
 impudenter Caesar contra Catonem meum. </p>
             </div>
             <div type="textpart" n="95" subtype="section">
-               <p >
+               <p>
                   <reg>sed</reg> quae ex
-statu contentio efficitur, eam Graeci <foreign xml:lang="greek">krino/menon</foreign> vocant<note>vocant <hi rend="italics">codd.</hi>: appellant <hi rend="italics">A</hi>: <hi rend="italics">secl. Friedrich</hi>
+statu contentio efficitur, eam Graeci <foreign xml:lang="greek">κρινόμενον</foreign> vocant<note>vocant <hi rend="italics">codd.</hi>: appellant <hi rend="italics">A</hi>: <hi rend="italics">secl. Friedrich</hi>
                   </note>, mihi
 placet id, quoniam quidem ad te scribo, QVA DE RE AGITVR
 vocari<note>vocari <hi rend="italics">codd.</hi>:
@@ -1512,7 +1511,7 @@ alii quasi status exsistunt novi, sed appellentur legitimae
 disceptationes. </p>
             </div>
             <div type="textpart" n="96" subtype="section">
-               <p >
+               <p>
                   <reg>tum</reg> enim defenditur non id legem dicere 
 quod adversarius velit, sed aliud. Id autem contingit, cum
 scriptum ambiguum est, ut duae sententiae differentes accipi
@@ -1530,7 +1529,7 @@ aguntur, posse controversias easdem exsistere. Horum
 tractationes in aliis libris explicantur. </p>
             </div>
             <div type="textpart" n="97" subtype="section">
-               <p >
+               <p>
                   <reg>nec</reg> solum perpetuae
 actiones sed etiam partes orationis isdem locis adiuvantur,
 partim propriis partim communibus; ut in principiis, quibus<note>quibus <hi rend="italics">secl. Friedrich</hi>
@@ -1544,7 +1543,7 @@ Quae quamquam in tota oratione esse debent, magis tamen
 sunt propria narrandi. </p>
             </div>
             <div type="textpart" n="98" subtype="section">
-               <p >
+               <p>
                   <reg>quae</reg> autem sequitur<note>consequitur <hi rend="italics">Af</hi>
                   </note> narrationem
 fides, ea persuadendo quoniam efficitur, qui ad persuaden- 
@@ -1561,7 +1560,7 @@ adfecti iam ante sint, ut aut augeat eorum motus aut sedet
 oratio. </p>
             </div>
             <div type="textpart" n="99" subtype="section">
-               <p >
+               <p>
                   <reg>huic</reg> generi, in quo et misericordia et iracundia<note>et iracundia <hi rend="italics">sel. Friedrich</hi>
                   </note> 
 et odium et invidia et ceterae animi adfectiones perturbantur, praecepta suppeditantur aliis <del>in<note>in <hi rend="italics">om. codd.</hi>
@@ -1572,7 +1571,7 @@ senseram, cumulate satis factum esse debet voluntati tuae.
 </p>
             </div>
             <div type="textpart" n="100" subtype="section">
-               <p >
+               <p>
                   <reg>nam</reg> ne praeterirem aliquid quod ad argumentum in omni 
 ratione reperiendum pertineret, plura quam a te desiderata
 erant sum complexus fecique quod saepe liberales venditores
