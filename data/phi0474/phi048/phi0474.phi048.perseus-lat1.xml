@@ -449,12 +449,12 @@ ille post mortem Tulliae filiae Asturae commoraretur in
 scribendis libris ad philosophiam pertinentibus occupatus,
 medio fere mense Martio primum cogitasse videtur de
 personis, quos in opere aliquo de finibus bonorum et malorum conscribendo de sententiis Epicuri faceret disputantes (ad Att. XII 12,2: <hi rend="italics">De Epicuro ut voles; etsi,</hi> 
-               <foreign xml:lang="greek">meqarmo/somai</foreign>
+               <foreign xml:lang="grc">meqarmo/somai</foreign>
                <hi rend="italics">in posterum genus hoc personarum. Incredibile est
-quam ea quidam requirant. ad antiquos igitur</hi>; <foreign xml:lang="greek">a)neme/shton ga/r</foreign>). Scribebat autem turn Academica eisque ante Id.
+quam ea quidam requirant. ad antiquos igitur</hi>; <foreign xml:lang="grc">a)neme/shton ga/r</foreign>). Scribebat autem turn Academica eisque ante Id.
 Maias perfectis (ad Att. XII 45, 1 <del>44,3 apud C. F. W. Mueller.</del>:
 <hi rend="italics">ego hic duo magna</hi> 
-               <foreign xml:lang="greek">sunta/gmata</foreign> 
+               <foreign xml:lang="grc">sunta/gmata</foreign> 
                <del>i. e. Catulum et Lucullum</del>
                <hi rend="italics">absolvi; nullo enim alio modo a miseria quasi aberrare
 possum</hi>) statim accessit ad conscribendos de finibus libros.
@@ -477,16 +477,16 @@ Q. Pompeio, ut Cicero scriberet hoc Attici responso factum
 esse videtur. Q. enim Pompeius est Pompeius ille, qui
 cum Caepione consul fuit et post consulatum contra Numantinos bellum gessit. Procedente mense Iunio Cicero
 scribit ad Atticum (XIII 12,3): <hi rend="italics">Nunc illam</hi> 
-               <foreign xml:lang="greek">peri\ telw=n su/ntacin</foreign>
+               <foreign xml:lang="grc">peri\ telw=n su/ntacin</foreign>
                <hi rend="italics">sane mihi probatam Bruto, ut tibi placuit, despon-
 dimus, idque eum non nolle mihi scripsisti,</hi> exeunte (XIII
 19,4): <hi rend="italics">ita confeci quinque libros</hi> 
-               <foreign xml:lang="greek">peri\ telw=n</foreign> 
+               <foreign xml:lang="grc">peri\ telw=n</foreign> 
                <hi rend="italics">ut Epicurea
 L. Torquato, Stoica M. Catoni,</hi> 
-               <foreign xml:lang="greek">peripathtika\</foreign> 
+               <foreign xml:lang="grc">peripathtika\</foreign> 
                <hi rend="italics">M. Pisoni da-
-rem</hi>; <foreign xml:lang="greek">a)zhlotu/phton</foreign> 
+rem</hi>; <foreign xml:lang="grc">a)zhlotu/phton</foreign> 
                <hi rend="italics">id fore putaram, quod omnes illi de-
 cesserant.</hi> Initio mensis Quintilis hos libros in manibus
 habebant librarii Attici et ipsius Ciceronis, qui tum queritur cum amico, quod Balbus ab eo quintum de finibus descripsisset et quod librarii Attici Caerelliae librorum de finibus describendorum fecissent potestatem (ad Att. XIII
@@ -498,14 +498,14 @@ quoiquam</hi>
                   <hi rend="italics">ante quam</hi>
                </add> 
                <hi rend="italics">Bruto, cui te auctore</hi>
-               <foreign xml:lang="greek">prosfwnw=</foreign>?
+               <foreign xml:lang="grc">prosfwnw=</foreign>?
 <hi rend="italics">scripsit enim Balbus ad me se a te quintum de finibus
 librum descripsisse; in quo non sane multa mutavi, sed
 tamen quaedam. Tu autem commode feceris, si reliquos
 continueris, ne et</hi> 
-               <foreign xml:lang="greek">a)dio/rqwta</foreign> 
+               <foreign xml:lang="grc">a)dio/rqwta</foreign> 
                <hi rend="italics">habeat Balbus et</hi>
-               <foreign xml:lang="greek">e(/wla</foreign> 
+               <foreign xml:lang="grc">e(/wla</foreign> 
                <hi rend="italics">Brutus.
 — — Mirifice Caerellia studio videlicet philosophiae
 flagrans describit a tuis, istos ipsos de finibus habet.
@@ -1099,11 +1099,11 @@ aut maiorem aut minorem.
                   <p>ita, quae mutat, ea corrumpit,<note>
                         <w>mutat ea corrumpit</w> corrumpit mutat ea
 BE</note> quae sequitur sunt tota Democriti, atomi, inane,
-imagines, quae <foreign xml:lang="greek">εἴδωλα</foreign>
+imagines, quae <foreign xml:lang="grc">εἴδωλα</foreign>
                      <note>idola AR ydola BENV</note> nominant, quorum incursione<note>incursione E incursionem
 (<hi rend="italics">etiam</hi> A)</note>
 non solum videamus, sed etiam cogitemus; infinitio
-ipsa, quam <foreign xml:lang="greek">ἀπειρίαν</foreign>
+ipsa, quam <foreign xml:lang="grc">ἀπειρίαν</foreign>
                      <note>apirian ABERV apiriam N (pi <hi rend="italics">ex corr.</hi>)</note> vocant, tota ab illo est, tum innumerabiles mundi, qui et oriantur et intereant cotidie.<note>quottidie BE quotidie NV</note>
 quae etsi mihi nullo modo probantur, tamen Democritum laudatum a ceteris ab hoc, qui eum unum secutus
 esset, nollem vituperatum.
@@ -1114,7 +1114,7 @@ esset, nollem vituperatum.
                   <p>
 
 Iam in altera<note>altera in BE</note> philosophiae parte, quae est quaerendi
-ac disserendi, quae <foreign xml:lang="greek">λογική</foreign>
+ac disserendi, quae <foreign xml:lang="grc">λογική</foreign>
                      <note>logice ABERN loyce V</note> dicitur, iste vester plane, ut <pb n="p.10"/>
 mihi quidem videtur, inermis ac nudus<note>
                         <w>nudus</w> mundus BE</note> est. tollit definitiones, nihil de dividendo ac partiendo docet, non
@@ -1474,7 +1474,7 @@ cum ita sit, perspicuum est omnis rectas res atque
 laudabilis eo referri, ut cum voluptate vivatur. quoniam
 autem id est vel summum bonorum<note>bonorum <hi rend="italics">om.</hi> R</note> vel ultimum vel
 extremum<note>summum vel ultimum vel extremum bono-
-rum BE (<hi rend="italics">non</hi> A)</note>—quod Graeci <foreign xml:lang="greek">τέλος</foreign> nominant—, quod
+rum BE (<hi rend="italics">non</hi> A)</note>—quod Graeci <foreign xml:lang="grc">τέλος</foreign> nominant—, quod
 ipsum nullam ad aliam rem, ad id autem res referuntur<note>res referuntur (re <hi rend="italics">post</hi> res <hi rend="italics">ab alt. m. superscr.</hi>)
 N res ferunt A<hi rend="sup">1</hi> res feruntur A<hi rend="sup">2</hi>R feruntur (<hi rend="italics">om.</hi> res) V res ferentur BE</note>
 omnes, fatendum est summum esse bonum iucunde
@@ -1639,7 +1639,7 @@ satis sibi contra hominum<note>
                         <w>sibi contra hominum</w> ibi contra hominum V hominum sibi
 contra R</note> conscientiam<note>
                         <w>conscientiam</w> 
-                        <foreign xml:lang="greek">τ</foreign>n scientiam R cumscientiam A<hi rend="sup">1</hi>
+                        <foreign xml:lang="grc">τ</foreign>n scientiam R cumscientiam A<hi rend="sup">1</hi>
                      </note> saepti esse et<note>et <hi rend="italics">om.</hi> E</note>
 muniti<note>et muniti <hi rend="italics">om.</hi> R</note> videntur, deorum tamen horrent easque ipsas
 sollicitudines, quibus eorum animi noctesque diesque<note>noctes diesque R diesque noctesque B</note>
@@ -2162,7 +2162,7 @@ his eandem certe<note>certe <hi rend="italics">om. Non. p. 396</hi>
                      </note> quam
 ceteros. omnes enim iucundum motum, quo sensus hilaretur.<note>hilaretur N<hi rend="sup">2</hi> 
                         <hi rend="italics">Non.</hi> hiaretur
-ABERN<hi rend="sup">1</hi> yarēt <hi rend="italics">sequente spatio 4 fere litt.</hi> V</note> Graece <foreign xml:lang="greek">ἡδονήν</foreign>,<note>hedoneum <hi rend="italics">Non.</hi>
+ABERN<hi rend="sup">1</hi> yarēt <hi rend="italics">sequente spatio 4 fere litt.</hi> V</note> Graece <foreign xml:lang="grc">ἡδονήν</foreign>,<note>hedoneum <hi rend="italics">Non.</hi>
                      </note> Latine voluptatem vocant.<note>
                         <w>verum ... vocant</w> 
                         <hi rend="italics">Non.
@@ -2260,7 +2260,7 @@ nomen est, infame, suspectum.<note>
                         <w>suspectum</w> subiectum R</note> itaque hoc frequenter
 dici solet a vobis, non intellegere nos, quam dicat Epicurus voluptatem. quod quidem mihi si quando dictum
 est—est autem dictum non parum saepe—, etsi satis
-clemens sum in disputando, tamen interdum soleo subirasci. egone non intellego, quid sit <foreign xml:lang="greek">ἡδονή</foreign> Graece, Latine voluptas? utram tandem linguam nescio? deinde
+clemens sum in disputando, tamen interdum soleo subirasci. egone non intellego, quid sit <foreign xml:lang="grc">ἡδονή</foreign> Graece, Latine voluptas? utram tandem linguam nescio? deinde
 qui fit, ut ego nesciam, sciant omnes, quicumque Epicurei esse voluerunt?<note>voluerint BE</note> quod vestri quidem vel optime
 disputant, nihil opus esse eum, qui philosophus futurus
 sit,<note>philosophus qui futurus sit A <hi rend="italics">(cf. Iw. Mue. II
@@ -2275,7 +2275,7 @@ Eliens. Davisii, Turneb. adversar. IV8;</hi> plagis</note> omnibus colligitis bo
                   <p>ergo illi intellegunt
 quid Epicurus dicat, ego non intellego? ut scias me
 intellegere, primum idem esse dico voluptatem, quod
-ille <foreign xml:lang="greek">ἡδονήν</foreign>. et quidem saepe quaerimus verbum Latinum par Graeco et quod idem valeat; hic nihil fuit,
+ille <foreign xml:lang="grc">ἡδονήν</foreign>. et quidem saepe quaerimus verbum Latinum par Graeco et quod idem valeat; hic nihil fuit,
 quod quaereremus. nullum inveniri verbum potest
 quod magis idem declaret Latine, quod Graece, quam
 declarat voluptas. huic verbo omnes, qui ubique sunt, <pb n="p.38"/>
@@ -2313,7 +2313,7 @@ tamen vide, ne, si ego non intellegam quid Epicurus
 loquatur, cum Graece, ut videor, luculenter sciam, sit
 aliqua culpa eius, qui ita loquatur, ut non intellegatur.
 quod duobus modis sine reprehensione fit, si aut de
-industria facias, ut Heraclitus, 'cognomento qui <foreign xml:lang="greek">σκοτεινός</foreign> perhibetur, quia de natura nimis obscure memoravit', aut cum rerum obscuritas, non verborum, facit ut
+industria facias, ut Heraclitus, 'cognomento qui <foreign xml:lang="grc">σκοτεινός</foreign> perhibetur, quia de natura nimis obscure memoravit', aut cum rerum obscuritas, non verborum, facit ut
 non intellegatur oratio, qualis est in Timaeo Platonis.
 Epicurus autem, ut opinor, nec non vult, si possit, plane
 et aperte loqui, nec de re obscura, ut physici, aut artificiosa,
@@ -2435,7 +2435,7 @@ genere voluptatis, atque ibi hoc dicit, ubi omnis eius
 est oratio<note>oratio eius est BE</note> de summo bono. in alio vero libro, in quo
 breviter comprehensis gravissimis sententiis quasi oracula edidisse sapientiae dicitur, scribit his verbis, quae
 nota tibi profecto, Torquate, sunt—quis enim vestrum
-non edidicit Epicuri <foreign xml:lang="greek">κυρίας δόξας</foreign>, id est quasi maxime
+non edidicit Epicuri <foreign xml:lang="grc">κυρίας δόξας</foreign>, id est quasi maxime
 ratas, quia gravissimae sint ad beate vivendum breviter
 enuntiatae sententiae?—animadverte igitur rectene
 hanc sententiam interpreter:
@@ -2522,10 +2522,10 @@ ABEN necessarii R<hi rend="sup">1</hi> necessatis R<hi rend="sup">2</hi> necessi
                                  <hi rend="italics">del.
 edd.</hi>
                               </note>
-                           </del> Laelius clamores <foreign xml:lang="greek">σοφὸς</foreign> ille solebat</l>
+                           </del> Laelius clamores <foreign xml:lang="grc">σοφὸς</foreign> ille solebat</l>
                         <l>Edere compellans gumias<note>guimas BE ginnas R</note> ex ordine nostros.</l>
                      </quote>
-praeclare Laelius, et recte <foreign xml:lang="greek">σοφός</foreign>, illudque vere:
+praeclare Laelius, et recte <foreign xml:lang="grc">σοφός</foreign>, illudque vere:
 <quote rend="blockquote">
                         <l>O Publi, o gurges, Galloni! es homo miser, inquit.</l>
                         <l>Cenasti in vita numquam bene, cum omnia in ista<note>isto ARNV</note>
@@ -2680,7 +2680,7 @@ quae duo sunt, unum facit. hanc in motu voluptatem
 —sic enim has suaves<note>suaves has BE</note> et quasi dulces voluptates appellat—interdum ita extenuat, ut M'.<note>M'. <hi rend="italics">edd.</hi> marcum</note> Curium putes<note>
                         <w>putes</w> potes A<hi rend="sup">1</hi>
 po<hi rend="overline">
-                           <foreign xml:lang="greek">τ</foreign>
+                           <foreign xml:lang="grc">τ</foreign>
                         </hi> R</note>
 loqui, interdum ita laudat, ut quid praeterea<note>praeter eam NV</note> sit bonum
 neget se posse ne suspicari quidem. quae iam oratio
@@ -3845,7 +3845,7 @@ phylotete V</note> funestare,
                      </quote>
 Huic Epicurus praecentet,<note>praecentet BE <hi rend="overline">p</hi>
                         <hi rend="overline">
-                           <foreign xml:lang="greek">τ</foreign>
+                           <foreign xml:lang="grc">τ</foreign>
                         </hi>irent et R
 et AN<hi rend="sup">1</hi>V, et (competenter <hi rend="italics">ita in marg. add., ut legatur ante</hi>
 et) N<hi rend="sup">2</hi>
@@ -4646,7 +4646,7 @@ BE</note> natura, diligamus, quod est nemo, quin,
 cum utrumvis liceat, aptas malit et integras omnis partis
 corporis quam, eodem usu, inminutas aut detortas habere. rerum autem cognitiones, quas vel comprehensiones vel perceptiones<note>quas vel comprehensiones vel perceptiones BE <hi rend="italics">om.</hi>
 ARNV</note> vel, si haec verba aut
-minus placent aut minus intelleguntur, <foreign xml:lang="greek">καταλήψεις</foreign> appellemus licet, eas igitur ipsas propter se adsciscendas
+minus placent aut minus intelleguntur, <foreign xml:lang="grc">καταλήψεις</foreign> appellemus licet, eas igitur ipsas propter se adsciscendas
 arbitramur, quod habeant quiddam in se quasi complexum et continens veritatem. id autem in<note>in V <hi rend="italics">om. rell.</hi>
                      </note> parvis intellegi potest, quos delectari videamus, etiamsi eorum
 nihil intersit, si quid ratione per se ipsi invenerint.
@@ -4695,14 +4695,14 @@ ut vid.,</hi> q<hi rend="overline">uo</hi>
 sequuntur. sequitur autem haec prima divisio: Aestimabile esse dicunt—sic enim, ut opinor, appellemus<note>appellemus <hi rend="italics">Bentl.</hi> appellamus</note>—
 id, quod aut ipsum secundum naturam sit aut tale quid
 efficiat, ut selectione dignum propterea sit, quod aliquod pondus habeat dignum aestimatione, quam illi
-<foreign xml:lang="greek">ἀξίαν</foreign> vocant,<note>illi ... vocant <hi rend="italics">Pearc.</hi> ille
+<foreign xml:lang="grc">ἀξίαν</foreign> vocant,<note>illi ... vocant <hi rend="italics">Pearc.</hi> ille
 ... vocat</note> contraque inaestimabile, quod sit superiori contrarium. initiis igitur ita constitutis, ut ea, quae
 secundum naturam sunt, ipsa propter se sumenda sint
 contrariaque item reicienda, primum<note>
                         <w>primum</w> primum enim BE <hi rend="italics">('suspicari aliquis
 possit</hi> enim <hi rend="italics">ortum esse ex</hi> hominis' <hi rend="italics">Mdv.)</hi>
                      </note> est officium—id
-enim appello <foreign xml:lang="greek">καθῆκον</foreign>—, ut se conservet in naturae
+enim appello <foreign xml:lang="grc">καθῆκον</foreign>—, ut se conservet in naturae
 statu, deinceps ut ea teneat, quae secundum naturam
 sint, pellatque contraria. qua<note>qua AVN<hi rend="sup">2</hi> que BN<hi rend="sup">1</hi> q<gap reason="illegible"/>(= quae) ER</note> inventa selectione et item
 reiectione sequitur deinceps cum officio selectio, deinde
@@ -4717,12 +4717,12 @@ quid sit, quod vere bonum possit dici.
                   <p>prima est enim
 conciliatio hominis ad ea, quae sunt secundum naturam.
 simul autem cepit intellegentiam vel notionem potius,
-quam appellant <foreign xml:lang="greek">ἔννοιαν</foreign> illi, viditque rerum agendarum
+quam appellant <foreign xml:lang="grc">ἔννοιαν</foreign> illi, viditque rerum agendarum
 ordinem et, ut ita dicam, concordiam, multo eam pluris
 aestimavit<note>extimavit V estimabit (existim. E extim. N) ABERN</note> quam omnia illa, quae prima<note>primū (ū <hi rend="italics">ab alt.
 m. in ras.</hi>) N primo V</note> dilexerat, atque
 ita cognitione et ratione collegit, ut statueret in eo collocatum summum illud hominis per se laudandum et expetendum bonum, quod cum positum sit in eo, quod
-<foreign xml:lang="greek">ὁμολογίαν</foreign> Stoici, nos appellemus convenientiam, si
+<foreign xml:lang="grc">ὁμολογίαν</foreign> Stoici, nos appellemus convenientiam, si
 placet,—cum igitur in eo sit id bonum, quo omnia
 referenda sint,<note>sint ABERNV</note> honeste facta<note>honeste facta
 <hi rend="italics">Mdv.</hi> omnia honeste (honesta B) facta</note> ipsumque honestum, quod
@@ -4771,7 +4771,7 @@ nos sapientiae commendari ab initiis naturae, post autem
 ipsam<note>ipsam autem BE</note> sapientiam nobis cariorem fieri, quam illa sint,
 a quibus ad hanc venerimus. atque ut membra nobis
 ita data sunt, ut ad quandam rationem vivendi data
-esse appareant, sic appetitio animi, quae <foreign xml:lang="greek">ὁρμή</foreign> Graece
+esse appareant, sic appetitio animi, quae <foreign xml:lang="grc">ὁρμή</foreign> Graece
 vocatur, non ad quodvis genus vitae, sed ad quandam
 formam vivendi videtur data, itemque et ratio et perfecta ratio.
 
@@ -4788,7 +4788,7 @@ est artis effectio. et tamen est etiam aliqua<note>aliqua <hi rend="italics">Bre
 ipsis artibus sapientiae dissimilitudo, propterea quod
 in illis quae recte facta sunt non continent tamen omnes partes, e quibus constant; quae autem nos aut recta
 aut recte facta dicamus, si placet, illi autem appellant
-<foreign xml:lang="greek">κατορθώματα</foreign>, omnes numeros virtutis continent. sola
+<foreign xml:lang="grc">κατορθώματα</foreign>, omnes numeros virtutis continent. sola
 enim sapientia in se tota conversa est, quod idem in
 ceteris artibus non fit.
 
@@ -4808,9 +4808,9 @@ tenere autem virtutes eas ipsas, quarum modo feci mentionem, nemo poterit, nisi 
 
 Videamus nunc, quam sint praeclare illa his, quae
 iam posui, consequentia. cum enim hoc sit extremum
-—sentis enim, credo, me iam diu, quod <foreign xml:lang="greek">τέλος</foreign>
+—sentis enim, credo, me iam diu, quod <foreign xml:lang="grc">τέλος</foreign>
                      <note>
-                        <foreign xml:lang="greek">τέλος</foreign> Graeci] greci celos BE</note> Graeci
+                        <foreign xml:lang="grc">τέλος</foreign> Graeci] greci celos BE</note> Graeci
 dicant,<note>dicant ARV dicunt BEN</note> id dicere tum extremum, tum ultimum, tum
 summum; licebit etiam finem pro extremo aut ultimo
 dicere—, cum igitur hoc sit extremum,<note>extremum hoc sit BE</note> congruenter
@@ -4934,7 +4934,7 @@ et quae contra naturam sint<note>sint <hi rend="italics">Mdv.</hi> sunt</note> r
                   <p>
 
 Sed in ceteris artibus cum dicitur artificiose, posterum quodam modo et consequens putandum est, quod <pb n="p.101"/>
-illi <foreign xml:lang="greek">ἐπιγεννηματικόν</foreign> appellant; cum<note>cum <hi rend="italics">Ern. Dav.</hi> quod</note> autem in quo sapienter dicimus,<note>dicimus <hi rend="italics">etiam</hi> A (<hi rend="italics">cf. ad.
+illi <foreign xml:lang="grc">ἐπιγεννηματικόν</foreign> appellant; cum<note>cum <hi rend="italics">Ern. Dav.</hi> quod</note> autem in quo sapienter dicimus,<note>dicimus <hi rend="italics">etiam</hi> A (<hi rend="italics">cf. ad.
 v. 5</hi>)</note> id a primo<note>a primo BE ad primo AR ad primum N apprime V</note> rectissime dicitur. quicquid enim a sapientia<note>asapiencia E as<hi rend="overline">apia</hi> (= asapientia) B a sapienti ARV
 a sapiente N</note> proficiscitur, id continuo debet
 expletum esse omnibus suis partibus; in eo enim positum est id,<note>
@@ -4959,7 +4959,7 @@ definitiones paulum oppido inter se differunt et tamen
 eodem spectant. ego adsentior Diogeni, qui bonum
 definierit id, quod esset natura<note>esset natura <hi rend="italics">dett.</hi> esset enatura A esset e natura RNV
 esse a natura BE</note> absolutum. id autem
-sequens illud etiam, quod prodesset—<foreign xml:lang="greek">ὠφέλημα</foreign> enim
+sequens illud etiam, quod prodesset—<foreign xml:lang="grc">ὠφέλημα</foreign> enim
 sic appellemus—, motum aut statum esse dixit e natura absoluto.<note>absoluto <hi rend="italics">Brem.</hi> absoluta</note> cumque rerum notiones in animis fiant,
 si aut usu aliquid cognitum sit aut coniunctione aut
 similitudine aut collatione rationis, hoc quarto, quod
@@ -4977,19 +4977,19 @@ aut cum ceteris comparando, sed propria vi sua et sentimus et appellamus bonum. 
  cum aliis dulce esse sentitur, sic bonum hoc,
 de quo agimus, est illud quidem plurimi aestimandum,
 sed ea aestimatio genere valet, non magnitudine. nam
-cum aestimatio, quae <foreign xml:lang="greek">ἀξία</foreign> dicitur, neque in bonis numerata sit nec rursus<note>rursus N<hi rend="sup">2</hi> risus</note> in malis, quantumcumque eo addideris, in suo genere manebit. alia est igitur propria
+cum aestimatio, quae <foreign xml:lang="grc">ἀξία</foreign> dicitur, neque in bonis numerata sit nec rursus<note>rursus N<hi rend="sup">2</hi> risus</note> in malis, quantumcumque eo addideris, in suo genere manebit. alia est igitur propria
 aestimatio virtutis, quae genere, non crescendo valet.
 </p>
                </div>
                <div type="textpart" n="35" subtype="section">
                   <p>
 
-Nec vero perturbationes animorum, quae vitam insipientium miseram acerbamque reddunt, quas Graeci <foreign xml:lang="greek">πά-
+Nec vero perturbationes animorum, quae vitam insipientium miseram acerbamque reddunt, quas Graeci <foreign xml:lang="grc">πά-
 θη</foreign> appellant—poteram ego verbum ipsum interpretans
 morbos appellare, sed non conveniret<note>conveniret <hi rend="italics">A. Man.</hi> conveniet ABERN
 conveniat V</note> ad omnia; quis
 enim misericordiam aut ipsam iracundiam morbum solet
-dicere? at illi dicunt <foreign xml:lang="greek">πάθος</foreign>. sit igitur perturbatio, quae
+dicere? at illi dicunt <foreign xml:lang="grc">πάθος</foreign>. sit igitur perturbatio, quae
 nomine ipso vitiosa declarari videtur <del>nec eae perturbationes vi aliqua naturali moventur</del>.<note>
                         <hi rend="italics">secl. Mdv.</hi>
                      </note> omnesque eae<note>
@@ -4997,7 +4997,7 @@ nomine ipso vitiosa declarari videtur <del>nec eae perturbationes vi aliqua natu
 N hec BE; <hi rend="italics">om.</hi> (<hi rend="italics">spatio parvo relicto</hi>) A</note>
 sunt genere quattuor, partibus plures, aegritudo, formido,
 libido, quamque Stoici communi nomine corporis et
-animi <foreign xml:lang="greek">ἡδονήν</foreign> appellant, ego malo laetitiam appellare,
+animi <foreign xml:lang="grc">ἡδονήν</foreign> appellant, ego malo laetitiam appellare,
 quasi gestientis animi elationem voluptariam. perturbationes autem nulla naturae vi commoventur, omniaque ea sunt opiniones ac iudicia levitatis. itaque his
 sapiens semper vacabit.
 </p>
@@ -5072,7 +5072,7 @@ a <hi rend="italics">lineola videtur erasa</hi>) R fugiendam BV fugiendū E <hi 
 copulatas <hi rend="italics">et</hi> turbulentae</note> propter eas res, quae ex
 ipsis eveniant, non ita dicimus, ut cum illo, quod positum est, solum id esse malum, quod turpe sit, haec
 pugnare videatur oratio, propterea quod ea non ad corporis incommodum referuntur, sed ad turpes actiones,
-quae oriuntur e vitiis. quas enim <foreign xml:lang="greek">κακίας</foreign> Graeci appellant, vitia malo quam malitias nominare.
+quae oriuntur e vitiis. quas enim <foreign xml:lang="grc">κακίας</foreign> Graeci appellant, vitia malo quam malitias nominare.
 </p>
                   <milestone unit="chapter" n="12"/>
                </div>
@@ -5098,7 +5098,7 @@ erit isdem istis fortasse iam utendum. Virtutibus igitur
 rectissime<note>rectissime igitur BE</note> mihi videris et ad consuetudinem nostrae
 orationis vitia posuisse contraria. quod enim vituperabile est per se ipsum, id eo<note>
                         <w>id eo</w> ideo E <hi rend="overline">io</hi> R</note> ipso vitium<note>vitium <hi rend="italics">dett,</hi> vitio</note> nominatum
-puto, vel etiam a vitio dictum vituperari. sin <foreign xml:lang="greek">κακίαν</foreign>
+puto, vel etiam a vitio dictum vituperari. sin <foreign xml:lang="grc">κακίαν</foreign>
 malitiam dixisses, ad aliud nos unum certum vitium
 consuetudo Latina traduceret. nunc omni virtuti vitium
 contrario nomine opponitur.
@@ -5165,12 +5165,12 @@ ponimus, idem censemus nullam esse tantam aestimationem, ut ea virtuti anteponat
 actio sit et sine dolore, eam magis esse expetendam,
 quam si esset eadem actio cum dolore. nobis aliter
 videtur, recte secusne, postea; sed potestne<note>sed potest ne V sed postne AB sed post ne E sed ne
-(<hi rend="italics">inter</hi> sed <hi rend="italics">et</hi> ne <hi rend="italics">ras. duarum fere litt.</hi>) R sed p<hi rend="overline">o<foreign xml:lang="greek">τ</foreign>
-                        </hi> ne (p<hi rend="overline">o<foreign xml:lang="greek">τ</foreign>
+(<hi rend="italics">inter</hi> sed <hi rend="italics">et</hi> ne <hi rend="italics">ras. duarum fere litt.</hi>) R sed p<hi rend="overline">o<foreign xml:lang="grc">τ</foreign>
+                        </hi> ne (p<hi rend="overline">o<foreign xml:lang="grc">τ</foreign>
                         </hi> 
                         <hi rend="italics">ex
 corr. alt. m.,</hi> 
-                        <foreign xml:lang="greek">τ</foreign> 
+                        <foreign xml:lang="grc">τ</foreign> 
                         <hi rend="italics">in ras.</hi>) N</note> rerum maior
 esse dissensio?
 </p>
@@ -5189,10 +5189,10 @@ cum sit is bonorum finis, quem Stoici dicunt, omnis
 ista rerum corporearum<note>corporearum <hi rend="italics">dett.</hi> incorporearum RN in corpore (incorp. E) harum ABE in
 corpore sitarum V</note> aestimatio splendore virtutis et
 magnitudine obscuretur et obruatur atque intereat necesse est. et quem ad modum oportunitas—sic enim
-appellemus <foreign xml:lang="greek">εὐκαιρίαν</foreign>—non fit maior productione temporis—habent enim suum modum, quae oportuna dicuntur—, sic recta effectio—<foreign xml:lang="greek">κατόρθωσιν</foreign> enim ita
-appello, quoniam<note>quoniam A <gap reason="illegible"/>qnĩa (o <hi rend="italics">et in ras.</hi> nĩa <hi rend="italics">ab alt. m.</hi>) N quod BE quomodo V</note> rectum factum <foreign xml:lang="greek">κατόρθωμα</foreign>—, recta
+appellemus <foreign xml:lang="grc">εὐκαιρίαν</foreign>—non fit maior productione temporis—habent enim suum modum, quae oportuna dicuntur—, sic recta effectio—<foreign xml:lang="grc">κατόρθωσιν</foreign> enim ita
+appello, quoniam<note>quoniam A <gap reason="illegible"/>qnĩa (o <hi rend="italics">et in ras.</hi> nĩa <hi rend="italics">ab alt. m.</hi>) N quod BE quomodo V</note> rectum factum <foreign xml:lang="grc">κατόρθωμα</foreign>—, recta
 igitur effectio,<note>
-                        <foreign xml:lang="greek">κατόρθωσιν</foreign> ... effectio (<hi rend="italics">v. 29</hi>) <hi rend="italics">om.</hi> R</note> item convenientia, denique ipsum bonum,
+                        <foreign xml:lang="grc">κατόρθωσιν</foreign> ... effectio (<hi rend="italics">v. 29</hi>) <hi rend="italics">om.</hi> R</note> item convenientia, denique ipsum bonum,
 quod in eo positum est, ut naturae consentiat, crescendi <pb n="p.107"/>
 accessionem nullam habet.
 
@@ -5301,8 +5301,8 @@ esse eius modi, itemque eorum, quae nulla aestimatione
 digna essent, partim satis habere causae, quam ob rem
 reicerentur, ut dolorem, morbum, sensuum amissionem,
 paupertatem, ignominiam, similia horum, partim non
-item. hinc est illud exortum, quod Zeno <foreign xml:lang="greek">προηγμένον</foreign>,
-contraque quod <foreign xml:lang="greek">ἀποπροηγμένον</foreign> nominavit, cum uteretur
+item. hinc est illud exortum, quod Zeno <foreign xml:lang="grc">προηγμένον</foreign>,
+contraque quod <foreign xml:lang="grc">ἀποπροηγμένον</foreign> nominavit, cum uteretur
 in lingua copiosa factis tamen nominibus ac novis, quod
 nobis in hac inopi lingua non conceditur; quamquam
 tu hanc copiosiorem etiam soles dicere. Sed non alienum est, quo facilius vis verbi intellegatur, rationem
@@ -5316,7 +5316,7 @@ huius verbi<note>verbi (<hi rend="italics">post</hi> huius) <hi rend="italics">o
 Ut enim, inquit, nemo dicit in regia regem ipsum
 quasi productum esse ad dignitatem (id est enim<note>id est enim <hi rend="italics">Mdv.</hi>
 idem enim est (<hi rend="italics">in</hi> N enim <hi rend="italics">ab alt. m. superscr.</hi>; V <hi rend="italics">om.</hi> enim)</note> 
-                     <foreign xml:lang="greek">προηγμένον</foreign>), sed eos, qui in aliquo honore sunt,<note>sunt R sint</note> quorum ordo
+                     <foreign xml:lang="grc">προηγμένον</foreign>), sed eos, qui in aliquo honore sunt,<note>sunt R sint</note> quorum ordo
 proxime accedit, ut secundus sit, ad regium principatum,
 sic in vita non ea, quae primo loco<note>primo loco <hi rend="italics">O. Heinius ibid. p. 245</hi> pri-
 morie A p'mori e loco BE primove R primorie (o <hi rend="italics">corr. in</hi> a)
@@ -5324,7 +5324,7 @@ N primore V</note> sunt, sed ea, quae<note>'<hi rend="italics">In</hi> primorie 
 adscripsit qui haec ad antecedentia</hi> quorum ordo proxime accedit ut secundus sit <hi rend="italics">accommodare studeret' H. A. Koch p. 37.
 Cf. etiam p. 110, 5 sq.</hi>
                      </note>
-secundum locum optinent, <foreign xml:lang="greek">προηγμένα</foreign>, id est producta, <pb n="p.110"/>
+secundum locum optinent, <foreign xml:lang="grc">προηγμένα</foreign>, id est producta, <pb n="p.110"/>
 nominentur; quae vel ita appellemus—id erit verbum
 e verbo—vel promota et remota vel, ut dudum
 diximus, praeposita vel praecipua, et illa reiecta.
@@ -5337,7 +5337,7 @@ re enim intellecta in verborum usu faciles esse debemus.
 quoniam autem omne, quod est bonum, primum locum
 tenere dicimus, necesse est nec bonum esse nec malum
 hoc, quod praepositum<note>praepositum <hi rend="italics">edd.</hi> propositum</note> vel praecipuum nominamus.
-idque ita definimus; quod sit indifferens cum aestimatione mediocri; quod enim illi <foreign xml:lang="greek">ἀδιάφορον</foreign> dicunt, id mihi
+idque ita definimus; quod sit indifferens cum aestimatione mediocri; quod enim illi <foreign xml:lang="grc">ἀδιάφορον</foreign> dicunt, id mihi
 ita occurrit, ut indifferens dicerem. neque enim illud
 fieri poterat ullo modo, ut nihil relinqueretur in mediis,
 quod aut secundum naturam esset aut contra, nec, cum
@@ -5360,9 +5360,9 @@ sed ad eius vim naturamque nihil pertinent.
                </div>
                <div type="textpart" n="55" subtype="section">
                   <p>Sequitur
-illa divisio, ut bonorum alia sint ad illud ultimum pertinentia (sic enim appello, quae <foreign xml:lang="greek">τελικά</foreign> dicuntur; nam
+illa divisio, ut bonorum alia sint ad illud ultimum pertinentia (sic enim appello, quae <foreign xml:lang="grc">τελικά</foreign> dicuntur; nam
 hoc ipsum instituamus, ut placuit, pluribus verbis dicere, quod uno<note>uno <hi rend="italics">dett., om.</hi> ABERNV</note> non poterimus, ut res intellegatur), alia
-autem efficientia, quae Graeci <foreign xml:lang="greek">ποιητικά</foreign>, alia utrumque. de pertinentibus nihil est bonum praeter actiones
+autem efficientia, quae Graeci <foreign xml:lang="grc">ποιητικά</foreign>, alia utrumque. de pertinentibus nihil est bonum praeter actiones
 honestas, de efficientibus nihil praeter amicum, sed et
 pertinentem et efficientem sapientiam<note>sapientiam <hi rend="italics">deft.</hi> sapientem</note> volunt esse. nam
 quia sapientia est conveniens actio, est <add>in</add> illo<note>est in illo <hi rend="italics">Dav.</hi> est illo
@@ -5392,7 +5392,7 @@ utramque rem, ut integri sensus, ut bona valitudo.
                </div>
                <div type="textpart" n="57" subtype="section">
                   <p>De
-bona autem fama—quam enim appellant <foreign xml:lang="greek">εὐδοξίαν</foreign>,
+bona autem fama—quam enim appellant <foreign xml:lang="grc">εὐδοξίαν</foreign>,
 aptius est bonam famam hoc loco appellare quam
 gloriam—Chrysippus quidem et Diogenes detracta<note>
                         <w>detracta</w> detractate quidem BE</note>
@@ -5608,10 +5608,10 @@ forte casus inciderit, ut id faciendum sit, alii nullo modo.
                   <p>
 
 Ut vero conservetur omnis homini erga hominem
-societas, coniunctio, caritas, et emolumenta et detrimenta, quae <foreign xml:lang="greek">ὠφελήματα</foreign> et <foreign xml:lang="greek">βλάμματα</foreign> appellant, communia esse voluerunt; quorum altera prosunt, nocent
+societas, coniunctio, caritas, et emolumenta et detrimenta, quae <foreign xml:lang="grc">ὠφελήματα</foreign> et <foreign xml:lang="grc">βλάμματα</foreign> appellant, communia esse voluerunt; quorum altera prosunt, nocent
 altera. neque solum ea communia, verum etiam paria
 esse dixerunt. incommoda autem et commoda—ita
-enim <foreign xml:lang="greek">εὐχρηστήματα</foreign> et <foreign xml:lang="greek">δυσχρηστήματα</foreign> appello—communia esse voluerunt, paria noluerunt. illa enim, quae
+enim <foreign xml:lang="grc">εὐχρηστήματα</foreign> et <foreign xml:lang="grc">δυσχρηστήματα</foreign> appello—communia esse voluerunt, paria noluerunt. illa enim, quae
 prosunt aut quae nocent, aut bona sunt aut mala, quae
 sint paria necesse est. commoda autem et incommoda
 in eo genere sunt, quae praeposita et reiecta diximus;<note>dicimus BE</note>
@@ -5815,7 +5815,7 @@ a Zenone esse retentam videmus.
 sit, qua mores conformari<note>confirmari ('<hi rend="italics">emendqvisse videtur A, Man.' Mdv.</hi>)</note> putantur, differo eam partem,
 quae quasi stirps est huius quaestionis. qui sit enim
 finis bonorum, mox, hoc loco tantum dico, a veteribus
-Peripateticis Academicisque, qui re consentientes vocabulis differebant, eum locum, quem civilem recte appellaturi videmur, Graeci <foreign xml:lang="greek">πολιτικόν</foreign>, graviter et copiose
+Peripateticis Academicisque, qui re consentientes vocabulis differebant, eum locum, quem civilem recte appellaturi videmur, Graeci <foreign xml:lang="grc">πολιτικόν</foreign>, graviter et copiose
 esse tractatum.</p>
                   <milestone unit="chapter" n="3"/>
                   <p>Quam multa illi de re publica scripserunt, quam
@@ -5999,7 +5999,7 @@ finem declarantem illud, quod a te dictum est, convenienter naturae vivere.
                   <p>alterum significari idem, ut
 si diceretur, officia media omnia<note>omnia media BE</note> aut pleraque servantem
 vivere. hoc sic expositum dissimile est superiori. illud
-enim rectum est—quod <foreign xml:lang="greek">κατόρθωμα</foreign> dicebas—contingitque<note>contigitque AV</note> sapienti soli, hoc autem inchoati cuiusdam officii
+enim rectum est—quod <foreign xml:lang="grc">κατόρθωμα</foreign> dicebas—contingitque<note>contigitque AV</note> sapienti soli, hoc autem inchoati cuiusdam officii
 est, non perfecti, quod cadere in non nullos insipientes
 potest. tertium autem omnibus aut maximis rebus iis,
 quae secundum naturam sint, fruentem vivere. hoc non
@@ -6245,7 +6245,7 @@ necesse est, etiamsi id sine corpore sit, ut fingimus,
 tamen esse in animo quaedam similia eorum, quae <pb n="p.132"/>
 sunt in corpore, ut nullo<note>
                         <w>ut nullo</w> et nullo BE</note> modo, nisi ut exposui, constitui possit finis bonorum. Chrysippus autem exponens differentias animantium ait alias earum corpore
-excellere, alias autem animo, non nullas valere utraque re; deinde disputat, quod cuiusque generis animantium<note>animantium BE animā<foreign xml:lang="greek">τ</foreign> R ani-
+excellere, alias autem animo, non nullas valere utraque re; deinde disputat, quod cuiusque generis animantium<note>animantium BE animā<foreign xml:lang="grc">τ</foreign> R ani-
 mantis NV</note> statui deceat extremum. cum autem hominem in eo genere posuisset, ut ei tribueret animi excellentiam, summum bonum id constituit, non ut excellere<note>excellere BER excelleret NV</note> animus, sed ut nihil esse praeter animum videretur. 
 	<milestone unit="chapter" n="12"/>uno autem modo in virtute sola summum
 bonum recte poneretur, si quod esset animal, quod
@@ -6450,7 +6450,7 @@ tanto in dominatu locatur, ut omnia illa prima naturae huius tutelae subiciantur
                   <p>itaque non discedit
 ab eorum curatione, quibus praeposita vitam omnem
 debet gubernare, ut mirari satis istorum<note>istorum <hi rend="italics">Wes. apud Mdv.</hi> eorum</note> inconstantiam non possim.<note>possim <hi rend="italics">marg. ed. Cratandr.</hi> possum BE possimus RNV</note> naturalem enim appetitionem, quam
-vocant <foreign xml:lang="greek">ὁρμήν</foreign>, itemque officium, ipsam etiam virtutem
+vocant <foreign xml:lang="grc">ὁρμήν</foreign>, itemque officium, ipsam etiam virtutem
 tuentem<note>tuentem <hi rend="italics">om.</hi> BE (<hi rend="italics">cf. p. 136, 33
 sqq. et p. 138, 4 sqq.</hi> 11 expetamus <hi rend="italics">Bai.</hi> ea petamus BEV
 ea p<gap reason="illegible"/>utamus R earum petamus N<hi rend="sup">1</hi> earum apetamus N<hi rend="sup">2</hi>
@@ -7082,7 +7082,7 @@ dico, inquiet, sed ad virtutes et ad vitia nihil interesse. <pb n="p.152"/>
                <div type="textpart" n="72" subtype="section">
                   <p>Quis istud, quaeso,<note>quaeso <hi rend="italics">Man., Lamb.</hi>; quasi</note> nesciebat? verum audiamus.—
 Ista, inquit, quae dixisti, valere, locupletem esse, non
-dolere, bona non dico, sed dicam Graece <foreign xml:lang="greek">προηγμένα</foreign>,
+dolere, bona non dico, sed dicam Graece <foreign xml:lang="grc">προηγμένα</foreign>,
 Latine autem producta—sed praeposita<note>proposita RNV</note> aut
 praecipua malo, sit tolerabilius et mollius—; illa
 autem, morbum, egestatem, dolorem, non appello
@@ -7131,7 +7131,7 @@ solum praeterea formosum, solum liberum, solum
 civem, <add>stultos</add> omnia contraria,<note>
                         <hi rend="italics">add. hoc loco Mdv., post</hi> contraria <hi rend="italics">Morel.</hi>
                      </note> quos etiam insanos
-esse vultis. haec <foreign xml:lang="greek">παράδοξα</foreign> illi, nos admirabilia
+esse vultis. haec <foreign xml:lang="grc">παράδοξα</foreign> illi, nos admirabilia
 dicamus. quid autem habent admirationis, cum prope
 accesseris? conferam tecum, quam cuique verbo rem
 subicias; nulla erit controversia. Omnia peccata paria
@@ -7461,7 +7461,7 @@ rebus et splendida est eorum et illustris oratio.
                   <p>
 
 De summo autem bono, quia duo genera librorum
-sunt, unum populariter scriptum, quod <foreign xml:lang="greek">ἐξωτερικόν</foreign>
+sunt, unum populariter scriptum, quod <foreign xml:lang="grc">ἐξωτερικόν</foreign>
 appellabant, alterum limatius, quod in commentariis
 reliquerunt, non semper idem dicere videntur, nec in
 summa tamen ipsa aut varietas est ulla apud hos
@@ -7559,9 +7559,9 @@ et profectam.
 quo prudentia versaretur et quod assequi vellet, aptum
 et accommodatum naturae esse oportere et tale, ut
 ipsum per se invitaret et alliceret appetitum animi,
-quem <foreign xml:lang="greek">ὁρμὴν</foreign>
+quem <foreign xml:lang="grc">ὁρμὴν</foreign>
                      <note>
-                        <foreign xml:lang="greek">ὁρμήν</foreign>] bonū R</note> Graeci vocant. quid autem sit, quod ita
+                        <foreign xml:lang="grc">ὁρμήν</foreign>] bonū R</note> Graeci vocant. quid autem sit, quod ita
 moveat itaque a natura in primo ortu appetatur, non
 constat, deque eo est inter philosophos, cum summum
 bonum exquiritur, omnis dissensio. totius enim quaestionis eius, quae habetur de finibus bonorum et malorum, cum quaeritur, in his quid sit extremum et
@@ -7677,7 +7677,7 @@ nunc, quod<note>
                   <p>de illis, cum volemus. Democriti
 autem securitas, quae est animi tamquam<note>tamquam (tanquā R) tranquillitas RN tranquillitas tamquam BE tranquillitas (<hi rend="italics">om.</hi>
 tamquam) V</note> tranquillitas,
-quam appellant <foreign xml:lang="greek">εὐθυμίαν</foreign>, eo separanda fuit ab hac
+quam appellant <foreign xml:lang="grc">εὐθυμίαν</foreign>, eo separanda fuit ab hac
 disputatione, quia <del>ista animi tranquillitas</del> ea ipsa<note>
                         <hi rend="italics">secl. Se.</hi>
                      </note>
@@ -8631,7 +8631,7 @@ reliquarum communia.
                <div type="textpart" n="66" subtype="section">
                   <p>nam cum sic hominis natura
 generata sit, ut habeat quiddam<note>quoddam BE</note> ingenitum<note>ingenitum B E innatum RN in natum V</note> quasi civile
-atque populare, quod Graeci <foreign xml:lang="greek">πολιτικόν</foreign> vocant, quicquid aget quaeque virtus, id a communitate et ea,
+atque populare, quod Graeci <foreign xml:lang="grc">πολιτικόν</foreign> vocant, quicquid aget quaeque virtus, id a communitate et ea,
 quam<note>
                         <w>quam</w> que RN</note> exposui, caritate ac societate humana non abhorrebit, vicissimque iustitia, ut ipsa se fundet<note>fundet se BE</note> in<note>
                         <hi rend="italics">in</hi> N <hi rend="italics">post</hi> fundet <hi rend="italics">ab alt. m. superscr. est</hi> 
@@ -9076,10 +9076,10 @@ se<note>se oculis BE</note> privasse;<note>privavisse R</note> certe, ut quam mi
 quam si etiam in rerum cognitione ponebat, tamen ex
 illa investigatione naturae consequi volebat, bono ut
 esset animo. id enim ille<note>id enim ille R ideo enim ille BE id
-ille V id est enim illi summum bonum; <foreign xml:lang="greek">εὐθυμίαν</foreign> 
+ille V id est enim illi summum bonum; <foreign xml:lang="grc">εὐθυμίαν</foreign> 
                         <hi rend="italics">cet. coni. Mdv.</hi>
-                     </note> summum bonum <foreign xml:lang="greek">εὐθυμίαν</foreign>
-et saepe <foreign xml:lang="greek">ἀθαμβίαν</foreign> appellat, id est animum terrore
+                     </note> summum bonum <foreign xml:lang="grc">εὐθυμίαν</foreign>
+et saepe <foreign xml:lang="grc">ἀθαμβίαν</foreign> appellat, id est animum terrore
 liberum.
 
 </p>
@@ -9178,7 +9178,7 @@ Sacerd.</hi>
                      </note> risisse<note>quem ... risisse <hi rend="italics">Sacerd.</hi> 
                         <hi rend="italics">(gramm. Lat. ex rec. H. Keil VI 442)</hi>
                      </note> Lucilius, non contigit, ut ea re minus
-<foreign xml:lang="greek">ἀγέλαστος</foreign>, ut ait idem, vocaretur. Polycratem Samium felicem appellabant. nihil acciderat<note>acciderat V accideret</note> ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. ergo infelix una molestia, felix rursus, cum is ipse
+<foreign xml:lang="grc">ἀγέλαστος</foreign>, ut ait idem, vocaretur. Polycratem Samium felicem appellabant. nihil acciderat<note>acciderat V accideret</note> ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. ergo infelix una molestia, felix rursus, cum is ipse
 anulus in praecordiis piscis inventus est? ille vero,
 si insipiens—quod certe, quoniam tyrannus—, numquam beatus; si sapiens, ne tum quidem miser, cum
 ab Oroete,<note>Oroete <hi rend="italics">Vict.</hi> oronte BE
@@ -9288,14 +9288,14 @@ in oppidum ad Pomponium perreximus omnes.
                <p>Academia, celeberrimum Athenis gymnasium 156 4 156 8 159 25</p>
                <p>Academia, disciplina et scholaAcademicorum 32 27 nova etvetus 158 29</p>
                <p>Academici (recentiores) nihilafffirmant et id sequi volunt,quodcumque veri simile videatur 53 7 sqq. quid extremum bonorum constituissedicantur 100 14 sqq.</p>
-               <p>Academici veteres 158 30 sqq. 165 16 sq. eorum finis bonorum 49 10sqq. locum civilem, quem Graeci <foreign xml:lang="greek">πολιτικόν</foreign> appellant, graviter etcopiose tractaverunt 121 23sqq.</p>
+               <p>Academici veteres 158 30 sqq. 165 16 sq. eorum finis bonorum 49 10sqq. locum civilem, quem Graeci <foreign xml:lang="grc">πολιτικόν</foreign> appellant, graviter etcopiose tractaverunt 121 23sqq.</p>
                <p>Accius poëta. ex eius Philocteta 75 14sqq. 171 13sqq.</p>
-               <p>admirabilia (Stoice, <foreign xml:lang="greek">παράδοξα</foreign>)153 15</p>
+               <p>admirabilia (Stoice, <foreign xml:lang="grc">παράδοξα</foreign>)153 15</p>
                <p>Aegyptus 198 29 199 5</p>
                <p>L. Aemilius Paulus Macedonicus (consul a. 182 et 168) 191 5</p>
                <p>Q. Aelius Tubero (consul a. 118,Africani minoris sororis filius) 130 11</p>
                <p>Aeschines, orator Atticus 157 26</p>
-               <p>aestimabilia s.aestimanda(<foreign xml:lang="greek">ἀξίαν ἔχοντα</foreign>) 109 5 sqq. nullaaestimatione digna(<foreign xml:lang="greek">ἀπαξίαν ἔχοντα</foreign> 109 10 sqq.</p>
+               <p>aestimabilia s.aestimanda(<foreign xml:lang="grc">ἀξίαν ἔχοντα</foreign>) 109 5 sqq. nullaaestimatione digna(<foreign xml:lang="grc">ἀπαξίαν ἔχοντα</foreign> 109 10 sqq.</p>
                <p>L. Afranius poëta. a Menandromulta transtullt 3 30</p>
                <p>Africanus <hi rend="italics">v.</hi> Cornelius ScipioAfricanus</p>
                <p>Agesilaus, rex Lacedaemoniorum 84 22</p>
@@ -9311,7 +9311,7 @@ in oppidum ad Pomponium perreximus omnes.
                <p>Antiopa <hi rend="italics">v.</hi> Euripides; M. Pacuvius</p>
                <p>Antipater Tarsensis, Stoicus 3 15</p>
                <p>Apollo Pythius 178 8</p>
-               <p>appetitio naturalis (<foreign xml:lang="greek">ὁρμή</foreign>) 137 6sq. appetitus animi 163
+               <p>appetitio naturalis (<foreign xml:lang="grc">ὁρμή</foreign>) 137 6sq. appetitus animi 163
 19</p>
                <p>Arcesilas Academicus, Polemonis auditor 202 27 de eiusdisserendi more 32 20 sqq.160 21 quomodo tulerit dolorem 202 25 sqq.</p>
                <pb n="p.205"/>
@@ -9349,11 +9349,11 @@ commenarii90 20.</p>
                <p>Atilius poëta. convertit Sophoclis Electram 229</p>
                <p>A. Atilius Calatinus (consul a.258 et 254) 8427sqq.</p>
                <p>M. Atilius Regulus (consul a.267 et 256) 62 8sqq. 196 16sqq. 199 27 sqq.</p>
-               <p>atomi, id est corpora individua(<foreign xml:lang="greek">ἄομοι</foreign>) 730sqq.</p>
+               <p>atomi, id est corpora individua(<foreign xml:lang="grc">ἄομοι</foreign>) 730sqq.</p>
                <p>Attica pubes 40 30</p>
                <p>Attici 157 11</p>
                <p>Atticus <hi rend="italics">v.</hi> Pomponius AtticusCn. Aufidius praetorius 183 11</p>
-               <p>bonorum summum vel ultimumvel extremum, <foreign xml:lang="greek">έλος</foreign> 19 4 sqq.13 14sqq. 98 9sqq.</p>
+               <p>bonorum summum vel ultimumvel extremum, <foreign xml:lang="grc">έλος</foreign> 19 4 sqq.13 14sqq. 98 9sqq.</p>
                <p>bonum 101 13sqq.</p>
                <p>Brutus <hi rend="italics">v.</hi> Iunius Brutus</p>
                <p>Caecilianus quidam 38 4 <hi rend="italics">v.</hi>Caecilius Statius</p>
@@ -9386,12 +9386,12 @@ contra Erillum 53 4 eius statua17 21 sq.</p>
                <p>Cleanthes Stoicus. scripsit artem rhetoricam 122 19 eiustabuia
 verbis depicta, Voluptas cum Virtutibus ancillis 63 29 sqq.</p>
                <p>Codrus, Atheniensium rex 187 17</p>
-               <p>collatio rationis (<foreign xml:lang="greek">ἀναλογία</foreign>) 101 22sqq.</p>
+               <p>collatio rationis (<foreign xml:lang="grc">ἀναλογία</foreign>) 101 22sqq.</p>
                <p>Coloneus locus prope Athenas 156 29</p>
-               <p>commoda (Stoice, <foreign xml:lang="greek">εὐχρησήματα</foreign>) 116 23sqq.</p>
-               <p>conciliatio s. commendatio prima (<foreign xml:lang="greek">οἰκείωσις</foreign>) 50 5 93 27 96 2sq. 176 6 176 19sqq. 179 4</p>
+               <p>commoda (Stoice, <foreign xml:lang="grc">εὐχρησήματα</foreign>) 116 23sqq.</p>
+               <p>conciliatio s. commendatio prima (<foreign xml:lang="grc">οἰκείωσις</foreign>) 50 5 93 27 96 2sq. 176 6 176 19sqq. 179 4</p>
                <p>Consentini 4 3</p>
-               <p>convenientia (Stoice, <foreign xml:lang="greek">ὁμολογία</foreign>)96, 11</p>
+               <p>convenientia (Stoice, <foreign xml:lang="grc">ὁμολογία</foreign>)96, 11</p>
                <p>Corinthium (aes) 43, 20</p>
                <p>P. Cornelius Scipio Africanusmaior. honestatis causa,
 nonvoluptatis, summum adiltpericulum 58 25 sqq. vicitHannibalem 191 3
@@ -9421,10 +9421,10 @@ Ennius 80 23 sqq.</p>
                <p>Democritus philosophus Abderites. ultimas terras peragravit 181
 27sqq. 199 7 eum inphysicis sequitur Epicurus 727sqq. 79 5sq.
 nonnulla exiis mutat Epicurus 7 28sqq. 12 28sqq. eius summum bonum vel
-beata vita est securitas animi, <foreign xml:lang="greek">εὐθυμία, ἀθαμβία</foreign> 166 8
+beata vita est securitas animi, <foreign xml:lang="grc">εὐθυμία, ἀθαμβία</foreign> 166 8
 sqq. 199 14 sqq.quibus rebus vitam quaesiverit beatam 199 7 sqq.</p>
                <p>Demosthenes, orator Atticus157 26 157 29sqq.</p>
-               <p>detrimentum (Stoice, <foreign xml:lang="greek">βλάμμα, κίνησις κατὰ κακίαν</foreign>116 19 sqq.</p>
+               <p>detrimentum (Stoice, <foreign xml:lang="grc">βλάμμα, κίνησις κατὰ κακίαν</foreign>116 19 sqq.</p>
                <p>Dicaearchus Peripateticus 155 12</p>
                <p>Dinomachus in summo bonoad honestatem adiunxit voluptatem 165 14 sq.</p>
                <p>Diodorus, auditor Critolai Peripatetici, iuncta fecit
@@ -9433,18 +9433,18 @@ ultimabonorum addens ad honestatem vacuitatem doloris 41 6sq. 49
                <p>Diogenes Babylonius, Stoicus314 eius definitio boni 101 16 sq.quid
 senserit de divitiis 108 5sqq. de bona fama 111 9 sqq.eum audivit
 Laelius 43 23 sq.</p>
-               <p>Dionysius Heracleotes (<foreign xml:lang="greek">ὁ μεταθέμενος</foreign>Zenonis Stoici
+               <p>Dionysius Heracleotes (<foreign xml:lang="grc">ὁ μεταθέμενος</foreign>Zenonis Stoici
 discipulus 202 17 sqq.</p>
                <p>Dionysius tyrannus 145 1</p>
                <p>Dipylon Atheniense 156 7</p>
-               <p>disserendi ars, <foreign xml:lang="greek">λοψική</foreign> 122 altera philosophiae pars,
+               <p>disserendi ars, <foreign xml:lang="grc">λοψική</foreign> 122 altera philosophiae pars,
 quaeest quaerendi ac disserendi 9 29 sq. 160 5 disserendi praecepta
 16017 sqq. disserendiratio 123 7</p>
                <p>Drusus <hi rend="italics">v.</hi> Livius Drusus</p>
                <p>Echecrates Pythagoreus 199 1</p>
                <p>Electra v. Atilius poëta; Sophocles poëta</p>
-               <p>emolumentum (Stoice, <foreign xml:lang="greek">ὠφέλημα, κατ᾽ ἀρετὴν κίνησις</foreign>cf.
-101 19: ,,motus aut status enatura absoluto<gap reason="illegible"/>, <foreign xml:lang="greek">κίνησις ἢ σχέσις
+               <p>emolumentum (Stoice, <foreign xml:lang="grc">ὠφέλημα, κατ᾽ ἀρετὴν κίνησις</foreign>cf.
+101 19: ,,motus aut status enatura absoluto<gap reason="illegible"/>, <foreign xml:lang="grc">κίνησις ἢ σχέσις
 κατὰ τὸ φύσει τέλειον</foreign>) 11619 sqq.</p>
                <p>Endymion 184 6</p>
                <p>Q. Ennius. versus eius ex Annalibus 80 24 sqq. nonnullaab Homero
@@ -9463,7 +9463,7 @@ cf.67 26sqq.</p>
 34 12sqq. 38 25 41 7 42 22 nonsatis eruditus 11 23sq. 31 9 sqq.eius
 oratio 7 7 sqq. 38 33 sqq.eius nobilitas 55 18 sqq. virbonus et comis
 et humanus69 5sq. se unus sapientemprofessus est 35 8sq. eius
-<foreign xml:lang="greek">κύριαι δόξαι</foreign> i. e. quasimaxime ratae 41 27sqq. 78 6sqq. 29
+<foreign xml:lang="grc">κύριαι δόξαι</foreign> i. e. quasimaxime ratae 41 27sqq. 78 6sqq. 29
 27sqq. in physicisDemocritea dicit perpaucanon corrigens sed
 depravans7 27sqq. 11 31 sqq. 125 16sqq.cf. 12 26 sqq. utitur
 explicatione naturae, ut pellaturmortis et religionis metus124 15sqq.
@@ -9483,7 +9483,7 @@ libro primo (13 10sqq.),refutatur libro altero (33 13sqq.).</p>
                <p>Erillus philosophus, nihil essebonum docuit praeter scientiam 166 23sqq. 53 1 sqq. 10011 192 6sqq. animi cognitionem amplexatus est, actionem reliquit 135 30sq. fecitduo seiuncta ultima bonorum 137 20sqq. eius sententia explosa 50 1 53 3 sqq. 16613 sq.</p>
                <p>Euphrates 119 5</p>
                <p>Euripides. eius Antiopa et Medea 2 23sq. versus ex eiusAndromeda 80 2 sqq.</p>
-               <p>Q. Fadius Gallus 57 31 59 12fama bona (<foreign xml:lang="greek">εὐδοξία</foreign>) 111 9sqq.P. Gallonius, lurco famosus,deridetur a Lucilio 445sqq.— 73 25</p>
+               <p>Q. Fadius Gallus 57 31 59 12fama bona (<foreign xml:lang="grc">εὐδοξία</foreign>) 111 9sqq.P. Gallonius, lurco famosus,deridetur a Lucilio 445sqq.— 73 25</p>
                <p>Gamelion, mensis Atheniensium 78 21</p>
                <p>Gorgias Leontinus 32 11sqq.</p>
                <p>Gracchus <hi rend="italics">v.</hi> Sempronius Gracchus</p>
@@ -9496,20 +9496,20 @@ libro primo (13 10sqq.),refutatur libro altero (33 13sqq.).</p>
                <pb n="p.209"/>
                <p>Hermarchus Mytilenaeus, Epicuri discipulus 76 11 78 19Herodotus 72 11</p>
                <p>Hieronymus Rhodius, Peripateticus. ei finis bonorum estnihil dolere 35 22 sqq. 39 7sqq.418sqq. 48 12 49 22sqq. 521sqq. 162 7sqq. 164 25sq.192 13. quid sentiat de voluptate 35 26sq. virtutem abonorum fine segregavit 1424sq.</p>
-               <p>Homerus 84 8. 22 ab eo nonnulla transtulit Ennius 3 30cantus Sirenum (Od.<foreign xml:lang="greek">μ</foreign> 184—191) 180 25sqq.</p>
+               <p>Homerus 84 8. 22 ab eo nonnulla transtulit Ennius 3 30cantus Sirenum (Od.<foreign xml:lang="grc">μ</foreign> 184—191) 180 25sqq.</p>
                <p>honestum 53 25 sqq. 185 16 186 23</p>
                <p>Q. Hortensius (consul a. 69). Ciceronis liber, qui inscribiturHortensius 5 21 sqq.</p>
                <p>L. Hostilius Tubulus (praetora. 142) 57 14 sqq. 154 24187 18</p>
                <p>Hymettus, mons Atticae 83 9</p>
                <p>Hymnis, Caecilii Statii fabula42 28</p>
                <p>Idaea sacra (i. e. sacra MagnaeMatris deum accepta a. 204)188 6</p>
-               <p>imagines (<foreign xml:lang="greek">εἴδωλα</foreign>) 922</p>
+               <p>imagines (<foreign xml:lang="grc">εἴδωλα</foreign>) 922</p>
                <p>Imperiosus <hi rend="italics">V.</hi> T. Manlius Torquatus Imperiosus</p>
-               <p>incommoda (Stoice, <foreign xml:lang="greek">δυσξρηστήματα</foreign> 116 23sqq.</p>
-               <p>indifferens (<foreign xml:lang="greek">ἀδιάφορον</foreign>) 1108sqq.</p>
+               <p>incommoda (Stoice, <foreign xml:lang="grc">δυσξρηστήματα</foreign> 116 23sqq.</p>
+               <p>indifferens (<foreign xml:lang="grc">ἀδιάφορον</foreign>) 1108sqq.</p>
                <p>indolentia 37 5 41 14</p>
-               <p>infinitum inane, infinitio (<foreign xml:lang="greek">ἀπειρια</foreign>) 82 923sq.</p>
-               <p>intellegentia vel notio (Stoice, <foreign xml:lang="greek">ἔννοια</foreign>) 96 4</p>
+               <p>infinitum inane, infinitio (<foreign xml:lang="grc">ἀπειρια</foreign>) 82 923sq.</p>
+               <p>intellegentia vel notio (Stoice, <foreign xml:lang="grc">ἔννοια</foreign>) 96 4</p>
                <p>Italia ab Epicuro commota est55 19 sq.</p>
                <p>L. Iunius Brutus (consul a. 509)62 22</p>
                <p>M. Iunius Brutus iuris peritus6 5</p>
@@ -9565,13 +9565,13 @@ sul a. 70 et 55) 59 5sq. 1194sqq.</p>
                <p>Murena <hi rend="italics">v.</hi> L. Licinius Murena</p>
                <p>Mycenenses 40 29</p>
                <p>Nicomachus, Aristotelis filus161 22</p>
-               <p>notio naturalis atque in animisnostris insita (<foreign xml:lang="greek">πρόληψις</foreign>) 149sq.</p>
+               <p>notio naturalis atque in animisnostris insita (<foreign xml:lang="grc">πρόληψις</foreign>) 149sq.</p>
                <pb n="p.211"/>
                <p>Numantinum foedus a Q. Pompeio proconsule a. 140 factum 57 23</p>
                <p>Q. Numitorius Pullus Fregellanus coniurationem Fregellanorum prodidit (a. 125)187 14sqq.</p>
                <p>Cn. Octavius (consul a. 165) 10 24Cn. Octavius M. f. (consul a.76) 74 29 sqq.</p>
                <p>Oedipus 156 31</p>
-               <p>officium (Stoice, <foreign xml:lang="greek">καθῆκον</foreign>) 9526 sq. 111 29sq. in mediis rebus habitum 111 30sqq. 112 11 sqq.</p>
+               <p>officium (Stoice, <foreign xml:lang="grc">καθῆκον</foreign>) 9526 sq. 111 29sq. in mediis rebus habitum 111 30sqq. 112 11 sqq.</p>
                <p>Orata <hi rend="italics">v.</hi> Sergius Orata</p>
                <p>Orcus 4229</p>
                <p>Orestes et Pylades egregiumamicorum par 28 27 68 21 sqq.187 23sqq. (cf. M. Pacuvius)</p>
@@ -9580,11 +9580,11 @@ sul a. 70 et 55) 59 5sq. 1194sqq.</p>
                <p>Panaetius Rhodius, Stoicus 315 scripsit ad Q. Tuberonemde dolore patiendo 130 9 sqq.de eius disputandi et scribendi genere 155 7 sqq. eumaudivit Laelius 43 24sq.</p>
                <p>Paulus <hi rend="italics">v.</hi> Aemilius Paulus</p>
                <p>Sex. Peducaeus (praetor a. 75)59 14 sqq.</p>
-               <p>perceptiones (<foreign xml:lang="greek">καταλήψεις</foreign>) 9419. cf. 193 32 sqq.</p>
+               <p>perceptiones (<foreign xml:lang="grc">καταλήψεις</foreign>) 9419. cf. 193 32 sqq.</p>
                <p>Pericles 158 2</p>
                <p>Peripatetici. de eorum generedicendi 104 30sqq. 120 18 12215sq. 104 30sqq. de magnoin eorum disciplima ornatu 160 1sq. cf. 158 32 — 159 12de eorum investigatione naturae 1605sqq. de eorumdisserendi praeceptis 160 17sq. cf. 122 33sqq. inveniendiartem egregie tradiderunt123 33sqq. eorum finis bonorum 49 10sqq. de eorumbene vivendi praeceptis adrerum publicarum rectionemrelatis 160 23sqq. 147 19sqq.12123sqq. quae iis placueritvitae degendae ratio 161 1sqq. tria bonorum generastatuunt, animi, corporis, externa 63 20 sqq. 105 24 sq.cf. 14512sqq. 15214 de eorum cum Stoicis controversiain quaestione, quae est debonis et malis 104 29 sqq.120 20 sqq.</p>
                <p>C. Persius, homo litteratus, quivixit Gracchorum temporibus 4 1</p>
-               <p>perspicua (Stoice, <foreign xml:lang="greek">πρόδηα</foreign> s.<foreign xml:lang="greek">ἐναργῆ</foreign>) 123 19</p>
+               <p>perspicua (Stoice, <foreign xml:lang="grc">πρόδηα</foreign> s.<foreign xml:lang="grc">ἐναργῆ</foreign>) 123 19</p>
                <p>Phaedrus Epicureus. cum au. divit Cicero 7 16 sqq. itemAtticus, qui eum etiam amabat 7 20sqq. 157 1sqq.</p>
                <p>Phalaris, tyrannus Agrigentinus149 10 eius taurus 198 4</p>
                <p>Phaelericus portus 157 29</p>
@@ -9593,7 +9593,7 @@ sul a. 70 et 55) 59 5sq. 1194sqq.</p>
                <p>Philoctetes 75 21 171 13 sqq.Philocteteus clamor 75 14</p>
                <p>Philodemus Epicureus 86 6</p>
                <p>Phoenice s. Phoenica 144 23</p>
-               <p>physica (<foreign xml:lang="greek">γυδικσ́</foreign>) 7 27 12 1 1226 cognitio naturae 123 8explicatio naturae 124 15</p>
+               <p>physica (<foreign xml:lang="grc">γυδικσ́</foreign>) 7 27 12 1 1226 cognitio naturae 123 8explicatio naturae 124 15</p>
                <p>Pindarus poëta 84 9</p>
                <p>Piso Frugi <hi rend="italics">v.</hi> Calpurnius PisoFrugi</p>
                <p>M. Piso <hi rend="italics">v.</hi> M. Pupius PisoFrugi Calpurnianus</p>
@@ -9613,8 +9613,8 @@ sul a. 70 et 55) 59 5sq. 1194sqq.</p>
                <p>M.Porcius Cato (Uticensis),pronepos Catonis Censorii,(praetor a. 54) loquens inducitur in libris de finibus(cf. praefat. p. XIII) 89 9sqq.</p>
                <p>Posidonius Stoicus 3 16</p>
                <p>C. Postumius, homo luxuriosus 64 13</p>
-               <p>praeposita, praecipua, producta,promota (<foreign xml:lang="greek">προηγμένα</foreign>) 93 17109 14 109 25sqq. 152 3sqq.</p>
-               <p>prima naturae, prima naturalia<foreign xml:lang="greek">τὰ πρῶτα κατὰ φν́σιν</foreign>) 492sqq. 94 9</p>
+               <p>praeposita, praecipua, producta,promota (<foreign xml:lang="grc">προηγμένα</foreign>) 93 17109 14 109 25sqq. 152 3sqq.</p>
+               <p>prima naturae, prima naturalia<foreign xml:lang="grc">τὰ πρῶτα κατὰ φν́σιν</foreign>) 492sqq. 94 9</p>
                <p>Ptolomaeum gymnasium, a Ptolomaeo Philadelpho extructum 155 29</p>
                <p>Ptolomaeus (I), Lagi filius183 5</p>
                <p>M. Pupius Piso Frugi (consula. 61). irridebat Stoicos 15221 sqq. loquens inducitur inlibris de finibus (cf. praefat.p. XIII sq.) 155 28 sqq. — eiusavus (<hi rend="italics">v.</hi> L. Calpurnius PisoFrugi) 156 24</p>
@@ -9627,16 +9627,16 @@ sul a. 70 et 55) 59 5sq. 1194sqq.</p>
                <p>Pythagoras. ultimas terras peragravit 181 26sqq. 199 4sqq.Metaponti vitam edidit 157 17</p>
                <p>Pythagoreus ille, i. e. Damon,Phlntiae amicus 68 20. Pythagorei 199 1sqq.</p>
                <p>L. Quinctius Cincinnatus (dictator a. 458) 37 24</p>
-               <p>recta, recte facta (<foreign xml:lang="greek">καορθώματτα</foreign>) 97 28sq. 96 1<gap reason="illegible"/> 126 7</p>
+               <p>recta, recte facta (<foreign xml:lang="grc">καορθώματτα</foreign>) 97 28sq. 96 1<gap reason="illegible"/> 126 7</p>
                <p>Regulus <hi rend="italics">v.</hi> Atilius Regulus</p>
-               <p>reiecta, remota (<foreign xml:lang="greek">ἀποπροηγμένα</foreign>)9317 10915 1102sqq. reiectanea 152 7</p>
+               <p>reiecta, remota (<foreign xml:lang="grc">ἀποπροηγμένα</foreign>)9317 10915 1102sqq. reiectanea 152 7</p>
                <p>Roma 80 25</p>
                <p>P. Rutilius Rufus (consul 105)4 2</p>
                <p>Sabinus 4 22</p>
                <p>Sardanapallus, rex Assyriac80 16</p>
                <p>Scaevola <hi rend="italics">v.</hi> Mucius Scaevola</p>
                <p>Scipio <hi rend="italics">v.</hi> Cornelius Scipio</p>
-               <p>securitas (Democriti, <foreign xml:lang="greek">εὐθυμία</foreign>)166 9 sq.</p>
+               <p>securitas (Democriti, <foreign xml:lang="grc">εὐθυμία</foreign>)166 9 sq.</p>
                <p>C. Sempronius Gracchus (trib.pl. a. 123 et 122) 149 25sqq.</p>
                <p>Ti. Sempronius Gracchus (consul a. 177 et 163) 149 20sqq.</p>
                <p>Ti. Sempronius Gracchus, antecedeniis filius (trib. pl. a. 133)149 21 sq.</p>
@@ -9695,7 +9695,7 @@ sul a. 70 et 55) 59 5sq. 1194sqq.</p>
                <p>A. Varius, iudex durior 61 2sqq.</p>
                <p>L. Verginius 62 24 188 13</p>
                <p>Veseris fluvius 10 20</p>
-               <p>voluptas = <foreign xml:lang="greek">ἡδονή</foreign> 35 16 3718 sqq.28 sqq. stans et movens 16 31 sqq.47 26 sqq.</p>
+               <p>voluptas = <foreign xml:lang="grc">ἡδονή</foreign> 35 16 3718 sqq.28 sqq. stans et movens 16 31 sqq.47 26 sqq.</p>
                <p>Xenocrates, Academiae veteris
 
 <pb n="p.215"/>
@@ -9704,7 +9704,7 @@ philosophus 155 11 156 19 15832. Platonis auditor 120 32finis bonorum ab eo cons
                <p>Xenophon (Cyropaed. I 2 8) 747sq.</p>
                <p>Xerxes 83 4</p>
                <p>Zeno Epicureus. eum Cicerocum Attico audivit 7 16 sqq.</p>
-               <p>Zeno, Stoicorum princeps 88 9ut Citieus dicitur Poenulus144 22 dicendi copiam reliquit 122 16 sqq. verborumnovorum inventor 88 10 936sqq. audivit Polemonem 1213 140 5 sq. 147 10 sq. eius desummo bono sententiae 4925 sqq. 125 28 sqq. 128 5 sqq.141 1—147 4 152 13 sqq. quidsenserit de vita beata 1957 sqq. 197 16sq. 199 20sqq.quid <foreign xml:lang="greek">προηλμένον</foreign> contraquequid <foreign xml:lang="greek">ἀοπροηλμένον</foreign> nominaverit 109 14 sqq.sententiaeelus de quinta quadam natura praeter quattuor res, exquibus omnia constare dicebant Stoici 124 31 sqq. quomodo tractaverit dialectica123 28 sqq. rhetoricam palmae, dialecticam pugni similem esse dicebat 40 10. –121 20 123 10 202 19</p>
+               <p>Zeno, Stoicorum princeps 88 9ut Citieus dicitur Poenulus144 22 dicendi copiam reliquit 122 16 sqq. verborumnovorum inventor 88 10 936sqq. audivit Polemonem 1213 140 5 sq. 147 10 sq. eius desummo bono sententiae 4925 sqq. 125 28 sqq. 128 5 sqq.141 1—147 4 152 13 sqq. quidsenserit de vita beata 1957 sqq. 197 16sq. 199 20sqq.quid <foreign xml:lang="grc">προηλμένον</foreign> contraquequid <foreign xml:lang="grc">ἀοπροηλμένον</foreign> nominaverit 109 14 sqq.sententiaeelus de quinta quadam natura praeter quattuor res, exquibus omnia constare dicebant Stoici 124 31 sqq. quomodo tractaverit dialectica123 28 sqq. rhetoricam palmae, dialecticam pugni similem esse dicebat 40 10. –121 20 123 10 202 19</p>
                <p>Zeuxis pictor 84 9</p>
             </div>
          </div>

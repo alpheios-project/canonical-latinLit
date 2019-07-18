@@ -1080,7 +1080,7 @@ ipsius lumen est eloquentia, qua virum excellentem praeclare tum illi homines fl
                      <l part="F">Suadaeque<note>suadaeque <hi rend="italics">vulg</hi>.: suadas <hi rend="italics">F1,</hi> suadis <hi rend="italics">F2,</hi> suadae <hi rend="italics">F3</hi>
                         </note> medulla.</l>
                   </quote>
-                  <foreign xml:lang="greek">πειθὼ</foreign> quam vocant Graeci, cuius effector est orator, hanc
+                  <foreign xml:lang="grc">πειθὼ</foreign> quam vocant Graeci, cuius effector est orator, hanc
 Suadam appellavit Ennius [eius autem Cethegum medullam
 fuisse vult<note>eius ... vult <hi rend="italics">secl. Schütz</hi>
                   </note>], ut, quam deam in Pericli labris<note>labris <hi rend="italics">F2</hi>: libris <hi rend="italics">F1 codd.</hi>
@@ -1227,8 +1227,8 @@ quasi coagmenta, quod ne Graeci quidem veteres factitaverunt: iam neminem antepo
                   <reg>ornari</reg> orationem 
 Graeci putant, si verborum immutationibus utantur<note>utamur <hi rend="italics">maluit Stangl</hi>
                   </note>, quos
-appellant <foreign xml:lang="greek">τρόπους,</foreign> et sententiarum orationisque formis, quae
-vocant <foreign xml:lang="greek">σχήματα</foreign>: non veri simile est quam sit in utroque
+appellant <foreign xml:lang="grc">τρόπους,</foreign> et sententiarum orationisque formis, quae
+vocant <foreign xml:lang="grc">σχήματα</foreign>: non veri simile est quam sit in utroque
 genere et creber et<note>creber et <hi rend="italics">F2M2</hi>: creberet <hi rend="italics">M1</hi>:
 crebere <hi rend="italics">F1G</hi>: crebre <hi rend="italics">codd.</hi>
                   </note> distinctus Cato. <milestone n="18" unit="chapter"/>
@@ -2347,7 +2347,7 @@ quam ponderis, et conlocandis et comprehensione<note>comprehensione <hi rend="it
 verum multo magis hoc idem in sententiarum ornamentis
 et conformationibus. <milestone n="141" unit="chapter"/>
                   <reg>quo</reg> genere quia praestat omnibus
-Demosthenes, idcirco a doctis oratorum est princeps iudicatus. <foreign xml:lang="greek">σχήματα</foreign> enim quae vocant Graeci, ea maxime
+Demosthenes, idcirco a doctis oratorum est princeps iudicatus. <foreign xml:lang="grc">σχήματα</foreign> enim quae vocant Graeci, ea maxime
 ornant oratorem<note>oratorem <hi rend="italics">L</hi>: orationem <hi rend="italics">Lambinus</hi>
                   </note> eaque<note>eaque <hi rend="italics">L</hi>: quae <hi rend="italics">Jahn</hi>: atque
 <hi rend="italics">Stangl</hi>
@@ -2656,10 +2656,10 @@ minuta <hi rend="italics">Stangl, qui et conicit</hi> in c. pro Q. C. (testimoni
 defensione tincta</note> non brevis ut laudatio, ut oratio autem
 brevis; postrema censoris oratio, qua anno duodequinquagesimo usus est. In his omnibus inest quidam sine ullo
 fuco veritatis color; quin etiam comprehensio et ambitus ille
-verborum, si sic <foreign xml:lang="greek">περίοδον</foreign>
+verborum, si sic <foreign xml:lang="grc">περίοδον</foreign>
                   <note>perhiodorum <hi rend="italics">L, corr. vulg.</hi>
                   </note> appellari placet, erat apud illum
-contractus et brevis, et in membra quaedam, quae <foreign xml:lang="greek">κῶλα</foreign>
+contractus et brevis, et in membra quaedam, quae <foreign xml:lang="grc">κῶλα</foreign>
 Graeci vocant, dispertiebat orationem<note>dispertibat oratione <hi rend="italics">L, corr. vulg.</hi>
                   </note> libentius. </p>
             </div>
@@ -4257,7 +4257,7 @@ crebriorem. Praeterea perfectus in litteris iurisque civilis
 265 iam a patre Aculeone traditam tenuit disciplinam. Reliqui
 sunt, qui mortui sint, L. Torquatus, quem tu non tam cito
 rhetorem dixisses, etsi non deerat oratio, quam, ut Graeci
-dicunt, <foreign xml:lang="greek">πολιτικόν.</foreign> Erant in eo plurimae litterae nec eae 
+dicunt, <foreign xml:lang="grc">πολιτικόν.</foreign> Erant in eo plurimae litterae nec eae 
 vulgares, sed interiores quaedam et reconditae, divina memoria, summa verborum et gravitas et elegantia; atque
 haec omnia vitae decorabat gravitas<note>gravitas <hi rend="italics">C</hi>: dignitas <hi rend="italics">P1</hi>: 
 granditas (1. 17) ... gravitas <hi rend="italics">Orelli</hi>: gravitas ... castitas <hi rend="italics">coni.
@@ -4411,7 +4411,7 @@ eodem modo semper sed varie dissimulanterque conclusis.
             <div type="textpart" n="275" subtype="section">
                <p>
                   <reg>erant</reg> autem et verborum et sententiarum 'illa lumina quae
-vocant Graeci <foreign xml:lang="greek">σχήματα,</foreign> quibus tamquam insignibus in
+vocant Graeci <foreign xml:lang="grc">σχήματα,</foreign> quibus tamquam insignibus in
 ornatu distinguebatur omnis oratio. QVA DE RE AGITVR
 autem illud quod multis locis in iuris consultorum includitur formulis, id<note>id <hi rend="italics">Corradus</hi>: et <hi rend="italics">L</hi>
                   </note> ubi esset videbat. <milestone n="80" unit="chapter"/>
@@ -4813,9 +4813,9 @@ eorum pigmentorum, quae inventa nondum erant, florem et
 colorem defuisse. Nam de Crassi oratione sic existimo,
 ipsum fortasse melius potuisse scribere, alium, ut<note>[ut] arbitror <hi rend="italics">Schütz</hi>
                   </note> arbitror,
-neminem. Nam in hoc <foreign xml:lang="greek">εἴρωνα</foreign>
+neminem. Nam in hoc <foreign xml:lang="grc">εἴρωνα</foreign>
                   <note>
-                     <foreign xml:lang="greek">εἴρωνα</foreign> me duxeris <hi rend="italics">Baehrens</hi>: yroniam eduxeris
+                     <foreign xml:lang="grc">εἴρωνα</foreign> me duxeris <hi rend="italics">Baehrens</hi>: yroniam eduxeris
 <hi rend="italics">L</hi>: ironiam duxeris <hi rend="italics">codd. det.</hi>
                   </note> me duxeris esse, quod earn
 orationem mihi magistram fuisse dixerim. Nam etsi tute<note>tute <hi rend="italics">Stangl</hi>: ut <hi rend="italics">H</hi>: ut tu <hi rend="italics">C</hi>
@@ -4830,9 +4830,9 @@ imitaremur non habebamus. </p>
                <p>
                   <reg>quod</reg> autem plures a nobis
 nominati sunt, eo pertinuit, ut paulo ante dixi, quod intellegi volui, in eo, cuius omnes cupidissimi essent, quam
-pauci digni nomine evaderent. Quare <foreign xml:lang="greek">εἴρωνα</foreign>
+pauci digni nomine evaderent. Quare <foreign xml:lang="grc">εἴρωνα</foreign>
                   <note>
-                     <foreign xml:lang="greek">εἴρωνα</foreign> 
+                     <foreign xml:lang="grc">εἴρωνα</foreign> 
                      <hi rend="italics">vulg.</hi>: ironia <hi rend="italics">L</hi>
                   </note> me, ne si
 Africanus quidem fuit, ut ait in historia sua C. Fannius, 
@@ -5712,7 +5712,7 @@ non erat amplius in exemnplari a quo abscisse sunt charte due: quamquam ut mihi 
             <p>lunius Brutus (L.) 53.</p>
             <p>Iunius Brutus (M.) 130, 175 (iuris consultus).</p>
             <p>Iunius Brutus (M.) (filius) 130.</p>
-            <p>Iunius Brutus (M.) 222 (pater <foreign xml:lang="greek">τοῦ τυραννοκτόνου</foreign>).</p>
+            <p>Iunius Brutus (M.) 222 (pater <foreign xml:lang="grc">τοῦ τυραννοκτόνου</foreign>).</p>
             <p>Iunius Brutus (M.) 22, 120, 331 <hi rend="italics">et passim.</hi>
             </p>
             <p>Iunius Pennus (M.) 109.</p>
@@ -5839,7 +5839,7 @@ non erat amplius in exemnplari a quo abscisse sunt charte due: quamquam ut mihi 
             <p>Papirius Carbo (C.) 96, 103, 104, 159, 296, 333.</p>
             <p>Papirius Carbo Arvina (C.) (C. f.) 221, 227, 305, 308, 311.</p>
             <p>Papirius Carbo (Cn.) 223.</p>
-            <p>Papirius Fregellanus (L.) 170. <foreign xml:lang="greek">πειθώ</foreign> 59.</p>
+            <p>Papirius Fregellanus (L.) 170. <foreign xml:lang="grc">πειθώ</foreign> 59.</p>
             <p>Pericles 27, 28, 38, 44, 59, 290.</p>
             <p>Peripatetici 119, 149.</p>
             <p>Persarum bellum 41.</p>

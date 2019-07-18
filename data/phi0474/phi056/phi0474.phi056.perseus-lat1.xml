@@ -873,7 +873,7 @@ vehementer etiam atque etiam rogo.
                   <div type="textpart" n="1" subtype="section">
                      <p>
                         <reg>quid</reg>? tu me hoc tibi mandasse existimas, ut mihi gladiatorum compositiones, ut vadimonia dilata et Chresti compilationem mitteres et ea, quae nobis, cum Romae sumus,
-narrare nemo audeat? <reg>vide</reg>, quantum tibi meo iudicio tribuam (nec me hercule iniuria;<foreign xml:lang="greek">πολιτικώτερον</foreign> enim te adhuc neminem cognovi).  <reg>ne</reg> illa quidem curo mihi scribas, quae maximis in rebus rei publicae geruntur cotidie, nisi
+narrare nemo audeat? <reg>vide</reg>, quantum tibi meo iudicio tribuam (nec me hercule iniuria;<foreign xml:lang="grc">πολιτικώτερον</foreign> enim te adhuc neminem cognovi).  <reg>ne</reg> illa quidem curo mihi scribas, quae maximis in rebus rei publicae geruntur cotidie, nisi
 quid ad me ipsum pertinebit; scribent alii, multi nuntiabunt, perferet multa etiam ipse rumor.  <reg>qua</reg> re ego nec praeterita nec praesentia abs te, sed ut ab homine longe in posterum prospiciente futura exspecto, ut, ex tuis litteris cum formam rei publicae viderim, quale aedificium futurum sit
 scire possim.  
 
@@ -1035,7 +1035,7 @@ nostro omnis fructus provinciae non confero.
                   <div type="textpart" n="2" subtype="section">
                      <p>
                         <reg>ego</reg> Appium, ut saepe tecum locutus sum, valde diligo meque ab eo diligi statim coeptum esse, ut simultatem deposuimus, sensi; nam et honorificus in me cos. fuit et suavis amicus et studiosus
-studiorum etiam meorum; mea vero officia ei non defuisse tu es testis, quoi iam <foreign xml:lang="greek">κωμικὸς μαρτύς</foreign> ut opinor, accedit Phania, et me hercule etiam pluris eum feci, quod te amari ab eo sensi.  <reg>iam</reg> me Pompei totum esse scis; Brutum a me amari intellegis.  <reg>quid</reg> est causae cur mihi non in optatis
+studiorum etiam meorum; mea vero officia ei non defuisse tu es testis, quoi iam <foreign xml:lang="grc">κωμικὸς μαρτύς</foreign> ut opinor, accedit Phania, et me hercule etiam pluris eum feci, quod te amari ab eo sensi.  <reg>iam</reg> me Pompei totum esse scis; Brutum a me amari intellegis.  <reg>quid</reg> est causae cur mihi non in optatis
 sit complecti hominem florentem aetate, opibus, honoribus, ingenio, liberis, propinquis, adfinibus, amicis, conlegam meum praesertim et in ipsa collegi laude et scientia studiosum mei?  <reg>haec</reg> eo pluribus scripsi, quod non nihil significabant tuae litterae subdubitare, qua essem erga illum
 voluntate.  <reg>credo</reg> te audisse aliquid.  <reg>falsum</reg> est, mihi crede, si quid audisti.  <reg>genus</reg> institutorum et rationum mearum dissimilitudinem non nullam habet cum illius administratione provinciae; ex eo quidam suspicati fortasse sunt animorum contentione, non opinionum dissensione me
 ab eo discrepare; nihil autem feci umquam neque dixi,
@@ -1284,8 +1284,8 @@ maxime tua interesse arbitror.</p>
                      <p>
                         <reg>si</reg> ipsa res p. tibi narrare posset, quo modo sese haberet, non facilius ex ea cognoscere posses quam ex liberto tuo
 Phania; ita est homo non modo prudens, verum etiam, quod iuvet; curiosus.  <reg>quapropter</reg> ille tibi omnia explanabit; id enim mihi et ad brevitatem est aptius et ad reliquas res providentius.  <reg>de</reg> mea autem benevolentia erga te etsi potes ex eodem Phania cognoscere, tamen videntur etiam
-aliquae meae partes; sic enim tibi persuade, carissimum te mihi esse cum propter multas suavitates ingeni, offici, humanitatis tuae, tum quod ex tuis litteris et ex multorum sermonibus intellego omnia, quae a me profecta sunt in te, tibi accidisse gratissima.  <reg>quod</reg> cum ita sit, perficiam profecto, ut longi temporis usuram, qua caruimus intermissa nostra consuetudine, et gratia et crebritate et magnitudine officiorum meorum sarciam, idque me, quoniam tu ita vis, puto non invita Minerva esse facturum; quam quidem ego, si forte de tuis sumpsero, non solum <foreign xml:lang="greek">Πολιάδα</foreign>, sed etiam
-<foreign xml:lang="greek">Ἀππιάδα</foreign> nominabo.
+aliquae meae partes; sic enim tibi persuade, carissimum te mihi esse cum propter multas suavitates ingeni, offici, humanitatis tuae, tum quod ex tuis litteris et ex multorum sermonibus intellego omnia, quae a me profecta sunt in te, tibi accidisse gratissima.  <reg>quod</reg> cum ita sit, perficiam profecto, ut longi temporis usuram, qua caruimus intermissa nostra consuetudine, et gratia et crebritate et magnitudine officiorum meorum sarciam, idque me, quoniam tu ita vis, puto non invita Minerva esse facturum; quam quidem ego, si forte de tuis sumpsero, non solum <foreign xml:lang="grc">Πολιάδα</foreign>, sed etiam
+<foreign xml:lang="grc">Ἀππιάδα</foreign> nominabo.
 </p>
                   </div>
                   <div type="textpart" n="2" subtype="section">
@@ -1496,18 +1496,18 @@ A Pausania, Lentuli liberto, accenso meo, audivi, cum diceret te secum esse ques
 Pausania dicebat te dixisse: '<reg>quidni</reg>? Appius Lentulo, Lentulus Ampio processit obviam, Cicero Appio noluit ?' <reg>quaeso</reg>, etiamne tu has ineptias, homo mea sententia summa prudentia, multa etiam doctrina, plurimo rerum usu, addo urbanitatem, quae est virtus, ut Stoici rectissime
 putant? ullam Appietatem aut Lentulitatem valere apud me plus quam ornamenta virtutis existimas?  Cum ea consecutus nondum eram, quae sunt hominum opinionibus amplissima, tamen ista vestra nomina numquam sum admiratus; viros eos, qui ea vobis reliquissent, magnos arbitrabar.  <reg>postea</reg> vero quam ita et cepi et gessi maxima
 imperia, ut mihi nihil neque ad honorem neque ad gloriam adquirendum putarem, superiorem quidem numquam, sed parem vobis me speravi esse factum.  <reg>nec</reg> mehercule aliter vidi existimare vel Cn. Pompeium, quem omnibus, qui
-umquam fuerunt, vel P. Lentulum, quem mihi ipsi antepono; tu si aliter existimas, nihil errabis, si paulo diligentius, ut, quid sit <foreign xml:lang="greek">εὐγένεια</foreign>, quid sit nobilitas, intellegas, Athenodorus, Sandonis filius, quid de his rebus dicat, attenderis.
+umquam fuerunt, vel P. Lentulum, quem mihi ipsi antepono; tu si aliter existimas, nihil errabis, si paulo diligentius, ut, quid sit <foreign xml:lang="grc">εὐγένεια</foreign>, quid sit nobilitas, intellegas, Athenodorus, Sandonis filius, quid de his rebus dicat, attenderis.
 
 </p>
                   </div>
                   <div type="textpart" n="6" subtype="section">
                      <p>
                         <reg>sed</reg> ut ad rem redeam, me tibi non amicum modo, verum etiam amicissimum existimes velim.  <reg>profecto</reg> omnibus officiis meis efficiam, ut ita esse vere possis iudicare.  <reg>tu</reg> autem si id agis, ut minus mea causa, dum ego absim, debere videaris, quam ego tua laborarim, libero te ista cura;
-<quote xml:lang="greek">
+<quote xml:lang="grc">
                            <l>pa/r' e)/moige kai\ a)/lloi</l>
                            <l>oi(/ ke/ me timh/sousi, ma/lista de\ mhti/eta *zeu/s.</l>
                         </quote>
-                        <reg>si</reg> autem natura es <foreign xml:lang="greek">φιλαίτιος</foreign>, illud non perficies, quo minus tua causa velim; hoc adsequere, ut, quam in partem tu accipias, minus laborem.  <reg>haec</reg> ad te scripsi liberius fretus conscientia offici mei benevolentiaeque, quam a me certo iudicio susceptam, quoad tu voles, conservabo.
+                        <reg>si</reg> autem natura es <foreign xml:lang="grc">φιλαίτιος</foreign>, illud non perficies, quo minus tua causa velim; hoc adsequere, ut, quam in partem tu accipias, minus laborem.  <reg>haec</reg> ad te scripsi liberius fretus conscientia offici mei benevolentiaeque, quam a me certo iudicio susceptam, quoad tu voles, conservabo.
 
 </p>
                   </div>
@@ -1610,7 +1610,7 @@ vero ut accesseris vel potius ut primum tuos videris, cognosse te ex iis, qua in
                   </div>
                   <div type="textpart" n="2" subtype="section">
                      <p>
-                        <reg>ego</reg>, etsi ipse ita iudicabam et fiebam crebro a meis per litteras certior, tamen maximam laetitiam cepi ex tuis litteris de spe minime dubia et plane explorata triumphi tui, neque vero ob eam causam, quo ipse facilius consequerer (nam id quidem <foreign xml:lang="greek">Ἐπικούρειον</foreign> est), sed mehercule quod tua dignitas atque amplitudo mihi est ipsa cara per se.  <reg>qua</reg> re, quoniam pluris tu habes quam ceteri, quos scias in hanc provinciam proficisci, quod te adeunt fere omnes, si quid velis, gratissimum mihi feceris, si ad me, simulatque adeptus eris quod et tu confidis et ego opto, litteras miseris. '<reg>longi</reg> subselli,' ut noster Pompeius appellat, iudicatio et mora si quem tibi item unum alterumve diem abstulerit (quid enim potest amplius?), tua tamen dignitas suum locum obtinebit; sed, si me diligis, si a me diligi vis, ad me litteras, ut quam primum laetitia adficiar, mittito.
+                        <reg>ego</reg>, etsi ipse ita iudicabam et fiebam crebro a meis per litteras certior, tamen maximam laetitiam cepi ex tuis litteris de spe minime dubia et plane explorata triumphi tui, neque vero ob eam causam, quo ipse facilius consequerer (nam id quidem <foreign xml:lang="grc">Ἐπικούρειον</foreign> est), sed mehercule quod tua dignitas atque amplitudo mihi est ipsa cara per se.  <reg>qua</reg> re, quoniam pluris tu habes quam ceteri, quos scias in hanc provinciam proficisci, quod te adeunt fere omnes, si quid velis, gratissimum mihi feceris, si ad me, simulatque adeptus eris quod et tu confidis et ego opto, litteras miseris. '<reg>longi</reg> subselli,' ut noster Pompeius appellat, iudicatio et mora si quem tibi item unum alterumve diem abstulerit (quid enim potest amplius?), tua tamen dignitas suum locum obtinebit; sed, si me diligis, si a me diligi vis, ad me litteras, ut quam primum laetitia adficiar, mittito.
 
 <milestone unit="para"/>
                      </p>
@@ -1941,7 +1941,7 @@ concedam, praeterea nemini; mihique ab eo gratia refertur, in quo ille existimat
                   </label>
                   <div type="textpart" n="1" subtype="section">
                      <p>
-                        <reg>accipio</reg> excusationem tuam, qua usus es, cur saepius ad me litteras uno exemplo dedisses, sed accipio ex ea parte, quatenus aut neglegentia aut improbitate eorum, qui epistulas accipiant, fieri scribis ne ad nos perferantur; illam partem excusationis, qua te scribis  orationis paupertate' (sic enim appellas) isdem verbis epistulas saepius mittere, nec nosco nec probo, et ego ipse, quem tu per iocum (sic enim accipio) divitias orationis ' habere dicis, me non esse verborum admodum inopem agnosco (<foreign xml:lang="greek">εἰρωνεύεσθαι</foreign> enim non necesse est), . sed tamen idem (nec hoc <foreign xml:lang="greek">εἰρωνευόμενος</foreign> facile cedo tuorum scriptorum subtilitati et elegantiae.
+                        <reg>accipio</reg> excusationem tuam, qua usus es, cur saepius ad me litteras uno exemplo dedisses, sed accipio ex ea parte, quatenus aut neglegentia aut improbitate eorum, qui epistulas accipiant, fieri scribis ne ad nos perferantur; illam partem excusationis, qua te scribis  orationis paupertate' (sic enim appellas) isdem verbis epistulas saepius mittere, nec nosco nec probo, et ego ipse, quem tu per iocum (sic enim accipio) divitias orationis ' habere dicis, me non esse verborum admodum inopem agnosco (<foreign xml:lang="grc">εἰρωνεύεσθαι</foreign> enim non necesse est), . sed tamen idem (nec hoc <foreign xml:lang="grc">εἰρωνευόμενος</foreign> facile cedo tuorum scriptorum subtilitati et elegantiae.
 
 </p>
                   </div>
@@ -3299,7 +3299,7 @@ ipsi loqui posse videantur.
                   <div type="textpart" n="4" subtype="section">
                      <p>
                         <reg>ego</reg> tibi hoc confirmo, etsi
-levis est consolatio ex miseriis aliorum, nihilo te nunc maiore in discrimine esse quam quemvis †aut eorum, qui discesserint; alteri dimicant, alteri victorem timent.  <reg>sed</reg> haec consolatio levis est; illa gravior, qua te uti spero, ego certe utor; nec enim, dum ero, angar ulla re, cum omni vacem culpa, et, si non ero, sensu omnino carebo.  <reg>sed</reg> rursus <foreign xml:lang="greek">γλαῦκ᾽  εἰς Ἀθήνας</foreign>, qui ad te haec. <reg>mihi</reg> tu, tui, tua omnia maximae curae sunt et, dum vivam, erunt.  <reg>vale</reg>.
+levis est consolatio ex miseriis aliorum, nihilo te nunc maiore in discrimine esse quam quemvis †aut eorum, qui discesserint; alteri dimicant, alteri victorem timent.  <reg>sed</reg> haec consolatio levis est; illa gravior, qua te uti spero, ego certe utor; nec enim, dum ero, angar ulla re, cum omni vacem culpa, et, si non ero, sensu omnino carebo.  <reg>sed</reg> rursus <foreign xml:lang="grc">γλαῦκ᾽  εἰς Ἀθήνας</foreign>, qui ad te haec. <reg>mihi</reg> tu, tui, tua omnia maximae curae sunt et, dum vivam, erunt.  <reg>vale</reg>.
 </p>
                   </div>
                </div>
@@ -3838,7 +3838,7 @@ scribis enim, si ita sit, te mecum esse victurum.  <reg>gratissima</reg> mihi tu
                   <div type="textpart" n="5" subtype="section">
                      <p>
                         <reg>me</reg> Romae tenuit omnino Tulliae meae partus.  <reg>sed</reg> cum ea, quem ad modum spero, satis firma sit, teneor tamen, dum a Dolabellae procuratoribus exigam primam pensionem ; et me hercule non tam sum peregrinator iam quam solebam.  <reg>aedificia</reg> mea me delectant, et otium ; domus est quae nulli mearum villarum cedat, otium omni desertissima regione maius.  <reg>itaque</reg> ne litterae quidem meae impediuntur, in quibus sine ulla interpellatione versor. <reg>qua</reg> re, ut arbitror, prius hic te nos quam istic tu nos videbis.  Lepta suavissimus ediscat Hesiodum et habeat in ore
-<foreign xml:lang="greek">τῆς δ᾽ ἀρετῆς ἱδρῶτα</foreign> et cetera.
+<foreign xml:lang="grc">τῆς δ᾽ ἀρετῆς ἱδρῶτα</foreign> et cetera.
 </p>
                   </div>
                </div>
@@ -4301,7 +4301,7 @@ factum.  O castra praeclara! <reg>quid</reg> tu fecisses, si te Tarentum et non 
                   <div type="textpart" n="2" subtype="section">
                      <p>
                         <reg>sed</reg> quonam modo ius civile defendes, cum omnia tua causa facias, non civium ?  Ubi porro illa erit formula
-fiduciae: 'VT INTER BONOS BENE AGIER OPORTET ? †quis enim est, qui facit nihil nisi sua causa? <reg>quod</reg> ius statues 'COMMVNI DIVIDVNDO,' quom commune nihil possit esse apud eos, qui omnia voluptate sua metiuntur? <reg>quo</reg> modo autem tibi placebit 'IOVEM LAPIDEM IVRARE,' cum scias Iovem iratum esse nemini posse? <reg>quid</reg> fiet porro populo Ulubrano, si tu statueris <foreign xml:lang="greek">πολιτεύεσθαι</foreign> non oportere? <reg>qua</reg> re si plane a nobis deficis, moleste fero, sin Pansae adsentari commodumst, ignosco; modo scribe aliquando ad nos quid agas et a nobis quid fieri aut curari velis.
+fiduciae: 'VT INTER BONOS BENE AGIER OPORTET ? †quis enim est, qui facit nihil nisi sua causa? <reg>quod</reg> ius statues 'COMMVNI DIVIDVNDO,' quom commune nihil possit esse apud eos, qui omnia voluptate sua metiuntur? <reg>quo</reg> modo autem tibi placebit 'IOVEM LAPIDEM IVRARE,' cum scias Iovem iratum esse nemini posse? <reg>quid</reg> fiet porro populo Ulubrano, si tu statueris <foreign xml:lang="grc">πολιτεύεσθαι</foreign> non oportere? <reg>qua</reg> re si plane a nobis deficis, moleste fero, sin Pansae adsentari commodumst, ignosco; modo scribe aliquando ad nos quid agas et a nobis quid fieri aut curari velis.
 
 </p>
                   </div>
@@ -4378,7 +4378,7 @@ deportare.  <reg>cura</reg> ut valeas.
                   </label>
                   <div type="textpart" n="1" subtype="section">
                      <p>
-                        <reg>in</reg> 'Equo Troiano' scis esse in extremo 'sero sapiunt.' <reg>tu</reg> tamen, mi vetule, non sero.  <reg>primas</reg> illas rabiosulas sat fatuas dedisti; deinde quod in Britannia non nimis <foreign xml:lang="greek">φιλοθέωρον</foreign> te praebuisti, plane non reprehendo.  <reg>nunc</reg> vero in hibernis iniectus mihi videris itaque te commovere non curas.
+                        <reg>in</reg> 'Equo Troiano' scis esse in extremo 'sero sapiunt.' <reg>tu</reg> tamen, mi vetule, non sero.  <reg>primas</reg> illas rabiosulas sat fatuas dedisti; deinde quod in Britannia non nimis <foreign xml:lang="grc">φιλοθέωρον</foreign> te praebuisti, plane non reprehendo.  <reg>nunc</reg> vero in hibernis iniectus mihi videris itaque te commovere non curas.
 <quote>
                            <l>Usquequaque sapere oportet; id erit telum acerrimum.</l>
                         </quote>
@@ -4496,7 +4496,7 @@ urbem quibus carus sis, deinde tuam domum tuosque agros, eaque remoto, salubri, 
                      <p>
                         <reg>ego</reg> a
 Sex. Fadio, Niconis discipulo, librum abstuli <title>
-                           <foreign xml:lang="greek">Νίκωνος περὶ Πολυφαγίας</foreign>
+                           <foreign xml:lang="grc">Νίκωνος περὶ Πολυφαγίας</foreign>
                         </title>. O medicum suavem meque docilem ad hanc disciplinam! <reg>sed</reg> Bassus noster me de hoc libro celavit, te quidem non videtur. <reg>ventus</reg> increbrescit. <reg>cura</reg> ut valeas.
 <date>xiii K. Sext.</date> Velia.
 </p>
@@ -4592,7 +4592,7 @@ defuturum.  <reg>ille</reg> autem, qui sciret se nepotem bellum tibicinem habere
                   <div type="textpart" n="1" subtype="section">
                      <p>
                         <reg>quod</reg> epistulam conscissam doles, noli laborare, salva est; domo petes, cum libebit.  <reg>quod</reg> autem me mones, valde
-gratum est, idque ut semper facias rogo; videris enim mihi vereri, †nisi istum habuerimus, rideamus <foreign xml:lang="greek">γέλωτα σαρδάνιον</foreign>. <reg>sed</reg> heus tu, manum de tabula! magister adest citius quam putaramus; vereor ne in catomum Catonianos.  
+gratum est, idque ut semper facias rogo; videris enim mihi vereri, †nisi istum habuerimus, rideamus <foreign xml:lang="grc">γέλωτα σαρδάνιον</foreign>. <reg>sed</reg> heus tu, manum de tabula! magister adest citius quam putaramus; vereor ne in catomum Catonianos.  
 </p>
                   </div>
                   <div type="textpart" n="2" subtype="section">
@@ -4611,14 +4611,14 @@ unguem,' quod aiunt, a stilo; is enim est dicendi opifex. <reg>atque</reg> equid
                   <div type="textpart" n="1" subtype="section">
                      <p>Cum decimum iam diem graviter ex intestinis laborarem neque iis qui mea opera uti volebant me probarem non
 valere, quia febrim non haberem, fligi in Tusculanum, cum
-quidem biduum ita ieiunus fuissem ut ne aquam quidem gustarem.  <reg>itaque</reg> confectus languore et fame magis tuum officium desideravi quam a te requiri putavi meum. <reg>ego</reg> autem quom omnis morbos reformido tum in quo Epicurum tuum Stoici male accipiunt, quia dicat '<foreign xml:lang="greek">στραγγουρικὰ καὶ δυσεντερικὰ πάθη</foreign>' sibi molesta esse; quorum alterum morbum edacitatis esse putant, alterum etiam turpioris intemperantiae.  <reg>sane</reg>
-                        <foreign xml:lang="greek">δυσεντερίαν</foreign> pertimueram; sed visa est mihi vel loci mutatio vel animi etiam relaxatio vel ipsa
+quidem biduum ita ieiunus fuissem ut ne aquam quidem gustarem.  <reg>itaque</reg> confectus languore et fame magis tuum officium desideravi quam a te requiri putavi meum. <reg>ego</reg> autem quom omnis morbos reformido tum in quo Epicurum tuum Stoici male accipiunt, quia dicat '<foreign xml:lang="grc">στραγγουρικὰ καὶ δυσεντερικὰ πάθη</foreign>' sibi molesta esse; quorum alterum morbum edacitatis esse putant, alterum etiam turpioris intemperantiae.  <reg>sane</reg>
+                        <foreign xml:lang="grc">δυσεντερίαν</foreign> pertimueram; sed visa est mihi vel loci mutatio vel animi etiam relaxatio vel ipsa
 
 </p>
                   </div>
                   <div type="textpart" n="2" subtype="section">
                      <p>
-fortasse iam senescentis morbi remissio profuisse. <reg>ac</reg> tamen ne mirere unde hoc acciderit quo modove commiserim, lex sumptuaria quae videtur <foreign xml:lang="greek">λιτότητα</foreign> attulisse ea mihi fraudi fuit.  <reg>nam</reg> dum volunt isti lauti terra nata, quae lege excepta sunt, in honorem adducere, fungos, helvellas, herbas omnis ita condiunt ut nihil possit esse suavius.  <reg>in</reg> eas cum incidissem in cena augurali apud Lentulum, tanta me <foreign xml:lang="greek">διάρροια</foreign> adripuit ut hodie primum videatur coepisse consistere.  <reg>ita</reg> ego, qui me ostreis et murenis facile
+fortasse iam senescentis morbi remissio profuisse. <reg>ac</reg> tamen ne mirere unde hoc acciderit quo modove commiserim, lex sumptuaria quae videtur <foreign xml:lang="grc">λιτότητα</foreign> attulisse ea mihi fraudi fuit.  <reg>nam</reg> dum volunt isti lauti terra nata, quae lege excepta sunt, in honorem adducere, fungos, helvellas, herbas omnis ita condiunt ut nihil possit esse suavius.  <reg>in</reg> eas cum incidissem in cena augurali apud Lentulum, tanta me <foreign xml:lang="grc">διάρροια</foreign> adripuit ut hodie primum videatur coepisse consistere.  <reg>ita</reg> ego, qui me ostreis et murenis facile
 abstinebam, a beta et a malva deceptus sum. <reg>posthac</reg>
 igitur erimus cautiores.
 
@@ -4678,7 +4678,7 @@ lugebam, quae non solum suis erga me sed etiam meis erga se beneficiis erat mihi
                      <seg rend="salute">CVRIVS M. CICERONI SVO S.</seg>
                   </label>
                   <div type="textpart" n="1" subtype="section">
-                     <p>S. V. B.; sum enim <foreign xml:lang="greek">χρήσει μὲν</foreign> tuus, <foreign xml:lang="greek">κτήσει δὲ</foreign> Attici nostri. <reg>ergo</reg> fructus est tuus, mancipium illius; quod quidem si inter senes comptionalis venale proscripserit, egerit non multum.  <reg>at</reg> illa nostra praedicatio quanti est, nos, quod simus, quod habeamus, quod homines existimemur, id omne abs te habere! <reg>qua</reg> re, Cicero mi, persevera constanter nos conservare et Sulpici successori nos de meliore nota commenda, quo facilius tuis praeceptis obtemperare possimus teque ad ver libentes videre et nostra refigere deportareque tuto possimus.  
+                     <p>S. V. B.; sum enim <foreign xml:lang="grc">χρήσει μὲν</foreign> tuus, <foreign xml:lang="grc">κτήσει δὲ</foreign> Attici nostri. <reg>ergo</reg> fructus est tuus, mancipium illius; quod quidem si inter senes comptionalis venale proscripserit, egerit non multum.  <reg>at</reg> illa nostra praedicatio quanti est, nos, quod simus, quod habeamus, quod homines existimemur, id omne abs te habere! <reg>qua</reg> re, Cicero mi, persevera constanter nos conservare et Sulpici successori nos de meliore nota commenda, quo facilius tuis praeceptis obtemperare possimus teque ad ver libentes videre et nostra refigere deportareque tuto possimus.  
 </p>
                   </div>
                   <div type="textpart" n="2" subtype="section">
@@ -4744,7 +4744,7 @@ Sulpici tibi operam intellego ex tuis litteris non multum opus fuisse propter tu
                   </label>
                   <div type="textpart" n="1" subtype="section">
                      <p>
-                        <reg>quod</reg> sine praenomine familiariter, ut debebas, ad me epistulam misisti, primum addubitavi an a Volumnio senatore esset, quocum mihi est magnus usus; deinde <foreign xml:lang="greek">εὐτραπελία</foreign> litterarum fecit ut intellegerem tuas esse. <reg>quibus</reg> in litteris omnia mihi periucunda fuerunt praeter illud, quod parum diligenter possessio salinarum mearum a te procuratore defenditur.  <reg>ais</reg> enim, ut ego discesserim, omnia
+                        <reg>quod</reg> sine praenomine familiariter, ut debebas, ad me epistulam misisti, primum addubitavi an a Volumnio senatore esset, quocum mihi est magnus usus; deinde <foreign xml:lang="grc">εὐτραπελία</foreign> litterarum fecit ut intellegerem tuas esse. <reg>quibus</reg> in litteris omnia mihi periucunda fuerunt praeter illud, quod parum diligenter possessio salinarum mearum a te procuratore defenditur.  <reg>ais</reg> enim, ut ego discesserim, omnia
 omnium dicta, in his etiam Sestiana, in me conferri. <reg>quid</reg>?
 tu id pateris? non me defendis, non resistis?  <reg>equidem</reg> sperabam ita notata me reliquisse genera dictorum meorum, ut cognosci sua sponte possent;
 
@@ -4752,8 +4752,8 @@ tu id pateris? non me defendis, non resistis?  <reg>equidem</reg> sperabam ita n
                   </div>
                   <div type="textpart" n="2" subtype="section">
                      <p>
-sed quoniam tanta faex est in urbe ut nihil tam sit <foreign xml:lang="greek">ἀκύθηρον</foreign> quod non alicui venustum esse videatur, pugna, si me amas, nisi acuta <foreign xml:lang="greek">ἀμφιβολία</foreign>, nisi elegans <foreign xml:lang="greek">ὑπερβολή</foreign>, nisi <foreign xml:lang="greek">παράγραμμα</foreign> bellum, nisi ridiculum <foreign xml:lang="greek">παρὰ προσδοκίαν</foreign>, nisi cetera, quae sunt a me in secundo libro 'de oratore' per Antoni personam disputata
-de ridiculis, <foreign xml:lang="greek">ἔντεχνα</foreign> et arguta apparebunt, ut sacramento contendas mea non esse.  <reg>nam</reg> de iudiciis quod quereris, multo laboro minus.  Trabantur per me pedibus omnes rei, sit vel Selius tam eloquens ut possit probare se liberum; non laboro; urbanitatis possessionem, amabo, quibusvis
+sed quoniam tanta faex est in urbe ut nihil tam sit <foreign xml:lang="grc">ἀκύθηρον</foreign> quod non alicui venustum esse videatur, pugna, si me amas, nisi acuta <foreign xml:lang="grc">ἀμφιβολία</foreign>, nisi elegans <foreign xml:lang="grc">ὑπερβολή</foreign>, nisi <foreign xml:lang="grc">παράγραμμα</foreign> bellum, nisi ridiculum <foreign xml:lang="grc">παρὰ προσδοκίαν</foreign>, nisi cetera, quae sunt a me in secundo libro 'de oratore' per Antoni personam disputata
+de ridiculis, <foreign xml:lang="grc">ἔντεχνα</foreign> et arguta apparebunt, ut sacramento contendas mea non esse.  <reg>nam</reg> de iudiciis quod quereris, multo laboro minus.  Trabantur per me pedibus omnes rei, sit vel Selius tam eloquens ut possit probare se liberum; non laboro; urbanitatis possessionem, amabo, quibusvis
 interdictis defendamus; in qua te unum metuo, contemno ceteros.  <reg>derideri</reg> te putas; nunc demum intellego te
 sapere. 
 
@@ -4880,7 +4880,7 @@ dedimus operam ut et Philotimus quam honestissime Miloni absenti eiusque necessa
                   </div>
                   <div type="textpart" n="3" subtype="section">
                      <p>
-                        <reg>illud</reg> nunc a te peto, si eris, ut spero, otiosus, aliquod ad nos, ut intellegamus nos tibi curae esse, <foreign xml:lang="greek">σύνταγμα</foreign> conscribas.  '<reg>qui</reg> tibi istuc,' inquis, 'in mentem venit, homini non inepto?'  <reg>opto</reg> aliquod ex tam multis tuis monumentis exstare quod nostrae amicitiae memoriam posteris quoque prodat.  <reg>cuius</reg> modi velim, puto, quaeris.  <reg>tu</reg> citius, qui omnem nosti disciplinam, quod maxime convenit excogitabis, genere tamen quod et ad nos pertineat et <foreign xml:lang="greek">διδασκαλίαν</foreign> quandam, ut versetur inter manus, habeat.
+                        <reg>illud</reg> nunc a te peto, si eris, ut spero, otiosus, aliquod ad nos, ut intellegamus nos tibi curae esse, <foreign xml:lang="grc">σύνταγμα</foreign> conscribas.  '<reg>qui</reg> tibi istuc,' inquis, 'in mentem venit, homini non inepto?'  <reg>opto</reg> aliquod ex tam multis tuis monumentis exstare quod nostrae amicitiae memoriam posteris quoque prodat.  <reg>cuius</reg> modi velim, puto, quaeris.  <reg>tu</reg> citius, qui omnem nosti disciplinam, quod maxime convenit excogitabis, genere tamen quod et ad nos pertineat et <foreign xml:lang="grc">διδασκαλίαν</foreign> quandam, ut versetur inter manus, habeat.
 </p>
                   </div>
                </div>
@@ -5412,7 +5412,7 @@ Tusculano sive in Cumano ad te placebit sive, quod minime velim, Romae dum modo 
                      <seg rend="salute">CICERO VARRONI </seg>
                   </label>
                   <div type="textpart" n="1" subtype="section">
-                     <p>Caninius tuus et idem noster cum ad me pervesperi venisset et se postridie mane ad te iturum esse dixisset, dixi ei me daturum litterarum aliquid; mane ut peteret rogavi.  <reg>conscripsi</reg> epistulam noctu; nec ille ad me rediit; oblitum credidi.  <reg>ac</reg> tamen eam ipsam tibi epistulam misissem per meos, nisi audissem ex eodem postridie te mane e Tusculano exiturum.  <reg>at</reg> tibi repente paucis post diebus, cum minime exspectarem, venit ad me Caninius mane; proficisci ad te statim dixit.  <reg>etsi</reg> erat <foreign xml:lang="greek">ἕωλος</foreign> illa epistula, praesertim tantis postea novis rebus adlatis, tamen perire lucubrationem meam nolui et eam ipsam Caninio dedi; sed cum eo ut cum homine docto et amantissimo tui
+                     <p>Caninius tuus et idem noster cum ad me pervesperi venisset et se postridie mane ad te iturum esse dixisset, dixi ei me daturum litterarum aliquid; mane ut peteret rogavi.  <reg>conscripsi</reg> epistulam noctu; nec ille ad me rediit; oblitum credidi.  <reg>ac</reg> tamen eam ipsam tibi epistulam misissem per meos, nisi audissem ex eodem postridie te mane e Tusculano exiturum.  <reg>at</reg> tibi repente paucis post diebus, cum minime exspectarem, venit ad me Caninius mane; proficisci ad te statim dixit.  <reg>etsi</reg> erat <foreign xml:lang="grc">ἕωλος</foreign> illa epistula, praesertim tantis postea novis rebus adlatis, tamen perire lucubrationem meam nolui et eam ipsam Caninio dedi; sed cum eo ut cum homine docto et amantissimo tui
 
 locutus ea sum, quae pertulisse illum ad te existimo.  
 
@@ -5431,7 +5431,7 @@ nusquam incurrat?
                         <reg>ac</reg> mihi quidem iam pridem venit in
 mentem bellum esse aliquo exire, ut ea, quae agebantur hic quaeque dicebantur, nec viderem nec audirem. <reg>sed</reg> calumniabar ipse; putabam, qui obviam mihi venisset, ut cuique commodum esset, suspicaturum aut dicturum, etiam si non
 suspicaretur: '<reg>hic</reg> aut metuit et ea re fugit aut aliquid cogitat et hàbet navem paratam.'  <reg>denique</reg>, levissime qui suspicaretur et qui fortasse me optime novisset, putaret me idcirco discedere, quod quosdam homines oculi mei ferre non possent. <reg>haec</reg> ego suspicans adhuc Romae maneo, et
-tamen <foreign xml:lang="greek">λεληθότως</foreign> consuetudo diurna callum iam obduxit stomacho meo.  <reg>habes</reg> rationem mei consili.  
+tamen <foreign xml:lang="grc">λεληθότως</foreign> consuetudo diurna callum iam obduxit stomacho meo.  <reg>habes</reg> rationem mei consili.  
 
 </p>
                   </div>
@@ -5448,7 +5448,7 @@ Magni autem intererit qui fuerit victoris animus, qui exitus rerum; quamquam quo
                      <p>
                         <reg>te</reg> vero nolo, nisi ipse rumor iam raucus erit factus, ad Baias venire; erit enim nobis honestius, etiam cum hinc discesserimus, videri venisse in illa loca
 ploratum potius quam natatum. <reg>sed</reg> haec tu melius; modo nobis stet illud, una vivere in studiis nostris, a quibus antea delectationem modo petebamus, nunc vero etiam salutem; non deesse, si quis adbibere volet, non modo ut architectos verum etiam ut fabros ad aedificandam rem publicam et
-potius libenter accurrere; si nemo utetur opera, tamen et scribere et legere <foreign xml:lang="greek">πολιτείας</foreign> et, si minus in curia atque in foro, at in litteris et libris, ut doctissimi veteres fecerunt, gnavare rem p. et de moribus ac legibus quaerere.  <reg>mihi</reg> haec videntur; tu quid sis acturus et quid tibi placeat
+potius libenter accurrere; si nemo utetur opera, tamen et scribere et legere <foreign xml:lang="grc">πολιτείας</foreign> et, si minus in curia atque in foro, at in litteris et libris, ut doctissimi veteres fecerunt, gnavare rem p. et de moribus ac legibus quaerere.  <reg>mihi</reg> haec videntur; tu quid sis acturus et quid tibi placeat
 pergratum erit si ad me scripseris.
 </p>
                   </div>
@@ -5460,7 +5460,7 @@ pergratum erit si ad me scripseris.
                   </label>
                   <div type="textpart" n="1" subtype="section">
                      <p>
-                        <reg>etsi</reg> quid scriberem non habebam, tamen Caninio. ad te eunti non potui nihil dare. <reg>quid</reg> ergo potissimum scribam? <reg>quod</reg> velle te puto, cito me ad te esse venturum; etsi vide, quaeso, satisne rectum sit nos hoc tanto incendio civitatis in istis locis esse ; dabimus sermonem iis, qui nesciunt nobis, quocumque in loco simus, eundem cultum, eundem victum esse. '<reg>quid</reg> refert? tamen in sermonem incidemus. <reg>valde</reg> id, credo, laborandum est ne, cum omnes in omni genere et scelerum et flagitiorum volutentur, nostra nobiscum aut inter nos cessatio vituperetur. <reg>ego</reg> vero neglecta barbarorum inscitia persequar; quamvis enim sint haec misera, quae sunt miserrima, tamen artes nostrae nescio quo modo nunc uberiores fructus ferre videntur quam olim ferebant, sive quia nulla nunc in re alia adquiescimus, sive quod gravitas morbi facit ut medicinae egeamus, eaque nunc appareat, cuius vim non sentiebamus cum valebamus. <reg>sed</reg> quid ego nunc haec ad te, cuius domi nascuntur <foreign xml:lang="greek">γλαῦκ᾽ εἰς Ἀθήνας</foreign>?  <reg>nihil</reg> scilicet nisi ut rescriberes aliquid, me exspectares. <reg>sic</reg> igitur facies.
+                        <reg>etsi</reg> quid scriberem non habebam, tamen Caninio. ad te eunti non potui nihil dare. <reg>quid</reg> ergo potissimum scribam? <reg>quod</reg> velle te puto, cito me ad te esse venturum; etsi vide, quaeso, satisne rectum sit nos hoc tanto incendio civitatis in istis locis esse ; dabimus sermonem iis, qui nesciunt nobis, quocumque in loco simus, eundem cultum, eundem victum esse. '<reg>quid</reg> refert? tamen in sermonem incidemus. <reg>valde</reg> id, credo, laborandum est ne, cum omnes in omni genere et scelerum et flagitiorum volutentur, nostra nobiscum aut inter nos cessatio vituperetur. <reg>ego</reg> vero neglecta barbarorum inscitia persequar; quamvis enim sint haec misera, quae sunt miserrima, tamen artes nostrae nescio quo modo nunc uberiores fructus ferre videntur quam olim ferebant, sive quia nulla nunc in re alia adquiescimus, sive quod gravitas morbi facit ut medicinae egeamus, eaque nunc appareat, cuius vim non sentiebamus cum valebamus. <reg>sed</reg> quid ego nunc haec ad te, cuius domi nascuntur <foreign xml:lang="grc">γλαῦκ᾽ εἰς Ἀθήνας</foreign>?  <reg>nihil</reg> scilicet nisi ut rescriberes aliquid, me exspectares. <reg>sic</reg> igitur facies.
 
 </p>
                   </div>
@@ -5471,8 +5471,8 @@ pergratum erit si ad me scripseris.
                      <seg rend="salute">CICERO VARRONI</seg>
                   </label>
                   <p>
-                     <foreign xml:lang="greek">Περὶ δυνατῶν</foreign> me scito <foreign xml:lang="greek">κατὰ Διόδωρον κρίνειν</foreign>.  <reg>quapropter</reg> si venturus es, scito necesse esse te venire ; sin autem non es, <foreign xml:lang="greek">ἀδυνάτων</foreign> est te venire.  <reg>nunc</reg> vide utra te <foreign xml:lang="greek">κρίσις</foreign> magis delectet, Chrysippi an haec, quam noster Diodotus non concoquebat. <reg>sed</reg> de his etiam rebus, otiosi cum erimus,
-loquemur ; hoc etiam <foreign xml:lang="greek">κατὰ Χρύσιππον δυνατὸν</foreign>? est. <reg>de</reg> mihi gratum est ; nam id etiam Attico mandaram.
+                     <foreign xml:lang="grc">Περὶ δυνατῶν</foreign> me scito <foreign xml:lang="grc">κατὰ Διόδωρον κρίνειν</foreign>.  <reg>quapropter</reg> si venturus es, scito necesse esse te venire ; sin autem non es, <foreign xml:lang="grc">ἀδυνάτων</foreign> est te venire.  <reg>nunc</reg> vide utra te <foreign xml:lang="grc">κρίσις</foreign> magis delectet, Chrysippi an haec, quam noster Diodotus non concoquebat. <reg>sed</reg> de his etiam rebus, otiosi cum erimus,
+loquemur ; hoc etiam <foreign xml:lang="grc">κατὰ Χρύσιππον δυνατὸν</foreign>? est. <reg>de</reg> mihi gratum est ; nam id etiam Attico mandaram.
 <reg>tu</reg> si minus ad nos, <add>nos</add> accurremus ad te ; si hortum in bybliotheca habes, deerit nihil.
 </p>
                </div>
@@ -5557,7 +5557,7 @@ non abutamur? </p>
                   </label>
                   <div type="textpart" n="1" subtype="section">
                      <p>
-                        <reg>cenabam</reg> apud Seium, cum utrique nostrum redditae sunt a te litterae.  <reg>mihi</reg> vero iam maturum videtur ; nam quod ante calumniatus sum, indicabo malitiam meam ; volebam prope alicubi esse, si quid bonae salutis, <foreign xml:lang="greek">σύν τε δύ᾽ ἐρχομένω</foreign> ; nunc quoniam confecta sunt omnia, dubitandum non est quin equis viris.  <reg>nam</reg> ut audivi de L. Caesare filio, mecum ipse:
+                        <reg>cenabam</reg> apud Seium, cum utrique nostrum redditae sunt a te litterae.  <reg>mihi</reg> vero iam maturum videtur ; nam quod ante calumniatus sum, indicabo malitiam meam ; volebam prope alicubi esse, si quid bonae salutis, <foreign xml:lang="grc">σύν τε δύ᾽ ἐρχομένω</foreign> ; nunc quoniam confecta sunt omnia, dubitandum non est quin equis viris.  <reg>nam</reg> ut audivi de L. Caesare filio, mecum ipse:
 
 <quote>
                            <l>
@@ -5573,8 +5573,8 @@ praesertim cum sit nihil quod rideamus:
 <quote>
                            <l>Africa terribili tremit horrida terra tumultu.</l>
                         </quote>
-                        <reg>itaque</reg> nullum est <foreign xml:lang="greek">ἀποπροηγμένον</foreign> quod non verear.  <reg>sed</reg> quod quaeris, quando, qua, quo, nihil adhuc scimus.  <reg>istuc</reg> ipsum de Baiis, non nulli dubitant an per Sardiniam veniat ; illud enim adhuc praedium suum non inspexit nec ullum habet deterius, sed tamen non contemnit.  <reg>ego</reg> omnino magis arbitror per Siciliam Veliam, <add>sed iam</add> sciemus ; adventat enim Dolabella.  Eum puto magistrum fore.
-<quote xml:lang="greek">
+                        <reg>itaque</reg> nullum est <foreign xml:lang="grc">ἀποπροηγμένον</foreign> quod non verear.  <reg>sed</reg> quod quaeris, quando, qua, quo, nihil adhuc scimus.  <reg>istuc</reg> ipsum de Baiis, non nulli dubitant an per Sardiniam veniat ; illud enim adhuc praedium suum non inspexit nec ullum habet deterius, sed tamen non contemnit.  <reg>ego</reg> omnino magis arbitror per Siciliam Veliam, <add>sed iam</add> sciemus ; adventat enim Dolabella.  Eum puto magistrum fore.
+<quote xml:lang="grc">
                            <l>polloi\ maqhtai\ krei/ssones didaska/lwn.</l>
                         </quote>
                         <reg>sed</reg> tamen, si sciam quid tu constitueris', meum consilium accommodabo potissimum ad tuum ; qua re exspecto tuas
@@ -5638,14 +5638,14 @@ reliquum est, ubi nunc est res p., ibi simus potius quam, dum illam veterem sequ
                   <div type="textpart" n="1" subtype="section">
                      <p>
                         <reg>non</reg> sum ausus Salvio nostro nihil ad te litterarum dare ; nec me hercule habebam quid scriberem, nisi te a me mirabiliter amari, de quo etiam nihil scribente me te non
-dubitare certo scio.  <reg>omnino</reg> mihi magis litterae sunt exspectandae a te quam a me tibi ; nihil enim Romae geritur quod te putem scire curare, nisi forte scire vis me inter Niciam nostrum et Vidium iudicem esse.  <reg>profert</reg> alter, opinor, duobus versiculis expensum Niciae, alter Aristarchus hos <foreign xml:lang="greek">ὀβελίζει</foreign> ; ego tamquam criticus antiquus iudicaturus sum utrum sint <foreign xml:lang="greek">τοῦ ποιητοῦ</foreign> an <foreign xml:lang="greek">παρεμβεβλημένοι</foreign>.  <reg>puto</reg> te nunc dicere: </p>
+dubitare certo scio.  <reg>omnino</reg> mihi magis litterae sunt exspectandae a te quam a me tibi ; nihil enim Romae geritur quod te putem scire curare, nisi forte scire vis me inter Niciam nostrum et Vidium iudicem esse.  <reg>profert</reg> alter, opinor, duobus versiculis expensum Niciae, alter Aristarchus hos <foreign xml:lang="grc">ὀβελίζει</foreign> ; ego tamquam criticus antiquus iudicaturus sum utrum sint <foreign xml:lang="grc">τοῦ ποιητοῦ</foreign> an <foreign xml:lang="grc">παρεμβεβλημένοι</foreign>.  <reg>puto</reg> te nunc dicere: </p>
                   </div>
                   <div type="textpart" n="2" subtype="section">
                      <p>
 '<reg>oblitusne</reg> es igitur
 
 fungorum illorum, quos apud Niciam, et ingentium †cularum
-cum sophia septimae?' <reg>quid</reg> ergo? tu adeo mihi excussam severitatem veterem putas, ut ne in foro quidem reliquiae pristinae frontis appareant? <reg>sed</reg> tamen suavissimum <foreign xml:lang="greek">συμβιωτὴν</foreign> nostrum praestabo integellum nec committam ut, si ego eum condemnaro, tu restituas, ne habeat Bursa Plancus
+cum sophia septimae?' <reg>quid</reg> ergo? tu adeo mihi excussam severitatem veterem putas, ut ne in foro quidem reliquiae pristinae frontis appareant? <reg>sed</reg> tamen suavissimum <foreign xml:lang="grc">συμβιωτὴν</foreign> nostrum praestabo integellum nec committam ut, si ego eum condemnaro, tu restituas, ne habeat Bursa Plancus
 apud quem litteras discat. </p>
                   </div>
                   <div type="textpart" n="3" subtype="section">
@@ -5873,7 +5873,7 @@ quod offendat aut illius aut eorum, qui ab illo diliguntur, voluntatem.  <reg>ef
 
 ipse Caesar habet peracre iudicium, et, ut Servius, frater
 tuus, quem litteratissimum fuisse iudico, facile diceret:
-'<reg>hic</reg> versus Plauti non est, hic est,' quod tritas auris haberet notandis generibus poetarum et consuetudine legendi, sic audio Caesarem, cum volumina iam confecerit <foreign xml:lang="greek">ἀποφθεγμάτων</foreign>, si quod adferatur ad eum pro meo quod meum non sit
+'<reg>hic</reg> versus Plauti non est, hic est,' quod tritas auris haberet notandis generibus poetarum et consuetudine legendi, sic audio Caesarem, cum volumina iam confecerit <foreign xml:lang="grc">ἀποφθεγμάτων</foreign>, si quod adferatur ad eum pro meo quod meum non sit
 reicere solere ; quod eo nunc magis facit, quia vivunt mecum fere cotidie illius familiares.  <reg>incidunt</reg> autem in sermone vario multa, quae fortasse illis, cum dixi, nec inlitterata nec insulsa esse videantur ; haec ad illum cum reliquis actis perferuntur ; ita enim ipse mandavit.  <reg>sic</reg> fit ut, si quid
 praeterea de me audiat, non audiendum putet. <reg>quam</reg> ob rem Oenomao tuo nihil utor ; etsi posuisti loco versus Accianos.  </p>
                   </div>
@@ -5969,7 +5969,7 @@ forte mori melius fuit.  <reg>in</reg> lectulo, fateor, sed non accidit ; in aci
                         <reg>sequitur</reg> illud: <reg>ipse</reg> melior fio primum
 
 valetudine, quam intermissis exercitationibus amiseram ; deinde ipsa illa, si qua fuit in me, facultas orationis, nisi me ad has exercitationes rettulissem, exaruisset. <reg>extremum</reg> illud est, quod tu nescio an primum putes: pluris iam pavones
-confeci quam tu pullos columbinos.  <reg>tu</reg> istic te Hateriano iure delectas, ego me hic Hirtiano. <reg>veni</reg> igitur, si vir es, et disce a me <foreign xml:lang="greek">προλεγομένας</foreign>, quas quaeris ; etsi sus Minervam, †sed quo modo video.  </p>
+confeci quam tu pullos columbinos.  <reg>tu</reg> istic te Hateriano iure delectas, ego me hic Hirtiano. <reg>veni</reg> igitur, si vir es, et disce a me <foreign xml:lang="grc">προλεγομένας</foreign>, quas quaeris ; etsi sus Minervam, †sed quo modo video.  </p>
                   </div>
                   <div type="textpart" n="4" subtype="section">
                      <p>
@@ -6013,7 +6013,7 @@ tuam lautitiam, veterem dico, cum in sumptum habebas ; etsi numquam plura praedi
                   </div>
                   <div type="textpart" n="2" subtype="section">
                      <p>
-                        <reg>proinde</reg> te para; cum homine et edaci tibi res est et qui iam aliquid intellegat (<foreign xml:lang="greek">ὀψιμαθεῖς</foreign> autem homines scis quam insolentes sint) ; dediscendae tibi sunt sportellae et artologam tui.  <reg>nos</reg> iam
+                        <reg>proinde</reg> te para; cum homine et edaci tibi res est et qui iam aliquid intellegat (<foreign xml:lang="grc">ὀψιμαθεῖς</foreign> autem homines scis quam insolentes sint) ; dediscendae tibi sunt sportellae et artologam tui.  <reg>nos</reg> iam
 †ex artis tantum habemus, ut Verrium tuum et Camillum (qua munditia homines, qua elegantia!) vocare saepius audeamus.  <reg>sed</reg> vide audaciam ; etiam Hirtio cenam dedi, sine pavone tamen. <reg>in</reg> ea cena cocus meus praeter ius fervens nihil <add>non</add> potuit imitari.  </p>
                   </div>
                   <div type="textpart" n="3" subtype="section">
@@ -6030,7 +6030,7 @@ Inde corpori omne tempus datur.  <reg>patriam</reg> eluxi iam et gravius et diut
                      <seg rend="salute">CICERO PAETO S.</seg>
                   </label>
                   <div type="textpart" n="1" subtype="section">
-                     <p>ain tandem? insanire tibi videris, quod imitere verborum meorum, ut scribis, 'fulmina'? <reg>tum</reg> insanires, si consequi non posses ; cum vero etiam vincas; me prius inrideas quam te oportet.  <reg>qua</reg> re nihil tibi opus est illud a Trabea, sed potius <foreign xml:lang="greek">ἀπότευγμα</foreign> meum.  <reg>verum</reg> tamen quid tibi ego videor in epistulis? nonne plebeio sermone agere tecum? nec enim semper eodem modo.  <reg>quid</reg> enim simile habet epistula aut iudicio aut contioni? quin ipsa iudicia non solemus omnia tractare uno modo.  <reg>privatas</reg> causas et eas tenuis agimus subtilius, capitis aut famae scilicet ornatius ; epistulas vero cotidianis verbis texere solemus.
+                     <p>ain tandem? insanire tibi videris, quod imitere verborum meorum, ut scribis, 'fulmina'? <reg>tum</reg> insanires, si consequi non posses ; cum vero etiam vincas; me prius inrideas quam te oportet.  <reg>qua</reg> re nihil tibi opus est illud a Trabea, sed potius <foreign xml:lang="grc">ἀπότευγμα</foreign> meum.  <reg>verum</reg> tamen quid tibi ego videor in epistulis? nonne plebeio sermone agere tecum? nec enim semper eodem modo.  <reg>quid</reg> enim simile habet epistula aut iudicio aut contioni? quin ipsa iudicia non solemus omnia tractare uno modo.  <reg>privatas</reg> causas et eas tenuis agimus subtilius, capitis aut famae scilicet ornatius ; epistulas vero cotidianis verbis texere solemus.
 
 <milestone unit="para"/>
                      </p>
@@ -6118,7 +6118,7 @@ balneo, non reprehendes. </p>
                      <p>
                         <reg>habes</reg> scholam Stoicam:
 
-<foreign xml:lang="greek">ὁ σοφὸς εὐθυρρημονήσει</foreign>.  <reg>quam</reg> multa ex uno verbo tuo!  <reg>te</reg> adversus me omnia audere gratum est ; ego servo et servabo (sic enim adsuevi) Platonis verecundiam.  <reg>itaque</reg> tectis
+<foreign xml:lang="grc">ὁ σοφὸς εὐθυρρημονήσει</foreign>.  <reg>quam</reg> multa ex uno verbo tuo!  <reg>te</reg> adversus me omnia audere gratum est ; ego servo et servabo (sic enim adsuevi) Platonis verecundiam.  <reg>itaque</reg> tectis
 verbis ea ad te scripsi, quae apertissimis agunt Stoici ; sed illi etiam crepitus aiunt aeque liberos ac ructus esse oportere.  <reg>honorem</reg> igitur K. Martiis.  <reg>tu</reg> me diliges et valebis.
 
 </p>
@@ -6158,8 +6158,8 @@ tempore ferri posse, si forte tu frigus ferre non posses. </p>
 
 me hercule, mi Paete, extra iocum moneo te, quod pertinere
 ad beate vivendum arbitror, ut cum viris bonis, iucundis, amantibus tui vivas.  <reg>nihil</reg> est aptius vitae, nihil ad beate vivendum accommodatius.  <reg>nec</reg> id ad voluptatem refero
-sed ad communitatem vitae atque victus remissionemque animorum, quae maxime sermone efficitur familiari, qui est in conviviis dulcissimus, ut sapientius nostri quam Graeci ; illi <foreign xml:lang="greek">συμπόσια</foreign> aut
-<foreign xml:lang="greek">σύνδειπνα</foreign>, id est compotationes aut concenationes, nos 'convivia,' quod tum maxime simul vivitur.
+sed ad communitatem vitae atque victus remissionemque animorum, quae maxime sermone efficitur familiari, qui est in conviviis dulcissimus, ut sapientius nostri quam Graeci ; illi <foreign xml:lang="grc">συμπόσια</foreign> aut
+<foreign xml:lang="grc">σύνδειπνα</foreign>, id est compotationes aut concenationes, nos 'convivia,' quod tum maxime simul vivitur.
 <reg>vides</reg> ut te philosophando revocare coner ad cenas.  <reg>cura</reg> ut valeas ; id foris cenitando facillime consequere.
 
 <milestone unit="para"/>
@@ -6183,7 +6183,7 @@ monendi, agendi, providendi ; hoc denique animo sum ut, si in hac cura atque adm
                   <div type="textpart" n="1" subtype="section">
                      <p>
                         <reg>summum</reg> me ducem litterae tuae reddiderunt.  <reg>plane</reg> nesciebam te tam peritum esse rei militaris ; Pyrrhi te libros et Cineae video lectitasse.  <reg>itaque</reg> obtemperare cogito praeceptis tuis, hoc amplius, navicularum habere
-aliquid in ora maritima.  <reg>contra</reg> equitem Parthum negant ullam armaturam meliorem inveniri posse.  <reg>sed</reg> quid ludimus? nescis quo cum imperatore tibi.negotium sit.  <foreign xml:lang="greek">Παιδείαν Κύρου</foreign> quam contrieram legendo, totam in hoc imperio
+aliquid in ora maritima.  <reg>contra</reg> equitem Parthum negant ullam armaturam meliorem inveniri posse.  <reg>sed</reg> quid ludimus? nescis quo cum imperatore tibi.negotium sit.  <foreign xml:lang="grc">Παιδείαν Κύρου</foreign> quam contrieram legendo, totam in hoc imperio
 
 explicavi. </p>
                   </div>
@@ -6210,7 +6210,7 @@ optima opera eius uti soleo. </p>
                   <div type="textpart" n="1" subtype="section">
                      <p>
                         <reg>accubueram</reg> hora nona, cum ad te harum exemplum in codicillis exaravi.  <reg>dices</reg>: 'ubi?' <reg>apud</reg> Volumnium Eutrapelum, et quidem supra me Atticus, infra Verrius, familiares tui.  <reg>miraris</reg> tam exhilaratam esse servitutem nostram? <reg>quid</reg> ergo faciam? (te consulo, qui philosophum
-audis) angar, excruciem me? <reg>quid</reg> adsequar? deinde quem ad finem? '<reg>vivas</reg>,' inquis 'in litteris.' .<reg>an</reg> quicquam me aliud agere censes aut posse vivere, nisi in litteris viverem? <reg>sed</reg> est earum etiam 'non satietas sed quidam modus ; a quibus cum discessi, etsi minimum mihi est in cena (quod tu unum <foreign xml:lang="greek">ζήτημα</foreign> Dioni philosopho posuisti), tamen quid potius faciam, prius quam me dormitum conferam, non reperio.  <reg>audi</reg> reliqua: <reg>infra</reg> Eutrapelum Cytheris accubuit.
+audis) angar, excruciem me? <reg>quid</reg> adsequar? deinde quem ad finem? '<reg>vivas</reg>,' inquis 'in litteris.' .<reg>an</reg> quicquam me aliud agere censes aut posse vivere, nisi in litteris viverem? <reg>sed</reg> est earum etiam 'non satietas sed quidam modus ; a quibus cum discessi, etsi minimum mihi est in cena (quod tu unum <foreign xml:lang="grc">ζήτημα</foreign> Dioni philosopho posuisti), tamen quid potius faciam, prius quam me dormitum conferam, non reperio.  <reg>audi</reg> reliqua: <reg>infra</reg> Eutrapelum Cytheris accubuit.
 </p>
                   </div>
                   <div type="textpart" n="2" subtype="section">
@@ -6620,7 +6620,7 @@ est summo studio magnoque consensu. </p>
                   <div type="textpart" n="2" subtype="section">
                      <p>
                         <reg>ego</reg> quamquam
-ex tuis litteris, quas mihi misisti perspexeram te magis iudicio bonorum quam insignibus gloriae delectari, tamen considerandum nobis existimavi, etiam si tu nihil postulares, quantum tibi a re p. deberetur.  <reg>tu</reg> contexes extrema cum primis. <reg>qui</reg> enim M. Antonium oppresserit, is bellum confecerit ; itaque Homerus non Aiacem nec Achillem sed Ulixem appellavit <foreign xml:lang="greek">πτολιπόρθιον</foreign>.
+ex tuis litteris, quas mihi misisti perspexeram te magis iudicio bonorum quam insignibus gloriae delectari, tamen considerandum nobis existimavi, etiam si tu nihil postulares, quantum tibi a re p. deberetur.  <reg>tu</reg> contexes extrema cum primis. <reg>qui</reg> enim M. Antonium oppresserit, is bellum confecerit ; itaque Homerus non Aiacem nec Achillem sed Ulixem appellavit <foreign xml:lang="grc">πτολιπόρθιον</foreign>.
 </p>
                   </div>
                </div>
@@ -7735,7 +7735,7 @@ Cum et nos et exercitus nostros singulari concordia coniunctus ad omnia pro vobi
                   </label>
                   <div type="textpart" n="1" subtype="section">
                      <p>
-                        <reg>mirabiliter</reg>, mi Brute, laetor mea consilia measque sententias a te probari de decem viris, de ornando adulescente. <reg>sed</reg> quid refert? <reg>mihi</reg> crede, homini non glorioso, plane iam, Brute, frigeo ; <foreign xml:lang="greek">ὄργανον</foreign> enim erat meum senatus ; id iam est dissolutum.  <reg>tantam</reg> spem attulerat exploratae victoriae tua praeclara Mutina eruptio, fuga Antoni conciso exercitu, †ut omnium animi relaxati sint, meaeque illae vehementes contentiones tamquam <foreign xml:lang="greek">σκιαμαχίαι</foreign> esse videantur†.
+                        <reg>mirabiliter</reg>, mi Brute, laetor mea consilia measque sententias a te probari de decem viris, de ornando adulescente. <reg>sed</reg> quid refert? <reg>mihi</reg> crede, homini non glorioso, plane iam, Brute, frigeo ; <foreign xml:lang="grc">ὄργανον</foreign> enim erat meum senatus ; id iam est dissolutum.  <reg>tantam</reg> spem attulerat exploratae victoriae tua praeclara Mutina eruptio, fuga Antoni conciso exercitu, †ut omnium animi relaxati sint, meaeque illae vehementes contentiones tamquam <foreign xml:lang="grc">σκιαμαχίαι</foreign> esse videantur†.
 </p>
                   </div>
                   <div type="textpart" n="2" subtype="section">
@@ -7994,7 +7994,7 @@ decreta est.  <reg>habes</reg> amantissimum Servium ; nos non desumus.  <date>vi
                      <p>
                         <reg>de</reg>
 Bruto autem nihil adhuc certi ; quem ego, quem ad modum praecipis, privatis litteris ad bellum commune vocare non desino.  <reg>qui</reg> utinam iam adesset! intestinum urbis malum, quod est non mediocre, minus timeremus: <reg>sed</reg> quid ago'?
-non imitor <foreign xml:lang="greek">λακωνισμὸν</foreign> tuum ; altera iam pagella procedit. <reg>vince</reg> et vale.  x<date>iiii K. Quintil.</date>
+non imitor <foreign xml:lang="grc">λακωνισμὸν</foreign> tuum ; altera iam pagella procedit. <reg>vince</reg> et vale.  x<date>iiii K. Quintil.</date>
                      </p>
                   </div>
                </div>
@@ -8044,7 +8044,7 @@ putas qua celeritate, ut primum audieris, ad me Tarento advolaris, quae tua fuer
                   <div type="textpart" n="5" subtype="section">
                      <p>
                         <reg>tandem</reg> aliquando Romae esse coepimus.  <reg>quid</reg> defuit nostrae familiaritati?  <reg>in</reg> maximis rebus quonam modo gererem me
-adversus Caesarem usus tuo consilio sum, in reliquis officio. <reg>cui</reg> tu tribuisti excepto Caesare praeter me ut domum ventitares horasque multas saepe suavissimo sermone consumeres, tum cum etiam, si meministi, ut haec <foreign xml:lang="greek">φιλοσοφούμενα</foreign> scriberem tu me impulisti?  <reg>post</reg> Caesaris reditum quid
+adversus Caesarem usus tuo consilio sum, in reliquis officio. <reg>cui</reg> tu tribuisti excepto Caesare praeter me ut domum ventitares horasque multas saepe suavissimo sermone consumeres, tum cum etiam, si meministi, ut haec <foreign xml:lang="grc">φιλοσοφούμενα</foreign> scriberem tu me impulisti?  <reg>post</reg> Caesaris reditum quid
 tibi maiori curae fuit quam ut essem ego illi quam familiarissimus? quod effeceras.
 
 <milestone unit="unit"/>
@@ -8505,7 +8505,7 @@ cognovimus scribere ad vos quam celerrime voluiiuus. </p>
 Dolabellam ut Tarsenses, pessimi socii, ita Laudiceni multo
 
 amentiores ultro arcessierunt; ex quibus utrisque civitatibus Graecorum militum numero speciem exercitus effecit.  <reg>castra</reg> habet ante oppidum Laudiceam posita et partem muri
-demolitus est et castra oppido coniunxit.  Cassius noster cum decem legionibus et cohortibus xx auxiliariis et quattuor milium equitatu a milibus passuum xx castra habet posita <foreign xml:lang="greek">Πάλτῳ</foreign> et existimat se sine proelio posse vincere ; nam iam ternis tetrachmis triticum apud Dolabellam est. Nisi quid navibus Laudicenorum supportarit, cito fame pereat necesse est ; ne supportare possit et Cassi classis bene magna cui praeest Sextilius Rufus et tres quas nos adduximus, ego, Turullius, Patiscus, facile praestabunt.  <reg>te</reg> volo bene sperare et rem p., ut vos istic expedistis, ita pro nostra parte celeriter nobis expediri posse confidere.  <reg>vale</reg>. D. Idib. Iun. Cypro a Crommyuacride.
+demolitus est et castra oppido coniunxit.  Cassius noster cum decem legionibus et cohortibus xx auxiliariis et quattuor milium equitatu a milibus passuum xx castra habet posita <foreign xml:lang="grc">Πάλτῳ</foreign> et existimat se sine proelio posse vincere ; nam iam ternis tetrachmis triticum apud Dolabellam est. Nisi quid navibus Laudicenorum supportarit, cito fame pereat necesse est ; ne supportare possit et Cassi classis bene magna cui praeest Sextilius Rufus et tres quas nos adduximus, ego, Turullius, Patiscus, facile praestabunt.  <reg>te</reg> volo bene sperare et rem p., ut vos istic expedistis, ita pro nostra parte celeriter nobis expediri posse confidere.  <reg>vale</reg>. D. Idib. Iun. Cypro a Crommyuacride.
 </p>
                   </div>
                </div>
@@ -8563,7 +8563,7 @@ instarent quam ab Antonio. </p>
                         <reg>atque</reg> haec omnia is feci qui
 
 sodalis et familiarissimus Dolabellae eram, coniunctissimus
-sanguine Antoniis, provinciam quoque illorum beneficio habebam, sed <foreign xml:lang="greek">πατρίδα ἐμὴν μᾶλλον φιλῶν</foreign> omnibus meis bellum primus indixi.  <reg>haec</reg> etsi adhuc non magno opere mihi tulisse fructum animadverto, tamen non despero nec defetigabor permanere non solum in studio libertatis sed
+sanguine Antoniis, provinciam quoque illorum beneficio habebam, sed <foreign xml:lang="grc">πατρίδα ἐμὴν μᾶλλον φιλῶν</foreign> omnibus meis bellum primus indixi.  <reg>haec</reg> etsi adhuc non magno opere mihi tulisse fructum animadverto, tamen non despero nec defetigabor permanere non solum in studio libertatis sed
 etiam in labore et periculis.  <reg>at</reg> tamen, si etiam aliqua gloria iusta et merita provocabimur senatus et optimi cuiusque officiis, maiore cum auctoritate apud ceteros erimus et eo plus prodesse rei p. poterimus.
 
 <milestone unit="unit"/>
@@ -8664,7 +8664,7 @@ simum nobis obtinentibus provinciam faceret ; cui nos et caritate et amore tuum 
                   </div>
                   <div type="textpart" n="3" subtype="section">
                      <p>
-                        <reg>vos</reg> quid ageretis in re p., cum has litteras dabam, non sciebam ; audiebam quaedam turbulenta, quae scilicet cupio esse falsa ut aliquando otiosa libertate fruamur ; quod vel minime mihi adhuc contigit.  <reg>ego</reg> tamen nactus in navigatione nostra pusillum laxamenti concinnavi tibi munusculum ex instituto meo et dictum cum magno nostro honore a te dictum conclusi et tibi infra subscripsi.  <reg>in</reg> quibus versiculis si tibi quibusdam verbis <foreign xml:lang="greek">εὐθυρρημονέστερος</foreign> videbor, turpitudo personae eius in quam liberius invehimur nos vindicabit. <reg>ignosces</reg> etiam iracundiae nostrae, quae iusta est in eius modi et homines et civis.  <reg>deinde</reg> qui magis hoc Lucilio licuerit adsumere libertatis quam nobis? cum etiam si odio pari fuerit in eos quos laesit, tamen certe non magis dignos habuerit in quos tanta libertate verborum
+                        <reg>vos</reg> quid ageretis in re p., cum has litteras dabam, non sciebam ; audiebam quaedam turbulenta, quae scilicet cupio esse falsa ut aliquando otiosa libertate fruamur ; quod vel minime mihi adhuc contigit.  <reg>ego</reg> tamen nactus in navigatione nostra pusillum laxamenti concinnavi tibi munusculum ex instituto meo et dictum cum magno nostro honore a te dictum conclusi et tibi infra subscripsi.  <reg>in</reg> quibus versiculis si tibi quibusdam verbis <foreign xml:lang="grc">εὐθυρρημονέστερος</foreign> videbor, turpitudo personae eius in quam liberius invehimur nos vindicabit. <reg>ignosces</reg> etiam iracundiae nostrae, quae iusta est in eius modi et homines et civis.  <reg>deinde</reg> qui magis hoc Lucilio licuerit adsumere libertatis quam nobis? cum etiam si odio pari fuerit in eos quos laesit, tamen certe non magis dignos habuerit in quos tanta libertate verborum
 incurreret. 
 </p>
                   </div>
@@ -8759,7 +8759,7 @@ sciant esse.
                   <div type="textpart" n="1" subtype="section">
                      <p>
                         <reg>gratae</reg> mihi tuae litterae, nisi quod Sinuessanum deversoriolum contempsisti.  <reg>quam</reg> quidem contumeliam villa pusilla iniquo animo feret, nisi in Cumano et Pompeiano
-reddideris <foreign xml:lang="greek">ὑπομνηματισμὸν</foreign>.  <reg>sic</reg> igitur facies meque amabis et scripto aliquo lacesses ; ego enim respondere facilius possum quam provocare.  <reg>quod</reg> si, †ut es, cessabis, lacessam, nec tua ignavia etiam mihi inertiam adferet.  <reg>plura</reg>
+reddideris <foreign xml:lang="grc">ὑπομνηματισμὸν</foreign>.  <reg>sic</reg> igitur facies meque amabis et scripto aliquo lacesses ; ego enim respondere facilius possum quam provocare.  <reg>quod</reg> si, †ut es, cessabis, lacessam, nec tua ignavia etiam mihi inertiam adferet.  <reg>plura</reg>
 otiosus ; haec cum essem in senatu exaravi.
 </p>
                   </div>
@@ -9110,7 +9110,7 @@ peccat, magis ineptiis quam improbitate peccat. </p>
                      <p>
                         <reg>sed</reg> ne plura (dicendum enim aliquando est), Pomponium Atticum sic amo ut alterum fratrem.  <reg>nihil</reg> est illo mihi nec carius nec iucundius.  <reg>is</reg> (non quo sit ex istis ; est enim omni liberali doctrina politissimus, sed valde diligit Patronem,
 valde Phaedrum amavit) sic a me hoc contendit, homo minime ambitiosus, minime in rogando molestus, ut nihil umquam magis, nec dubitat quin ego a te nutu hoc consequi possem, etiam si aedificaturus esses.  <reg>nunc</reg> vero, si audierit te aedificationem deposuisse neque tamen me a te impetrasse non te in me inliberalem sed me in se neglegentem putabit.  <reg>quam</reg> ob rem peto a te ut scribas ad tuos posse tua voluntate decretum illud Areopagitarum, quem 
-<foreign xml:lang="greek">ὑπομνηματισμὸν</foreign> illi vocant, tolli.  <reg>sed</reg> redeo ad prima. </p>
+<foreign xml:lang="grc">ὑπομνηματισμὸν</foreign> illi vocant, tolli.  <reg>sed</reg> redeo ad prima. </p>
                   </div>
                   <div type="textpart" n="6" subtype="section">
                      <p>
@@ -9469,11 +9469,11 @@ conficiat ad nummosque perveniat.  <reg>id</reg> et mihi gratissimum erit et tu 
                   </label>
                   <div type="textpart" n="1" subtype="section">
                      <p>Precilium tibi commendo unice, tui necessari, mei familiarissimi, viri optimi filium.  <reg>quem</reg> cum adulescentem ipsum propter eius modestiam, humanitatem, animum et amorem erga me singularem mirifice diligo, tum patrem eius re doctus intellexi et didici mihi fuisse semper amicissimum. <reg>em</reg> hic ille est <del>de illis</del>, maxime qui inridere atque obiurgare me solitus est, quod me non tecum, praesertim cum abs te honorificentissime invitarer, coniungerem ;          
-<quote xml:lang="greek">
+<quote xml:lang="grc">
                            <l>a)ll' e)mo\n ou)/ pote qumo\n e)ni\ sth/qessin e)/peiqen.</l>
                         </quote>
                         <reg>audiebam</reg> enim nostros proceres clamitantis :
-<quote xml:lang="greek">
+<quote xml:lang="grc">
                            <l>a)/lkimos e)/ss', i(/na ti/s se kai\ o)yigo/nwn e)u\ ei)/ph|.</l>
                            <l>w(\s fa/to, to\n d' a)/xeos nefe/lh e)ka/luye me/laina.</l>
                         </quote>
@@ -9483,19 +9483,19 @@ conficiat ad nummosque perveniat.  <reg>id</reg> et mihi gratissimum erit et tu 
                      <p>
                         <reg>sed</reg> tamen idem me consolantur etiam ; hominem perustum etiamnum gloria volunt incendere atque ita loquuntur :
 
-<quote xml:lang="greek">
+<quote xml:lang="grc">
                            <l>mh\ ma\n a)spoudi/ ge kai\ a)kleiw=s a)poloi/mhn,</l>
                            <l>a)lla\ me/ga r(e/cas ti kai\ e)ssome/noisi puqe/sqai.</l>
                         </quote>
-                        <reg>sed</reg> me minus iam movent, ut vides.  <reg>itaque</reg> ab Homeri magniloquentia confero me ad vera praecepta <foreign xml:lang="greek">Εὐριπίδου</foreign> :
-<quote xml:lang="greek">
+                        <reg>sed</reg> me minus iam movent, ut vides.  <reg>itaque</reg> ab Homeri magniloquentia confero me ad vera praecepta <foreign xml:lang="grc">Εὐριπίδου</foreign> :
+<quote xml:lang="grc">
                            <l>misw= sofisth/n, o(/stis ou)x au(tw=| sofo/s,</l>
                         </quote>
 
-quem versum senex Precilius laudat egregie et ait posse eundem et <quote xml:lang="greek">
+quem versum senex Precilius laudat egregie et ait posse eundem et <quote xml:lang="grc">
                            <l>a(/ma pro/ssw kai\ o)pi/ssw</l>
                         </quote> videre et tamen nihilo minus
-<quote xml:lang="greek">
+<quote xml:lang="grc">
                            <l>ai)e\n a)risteu/ein kai\ u(pei/roxon e)/mmenai a)/llwn.</l>
                         </quote>
                         <milestone unit="para"/>
@@ -10219,7 +10219,7 @@ alienum tuis aut etiam suis moribus, postulabit. </p>
                   </div>
                   <div type="textpart" n="2" subtype="section">
                      <p>
-                        <reg>praecipue</reg> autem tibi commendo negotia eius, quae sunt in Hellesponto, primum ut obtineat id iuris in agris, quod ei Pariana civitas decrevit et dedit et quod semper obtinuit sine ulla controversia, deinde, si quid habebit cum aliquo Hellespontio controversiae, ut in illam <foreign xml:lang="greek">διοίκησιν</foreign> reicias.  <reg>sed</reg> non mihi videor, cum tibi totum hominem diligentissime commendarim, singulas ad te eius causas perscribere debere. <reg>summa</reg> illa est : <reg>quicquid</reg> offici, benefici, honoris in Genucilium contuleris, id te existimabo in me ipsum atque in rem meam contulisse. 
+                        <reg>praecipue</reg> autem tibi commendo negotia eius, quae sunt in Hellesponto, primum ut obtineat id iuris in agris, quod ei Pariana civitas decrevit et dedit et quod semper obtinuit sine ulla controversia, deinde, si quid habebit cum aliquo Hellespontio controversiae, ut in illam <foreign xml:lang="grc">διοίκησιν</foreign> reicias.  <reg>sed</reg> non mihi videor, cum tibi totum hominem diligentissime commendarim, singulas ad te eius causas perscribere debere. <reg>summa</reg> illa est : <reg>quicquid</reg> offici, benefici, honoris in Genucilium contuleris, id te existimabo in me ipsum atque in rem meam contulisse. 
 
 </p>
                   </div>
@@ -10265,13 +10265,13 @@ possis ; nam apud ipsum gratissimum hominem atque optimum virum quam bene positu
                   <div type="textpart" n="1" subtype="section">
                      <p>Cluvius Puteolanus valde me observat valdeque est mihi familiaris.  <reg>is</reg> ita sibi persuadet, quod in tua provincia negoti habeat nisi te provinciam obtinente meis commendationibus confecerit, id se in perditis et desperatis habiturum. <reg>nunc</reg> quoniam mihi ab amico officiosissimo tantum oneris imponitur, ego quoque tibi imponam pro tuis in me
 summis officiis, ita tamen ut tibi nolim molestus esse.
-<foreign xml:lang="greek">Μυλασεῖς</foreign> et <foreign xml:lang="greek">Ἀλαβανδεῖς</foreign> pecuniam Cluvio debent.  <reg>dixerat</reg> mihi Euthydemus, cum Ephesi essem, se curaturum ut ecdici a Mylasinis Romam mitterentur. <reg>id</reg> factum non est. <reg>legatos</reg> audio missos esse, sed malo ecdicos, ut aliquid confici possit.  <reg>qua</reg> re peto a te ut et eos et <foreign xml:lang="greek">Ἀλαβανδεῖς</foreign>
+<foreign xml:lang="grc">Μυλασεῖς</foreign> et <foreign xml:lang="grc">Ἀλαβανδεῖς</foreign> pecuniam Cluvio debent.  <reg>dixerat</reg> mihi Euthydemus, cum Ephesi essem, se curaturum ut ecdici a Mylasinis Romam mitterentur. <reg>id</reg> factum non est. <reg>legatos</reg> audio missos esse, sed malo ecdicos, ut aliquid confici possit.  <reg>qua</reg> re peto a te ut et eos et <foreign xml:lang="grc">Ἀλαβανδεῖς</foreign>
 
 iubeas ecdicos Romam mittere. </p>
                   </div>
                   <div type="textpart" n="2" subtype="section">
                      <p>
-                        <reg>praeterea</reg> Philocles Alabandensis <foreign xml:lang="greek">ὑποθήκας</foreign> Cluvio dedit.  <reg>eae</reg> commissae sunt. <reg>velim</reg> cures ut aut de hypothecis decedat easque procuratoribus Cluvi tradat aut pecuniam solvat, praeterea Heracleotae et Bargylietae, qui item debent, aut pecuniam
+                        <reg>praeterea</reg> Philocles Alabandensis <foreign xml:lang="grc">ὑποθήκας</foreign> Cluvio dedit.  <reg>eae</reg> commissae sunt. <reg>velim</reg> cures ut aut de hypothecis decedat easque procuratoribus Cluvi tradat aut pecuniam solvat, praeterea Heracleotae et Bargylietae, qui item debent, aut pecuniam
 
 solvant aut fructibus suis satis faciant. </p>
                   </div>
@@ -10438,7 +10438,7 @@ oro ut eum et in reliquus veteris negotiationis conligendis iuves et ceteris reb
                   </label>
                   <div type="textpart" n="1" subtype="section">
                      <p>
-                        <reg>ex</reg> provincia mea Ciliciensi, cui scis <foreign xml:lang="greek">τρεῖς διοικήσεις</foreign> Asiaticas adtributas fuisse, nullo sum familiarius usus quam
+                        <reg>ex</reg> provincia mea Ciliciensi, cui scis <foreign xml:lang="grc">τρεῖς διοικήσεις</foreign> Asiaticas adtributas fuisse, nullo sum familiarius usus quam
 Androne, Artemonis filio, Laudicensi, eumque habui in ea civitate cum hospitem tum vehementer ad meae vitae rationem et consuetudinem accommodatum ; quem quidem multo etiam pluris postea quam decessi facere coepi, quod multis rebus expertus sum gratum hominem meique memorem.  <reg>itaque</reg> eum Romae libentissime vidi ; non te
 enim fugit, qui plurimis in ista provincia benigne fecisti,
 quam multi grati reperiantur.
@@ -10898,7 +10898,7 @@ videatis velim quo modo satis fiat ei, cui scitis me satis fieri velle.  <reg>qu
                   <div type="textpart" n="1" subtype="section">
                      <p>
                         <reg>omnis</reg> molestias et sollicitudines quibus et te miserrimam habui, id quod mihi molestissimum est, et Tulliolam, quae
-nobis nostra vita dulcior est, deposui et eieci.  <reg>quid</reg> causae autem fuerit postridie intellexi quam a vobis discessi. <foreign xml:lang="greek">χολὴν  ἄκρατον</foreign> 
+nobis nostra vita dulcior est, deposui et eieci.  <reg>quid</reg> causae autem fuerit postridie intellexi quam a vobis discessi. <foreign xml:lang="grc">χολὴν  ἄκρατον</foreign> 
 noctu eieci ; statim ita sum levatus, ut mihi deus aliquis medicinam fecisse videatur ; cui quidem tu deo, quem ad modum soles, pie et caste satis facies <del>id est
 Apollini et Aesculapio</del>. </p>
                   </div>
@@ -11642,22 +11642,22 @@ sua quisque parte ferre potuisset, si auctor adfuisset. </p>
                   </label>
                   <div type="textpart" n="1" subtype="section">
                      <p>
-                        <reg>puto</reg> te iam suppudere, quem haec tertia iam epistula ante oppressit quam tu scidam aut litteram.  <reg>sed</reg> non urgeo ; longiores enim exspectabo vel potius exigam.  <reg>ego</reg> si semper haberem cui darem, vel ternas in hora darem ; is fit enim nescio qui ut quasi coram adesse videare cum scribo aliquid ad te, neque id <foreign xml:lang="greek">κατ᾽ εἰδώλων φαντασίας</foreign>, ut dicunt tui amici novi, qui putant etiam <foreign xml:lang="greek">διανοητικὰς φαντασίας</foreign> spectris Catianis excitari ; nam ne te fugiat, Catius Insuber, <foreign xml:lang="greek">Ἐπικούρειος</foreign>, qui nuper est mortuus, quae ille Gargettius et iam ante Democritus <foreign xml:lang="greek">εἴδωλα</foreign>, hic 'spectra' nominat.
+                        <reg>puto</reg> te iam suppudere, quem haec tertia iam epistula ante oppressit quam tu scidam aut litteram.  <reg>sed</reg> non urgeo ; longiores enim exspectabo vel potius exigam.  <reg>ego</reg> si semper haberem cui darem, vel ternas in hora darem ; is fit enim nescio qui ut quasi coram adesse videare cum scribo aliquid ad te, neque id <foreign xml:lang="grc">κατ᾽ εἰδώλων φαντασίας</foreign>, ut dicunt tui amici novi, qui putant etiam <foreign xml:lang="grc">διανοητικὰς φαντασίας</foreign> spectris Catianis excitari ; nam ne te fugiat, Catius Insuber, <foreign xml:lang="grc">Ἐπικούρειος</foreign>, qui nuper est mortuus, quae ille Gargettius et iam ante Democritus <foreign xml:lang="grc">εἴδωλα</foreign>, hic 'spectra' nominat.
 
 </p>
                   </div>
                   <div type="textpart" n="2" subtype="section">
                      <p>
                         <reg>his</reg> autem spectris etiam si oculi possent feriri, quod quae velis ipsa incurrunt, animus qui possit ego non video. <reg>doceas</reg> tu me oportebit, cum salvus veneris, in meane potestate sit spectrum tuum, ut, simul ac mihi conlibitum sit de te cogitare, illud occurrat ; neque solum de te, qui mihi haeres in medullis, sed si insulam Britanniam coepero
-cogitare, eius <foreign xml:lang="greek">εἴδωλον</foreign> mihi advolabit ad pectus? 
+cogitare, eius <foreign xml:lang="grc">εἴδωλον</foreign> mihi advolabit ad pectus? 
 </p>
                   </div>
                   <div type="textpart" n="3" subtype="section">
                      <p>
                         <reg>sed</reg> haec
 posterius ; tempto enim te quo animo accipias.  <reg>si</reg> enim
-stomachabere et moleste feres, plura dicemus postulabimusque, ex qua <foreign xml:lang="greek">αἱρέσει</foreign> 'VI HOMINIBVS ARMATIS' deiectus sis, in eam restituare.  <reg>in</reg> hoc interdicto non solet addi 'IN HOC ANNO.' <reg>qua</reg> re si iam biennium aut triennium est cum virtuti nuntium remisisti delenitus inlecebris voluptatis, in integro res nobis erit.  <reg>quamquam</reg> quicum loquor? Cum uno fortissimo viro qui, postea quam forum attigisti, nihil
-fecisti nisi plenissimum amplissimae dignitatis.  <reg>in</reg> ista ipsa <foreign xml:lang="greek">αἱρέσει</foreign> metuo ne plus nervorum sit quam ego putarim, si modo eam tu probas.  '<reg>qui</reg> id tibi in mentem venit?' inquies.  <reg>quia</reg> nihil habebam aliud quod scriberem ; de re p. enim nihil scribere possum ; nec enim quod sentio
+stomachabere et moleste feres, plura dicemus postulabimusque, ex qua <foreign xml:lang="grc">αἱρέσει</foreign> 'VI HOMINIBVS ARMATIS' deiectus sis, in eam restituare.  <reg>in</reg> hoc interdicto non solet addi 'IN HOC ANNO.' <reg>qua</reg> re si iam biennium aut triennium est cum virtuti nuntium remisisti delenitus inlecebris voluptatis, in integro res nobis erit.  <reg>quamquam</reg> quicum loquor? Cum uno fortissimo viro qui, postea quam forum attigisti, nihil
+fecisti nisi plenissimum amplissimae dignitatis.  <reg>in</reg> ista ipsa <foreign xml:lang="grc">αἱρέσει</foreign> metuo ne plus nervorum sit quam ego putarim, si modo eam tu probas.  '<reg>qui</reg> id tibi in mentem venit?' inquies.  <reg>quia</reg> nihil habebam aliud quod scriberem ; de re p. enim nihil scribere possum ; nec enim quod sentio
 is libet scribere.
 
 </p>
@@ -11670,7 +11670,7 @@ is libet scribere.
                   </label>
                   <div type="textpart" n="1" subtype="section">
                      <p>
-                        <reg>praeposteros</reg> habes tabellarios ; etsi me quidem non offendunt ; sed tamen, cum a me discedunt, flagitant litteras, cum ad me veniunt, nullas adferunt.  <reg>atque</reg> id ipsum facerent commodius, si mihi aliquid spati ad scribendum darent ; sed petasati veniunt, comites ad portam exspectare dicunt.  <reg>ergo</reg> ignosces ; alteras iam habebis has brevis ; sed exspecta <foreign xml:lang="greek">πάντα περὶ πάντων</foreign>.  <reg>etsi</reg> quid ego me tibi
+                        <reg>praeposteros</reg> habes tabellarios ; etsi me quidem non offendunt ; sed tamen, cum a me discedunt, flagitant litteras, cum ad me veniunt, nullas adferunt.  <reg>atque</reg> id ipsum facerent commodius, si mihi aliquid spati ad scribendum darent ; sed petasati veniunt, comites ad portam exspectare dicunt.  <reg>ergo</reg> ignosces ; alteras iam habebis has brevis ; sed exspecta <foreign xml:lang="grc">πάντα περὶ πάντων</foreign>.  <reg>etsi</reg> quid ego me tibi
 
 purgo, Cum tui ad me inanes veniant, ad te cum epistulis revertantur?
 <milestone unit="para"/>
@@ -11682,13 +11682,13 @@ purgo, Cum tui ad me inanes veniant, ad te cum epistulis revertantur?
 
 patrem mortuum habebamus ; alii a latronibus, alii cruditate dicebant ; populus non curabat, combustum enim esse
 constabat.  <reg>hoc</reg> tu pro tua sapientia feres aequo animo ;
-quamquam <foreign xml:lang="greek">πρόσωπον πόλεως</foreign> amisimus.  Caesarem putabant moleste laturum verentem ne hasta refrixisset ; Mindius macellarius et Attius pigmentarius valde gaudebant se adversarium perdidisse.  
+quamquam <foreign xml:lang="grc">πρόσωπον πόλεως</foreign> amisimus.  Caesarem putabant moleste laturum verentem ne hasta refrixisset ; Mindius macellarius et Attius pigmentarius valde gaudebant se adversarium perdidisse.  
 
 </p>
                   </div>
                   <div type="textpart" n="3" subtype="section">
                      <p>
-                        <reg>de</reg> Hispania novi nihil, sed exspectatio valde magna; rumores tristiores sed <foreign xml:lang="greek">ἀδέσποτοι</foreign>. Pansa noster paludatus a. d. <date>iii K. Ian.</date> profectus est, ut quivis intellegere posset, id quod tu nuper dubitare coepisti, <foreign xml:lang="greek">τὸ καλὸν δι᾽ αὑτὸ αἱρετὸν</foreign> esse ; nam quod multos miseriis levavit et quod se in his malis hominem praebuit, mirabilis eum virorum bonorum benevolentia prosecuta est.               
+                        <reg>de</reg> Hispania novi nihil, sed exspectatio valde magna; rumores tristiores sed <foreign xml:lang="grc">ἀδέσποτοι</foreign>. Pansa noster paludatus a. d. <date>iii K. Ian.</date> profectus est, ut quivis intellegere posset, id quod tu nuper dubitare coepisti, <foreign xml:lang="grc">τὸ καλὸν δι᾽ αὑτὸ αἱρετὸν</foreign> esse ; nam quod multos miseriis levavit et quod se in his malis hominem praebuit, mirabilis eum virorum bonorum benevolentia prosecuta est.               
 
 <milestone unit="para"/>
                      </p>
@@ -11696,7 +11696,7 @@ quamquam <foreign xml:lang="greek">πρόσωπον πόλεως</foreign> amisi
                   <div type="textpart" n="4" subtype="section">
                      <p>
                         <reg>tu</reg> quod adhuc Brundisi moratus es valde probo et
-gaudeo et me hercule puto te sapienter facturum, si <foreign xml:lang="greek">ἀκενόσπουδος</foreign> fueris ; nobis quidem qui te amamus erit gratum. <reg>et</reg> amabo te, cum dabis posthac aliquid domum litterarum, mei memineris.  <reg>ego</reg> numquam quemquam ad te, cum sciam, sine meis litteris ire patiar.  <reg>vale</reg>.
+gaudeo et me hercule puto te sapienter facturum, si <foreign xml:lang="grc">ἀκενόσπουδος</foreign> fueris ; nobis quidem qui te amamus erit gratum. <reg>et</reg> amabo te, cum dabis posthac aliquid domum litterarum, mei memineris.  <reg>ego</reg> numquam quemquam ad te, cum sciam, sine meis litteris ire patiar.  <reg>vale</reg>.
 
 </p>
                   </div>
@@ -11708,7 +11708,7 @@ gaudeo et me hercule puto te sapienter facturum, si <foreign xml:lang="greek">�
                   </label>
                   <div type="textpart" n="1" subtype="section">
                      <p>
-                        <reg>longior</reg> epistula fuisset, nisi eo ipso tempore petita esset a me, cum iam iretur ad te ; longior autem <foreign xml:lang="greek">φλύαρον</foreign> aliquem habuisset nam <foreign xml:lang="greek">σπουδάζειν</foreign> sine periculo vix possumus. '<reg>ridere</reg> igitur,' inquies 'possumus?'  <reg>non</reg> me hercule facillime ; verum tamen aliam aberrationem a molestiis nullam habemus.  'Ubi igitur,' inquies, 'philosophia?' <reg>tua</reg> quidem in culina, mea molesta est ; pudet enim servire ; itaque facio me alias res agere, ne convicium Platonis audiam. 
+                        <reg>longior</reg> epistula fuisset, nisi eo ipso tempore petita esset a me, cum iam iretur ad te ; longior autem <foreign xml:lang="grc">φλύαρον</foreign> aliquem habuisset nam <foreign xml:lang="grc">σπουδάζειν</foreign> sine periculo vix possumus. '<reg>ridere</reg> igitur,' inquies 'possumus?'  <reg>non</reg> me hercule facillime ; verum tamen aliam aberrationem a molestiis nullam habemus.  'Ubi igitur,' inquies, 'philosophia?' <reg>tua</reg> quidem in culina, mea molesta est ; pudet enim servire ; itaque facio me alias res agere, ne convicium Platonis audiam. 
 </p>
                   </div>
                   <div type="textpart" n="2" subtype="section">
@@ -11733,9 +11733,9 @@ gaudeo et me hercule puto te sapienter facturum, si <foreign xml:lang="greek">�
 Pansam nostrum secunda voluntate hominum paludatum
 
 ex urbe exisse cum ipsius causa gaudeo tum me hercule etiam omnium nostrorum ; spero enim homines intellecturos quanto sit omnibus odio crudelitas et quanto amori
-probitas et clementia, atque ea, quae maxime mali petant et concupiscant, ad bonos pervenire. <reg>difficile</reg> est enim persuadere hominibus <foreign xml:lang="greek">τὸ καλὸν δι᾽ αὑτὸ αἱρετὸν</foreign>? esse ; <foreign xml:lang="greek">ἡδονὴν</foreign> vero et <foreign xml:lang="greek">ἀταραξίαν</foreign> virtute, iustitia, <foreign xml:lang="greek">τῷ καλῷ</foreign> parari et verum et probabile est ; ipse enim Epicurus, a quo omnes Catii
+probitas et clementia, atque ea, quae maxime mali petant et concupiscant, ad bonos pervenire. <reg>difficile</reg> est enim persuadere hominibus <foreign xml:lang="grc">τὸ καλὸν δι᾽ αὑτὸ αἱρετὸν</foreign>? esse ; <foreign xml:lang="grc">ἡδονὴν</foreign> vero et <foreign xml:lang="grc">ἀταραξίαν</foreign> virtute, iustitia, <foreign xml:lang="grc">τῷ καλῷ</foreign> parari et verum et probabile est ; ipse enim Epicurus, a quo omnes Catii
 et Amafinii, mali verborum interpretes, proficiscuntur, dicit :
-<foreign xml:lang="greek">οὐκ ἔστιν ἡδέως ἄνευ τοῦ καλῶς καὶ δικαίως ζῆν</foreign>. 
+<foreign xml:lang="grc">οὐκ ἔστιν ἡδέως ἄνευ τοῦ καλῶς καὶ δικαίως ζῆν</foreign>. 
 
 </p>
                   </div>
@@ -11743,8 +11743,8 @@ et Amafinii, mali verborum interpretes, proficiscuntur, dicit :
                      <p>
                         <reg>itaque</reg> et 
 
-Pansa, qui <foreign xml:lang="greek">ἡδονὴν</foreign> sequitur, virtutem retinet, et ii, qui a vobis
-<foreign xml:lang="greek">φιλήδονοι</foreign> vocantur, sunt <foreign xml:lang="greek">φιλόκαλοι</foreign> et <foreign xml:lang="greek">φιλοδίκαιοι</foreign> omnisque
+Pansa, qui <foreign xml:lang="grc">ἡδονὴν</foreign> sequitur, virtutem retinet, et ii, qui a vobis
+<foreign xml:lang="grc">φιλήδονοι</foreign> vocantur, sunt <foreign xml:lang="grc">φιλόκαλοι</foreign> et <foreign xml:lang="grc">φιλοδίκαιοι</foreign> omnisque
 virtutes et colunt et retinent.  <reg>itaque</reg> Sulla, cuius iudicium probare debemus, cum dissentire philosophos videret, non
 quaesiit quid bonum esset sed omnia bona coemit.  <reg>cuius</reg> ego mortem forti me hercules animo tuli. <reg>nec</reg> tamen Caesar diutius nos eum desiderare patietur ; nam habet damnatos quos pro illo nobis restituat, nec ipse sectorem desiderabit,
 cum filium viderit.
@@ -11755,7 +11755,7 @@ cum filium viderit.
                   <div type="textpart" n="4" subtype="section">
                      <p>
                         <reg>nunc</reg> ut ad rem p. redeam, quid in Hispaniis geratur
-rescribe.  <reg>peream</reg> nisi sollicitus sum ac malo veterem et clementem dominum habere quam novum et crudelem experiri.  <reg>scis</reg> Gnaeus quam sit fatuus ; scis quo modo crudelitatem virtutem putet ; scis quam se semper a nobis derisum putet ; vereor ne nos rustice gladio velit <foreign xml:lang="greek">ἀντιμυκτηρίσαι</foreign>.  <reg>quid</reg> fiat, si me diligis, rescribe.  Hui, quam velim scire utrum ista sollicito animo an soluto legas ! sciam enim eodem tempore quid me facere oporteat.  <reg>ne</reg> longior sim, vale ; me, ut facis, ama.  <reg>si</reg> Caesar vicit, celeriter me exspecta.
+rescribe.  <reg>peream</reg> nisi sollicitus sum ac malo veterem et clementem dominum habere quam novum et crudelem experiri.  <reg>scis</reg> Gnaeus quam sit fatuus ; scis quo modo crudelitatem virtutem putet ; scis quam se semper a nobis derisum putet ; vereor ne nos rustice gladio velit <foreign xml:lang="grc">ἀντιμυκτηρίσαι</foreign>.  <reg>quid</reg> fiat, si me diligis, rescribe.  Hui, quam velim scire utrum ista sollicito animo an soluto legas ! sciam enim eodem tempore quid me facere oporteat.  <reg>ne</reg> longior sim, vale ; me, ut facis, ama.  <reg>si</reg> Caesar vicit, celeriter me exspecta.
 </p>
                   </div>
                </div>
@@ -11898,7 +11898,7 @@ satis cito te videro, si valebis.  <reg>utilitatibus</reg> tuis possum carere ; 
                   <div type="textpart" n="1" subtype="section">
                      <p>
 Varie sum adfectus tuis litteris, valde priore pagina perturbatus, paulum altera recreatus. <reg>qua</reg> re nunc quidem non dubito quin, quoad plane valeas, te neque navigationi
-neque viae committas.  <reg>satis</reg> te mature videro, si plane confirmatum videro.  <reg>de</reg> medico et tu bene existimari scribis et ego sic audio ; sed plane curationes eius non probo ; ius enim dandum tibi non fuit, quom <foreign xml:lang="greek">κακοστόμαχος</foreign> esses.  <reg>sed</reg> tamen et ad illum scripsi accurate et ad
+neque viae committas.  <reg>satis</reg> te mature videro, si plane confirmatum videro.  <reg>de</reg> medico et tu bene existimari scribis et ego sic audio ; sed plane curationes eius non probo ; ius enim dandum tibi non fuit, quom <foreign xml:lang="grc">κακοστόμαχος</foreign> esses.  <reg>sed</reg> tamen et ad illum scripsi accurate et ad
 Lysonem. 
 </p>
                   </div>
@@ -11979,7 +11979,7 @@ venies.  <reg>cura</reg> ut valeas.  <reg>etiam</reg> atque etiam, Tiro noster, 
                   </label>
                   <div type="textpart" n="1" subtype="section">
                      <p>
-                        <reg>magnae</reg> nobis est sollicitudini valetudo tua.  <reg>nam</reg> tametsi qui veniunt <foreign xml:lang="greek">ἀκίνδυνα μὲν χρονιώτερα δὲ</foreign> nuntiant, tamen in magna consolatione ingens inest sollicitudo, si diutius a nobis afuturus es is, cuius usum et suavitatem desiderando sentimus.  <reg>at</reg> tamen quamquam videre te tota cogitatione cupio, tamen te penitus rogo ne te tam longae navigationi et viae per hiemem nisi bene firmum
+                        <reg>magnae</reg> nobis est sollicitudini valetudo tua.  <reg>nam</reg> tametsi qui veniunt <foreign xml:lang="grc">ἀκίνδυνα μὲν χρονιώτερα δὲ</foreign> nuntiant, tamen in magna consolatione ingens inest sollicitudo, si diutius a nobis afuturus es is, cuius usum et suavitatem desiderando sentimus.  <reg>at</reg> tamen quamquam videre te tota cogitatione cupio, tamen te penitus rogo ne te tam longae navigationi et viae per hiemem nisi bene firmum
 committas neve naviges nisi explorate.
 </p>
                   </div>
@@ -11987,7 +11987,7 @@ committas neve naviges nisi explorate.
                      <p>
                         <reg>vix</reg> in ipsis tectis et oppidis frigus infirma valetudine vitatur, nedum in mari et via sit facile abesse ab iniuria temporis.
 
-<quote xml:lang="greek">
+<quote xml:lang="grc">
                            <l>yu=xos de\ leptw=| xrwti\ polemiw/taton,</l>
                         </quote>
 inquit Euripides ; cui tu quantum credas nescio ; ego certe
@@ -12054,7 +12054,7 @@ ego in Formiano a. d. III K. esse volo.  <reg>ibi</reg> te ut firmum offendam, m
                      <p>
                         <reg>litterulae</reg> meae sive nostrae tui desiderio oblanguerunt, hac tamen epistula, quam Acastus attulit, oculos paulum
 sustulerunt.  Pompeius erat apud me, cum haec scribebam, hilare et libenter.  <reg>ei</reg> cupienti audire nostra dixi sine te omnia mea muta esse.  <reg>tu</reg> Musis nostris para ut operas
-reddas.  <reg>nostra</reg> ad diem dictam fient; docui enim te fides <foreign xml:lang="greek">ἔτυμον</foreign> quod haberet.  <reg>fac</reg> plane ut valeas.  <reg>nos</reg> adsumus.
+reddas.  <reg>nostra</reg> ad diem dictam fient; docui enim te fides <foreign xml:lang="grc">ἔτυμον</foreign> quod haberet.  <reg>fac</reg> plane ut valeas.  <reg>nos</reg> adsumus.
 <reg>vale</reg>.  xiiii K.</p>
                   </div>
                </div>
@@ -12213,14 +12213,14 @@ nuntiasti.  <reg>te</reg> totum in litteris vidi.  Sabini pueris et promisi omni
                   </label>
                   <div type="textpart" n="1" subtype="section">
                      <p>
-                        <reg>video</reg> quid agas ; tuas quoque epistulas vis referri in volumina.  <reg>sed</reg> heus tu, qui <foreign xml:lang="greek">κανών</foreign> esse meorum scriptorum soles, unde illud tam <foreign xml:lang="greek">ἄκυρον</foreign> 'valetudini fideliter inserviendo'? unde in istum locum 'fideliter' venit? cui verbo domicilium est proprium in officio, migrationes in alienum multae ; nam et doctrina et domus et ars et ager etiam. 'fidelis' dici potest, ut sit, quo modo Theophrasto placet, verecunda tralatio.  <reg>sed</reg> haec coram.                       
+                        <reg>video</reg> quid agas ; tuas quoque epistulas vis referri in volumina.  <reg>sed</reg> heus tu, qui <foreign xml:lang="grc">κανών</foreign> esse meorum scriptorum soles, unde illud tam <foreign xml:lang="grc">ἄκυρον</foreign> 'valetudini fideliter inserviendo'? unde in istum locum 'fideliter' venit? cui verbo domicilium est proprium in officio, migrationes in alienum multae ; nam et doctrina et domus et ars et ager etiam. 'fidelis' dici potest, ut sit, quo modo Theophrasto placet, verecunda tralatio.  <reg>sed</reg> haec coram.                       
 <milestone unit="para"/>
                      </p>
                   </div>
                   <div type="textpart" n="2" subtype="section">
                      <p>
 
-Demetrius venit ad me a quo quidem comitatu <foreign xml:lang="greek">ἀφωμίλησα</foreign> satis scite. <reg>tu</reg> eum videlicet non potuisti videre. <reg>cras</reg> aderit ; videbis igitur ; nam ego hinc perendie mane cogito. <reg>valetudo</reg> tua me valde sollicitat ; sed inservi et fac omnia. <reg>tum</reg> te mecum esse, tum mihi cumulatissime satis facere putato.  Cuspio quod operam dedisti mihi gratum est ; valde enim eius causa volo.  <reg>vale</reg>.
+Demetrius venit ad me a quo quidem comitatu <foreign xml:lang="grc">ἀφωμίλησα</foreign> satis scite. <reg>tu</reg> eum videlicet non potuisti videre. <reg>cras</reg> aderit ; videbis igitur ; nam ego hinc perendie mane cogito. <reg>valetudo</reg> tua me valde sollicitat ; sed inservi et fac omnia. <reg>tum</reg> te mecum esse, tum mihi cumulatissime satis facere putato.  Cuspio quod operam dedisti mihi gratum est ; valde enim eius causa volo.  <reg>vale</reg>.
 </p>
                   </div>
                </div>
@@ -12232,12 +12232,12 @@ Demetrius venit ad me a quo quidem comitatu <foreign xml:lang="greek">ἀφωμ�
                   <div type="textpart" n="1" subtype="section">
                      <p>
                         <reg>quid</reg> igitur? non sic oportet? <reg>equidem</reg> censeo si&amp;, addendum etiam 'SVO.'    <reg>sed</reg>, si placet, invidia vitetur, quam quidem ego saepe contempsi.  <reg>tibi</reg>
-                        <foreign xml:lang="greek">διαφόρησιν</foreign> gaudeo profuisse ; si vero etiam Tusculanum, dei boni! quanto mihi illud erit amabilius!  <reg>sed</reg> si me amas, quod quidem aut facis aut perbelle simulas, quod tamen in modum procedit, sed, ut ut est, indulge valetudini tuae ; cui quidem tu adhuc, dum mihi deservis, servisti non satis.
-<reg>ea</reg> quid postulet non ignoras, <foreign xml:lang="greek">πέψιν</foreign>,
-<foreign xml:lang="greek">ἀκοπίαν</foreign>,
-<foreign xml:lang="greek">περίπατον σύμμετρον</foreign>,
-<foreign xml:lang="greek">τρῖψιν</foreign>,
-<foreign xml:lang="greek">εὐλυσίαν κοιλίας</foreign>.  <reg>fac</reg> bellus revertare ; non modo te sed etiam Tusculanum nostrum plus amem. Parhedrum excita ut hortum ipse conducat; sic holitorem
+                        <foreign xml:lang="grc">διαφόρησιν</foreign> gaudeo profuisse ; si vero etiam Tusculanum, dei boni! quanto mihi illud erit amabilius!  <reg>sed</reg> si me amas, quod quidem aut facis aut perbelle simulas, quod tamen in modum procedit, sed, ut ut est, indulge valetudini tuae ; cui quidem tu adhuc, dum mihi deservis, servisti non satis.
+<reg>ea</reg> quid postulet non ignoras, <foreign xml:lang="grc">πέψιν</foreign>,
+<foreign xml:lang="grc">ἀκοπίαν</foreign>,
+<foreign xml:lang="grc">περίπατον σύμμετρον</foreign>,
+<foreign xml:lang="grc">τρῖψιν</foreign>,
+<foreign xml:lang="grc">εὐλυσίαν κοιλίας</foreign>.  <reg>fac</reg> bellus revertare ; non modo te sed etiam Tusculanum nostrum plus amem. Parhedrum excita ut hortum ipse conducat; sic holitorem
 
 ipsum commovebis. </p>
                   </div>
@@ -12297,14 +12297,14 @@ operam ut hunc talem, tam iucundum, tam excellentem virum videas quam primum. </
                      <p>
                         <reg>nam</reg> quid ego de Bruttio
 
-dicam? quem nullo tempore a me patior discedere ; cuius cum frugi severaque est vita tum etiam iucundissima convictio non est enim seiunctus iocus a <foreign xml:lang="greek">φιλολογίᾳ</foreign> et cotidiana <foreign xml:lang="greek">συζητήσει</foreign>.  <reg>huic</reg> ego locum in proximo conduxi et, ut possum, ex meis angustiis illius sustento tenuitatem.
+dicam? quem nullo tempore a me patior discedere ; cuius cum frugi severaque est vita tum etiam iucundissima convictio non est enim seiunctus iocus a <foreign xml:lang="grc">φιλολογίᾳ</foreign> et cotidiana <foreign xml:lang="grc">συζητήσει</foreign>.  <reg>huic</reg> ego locum in proximo conduxi et, ut possum, ex meis angustiis illius sustento tenuitatem.
 
 </p>
                   </div>
                   <div type="textpart" n="5" subtype="section">
                      <p>
                         <reg>praeterea</reg> declamitare Graece apud Cassium institui, Latine autem apud Bruttium exerceri volo.  <reg>utor</reg> familiaribus et cotidianis convictoribus, quos secum Mitylenis Cratippus
-adduxit, hominibus et doctis et illi probatissimis.  <reg>multum</reg> etiam mecum est Epicrates, princeps Atheniensium, et Leonides et horum ceteri similes.  <foreign xml:lang="greek">τὰ μὲν 
+adduxit, hominibus et doctis et illi probatissimis.  <reg>multum</reg> etiam mecum est Epicrates, princeps Atheniensium, et Leonides et horum ceteri similes.  <foreign xml:lang="grc">τὰ μὲν 
 οὖν καθ᾽ ἡμᾶς τάδε</foreign>. </p>
                   </div>
                   <div type="textpart" n="6" subtype="section">
@@ -12312,7 +12312,7 @@ adduxit, hominibus et doctis et illi probatissimis.  <reg>multum</reg> etiam mec
                         <reg>de</reg> Gorgia autem quod mihi scribis, erat quidem ille
 
 in cotidiana declamatione utilis, sed omnia postposui, dum
-modo praeceptis patris parerem ; <foreign xml:lang="greek">διαρρήδην</foreign> enim scripserat ut eum dimitterem statim.  <reg>tergiversari</reg> nolui, ne mea nimia <foreign xml:lang="greek">μοδο πραεξεπτις πατρις παρερεμ; διαρρήδην
+modo praeceptis patris parerem ; <foreign xml:lang="grc">διαρρήδην</foreign> enim scripserat ut eum dimitterem statim.  <reg>tergiversari</reg> nolui, ne mea nimia <foreign xml:lang="grc">μοδο πραεξεπτις πατρις παρερεμ; διαρρήδην
 σπουδὴ</foreign> suspicionem ei aliquam importaret ; deinde illud etiam mihi succurrebat, grave esse me de iudicio patris iudicare. </p>
                   </div>
                   <div type="textpart" n="7" subtype="section">
@@ -12329,7 +12329,7 @@ fundum. </p>
                   </div>
                   <div type="textpart" n="8" subtype="section">
                      <p>
-                        <reg>de</reg> mandatis quod tibi curae fuit est mihi gratum ; sed peto a te ut quam celerrime mihi librarius mittatur, maxime quidem Graecus ; multum enim mihi eripitur operae in exscribendis hypomnematis.  <reg>tu</reg> velim in primis cures ut valeas, ut una <foreign xml:lang="greek">συμφιλολογεῖν</foreign> possimus.  Anterum tibi commendo.
+                        <reg>de</reg> mandatis quod tibi curae fuit est mihi gratum ; sed peto a te ut quam celerrime mihi librarius mittatur, maxime quidem Graecus ; multum enim mihi eripitur operae in exscribendis hypomnematis.  <reg>tu</reg> velim in primis cures ut valeas, ut una <foreign xml:lang="grc">συμφιλολογεῖν</foreign> possimus.  Anterum tibi commendo.
 </p>
                   </div>
                </div>
@@ -12361,13 +12361,13 @@ habueris scribes ad me, ut mihi nascatur epistulae argumentum et ut tuas quam lo
                   <div type="textpart" n="1" subtype="section">
                      <p>
                         <reg>tu</reg> vero confice professionem, si potes ; etsi haec pecunia ex eo genere est, ut professione non egeat. <reg>verum</reg> tamen-.
-Balbus ad me scripsit tanta se <foreign xml:lang="greek">ἐπιφορᾷ</foreign> oppressum, ut loqui non possit.  Antonius de lege quod egerit—liceat modo rusticari.  <reg>ad</reg> Bithynicum scripsi. </p>
+Balbus ad me scripsit tanta se <foreign xml:lang="grc">ἐπιφορᾷ</foreign> oppressum, ut loqui non possit.  Antonius de lege quod egerit—liceat modo rusticari.  <reg>ad</reg> Bithynicum scripsi. </p>
                   </div>
                   <div type="textpart" n="2" subtype="section">
                      <p>
                         <reg>de</reg> Servilio tu videris, 
-qui senectutem non contemnis.  <reg>etsi</reg> Atticus noster, quia quondam me commoveri <foreign xml:lang="greek">πανικοῖς </foreign> intellexit, idem semper putat nec videt quibus praesidiis philosophiae saeptus sim ; et hercle, quod timidus ipse est, <foreign xml:lang="greek">θορυβοποιεῖ</foreign>.  <reg>ego</reg> tamen Antoni inveteratam sine ulla offensione amicitiam retinere
-sane volo scribamque ad eum, sed non ante quam te videro.  <reg>nec</reg> tamen te avoco a syngrapha ; <foreign xml:lang="greek">γόνυ κνήμης</foreign>. <reg>cras</reg> exspecto Leptam et †n. ad cuius rutam puleio mihi tui sermonis utendum est.  <reg>vale</reg>.
+qui senectutem non contemnis.  <reg>etsi</reg> Atticus noster, quia quondam me commoveri <foreign xml:lang="grc">πανικοῖς </foreign> intellexit, idem semper putat nec videt quibus praesidiis philosophiae saeptus sim ; et hercle, quod timidus ipse est, <foreign xml:lang="grc">θορυβοποιεῖ</foreign>.  <reg>ego</reg> tamen Antoni inveteratam sine ulla offensione amicitiam retinere
+sane volo scribamque ad eum, sed non ante quam te videro.  <reg>nec</reg> tamen te avoco a syngrapha ; <foreign xml:lang="grc">γόνυ κνήμης</foreign>. <reg>cras</reg> exspecto Leptam et †n. ad cuius rutam puleio mihi tui sermonis utendum est.  <reg>vale</reg>.
 </p>
                   </div>
                </div>
