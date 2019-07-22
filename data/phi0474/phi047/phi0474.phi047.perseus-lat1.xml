@@ -170,7 +170,7 @@ exisse adpareat.</p>
             <div type="textpart" n="1" subtype="book">
                <head>Paradoxon I</head>
                <div type="textpart" n="6" subtype="section">
-                  <quote xml:lang="greek">o(/ti mo/non to\ kalo\n a)gaqo/n.</quote>
+                  <quote xml:lang="greek">ὅτι μόνον τὸ καλὸν ἀγαθόν.</quote>
                   <milestone unit="chapter" n="1"/>
                   <p>vereor ne cui vestrum ex Socraticorum  hominum
 disputationibus, non ex meo sensu deprompta haec videatur oratio; dicam quod sentio tamen et dicam brevius
@@ -289,7 +289,7 @@ vivere nisi honeste et recte vivere.</p>
                <head>Paradoxon II</head>
                <div type="textpart" n="16" subtype="section">
                   <milestone unit="chapter" n="1"/>
-                  <quote xml:lang="greek">o(/ti au)ta/rkhs h( a)reth\ pro\s eu)daimoni/an</quote>
+                  <quote xml:lang="greek">ὅτι αὐτάρκης ἡ ἀρετὴ πρὸς εὐδαιμονίαν</quote>
                   <quote rend="blockquote">
                      <del>In quo virtus sit, ei nihil deesse ad beate vivendum.</del>
                   </quote>
@@ -343,7 +343,7 @@ laudabile, idem et beatum et florens et expetendum videri decet.</p>
             <div type="textpart" n="3" subtype="book">
                <head>Paradoxon III</head>
                <div type="textpart" n="20" subtype="section">
-                  <quote rend="blockquote" xml:lang="greek">o(/ti i)/sa ta\ a(marth/mata kai\ ta\ katorqw/mata</quote>
+                  <quote rend="blockquote" xml:lang="greek">ὅτι ἴσα τὰ ἁμαρτήματα καὶ τὰ κατορθώματα</quote>
                   <milestone unit="chapter" n="1"/>
                   <p>
                      <quote>parva</quote> inquit <quote>est res.</quote> at magna culpa; nec enim
@@ -443,7 +443,7 @@ posse videatur.</p>
             <div type="textpart" n="4" subtype="book">
                <head>Paradoxon IV</head>
                <div type="textpart" n="27" subtype="section">
-                  <quote rend="blockquote" xml:lang="greek">o(/ti pa=s a)/frwn mai/netai</quote>
+                  <quote rend="blockquote" xml:lang="greek">ὅτι πᾶς ἄφρων μαίνεται</quote>
                   <quote rend="blockquote">
                      <del>Omnis stultos insanire.</del>
                   </quote>
@@ -531,7 +531,7 @@ oportebit.</p>
             <div type="textpart" n="5" subtype="book">
                <head>Paradoxon V</head>
                <div type="textpart" n="33" subtype="section">
-                  <quote rend="blockquote" xml:lang="greek">o(/ti mo/nos o( sofo\s e)leu/qeros kai\ pa=s a)/frwn dou=los</quote>
+                  <quote rend="blockquote" xml:lang="greek">ὅτι μόνος ὁ σοφὸς ἐλεύθερος καὶ πᾶς ἄφρων δοῦλος</quote>
                   <quote rend="blockquote">
                      <del>Omnis sapientis liberos esse et stultos omnis servos.</del>
                   </quote>
@@ -657,7 +657,7 @@ ipsa convincat.</p>
             <div type="textpart" n="6" subtype="book">
                <head>Paradoxon VI</head>
                <div type="textpart" n="42" subtype="section">
-                  <quote rend="blockquote" xml:lang="greek">o(/ti mo/nos o( sofo\s plou/sios</quote>
+                  <quote rend="blockquote" xml:lang="greek">ὅτι μόνος ὁ σοφὸς πλούσιος</quote>
                   <quote rend="blockquote">
                      <del>Quod solus sapiens dives.</del>
                   </quote>
