@@ -3,7 +3,7 @@
   <ti:title xml:lang="fre">Fastes</ti:title>
   <ti:title xml:lang="lat">Fasti</ti:title>
   <ti:edition projid="latinLit:perseus-lat2" urn="urn:cts:latinLit:phi0959.phi007.perseus-lat2" workUrn="urn:cts:latinLit:phi0959.phi007" xml:lang="lat">
-    <ti:label xml:lang="eng">Book of Days</ti:label>
+    <ti:label xml:lang="lat">Fasti</ti:label>
     <ti:description xml:lang="eng">Ovid, 43 B.C.-17 or 18 A.D, creator; Frazer, James George, Sir, 1854-1941, editor</ti:description>
   </ti:edition>
 </ti:work>
