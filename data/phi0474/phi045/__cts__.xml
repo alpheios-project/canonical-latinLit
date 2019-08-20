@@ -3,7 +3,7 @@
             <ti:title xml:lang="lat">Academica</ti:title>
             <ti:edition urn="urn:cts:latinLit:phi0474.phi045.perseus-lat1" workUrn="urn:cts:latinLit:phi0474.phi045">
               <ti:label xml:lang="lat">Academica</ti:label>
-              <ti:description xml:lang="eng">Academicorum reliquiae cum Lucullo. Cicero, Marcus Tullius, creator; Plasberg, Otto, 1869-1924, editor</ti:description>
+              <ti:description xml:lang="eng">Academicorum reliquiae cum Lucullo. (Book 1. Books 2 and 3 are currently pending editing of the digital edition.) Cicero, Marcus Tullius, creator; Plasberg, Otto, 1869-1924, editor</ti:description>
             </ti:edition>
     <cpt:structured-metadata>
         <dct:type xml:lang="lat">Philosophia</dct:type>

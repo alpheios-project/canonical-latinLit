@@ -42,7 +42,7 @@
       </fileDesc>
       <encodingDesc>
          <refsDecl n="CTS">
-            <cRefPattern n="section"
+            <cRefPattern n="chapter"
                          matchPattern="(\w+).(\w+)"
                          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
                <p>This pointer pattern extracts section</p>
@@ -2708,6 +2708,7 @@ maximeque ex Epicureo<note>Epicureo <foreign xml:lang="greek">μς</foreign> -ZZ
 </p>
                </div>
             </div>
+            <!--
             <div type="textpart" n="2" subtype="book">
                <head> LIBER SECUNDUS</head>
                <quote rend="blockquote">atqui si id crederemus, non egeremus<note>non eg. om. L</note> perpendiculis
@@ -2899,6 +2900,7 @@ loco Lucullo subscribentur.</del>
                   </hi>
                </quote>
             </div>
+            -->
          </div>
       </body>
       <!--
